@@ -335,6 +335,9 @@ def export_reports():
         trades = conn.execute(
             "SELECT entry_timestamp, ticker, signal, entry_price, exit_price, pnl_pct, outcome FROM paper_trades ORDER BY entry_timestamp DESC"
         ).fetchall()
+        scores = conn.execute(
+            "SELECT run_timestamp, ticker, score, summary FROM sentiment_scores ORDER BY run_timestamp DESC LIMIT 100"
+        ).fetchall()
 
     with open(REPORTS_DIR / "daily_digest.csv", "w", newline="") as f:
         w = csv.writer(f)
@@ -345,6 +348,11 @@ def export_reports():
         w = csv.writer(f)
         w.writerow(["entry_timestamp", "ticker", "signal", "entry_price", "exit_price", "pnl_pct", "outcome"])
         w.writerows(trades)
+
+    with open(REPORTS_DIR / "scores.csv", "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["run_timestamp", "ticker", "score", "summary"])
+        w.writerows(scores)
 
     # Print expectancy summary
     closed = [(t[5], t[6]) for t in trades if t[6] != "OPEN"]
@@ -427,4 +435,5 @@ def run_score_only():
             print(f"  [{ticker}] Score: {score:+.2f} | {summary}")
         except Exception as e:
             print(f"  [{ticker}] ERROR: {e}")
+    export_reports()
     print("=== Done ===\n")
