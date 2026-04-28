@@ -3,6 +3,8 @@ import json
 import sqlite3
 import datetime
 import csv
+import urllib.request
+import urllib.parse
 from pathlib import Path
 
 import yfinance as yf
@@ -12,6 +14,24 @@ from dotenv import load_dotenv
 import config
 
 load_dotenv()
+
+
+def send_telegram(message: str) -> None:
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        return
+    try:
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
+        data = urllib.parse.urlencode({
+            "chat_id": chat_id,
+            "text": message,
+            "parse_mode": "HTML",
+        }).encode()
+        urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=10)
+    except Exception as e:
+        print(f"  [Telegram] Notification failed: {e}")
+
 
 DB_PATH = "sentiment.db"
 REPORTS_DIR = Path("reports")
@@ -175,7 +195,13 @@ def score_sentiment(ticker, headlines):
         messages=[{"role": "user", "content": prompt}]
     )
 
-    result = json.loads(message.content[0].text.strip())
+    raw = message.content[0].text.strip()
+    if raw.startswith("```"):
+        raw = raw.split("```", 2)[1]
+        if raw.startswith("json"):
+            raw = raw[4:]
+        raw = raw.strip()
+    result = json.loads(raw)
     return float(result["score"]), result["summary"]
 
 
@@ -321,6 +347,11 @@ def close_expired_paper_trades():
                 (exit_price, pnl_pct, outcome, trade_id)
             )
         print(f"  Closed [{ticker}] {signal} — {outcome} ({pnl_pct:+.1f}%)")
+        send_telegram(
+            f"📋 <b>Trade Closed: {signal} {ticker}</b>\n"
+            f"{'WIN' if outcome == 'WIN' else 'LOSS'} {pnl_pct:+.1f}% | "
+            f"Entry ${entry_price:.2f} → Exit ${exit_price:.2f}"
+        )
 
 
 # ── REPORTS ───────────────────────────────────────────────────────────────────
@@ -373,7 +404,7 @@ def export_reports():
     else:
         print("  No closed paper trades yet.")
 
-    print(f"  Reports written → {REPORTS_DIR}/")
+    print(f"  Reports written -> {REPORTS_DIR}/")
 
 
 # ── MAIN PIPELINE ─────────────────────────────────────────────────────────────
@@ -389,6 +420,8 @@ def run_pipeline():
     close_expired_paper_trades()
 
     print("\n[3] Scoring sentiment...")
+    score_lines = []
+    signal_count = 0
     for ticker in config.WATCHLIST:
         try:
             headlines = fetch_headlines(ticker)
@@ -399,6 +432,14 @@ def run_pipeline():
             print(f"  [{ticker}] {len(headlines)} headlines → scoring...")
             score, summary = score_sentiment(ticker, headlines)
             store_score(run_ts, ticker, score, summary)
+            prev = get_previous_score(ticker, run_ts)
+            if prev is None:
+                delta_str = "new"
+            else:
+                delta = score - prev
+                arrow = "▲" if delta > 0.01 else ("▼" if delta < -0.01 else "=")
+                delta_str = f"{arrow}{delta:+.2f}"
+            score_lines.append(f"{ticker}: {score:+.2f} ({delta_str}) | {summary}")
             print(f"  [{ticker}] Score: {score:+.2f} | {summary}")
 
             signal, confidence, reason = generate_signal(ticker, score, run_ts)
@@ -407,15 +448,33 @@ def run_pipeline():
                 entry_price = get_latest_close(ticker)
                 if entry_price:
                     open_paper_trade(run_ts, ticker, signal, entry_price)
+                signal_count += 1
+                send_telegram(
+                    f"🚨 <b>SIGNAL: {signal} {ticker}</b> ({confidence})\n"
+                    f"Score: {score:+.2f}\n"
+                    f"Reason: {reason}"
+                    + (f"\nEntry: ${entry_price:.2f}" if entry_price else "")
+                )
                 print(f"  [{ticker}] *** {signal} ({confidence}) — {reason}")
             else:
                 print(f"  [{ticker}] HOLD")
 
         except Exception as e:
             print(f"  [{ticker}] ERROR: {e}")
+            send_telegram(f"❌ <b>Pipeline ERROR</b> — {run_ts[:16]} UTC\nTicker: {ticker}\n{e}")
 
     print("\n[4] Exporting reports...")
     export_reports()
+
+    with get_conn() as conn:
+        open_count = conn.execute(
+            "SELECT COUNT(*) FROM paper_trades WHERE outcome='OPEN'"
+        ).fetchone()[0]
+    send_telegram(
+        f"📊 <b>Pipeline Run</b> — {run_ts[:16]} UTC\n"
+        + ("\n".join(score_lines) if score_lines else "No scores recorded.")
+        + f"\n\nSignals: {signal_count} | Open trades: {open_count}"
+    )
 
     print(f"\n=== Done ===\n")
 
@@ -424,6 +483,7 @@ def run_score_only():
     run_ts = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S")
     print(f"\n=== Score-only run: {run_ts} UTC ===")
     fetch_prices(period="1d")
+    score_lines = []
     for ticker in config.WATCHLIST:
         try:
             headlines = fetch_headlines(ticker)
@@ -432,8 +492,21 @@ def run_score_only():
                 continue
             score, summary = score_sentiment(ticker, headlines)
             store_score(run_ts, ticker, score, summary)
+            prev = get_previous_score(ticker, run_ts)
+            if prev is None:
+                delta_str = "new"
+            else:
+                delta = score - prev
+                arrow = "▲" if delta > 0.01 else ("▼" if delta < -0.01 else "=")
+                delta_str = f"{arrow}{delta:+.2f}"
+            score_lines.append(f"{ticker}: {score:+.2f} ({delta_str}) | {summary}")
             print(f"  [{ticker}] Score: {score:+.2f} | {summary}")
         except Exception as e:
             print(f"  [{ticker}] ERROR: {e}")
+            send_telegram(f"❌ <b>Score-only ERROR</b> — {run_ts[:16]} UTC\nTicker: {ticker}\n{e}")
     export_reports()
+    send_telegram(
+        f"📈 <b>Scores</b> — {run_ts[:16]} UTC\n"
+        + ("\n".join(score_lines) if score_lines else "No scores recorded.")
+    )
     print("=== Done ===\n")
