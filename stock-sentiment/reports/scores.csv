@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-04-28T17:49:11,AAPL,0.6,"Earnings beat expected, iPhone demand strong, analyst upgrades ahead of print."
+2026-04-28T17:49:11,NVDA,-0.6,"OpenAI missed sales targets, sparking AI spending sustainability concerns."
+2026-04-28T17:49:11,TSLA,0.3,AI infrastructure opportunity offset by safety investigation and valuation concerns.
+2026-04-28T17:49:11,MSFT,-0.3,Lost OpenAI exclusivity; sector concerns on missed AI targets.
+2026-04-28T17:49:11,AMZN,0.3,AWS reacceleration and AI capex investment offset logistics partnership headwinds.
 2026-04-28T14:34:07,AAPL,0.6,UBS raises price target on iPhone share gains ahead of earnings.
 2026-04-28T14:34:07,NVDA,-0.6,OpenAI spending concerns weigh on AI chip demand outlook.
 2026-04-28T14:34:07,TSLA,0.1,Analyst upside offset by autonomy execution risk and regulatory scrutiny.
