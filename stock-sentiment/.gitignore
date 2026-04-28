@@ -1,0 +1,7 @@
+.env
+*.db
+# track the pipeline DB in git
+!sentiment.db
+__pycache__/
+*.pyc
+reports/
