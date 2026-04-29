@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-04-29T20:59:29,AAPL,0.6,"Strong Services growth, iPhone 17 momentum, AI camera integration in iOS 27."
+2026-04-29T20:59:29,NVDA,0.6,"BofA reiterates Buy, $300 target; AI infrastructure build-out tailwinds."
+2026-04-29T20:59:29,TSLA,-0.2,Musk litigation distraction; Model Y launch fails to lift shares.
+2026-04-29T20:59:29,MSFT,0.7,"Microsoft Q3 earnings beat, AI business up 123%, Azure revenue grew 40%."
+2026-04-29T20:59:29,AMZN,0.8,"Q1 earnings beat, AWS growth accelerates to 15-quarter high."
 2026-04-29T17:41:32,AAPL,0.2,AI feature rollout in iOS 27 offset by earnings pressure uncertainty.
 2026-04-29T17:41:32,NVDA,-0.3,"OpenAI missed internal targets, pressuring AI chip demand outlook."
 2026-04-29T17:41:32,TSLA,0.3,Optimus robot potential offset by stock weakness and mixed signals.
