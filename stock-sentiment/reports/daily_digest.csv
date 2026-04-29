@@ -1,1 +1,4 @@
 timestamp,ticker,signal,confidence,reason
+2026-04-29T14:22:59,NVDA,SELL,Medium,"Sustained negative for 3 runs (scores: ['-0.70', '-0.60', '-0.60'])"
+2026-04-29T14:22:59,TSLA,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.60)"
+2026-04-29T14:22:59,AMZN,SELL,High,Score drop -0.60 with price +1.4%
