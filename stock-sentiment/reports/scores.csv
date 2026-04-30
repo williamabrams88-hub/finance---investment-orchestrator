@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-04-30T14:17:04,AAPL,0.3,Apple earnings reported amid CEO transition; market focus on AI strategy.
+2026-04-30T14:17:04,NVDA,0.6,AI data center spending surge to $800B supports GPU demand growth.
+2026-04-30T14:17:04,TSLA,0.4,Tesla Semi mass production milestone achieved at Nevada facility.
+2026-04-30T14:17:04,MSFT,0.7,Earnings beat with 123% AI growth; $200B capex signals confidence.
+2026-04-30T14:17:04,AMZN,0.7,"Amazon Q1 earnings beat, AWS cloud and AI demand exceed expectations."
 2026-04-29T20:59:29,AAPL,0.6,"Strong Services growth, iPhone 17 momentum, AI camera integration in iOS 27."
 2026-04-29T20:59:29,NVDA,0.6,"BofA reiterates Buy, $300 target; AI infrastructure build-out tailwinds."
 2026-04-29T20:59:29,TSLA,-0.2,Musk litigation distraction; Model Y launch fails to lift shares.
