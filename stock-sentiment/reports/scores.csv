@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-04-30T17:24:35,AAPL,0.0,CEO transition to Ternus; earnings report with guidance focus expected.
+2026-04-30T17:24:35,NVDA,-0.7,"Rising competition from Google, Amazon custom chips threatens dominance."
+2026-04-30T17:24:35,TSLA,0.3,Tesla Semi reaches high-volume production milestone; modest positive catalyst.
+2026-04-30T17:24:35,MSFT,0.8,"Earnings beat, AI business up 123% YoY, Azure growth strong."
+2026-04-30T17:24:35,AMZN,0.9,"Q1 earnings beat, AWS growth acceleration, 14 analyst price target hikes."
 2026-04-30T14:17:04,AAPL,0.3,Apple earnings reported amid CEO transition; market focus on AI strategy.
 2026-04-30T14:17:04,NVDA,0.6,AI data center spending surge to $800B supports GPU demand growth.
 2026-04-30T14:17:04,TSLA,0.4,Tesla Semi mass production milestone achieved at Nevada facility.
