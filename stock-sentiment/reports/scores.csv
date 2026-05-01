@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-01T13:44:57,AAPL,0.9,Earnings beat on revenue and EPS; iPhone sales surge to record $57B.
+2026-05-01T13:44:57,NVDA,-0.4,"Stock falls on rising AI chip competition from Google, Amazon."
+2026-05-01T13:44:57,TSLA,0.3,European sales rebound offsets compensation concerns and flat stock performance.
+2026-05-01T13:44:57,MSFT,0.2,Mixed earnings results; AI infrastructure spending concerns offset by backlog strength.
+2026-05-01T13:44:57,AMZN,0.6,"Q1 revenue beat, AWS 15-quarter growth high, strong outlook."
 2026-04-30T20:55:58,AAPL,0.8,Earnings beat on strong iPhone and China sales despite CEO transition.
 2026-04-30T20:55:58,NVDA,-0.3,Stock falls post-earnings; Google TPU competition emerges.
 2026-04-30T20:55:58,TSLA,0.6,"Tesla Semi mass production milestone achieved, strong positive catalyst."
