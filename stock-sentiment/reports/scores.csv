@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-03T16:54:59,AAPL,0.8,"Strong Q1 earnings beat, analyst upgrade, AI infrastructure positioning."
+2026-05-03T16:54:59,NVDA,0.4,Jensen Huang announces major strategic move amid competitive pressure.
+2026-05-03T16:54:59,TSLA,0.3,"Tesla Semi mass production, robotaxi expansion, Terafab progress offset governance concerns."
+2026-05-03T16:54:59,MSFT,-0.3,Earnings disappointment offset by major Copilot enterprise win with Accenture.
+2026-05-03T16:54:59,AMZN,0.3,Strong Q1 earnings and AWS growth offset by marketplace safety lawsuit concerns.
 2026-05-03T13:39:33,AAPL,0.7,"Strong Q1 earnings beat, analyst upgrade, blockbuster iPhone sales."
 2026-05-03T13:39:33,NVDA,0.0,AI boom continues but winners/losers diverging; NVDA not specifically mentioned.
 2026-05-03T13:39:33,TSLA,-0.3,Governance concerns from related-party deals offset robotaxi expansion progress.
