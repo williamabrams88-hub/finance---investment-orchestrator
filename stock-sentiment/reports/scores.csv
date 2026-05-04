@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-04T21:04:22,AAPL,0.6,Morgan Stanley raises price target after earnings beat; new iOS features planned.
+2026-05-04T21:04:22,NVDA,-0.7,CEO confirms zero China market share; major geopolitical revenue loss.
+2026-05-04T21:04:22,TSLA,0.6,Tesla Semi high-volume production launch and Terafab semiconductor foundry.
+2026-05-04T21:04:22,MSFT,0.6,"Q3 earnings beat, Azure growth rebounds, analyst price target raised."
+2026-05-04T21:04:22,AMZN,0.6,"Supply chain services launch, analyst upgrade to $300 target price."
 2026-05-04T17:43:15,AAPL,0.7,"Strong earnings beat, Morgan Stanley upgrade, 22% upside target."
 2026-05-04T17:43:15,NVDA,-0.7,CEO confirms zero China market share; major revenue loss and geopolitical headwind.
 2026-05-04T17:43:15,TSLA,-0.3,"FSD concerns, Chinese EV competition, stock underperformance weigh sentiment."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-04-28T17:49:11,TSLA,0.3,AI infrastructure opportunity offset by safety investigation and valuation concerns.
 2026-04-28T17:49:11,MSFT,-0.3,Lost OpenAI exclusivity; sector concerns on missed AI targets.
 2026-04-28T17:49:11,AMZN,0.3,AWS reacceleration and AI capex investment offset logistics partnership headwinds.
-2026-04-28T14:34:07,AAPL,0.6,UBS raises price target on iPhone share gains ahead of earnings.
-2026-04-28T14:34:07,NVDA,-0.6,OpenAI spending concerns weigh on AI chip demand outlook.
-2026-04-28T14:34:07,TSLA,0.1,Analyst upside offset by autonomy execution risk and regulatory scrutiny.
-2026-04-28T14:34:07,MSFT,0.2,Earnings report imminent; AI spending concerns offset bullish setup.
-2026-04-28T14:34:07,AMZN,0.2,"Q1 earnings week with AI spending focus, offset by OpenAI miss concerns."
