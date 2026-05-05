@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-05T20:58:23,AAPL,-0.3,Settlement cost offset by strong chip supplier demand signals.
+2026-05-05T20:58:23,NVDA,-0.3,"AMD beats earnings and raises guidance, intensifying competition."
+2026-05-05T20:58:23,TSLA,0.6,Robotaxi progress in Austin; FSD European regulatory momentum building.
+2026-05-05T20:58:23,MSFT,0.2,Earnings beat offset by stock underperformance; AI infrastructure expansion positive.
+2026-05-05T20:58:23,AMZN,0.3,AWS logistics network expansion to third-party businesses drives competitive advantage.
 2026-05-05T17:27:37,AAPL,0.3,"Strong iPhone sales, AI spending validated, potential Intel chip partnership."
 2026-05-05T17:27:37,NVDA,0.3,Nvidia-ServiceNow AI partnership; mixed sentiment from competitor strength.
 2026-05-05T17:27:37,TSLA,0.3,FSD European approval progress; offset by missed autonomy deadline and competitive pressures.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-04-29T14:22:59,TSLA,0.6,Optimus robot positioned as biggest product ever; autonomous driving expansion
 2026-04-29T14:22:59,MSFT,0.3,Earnings report Wednesday; Azure growth and OpenAI deal in focus.
 2026-04-29T14:22:59,AMZN,0.0,Amazon earnings imminent; Fed decision and macro uncertainty create mixed signals.
-2026-04-28T21:04:23,AAPL,0.6,UBS sees earnings beat and stronger guidance; AI-driven growth outlook positive.
-2026-04-28T21:04:23,NVDA,-0.6,"OpenAI missed revenue and user targets, sparking AI stock selloff."
-2026-04-28T21:04:23,TSLA,-0.6,FSD admission undermines 80-90% of Tesla valuation; analyst downgrade.
-2026-04-28T21:04:23,MSFT,0.1,Earnings report pending; AI growth prospects offset sector headwinds.
-2026-04-28T21:04:23,AMZN,0.6,AWS AI expansion and OpenAI partnership drive positive momentum.
