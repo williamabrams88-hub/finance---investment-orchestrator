@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-05T17:27:37,AAPL,0.3,"Strong iPhone sales, AI spending validated, potential Intel chip partnership."
+2026-05-05T17:27:37,NVDA,0.3,Nvidia-ServiceNow AI partnership; mixed sentiment from competitor strength.
+2026-05-05T17:27:37,TSLA,0.3,FSD European approval progress; offset by missed autonomy deadline and competitive pressures.
+2026-05-05T17:27:37,MSFT,-0.3,Microsoft faces AI spending pressure while competitors gain momentum.
+2026-05-05T17:27:37,AMZN,0.2,AI spending justified by earnings; FCF collapse offset by business expansion.
 2026-05-04T21:04:22,AAPL,0.6,Morgan Stanley raises price target after earnings beat; new iOS features planned.
 2026-05-04T21:04:22,NVDA,-0.7,CEO confirms zero China market share; major geopolitical revenue loss.
 2026-05-04T21:04:22,TSLA,0.6,Tesla Semi high-volume production launch and Terafab semiconductor foundry.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-04-28T21:04:23,TSLA,-0.6,FSD admission undermines 80-90% of Tesla valuation; analyst downgrade.
 2026-04-28T21:04:23,MSFT,0.1,Earnings report pending; AI growth prospects offset sector headwinds.
 2026-04-28T21:04:23,AMZN,0.6,AWS AI expansion and OpenAI partnership drive positive momentum.
-2026-04-28T17:49:11,AAPL,0.6,"Earnings beat expected, iPhone demand strong, analyst upgrades ahead of print."
-2026-04-28T17:49:11,NVDA,-0.6,"OpenAI missed sales targets, sparking AI spending sustainability concerns."
-2026-04-28T17:49:11,TSLA,0.3,AI infrastructure opportunity offset by safety investigation and valuation concerns.
-2026-04-28T17:49:11,MSFT,-0.3,Lost OpenAI exclusivity; sector concerns on missed AI targets.
-2026-04-28T17:49:11,AMZN,0.3,AWS reacceleration and AI capex investment offset logistics partnership headwinds.
