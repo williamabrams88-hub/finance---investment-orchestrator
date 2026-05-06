@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-06T17:43:30,AAPL,-0.6,Supreme Court rejects Apple's contempt pause; settlement costs mount.
+2026-05-06T17:43:30,NVDA,0.6,Major $500M Corning deal signals strong AI infrastructure demand.
+2026-05-06T17:43:30,TSLA,0.3,Robotaxi progress in Austin offset by Optimus delays and capex concerns.
+2026-05-06T17:43:30,MSFT,-0.3,Broad software sell-off; AI labor displacement concerns emerge.
+2026-05-06T17:43:30,AMZN,0.7,CEO's $200B AI infrastructure bet signals strong growth confidence.
 2026-05-06T14:34:31,AAPL,-0.3,Epic Games contempt ruling upheld; Siri settlement costs $250M.
 2026-05-06T14:34:31,NVDA,-0.3,AMD earnings beat signals intensifying competition in AI chips.
 2026-05-06T14:34:31,TSLA,0.3,Robotaxi progress offset by vehicle recall and chip factory uncertainty.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-04-29T20:59:29,TSLA,-0.2,Musk litigation distraction; Model Y launch fails to lift shares.
 2026-04-29T20:59:29,MSFT,0.7,"Microsoft Q3 earnings beat, AI business up 123%, Azure revenue grew 40%."
 2026-04-29T20:59:29,AMZN,0.8,"Q1 earnings beat, AWS growth accelerates to 15-quarter high."
-2026-04-29T17:41:32,AAPL,0.2,AI feature rollout in iOS 27 offset by earnings pressure uncertainty.
-2026-04-29T17:41:32,NVDA,-0.3,"OpenAI missed internal targets, pressuring AI chip demand outlook."
-2026-04-29T17:41:32,TSLA,0.3,Optimus robot potential offset by stock weakness and mixed signals.
-2026-04-29T17:41:32,MSFT,0.3,MSFT earnings report imminent; market-moving tech results expected Wednesday.
-2026-04-29T17:41:32,AMZN,0.2,AMZN earnings imminent; market awaits results amid tech sector pressure.
