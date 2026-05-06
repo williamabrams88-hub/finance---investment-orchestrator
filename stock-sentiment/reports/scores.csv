@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-06T21:07:49,AAPL,0.6,"Record stock high, strong Q2 earnings, $100B buyback, AI positioning leadership."
+2026-05-06T21:07:49,NVDA,0.6,NVDA inks $500M AI infrastructure deal with Corning partnership.
+2026-05-06T21:07:49,TSLA,0.1,Robotaxi expansion offset by safety concerns and insider selling.
+2026-05-06T21:07:49,MSFT,0.3,Strong Q3 earnings beat; analyst price target cut despite results.
+2026-05-06T21:07:49,AMZN,0.7,"Strong Q1 earnings, $200B AI investment bet, analyst price target raise."
 2026-05-06T17:43:30,AAPL,-0.6,Supreme Court rejects Apple's contempt pause; settlement costs mount.
 2026-05-06T17:43:30,NVDA,0.6,Major $500M Corning deal signals strong AI infrastructure demand.
 2026-05-06T17:43:30,TSLA,0.3,Robotaxi progress in Austin offset by Optimus delays and capex concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-04-30T14:17:04,TSLA,0.4,Tesla Semi mass production milestone achieved at Nevada facility.
 2026-04-30T14:17:04,MSFT,0.7,Earnings beat with 123% AI growth; $200B capex signals confidence.
 2026-04-30T14:17:04,AMZN,0.7,"Amazon Q1 earnings beat, AWS cloud and AI demand exceed expectations."
-2026-04-29T20:59:29,AAPL,0.6,"Strong Services growth, iPhone 17 momentum, AI camera integration in iOS 27."
-2026-04-29T20:59:29,NVDA,0.6,"BofA reiterates Buy, $300 target; AI infrastructure build-out tailwinds."
-2026-04-29T20:59:29,TSLA,-0.2,Musk litigation distraction; Model Y launch fails to lift shares.
-2026-04-29T20:59:29,MSFT,0.7,"Microsoft Q3 earnings beat, AI business up 123%, Azure revenue grew 40%."
-2026-04-29T20:59:29,AMZN,0.8,"Q1 earnings beat, AWS growth accelerates to 15-quarter high."
