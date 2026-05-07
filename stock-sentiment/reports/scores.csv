@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-07T14:37:28,AAPL,0.3,MacBook Neo driving sales; settlement offset by modest positive catalysts.
+2026-05-07T14:37:28,NVDA,0.3,"Semiconductor sector strength; AMD beats, chip stocks surge 60% YTD."
+2026-05-07T14:37:28,TSLA,0.6,"China sales surge 36% YoY, stock breaks $400 with technical breakout."
+2026-05-07T14:37:28,MSFT,-0.3,Heavy AI spending pressures margins; Copilot Xbox strategy scaled back.
+2026-05-07T14:37:28,AMZN,0.2,Pharmacy expansion and logistics monetization offset Fresh grocery pullback.
 2026-05-06T21:07:49,AAPL,0.6,"Record stock high, strong Q2 earnings, $100B buyback, AI positioning leadership."
 2026-05-06T21:07:49,NVDA,0.6,NVDA inks $500M AI infrastructure deal with Corning partnership.
 2026-05-06T21:07:49,TSLA,0.1,Robotaxi expansion offset by safety concerns and insider selling.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-04-30T17:24:35,TSLA,0.3,Tesla Semi reaches high-volume production milestone; modest positive catalyst.
 2026-04-30T17:24:35,MSFT,0.8,"Earnings beat, AI business up 123% YoY, Azure growth strong."
 2026-04-30T17:24:35,AMZN,0.9,"Q1 earnings beat, AWS growth acceleration, 14 analyst price target hikes."
-2026-04-30T14:17:04,AAPL,0.3,Apple earnings reported amid CEO transition; market focus on AI strategy.
-2026-04-30T14:17:04,NVDA,0.6,AI data center spending surge to $800B supports GPU demand growth.
-2026-04-30T14:17:04,TSLA,0.4,Tesla Semi mass production milestone achieved at Nevada facility.
-2026-04-30T14:17:04,MSFT,0.7,Earnings beat with 123% AI growth; $200B capex signals confidence.
-2026-04-30T14:17:04,AMZN,0.7,"Amazon Q1 earnings beat, AWS cloud and AI demand exceed expectations."
