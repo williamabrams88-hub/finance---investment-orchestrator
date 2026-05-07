@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-07T17:49:50,AAPL,0.6,"Record highs, best March quarter, strong Magnificent 7 momentum."
+2026-05-07T17:49:50,NVDA,0.3,New residential AI data center partnership with Span and PulteGroup.
+2026-05-07T17:49:50,TSLA,0.6,"Strong China sales surge, major Semi order, Terafab chip facility announced."
+2026-05-07T17:49:50,MSFT,0.2,Mixed signals: analyst downgrade offset by strong execution and AI infrastructure demand.
+2026-05-07T17:49:50,AMZN,0.6,"AWS 28% growth, analyst price target raise to $280, AI momentum."
 2026-05-07T14:37:28,AAPL,0.3,MacBook Neo driving sales; settlement offset by modest positive catalysts.
 2026-05-07T14:37:28,NVDA,0.3,"Semiconductor sector strength; AMD beats, chip stocks surge 60% YTD."
 2026-05-07T14:37:28,TSLA,0.6,"China sales surge 36% YoY, stock breaks $400 with technical breakout."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-04-30T20:55:58,TSLA,0.6,"Tesla Semi mass production milestone achieved, strong positive catalyst."
 2026-04-30T20:55:58,MSFT,0.6,"Q3 earnings beat, AI business surged 123% YoY, $200B AI investment planned."
 2026-04-30T20:55:58,AMZN,0.8,"Q1 earnings beat, AWS growth high, AI chip demand strong."
-2026-04-30T17:24:35,AAPL,0.0,CEO transition to Ternus; earnings report with guidance focus expected.
-2026-04-30T17:24:35,NVDA,-0.7,"Rising competition from Google, Amazon custom chips threatens dominance."
-2026-04-30T17:24:35,TSLA,0.3,Tesla Semi reaches high-volume production milestone; modest positive catalyst.
-2026-04-30T17:24:35,MSFT,0.8,"Earnings beat, AI business up 123% YoY, Azure growth strong."
-2026-04-30T17:24:35,AMZN,0.9,"Q1 earnings beat, AWS growth acceleration, 14 analyst price target hikes."
