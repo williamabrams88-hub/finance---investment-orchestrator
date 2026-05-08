@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-08T20:55:20,AAPL,0.6,"Apple-Intel preliminary chip deal, strong tech rally, WWDC catalyst ahead."
+2026-05-08T20:55:20,NVDA,0.3,Stock hits highs on AI optimism; earnings report upcoming.
+2026-05-08T20:55:20,TSLA,0.2,Broad tech sector strength; EV adoption headwinds offset by sector momentum.
+2026-05-08T20:55:20,MSFT,-0.3,Major hedge fund exits $8B stake citing AI competition concerns.
+2026-05-08T20:55:20,AMZN,0.2,AI investment spending boosts cloud revenue; Goldman Sachs flags earnings quality concerns.
 2026-05-08T17:21:28,AAPL,0.7,Intel chip deal and AI inflection point drive analyst upgrades.
 2026-05-08T17:21:28,NVDA,0.6,"Bitcoin miner IREN secures $3.4B Nvidia AI deal, expanding compute capacity."
 2026-05-08T17:21:28,TSLA,0.6,Record $100M Semi truck deal; robotaxi demand optimism from Wood.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-02T13:38:30,TSLA,0.4,Semi production ramp and $500M revenue from Musk ventures offset soft earnings.
 2026-05-02T13:38:30,MSFT,-0.3,Strong earnings overshadowed by massive AI spending concerns.
 2026-05-02T13:38:30,AMZN,0.6,"AWS accelerated growth, AI leadership proven, strong earnings performance."
-2026-05-01T20:45:42,AAPL,0.6,Earnings beat with strong iPhone demand; CEO transition well-managed.
-2026-05-01T20:45:42,NVDA,0.2,Pentagon AI contracts offset by rising chip competition concerns.
-2026-05-01T20:45:42,TSLA,0.6,Semi production ramp and $573M revenue from Musk-linked companies.
-2026-05-01T20:45:42,MSFT,-0.3,AI competition intensifies; high capex spending concerns offset Pentagon contract win.
-2026-05-01T20:45:42,AMZN,0.6,Strong AI infrastructure demand; $364B backlog supports spending boom.
