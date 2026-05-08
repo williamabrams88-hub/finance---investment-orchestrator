@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-08T17:21:28,AAPL,0.7,Intel chip deal and AI inflection point drive analyst upgrades.
+2026-05-08T17:21:28,NVDA,0.6,"Bitcoin miner IREN secures $3.4B Nvidia AI deal, expanding compute capacity."
+2026-05-08T17:21:28,TSLA,0.6,Record $100M Semi truck deal; robotaxi demand optimism from Wood.
+2026-05-08T17:21:28,MSFT,0.2,AI ecosystem traction gains offset by software competitiveness concerns.
+2026-05-08T17:21:28,AMZN,-0.3,AWS outage disrupted services; offset by new supply chain opportunity.
 2026-05-08T14:07:46,AAPL,0.3,Wedbush raises target to $400 on AI optimism; mixed macro backdrop.
 2026-05-08T14:07:46,NVDA,-0.3,Chip smuggling scandal and broader AI sector pullback concerns.
 2026-05-08T14:07:46,TSLA,0.6,"Robotaxi demand strength, Mag 7 rally, broader EV adoption momentum."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-01T20:45:42,TSLA,0.6,Semi production ramp and $573M revenue from Musk-linked companies.
 2026-05-01T20:45:42,MSFT,-0.3,AI competition intensifies; high capex spending concerns offset Pentagon contract win.
 2026-05-01T20:45:42,AMZN,0.6,Strong AI infrastructure demand; $364B backlog supports spending boom.
-2026-05-01T17:00:02,AAPL,0.6,"Q2 earnings beat, iPhone supercycle momentum, analyst upgrades."
-2026-05-01T17:00:02,NVDA,-0.4,"Stock falls on rising AI chip competition from Google, Amazon."
-2026-05-01T17:00:02,TSLA,0.3,Musk compensation package approved; Semi production and SpaceX sales ongoing.
-2026-05-01T17:00:02,MSFT,0.2,Mixed signals: AI spending strength offset by underwhelming earnings guidance.
-2026-05-01T17:00:02,AMZN,0.7,Raymond James raises price target to $280 on AWS AI partnerships strength.
