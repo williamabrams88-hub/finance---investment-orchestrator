@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-09T16:58:42,AAPL,0.6,Apple chip deal with Intel and rare earth magnet partnership with MP Materials.
+2026-05-09T16:58:42,NVDA,0.6,Corning partnership expands optical connectivity; Goldman resets forecast ahead of earnings.
+2026-05-09T16:58:42,TSLA,-0.3,Vehicle recall safety issue offsets record Semi truck order.
+2026-05-09T16:58:42,MSFT,0.6,"AI infrastructure investments, safety leadership, GitHub acquisition success."
+2026-05-09T16:58:42,AMZN,0.3,Amazon Business launches same-day grocery delivery nationwide expansion.
 2026-05-09T13:43:07,AAPL,0.6,Intel chip deal and rare earth magnet partnership strengthen supply chain.
 2026-05-09T13:43:07,NVDA,0.2,AI demand outlook mixed; CoreWeave miss offsets positive semiconductor momentum.
 2026-05-09T13:43:07,TSLA,0.2,Record Semi truck order offset by vehicle recall and SEC settlement rejection.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-02T20:36:54,TSLA,0.4,Tesla Semi production ramp and SpaceX/xAI sales boost offset soft earnings.
 2026-05-02T20:36:54,MSFT,-0.3,AI spending concerns offset strong earnings; analyst targets trimmed.
 2026-05-02T20:36:54,AMZN,0.6,"AWS accelerated growth, strategic partnerships, billionaire backing signal momentum."
-2026-05-02T16:52:44,AAPL,0.7,"Strong Q2 earnings beat, record stock close, positive analyst sentiment."
-2026-05-02T16:52:44,NVDA,0.6,AI demand permanently rewires semiconductor pricing cycle upward.
-2026-05-02T16:52:44,TSLA,0.4,Tesla Semi production ramp and $573M SpaceX/xAI sales boost sentiment.
-2026-05-02T16:52:44,MSFT,-0.3,Strong earnings overshadowed by massive AI spending concerns.
-2026-05-02T16:52:44,AMZN,0.3,AWS accelerated growth and AI progress offset mixed earnings sentiment.
