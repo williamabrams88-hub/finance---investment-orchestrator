@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-09T13:43:07,AAPL,0.6,Intel chip deal and rare earth magnet partnership strengthen supply chain.
+2026-05-09T13:43:07,NVDA,0.2,AI demand outlook mixed; CoreWeave miss offsets positive semiconductor momentum.
+2026-05-09T13:43:07,TSLA,0.2,Record Semi truck order offset by vehicle recall and SEC settlement rejection.
+2026-05-09T13:43:07,MSFT,0.6,GitHub acquisition praised as best tech deal; AI coding platform dominance.
+2026-05-09T13:43:07,AMZN,0.3,Solid earnings reported; AI hyperscaler momentum with competitive positioning.
 2026-05-08T20:55:20,AAPL,0.6,"Apple-Intel preliminary chip deal, strong tech rally, WWDC catalyst ahead."
 2026-05-08T20:55:20,NVDA,0.3,Stock hits highs on AI optimism; earnings report upcoming.
 2026-05-08T20:55:20,TSLA,0.2,Broad tech sector strength; EV adoption headwinds offset by sector momentum.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-02T16:52:44,TSLA,0.4,Tesla Semi production ramp and $573M SpaceX/xAI sales boost sentiment.
 2026-05-02T16:52:44,MSFT,-0.3,Strong earnings overshadowed by massive AI spending concerns.
 2026-05-02T16:52:44,AMZN,0.3,AWS accelerated growth and AI progress offset mixed earnings sentiment.
-2026-05-02T13:38:30,AAPL,0.8,"Record Q2 earnings, strong guidance, $100B buyback announced."
-2026-05-02T13:38:30,NVDA,0.6,Quantum-AI models breakthrough; market underpricing innovation step-change.
-2026-05-02T13:38:30,TSLA,0.4,Semi production ramp and $500M revenue from Musk ventures offset soft earnings.
-2026-05-02T13:38:30,MSFT,-0.3,Strong earnings overshadowed by massive AI spending concerns.
-2026-05-02T13:38:30,AMZN,0.6,"AWS accelerated growth, AI leadership proven, strong earnings performance."
