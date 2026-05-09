@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-09T20:39:43,AAPL,0.7,Apple dominated 2026 chip war; Intel deal reshapes supply chain resilience.
+2026-05-09T20:39:43,NVDA,0.6,AI trillion-dollar asset class creation accelerates semiconductor demand.
+2026-05-09T20:39:43,TSLA,0.2,Record Semi truck order offset by vehicle recall and SEC settlement rejection.
+2026-05-09T20:39:43,MSFT,0.6,"AI infrastructure investments, GitHub acquisition success, safety leadership role."
+2026-05-09T20:39:43,AMZN,0.6,"Globalstar acquisition, AI dominance, grocery expansion, positive analyst sentiment."
 2026-05-09T16:58:42,AAPL,0.6,Apple chip deal with Intel and rare earth magnet partnership with MP Materials.
 2026-05-09T16:58:42,NVDA,0.6,Corning partnership expands optical connectivity; Goldman resets forecast ahead of earnings.
 2026-05-09T16:58:42,TSLA,-0.3,Vehicle recall safety issue offsets record Semi truck order.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-03T13:39:33,TSLA,-0.3,Governance concerns from related-party deals offset robotaxi expansion progress.
 2026-05-03T13:39:33,MSFT,0.3,Largest Copilot enterprise win and analyst PT raise offset competitive headwinds.
 2026-05-03T13:39:33,AMZN,0.6,"Earnings beat, AWS growth acceleration, margin expansion offset by marketplace lawsuit."
-2026-05-02T20:36:54,AAPL,0.3,Record quarter earnings beat offset by RAMageddon margin pressures.
-2026-05-02T20:36:54,NVDA,0.6,Nvidia invests $1B in Nokia for AI-integrated 5G/6G networks.
-2026-05-02T20:36:54,TSLA,0.4,Tesla Semi production ramp and SpaceX/xAI sales boost offset soft earnings.
-2026-05-02T20:36:54,MSFT,-0.3,AI spending concerns offset strong earnings; analyst targets trimmed.
-2026-05-02T20:36:54,AMZN,0.6,"AWS accelerated growth, strategic partnerships, billionaire backing signal momentum."
