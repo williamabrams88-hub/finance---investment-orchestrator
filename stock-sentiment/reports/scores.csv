@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-11T21:13:50,AAPL,0.6,"Mac sales surge, price hike, AI demand; geopolitical engagement opportunity."
+2026-05-11T21:13:50,NVDA,0.3,Memory chip sector strength; AI/chip stocks thrive amid market gains.
+2026-05-11T21:13:50,TSLA,0.6,"Optimus valuation upside, China AI momentum, Trump delegation inclusion."
+2026-05-11T21:13:50,MSFT,0.1,CEO testimony in OpenAI trial; AI demand strong but litigation risk present.
+2026-05-11T21:13:50,AMZN,0.6,"€15B France logistics expansion, strong AI cloud demand momentum."
 2026-05-11T17:56:30,AAPL,0.3,Tim Cook joins Trump China summit; preliminary Intel chip deal positive signal.
 2026-05-11T17:56:30,NVDA,0.3,Memory chip sector strength; AI chipmakers steady indexes amid geopolitical uncertainty.
 2026-05-11T17:56:30,TSLA,0.6,Robotaxi 2026 rollout expansion and China trade optimism drive sentiment.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-05T17:27:37,TSLA,0.3,FSD European approval progress; offset by missed autonomy deadline and competitive pressures.
 2026-05-05T17:27:37,MSFT,-0.3,Microsoft faces AI spending pressure while competitors gain momentum.
 2026-05-05T17:27:37,AMZN,0.2,AI spending justified by earnings; FCF collapse offset by business expansion.
-2026-05-04T21:04:22,AAPL,0.6,Morgan Stanley raises price target after earnings beat; new iOS features planned.
-2026-05-04T21:04:22,NVDA,-0.7,CEO confirms zero China market share; major geopolitical revenue loss.
-2026-05-04T21:04:22,TSLA,0.6,Tesla Semi high-volume production launch and Terafab semiconductor foundry.
-2026-05-04T21:04:22,MSFT,0.6,"Q3 earnings beat, Azure growth rebounds, analyst price target raised."
-2026-05-04T21:04:22,AMZN,0.6,"Supply chain services launch, analyst upgrade to $300 target price."
