@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-11T17:56:30,AAPL,0.3,Tim Cook joins Trump China summit; preliminary Intel chip deal positive signal.
+2026-05-11T17:56:30,NVDA,0.3,Memory chip sector strength; AI chipmakers steady indexes amid geopolitical uncertainty.
+2026-05-11T17:56:30,TSLA,0.6,Robotaxi 2026 rollout expansion and China trade optimism drive sentiment.
+2026-05-11T17:56:30,MSFT,0.3,CEO testifies on OpenAI partnership; AI sector momentum continues.
+2026-05-11T17:56:30,AMZN,0.6,Strong AI chip demand and trillion-dollar club membership amid earnings boom.
 2026-05-11T15:29:45,AAPL,0.3,"WWDC catalyst, analyst optimism, memory chip cost headwind mixed."
 2026-05-11T15:29:45,NVDA,0.3,Memory chip sector strength; AI momentum offset by geopolitical uncertainty.
 2026-05-11T15:29:45,TSLA,0.6,Robotaxi expansion and Optimus valuation catalyst drive bullish sentiment.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-04T21:04:22,TSLA,0.6,Tesla Semi high-volume production launch and Terafab semiconductor foundry.
 2026-05-04T21:04:22,MSFT,0.6,"Q3 earnings beat, Azure growth rebounds, analyst price target raised."
 2026-05-04T21:04:22,AMZN,0.6,"Supply chain services launch, analyst upgrade to $300 target price."
-2026-05-04T17:43:15,AAPL,0.7,"Strong earnings beat, Morgan Stanley upgrade, 22% upside target."
-2026-05-04T17:43:15,NVDA,-0.7,CEO confirms zero China market share; major revenue loss and geopolitical headwind.
-2026-05-04T17:43:15,TSLA,-0.3,"FSD concerns, Chinese EV competition, stock underperformance weigh sentiment."
-2026-05-04T17:43:15,MSFT,0.3,Pentagon AI deal and cloud growth offset valuation concerns and analyst skepticism.
-2026-05-04T17:43:15,AMZN,0.6,"Amazon launches unified supply chain service, expanding logistics beyond marketplace."
