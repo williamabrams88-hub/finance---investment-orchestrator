@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-12T14:42:29,AAPL,0.2,Tim Cook joins Trump China trip; potential foundry deal optimism tempered by execution concerns.
+2026-05-12T14:42:29,NVDA,0.6,Record highs on AI momentum ahead of May 20 earnings report.
+2026-05-12T14:42:29,TSLA,0.6,"Optimus upside, Germany battery expansion, strong Q1 results, China sales growth."
+2026-05-12T14:42:29,MSFT,0.3,OpenAI investment showing massive returns; litigation exposure from Musk trial.
+2026-05-12T14:42:29,AMZN,0.3,Amazon expands rapid delivery service; launches Swiss franc bond.
 2026-05-11T21:13:50,AAPL,0.6,"Mac sales surge, price hike, AI demand; geopolitical engagement opportunity."
 2026-05-11T21:13:50,NVDA,0.3,Memory chip sector strength; AI/chip stocks thrive amid market gains.
 2026-05-11T21:13:50,TSLA,0.6,"Optimus valuation upside, China AI momentum, Trump delegation inclusion."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-05T20:58:23,TSLA,0.6,Robotaxi progress in Austin; FSD European regulatory momentum building.
 2026-05-05T20:58:23,MSFT,0.2,Earnings beat offset by stock underperformance; AI infrastructure expansion positive.
 2026-05-05T20:58:23,AMZN,0.3,AWS logistics network expansion to third-party businesses drives competitive advantage.
-2026-05-05T17:27:37,AAPL,0.3,"Strong iPhone sales, AI spending validated, potential Intel chip partnership."
-2026-05-05T17:27:37,NVDA,0.3,Nvidia-ServiceNow AI partnership; mixed sentiment from competitor strength.
-2026-05-05T17:27:37,TSLA,0.3,FSD European approval progress; offset by missed autonomy deadline and competitive pressures.
-2026-05-05T17:27:37,MSFT,-0.3,Microsoft faces AI spending pressure while competitors gain momentum.
-2026-05-05T17:27:37,AMZN,0.2,AI spending justified by earnings; FCF collapse offset by business expansion.
