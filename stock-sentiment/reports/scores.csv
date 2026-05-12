@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-12T21:15:28,AAPL,0.3,Tim Cook joins Trump China summit seeking market access and regulatory approvals.
+2026-05-12T21:15:28,NVDA,0.3,Insatiable AI demand supports chip trade; earnings expectations high.
+2026-05-12T21:15:28,TSLA,-0.3,Robotaxi delays and stock slip amid China trip uncertainty.
+2026-05-12T21:15:28,MSFT,-0.3,OpenAI revenue cap deal reduces Microsoft's potential payments significantly.
+2026-05-12T21:15:28,AMZN,0.6,AI chip growth and strategic debt financing for AI expansion.
 2026-05-12T18:01:53,AAPL,0.0,Mixed signals: Intel foundry deal speculation offset by oil price concerns.
 2026-05-12T18:01:53,NVDA,0.3,Analyst price target reset higher; offset by AMD CPU-GPU parity threat.
 2026-05-12T18:01:53,TSLA,-0.3,"FSD delays, battery production setbacks offset China trade opportunity."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-06T17:43:30,TSLA,0.3,Robotaxi progress in Austin offset by Optimus delays and capex concerns.
 2026-05-06T17:43:30,MSFT,-0.3,Broad software sell-off; AI labor displacement concerns emerge.
 2026-05-06T17:43:30,AMZN,0.7,CEO's $200B AI infrastructure bet signals strong growth confidence.
-2026-05-06T14:34:31,AAPL,-0.3,Epic Games contempt ruling upheld; Siri settlement costs $250M.
-2026-05-06T14:34:31,NVDA,-0.3,AMD earnings beat signals intensifying competition in AI chips.
-2026-05-06T14:34:31,TSLA,0.3,Robotaxi progress offset by vehicle recall and chip factory uncertainty.
-2026-05-06T14:34:31,MSFT,-0.3,AI energy demands threaten 2030 clean energy target commitment.
-2026-05-06T14:34:31,AMZN,0.6,"Strong analyst support, earnings beats, new supply chain platform launch."
