@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-12T18:01:53,AAPL,0.0,Mixed signals: Intel foundry deal speculation offset by oil price concerns.
+2026-05-12T18:01:53,NVDA,0.3,Analyst price target reset higher; offset by AMD CPU-GPU parity threat.
+2026-05-12T18:01:53,TSLA,-0.3,"FSD delays, battery production setbacks offset China trade opportunity."
+2026-05-12T18:01:53,MSFT,0.6,Revised OpenAI deal strengthens AI strategy; valuation reset attractive.
+2026-05-12T18:01:53,AMZN,0.5,30-minute delivery expansion across major US cities strengthens logistics competitive advantage.
 2026-05-12T14:42:29,AAPL,0.2,Tim Cook joins Trump China trip; potential foundry deal optimism tempered by execution concerns.
 2026-05-12T14:42:29,NVDA,0.6,Record highs on AI momentum ahead of May 20 earnings report.
 2026-05-12T14:42:29,TSLA,0.6,"Optimus upside, Germany battery expansion, strong Q1 results, China sales growth."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-06T14:34:31,TSLA,0.3,Robotaxi progress offset by vehicle recall and chip factory uncertainty.
 2026-05-06T14:34:31,MSFT,-0.3,AI energy demands threaten 2030 clean energy target commitment.
 2026-05-06T14:34:31,AMZN,0.6,"Strong analyst support, earnings beats, new supply chain platform launch."
-2026-05-05T20:58:23,AAPL,-0.3,Settlement cost offset by strong chip supplier demand signals.
-2026-05-05T20:58:23,NVDA,-0.3,"AMD beats earnings and raises guidance, intensifying competition."
-2026-05-05T20:58:23,TSLA,0.6,Robotaxi progress in Austin; FSD European regulatory momentum building.
-2026-05-05T20:58:23,MSFT,0.2,Earnings beat offset by stock underperformance; AI infrastructure expansion positive.
-2026-05-05T20:58:23,AMZN,0.3,AWS logistics network expansion to third-party businesses drives competitive advantage.
