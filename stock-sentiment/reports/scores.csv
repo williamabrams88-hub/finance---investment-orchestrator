@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-13T18:04:08,AAPL,0.3,Tech sector rebound lifts AAPL; potential China tariff relief benefits.
+2026-05-13T18:04:08,NVDA,0.6,Nvidia hits record high ahead of earnings; Jensen Huang at Trump-Xi summit.
+2026-05-13T18:04:08,TSLA,0.2,China trip with Trump offers opportunity; competitive pressures persist.
+2026-05-13T18:04:08,MSFT,0.3,AI infrastructure demand strong; MSFT benefits from cloud compute agreements.
+2026-05-13T18:04:08,AMZN,0.2,Amazon rebrands AI shopping agent; mixed retail AI competition signals.
 2026-05-13T14:52:03,AAPL,0.2,Cook joins Trump China trip; iPhone demand strong but analyst prefers Alphabet.
 2026-05-13T14:52:03,NVDA,0.3,Jensen Huang joins Trump China trip; earnings expectations high.
 2026-05-13T14:52:03,TSLA,0.3,Musk joins Trump China trade delegation; mixed market sentiment on tech stocks.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-07T14:37:28,TSLA,0.6,"China sales surge 36% YoY, stock breaks $400 with technical breakout."
 2026-05-07T14:37:28,MSFT,-0.3,Heavy AI spending pressures margins; Copilot Xbox strategy scaled back.
 2026-05-07T14:37:28,AMZN,0.2,Pharmacy expansion and logistics monetization offset Fresh grocery pullback.
-2026-05-06T21:07:49,AAPL,0.6,"Record stock high, strong Q2 earnings, $100B buyback, AI positioning leadership."
-2026-05-06T21:07:49,NVDA,0.6,NVDA inks $500M AI infrastructure deal with Corning partnership.
-2026-05-06T21:07:49,TSLA,0.1,Robotaxi expansion offset by safety concerns and insider selling.
-2026-05-06T21:07:49,MSFT,0.3,Strong Q3 earnings beat; analyst price target cut despite results.
-2026-05-06T21:07:49,AMZN,0.7,"Strong Q1 earnings, $200B AI investment bet, analyst price target raise."
