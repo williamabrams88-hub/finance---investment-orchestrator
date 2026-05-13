@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-13T14:52:03,AAPL,0.2,Cook joins Trump China trip; iPhone demand strong but analyst prefers Alphabet.
+2026-05-13T14:52:03,NVDA,0.3,Jensen Huang joins Trump China trip; earnings expectations high.
+2026-05-13T14:52:03,TSLA,0.3,Musk joins Trump China trade delegation; mixed market sentiment on tech stocks.
+2026-05-13T14:52:03,MSFT,-0.3,LinkedIn layoffs signal cost pressures despite revenue growth acceleration.
+2026-05-13T14:52:03,AMZN,0.6,Ultra-fast delivery expansion and strong cloud/AI growth outlook.
 2026-05-12T21:15:28,AAPL,0.3,Tim Cook joins Trump China summit seeking market access and regulatory approvals.
 2026-05-12T21:15:28,NVDA,0.3,Insatiable AI demand supports chip trade; earnings expectations high.
 2026-05-12T21:15:28,TSLA,-0.3,Robotaxi delays and stock slip amid China trip uncertainty.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-06T21:07:49,TSLA,0.1,Robotaxi expansion offset by safety concerns and insider selling.
 2026-05-06T21:07:49,MSFT,0.3,Strong Q3 earnings beat; analyst price target cut despite results.
 2026-05-06T21:07:49,AMZN,0.7,"Strong Q1 earnings, $200B AI investment bet, analyst price target raise."
-2026-05-06T17:43:30,AAPL,-0.6,Supreme Court rejects Apple's contempt pause; settlement costs mount.
-2026-05-06T17:43:30,NVDA,0.6,Major $500M Corning deal signals strong AI infrastructure demand.
-2026-05-06T17:43:30,TSLA,0.3,Robotaxi progress in Austin offset by Optimus delays and capex concerns.
-2026-05-06T17:43:30,MSFT,-0.3,Broad software sell-off; AI labor displacement concerns emerge.
-2026-05-06T17:43:30,AMZN,0.7,CEO's $200B AI infrastructure bet signals strong growth confidence.
