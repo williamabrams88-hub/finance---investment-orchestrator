@@ -1,4 +1,5 @@
 timestamp,ticker,signal,confidence,reason
+2026-05-14T14:32:04,MSFT,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.35)"
 2026-05-13T14:52:03,TSLA,BUY,High,"Sentiment reversal neg→pos (prev=-0.30, now=0.30)"
 2026-05-12T14:42:29,AAPL,SELL,High,Score drop -0.40 with price +0.3%
 2026-05-12T14:42:29,NVDA,BUY,High,Score spike +0.30 with price -1.4%

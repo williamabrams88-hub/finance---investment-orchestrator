@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-14T14:32:04,AAPL,0.6,"Record highs, strong iPhone demand, China openness signals positive outlook."
+2026-05-14T14:32:04,NVDA,0.6,Nvidia earnings catalyst; chip stocks rally on AI strength momentum.
+2026-05-14T14:32:04,TSLA,0.6,China FSD approval hopes and Trump-Xi trade thaw optimism drive rally.
+2026-05-14T14:32:04,MSFT,-0.35,UK antitrust investigation into bundling practices; OpenAI independence concerns.
+2026-05-14T14:32:04,AMZN,0.2,AI capex investment signals growth; mixed fund performance concerns.
 2026-05-13T21:23:05,AAPL,0.3,Tech rebound and record highs offset valuation concentration concerns.
 2026-05-13T21:23:05,NVDA,0.3,Nvidia leads S&P 500 and Nasdaq higher; strong tech sector momentum.
 2026-05-13T21:23:05,TSLA,0.6,Musk joins Trump China visit; potential major growth opportunity unlocked.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-07T21:01:31,TSLA,0.2,Tesla strong amid xAI restructuring; mixed signals on broader strategy.
 2026-05-07T21:01:31,MSFT,0.3,AI cloud strength offsets energy sustainability concerns.
 2026-05-07T21:01:31,AMZN,0.3,"Amazon expands healthcare with same-day Ozempic delivery, offsetting earnings concerns."
-2026-05-07T17:49:50,AAPL,0.6,"Record highs, best March quarter, strong Magnificent 7 momentum."
-2026-05-07T17:49:50,NVDA,0.3,New residential AI data center partnership with Span and PulteGroup.
-2026-05-07T17:49:50,TSLA,0.6,"Strong China sales surge, major Semi order, Terafab chip facility announced."
-2026-05-07T17:49:50,MSFT,0.2,Mixed signals: analyst downgrade offset by strong execution and AI infrastructure demand.
-2026-05-07T17:49:50,AMZN,0.6,"AWS 28% growth, analyst price target raise to $280, AI momentum."
