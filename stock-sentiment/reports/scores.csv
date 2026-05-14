@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-14T17:54:05,AAPL,-0.3,OpenAI partnership strain and legal risk offset strong earnings outlook.
+2026-05-14T17:54:05,NVDA,0.6,CEO Huang at China summit; photonics phase 3 AI infrastructure demand.
+2026-05-14T17:54:05,TSLA,0.2,"Q1 margin reset positive, but valuation stretched on AI execution demands."
+2026-05-14T17:54:05,MSFT,0.3,Earnings beat with strong agentic AI positioning; offset by valuation concerns.
+2026-05-14T17:54:05,AMZN,0.3,Amazon competing with Treasury for capital; heavy AI infrastructure spending.
 2026-05-14T14:32:04,AAPL,0.6,"Record highs, strong iPhone demand, China openness signals positive outlook."
 2026-05-14T14:32:04,NVDA,0.6,Nvidia earnings catalyst; chip stocks rally on AI strength momentum.
 2026-05-14T14:32:04,TSLA,0.6,China FSD approval hopes and Trump-Xi trade thaw optimism drive rally.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-08T14:07:46,TSLA,0.6,"Robotaxi demand strength, Mag 7 rally, broader EV adoption momentum."
 2026-05-08T14:07:46,MSFT,0.2,Microsoft AI platform certification; modest positive amid market consolidation.
 2026-05-08T14:07:46,AMZN,0.3,Amazon Supply Chain Services launch expands logistics business to external customers.
-2026-05-07T21:01:31,AAPL,0.2,Record highs offset by encryption concerns and rising smartphone costs.
-2026-05-07T21:01:31,NVDA,0.3,Nvidia strong amid market pullback; AI infrastructure demand robust.
-2026-05-07T21:01:31,TSLA,0.2,Tesla strong amid xAI restructuring; mixed signals on broader strategy.
-2026-05-07T21:01:31,MSFT,0.3,AI cloud strength offsets energy sustainability concerns.
-2026-05-07T21:01:31,AMZN,0.3,"Amazon expands healthcare with same-day Ozempic delivery, offsetting earnings concerns."
