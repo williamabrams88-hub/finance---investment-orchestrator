@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-14T21:06:12,AAPL,-0.3,OpenAI legal action over failed ChatGPT deal; competitive AI pressure.
+2026-05-14T21:06:12,NVDA,0.6,"Stock surge, China summit access, AI infrastructure leadership positioning."
+2026-05-14T21:06:12,TSLA,0.3,AI capex spending tailwinds offset valuation concerns post-earnings rally.
+2026-05-14T21:06:12,MSFT,0.6,Strong AI infrastructure positioning with agentic enterprise backlog growth.
+2026-05-14T21:06:12,AMZN,0.6,AI infrastructure spending surge; regulatory scrutiny on power costs.
 2026-05-14T17:54:05,AAPL,-0.3,OpenAI partnership strain and legal risk offset strong earnings outlook.
 2026-05-14T17:54:05,NVDA,0.6,CEO Huang at China summit; photonics phase 3 AI infrastructure demand.
 2026-05-14T17:54:05,TSLA,0.2,"Q1 margin reset positive, but valuation stretched on AI execution demands."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-08T17:21:28,TSLA,0.6,Record $100M Semi truck deal; robotaxi demand optimism from Wood.
 2026-05-08T17:21:28,MSFT,0.2,AI ecosystem traction gains offset by software competitiveness concerns.
 2026-05-08T17:21:28,AMZN,-0.3,AWS outage disrupted services; offset by new supply chain opportunity.
-2026-05-08T14:07:46,AAPL,0.3,Wedbush raises target to $400 on AI optimism; mixed macro backdrop.
-2026-05-08T14:07:46,NVDA,-0.3,Chip smuggling scandal and broader AI sector pullback concerns.
-2026-05-08T14:07:46,TSLA,0.6,"Robotaxi demand strength, Mag 7 rally, broader EV adoption momentum."
-2026-05-08T14:07:46,MSFT,0.2,Microsoft AI platform certification; modest positive amid market consolidation.
-2026-05-08T14:07:46,AMZN,0.3,Amazon Supply Chain Services launch expands logistics business to external customers.
