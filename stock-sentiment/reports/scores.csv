@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-15T17:40:55,AAPL,0.1,iPhone price cuts offset by OpenAI legal threat and chip deal uncertainty.
+2026-05-15T17:40:55,NVDA,0.2,AI rally supports sector; tariff uncertainty and competition headwinds offset gains.
+2026-05-15T17:40:55,TSLA,-0.6,China trip disappoints; robotaxi delays and Waymo competition intensify.
+2026-05-15T17:40:55,MSFT,0.6,Bill Ackman's major stake signals undervaluation; stock rallies despite tech selloff.
+2026-05-15T17:40:55,AMZN,0.1,Amazon chart breakout offset by macro headwinds and consumer shift to budget retailers.
 2026-05-15T14:26:16,AAPL,0.4,iPhone sales outpacing competitors globally; tech sector AI boom broadens.
 2026-05-15T14:26:16,NVDA,0.6,Stock surges 4% amid AI boom; 27 quarters consecutive 30%+ revenue growth.
 2026-05-15T14:26:16,TSLA,-0.3,"AI overheating concerns, China trade uncertainty weigh on tech."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-09T13:43:07,TSLA,0.2,Record Semi truck order offset by vehicle recall and SEC settlement rejection.
 2026-05-09T13:43:07,MSFT,0.6,GitHub acquisition praised as best tech deal; AI coding platform dominance.
 2026-05-09T13:43:07,AMZN,0.3,Solid earnings reported; AI hyperscaler momentum with competitive positioning.
-2026-05-08T20:55:20,AAPL,0.6,"Apple-Intel preliminary chip deal, strong tech rally, WWDC catalyst ahead."
-2026-05-08T20:55:20,NVDA,0.3,Stock hits highs on AI optimism; earnings report upcoming.
-2026-05-08T20:55:20,TSLA,0.2,Broad tech sector strength; EV adoption headwinds offset by sector momentum.
-2026-05-08T20:55:20,MSFT,-0.3,Major hedge fund exits $8B stake citing AI competition concerns.
-2026-05-08T20:55:20,AMZN,0.2,AI investment spending boosts cloud revenue; Goldman Sachs flags earnings quality concerns.
