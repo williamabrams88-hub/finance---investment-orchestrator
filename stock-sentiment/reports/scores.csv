@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-15T20:56:56,AAPL,0.3,iPhone 17 price cuts in China; Intel chip deal offset by OpenAI legal threat.
+2026-05-15T20:56:56,NVDA,0.2,Nvidia earnings loom amid AI sector strength and competitor activity.
+2026-05-15T20:56:56,TSLA,-0.3,China trade disappointment offsets Optimus upside; robotaxi delays weigh.
+2026-05-15T20:56:56,MSFT,-0.3,Tiger Global reduces Microsoft holdings; tech sector weakness amid inflation concerns.
+2026-05-15T20:56:56,AMZN,0.3,Amazon stock up 14% YTD; AI investments and backing Anthropic growth.
 2026-05-15T17:40:55,AAPL,0.1,iPhone price cuts offset by OpenAI legal threat and chip deal uncertainty.
 2026-05-15T17:40:55,NVDA,0.2,AI rally supports sector; tariff uncertainty and competition headwinds offset gains.
 2026-05-15T17:40:55,TSLA,-0.6,China trip disappoints; robotaxi delays and Waymo competition intensify.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-09T16:58:42,TSLA,-0.3,Vehicle recall safety issue offsets record Semi truck order.
 2026-05-09T16:58:42,MSFT,0.6,"AI infrastructure investments, safety leadership, GitHub acquisition success."
 2026-05-09T16:58:42,AMZN,0.3,Amazon Business launches same-day grocery delivery nationwide expansion.
-2026-05-09T13:43:07,AAPL,0.6,Intel chip deal and rare earth magnet partnership strengthen supply chain.
-2026-05-09T13:43:07,NVDA,0.2,AI demand outlook mixed; CoreWeave miss offsets positive semiconductor momentum.
-2026-05-09T13:43:07,TSLA,0.2,Record Semi truck order offset by vehicle recall and SEC settlement rejection.
-2026-05-09T13:43:07,MSFT,0.6,GitHub acquisition praised as best tech deal; AI coding platform dominance.
-2026-05-09T13:43:07,AMZN,0.3,Solid earnings reported; AI hyperscaler momentum with competitive positioning.
