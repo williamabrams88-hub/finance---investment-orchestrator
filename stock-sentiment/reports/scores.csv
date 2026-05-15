@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-15T14:26:16,AAPL,0.4,iPhone sales outpacing competitors globally; tech sector AI boom broadens.
+2026-05-15T14:26:16,NVDA,0.6,Stock surges 4% amid AI boom; 27 quarters consecutive 30%+ revenue growth.
+2026-05-15T14:26:16,TSLA,-0.3,"AI overheating concerns, China trade uncertainty weigh on tech."
+2026-05-15T14:26:16,MSFT,-0.6,UK antitrust probe into Microsoft's AI bundling practices and competitive concerns.
+2026-05-15T14:26:16,AMZN,-0.3,Job cuts in Selling Partner Services offset AI growth opportunities.
 2026-05-14T21:06:12,AAPL,-0.3,OpenAI legal action over failed ChatGPT deal; competitive AI pressure.
 2026-05-14T21:06:12,NVDA,0.6,"Stock surge, China summit access, AI infrastructure leadership positioning."
 2026-05-14T21:06:12,TSLA,0.3,AI capex spending tailwinds offset valuation concerns post-earnings rally.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-08T20:55:20,TSLA,0.2,Broad tech sector strength; EV adoption headwinds offset by sector momentum.
 2026-05-08T20:55:20,MSFT,-0.3,Major hedge fund exits $8B stake citing AI competition concerns.
 2026-05-08T20:55:20,AMZN,0.2,AI investment spending boosts cloud revenue; Goldman Sachs flags earnings quality concerns.
-2026-05-08T17:21:28,AAPL,0.7,Intel chip deal and AI inflection point drive analyst upgrades.
-2026-05-08T17:21:28,NVDA,0.6,"Bitcoin miner IREN secures $3.4B Nvidia AI deal, expanding compute capacity."
-2026-05-08T17:21:28,TSLA,0.6,Record $100M Semi truck deal; robotaxi demand optimism from Wood.
-2026-05-08T17:21:28,MSFT,0.2,AI ecosystem traction gains offset by software competitiveness concerns.
-2026-05-08T17:21:28,AMZN,-0.3,AWS outage disrupted services; offset by new supply chain opportunity.
