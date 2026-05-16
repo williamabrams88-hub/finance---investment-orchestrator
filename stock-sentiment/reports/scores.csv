@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-16T13:48:50,AAPL,0.2,Berkshire affirms Apple as core holding under new CEO leadership.
+2026-05-16T13:48:50,NVDA,0.3,Nvidia Q1 earnings imminent; chip competition and rate policy headwinds offset.
+2026-05-16T13:48:50,TSLA,-0.35,"China sales weakness, robotaxi delays offset Optimus upside potential."
+2026-05-16T13:48:50,MSFT,-0.3,Bill Gates Foundation sells final $3.2B stake; Ackman builds new position.
+2026-05-16T13:48:50,AMZN,-0.35,Tariff lawsuit and AI governance backlash offset positive AI positioning.
 2026-05-15T20:56:56,AAPL,0.3,iPhone 17 price cuts in China; Intel chip deal offset by OpenAI legal threat.
 2026-05-15T20:56:56,NVDA,0.2,Nvidia earnings loom amid AI sector strength and competitor activity.
 2026-05-15T20:56:56,TSLA,-0.3,China trade disappointment offsets Optimus upside; robotaxi delays weigh.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-09T20:39:43,TSLA,0.2,Record Semi truck order offset by vehicle recall and SEC settlement rejection.
 2026-05-09T20:39:43,MSFT,0.6,"AI infrastructure investments, GitHub acquisition success, safety leadership role."
 2026-05-09T20:39:43,AMZN,0.6,"Globalstar acquisition, AI dominance, grocery expansion, positive analyst sentiment."
-2026-05-09T16:58:42,AAPL,0.6,Apple chip deal with Intel and rare earth magnet partnership with MP Materials.
-2026-05-09T16:58:42,NVDA,0.6,Corning partnership expands optical connectivity; Goldman resets forecast ahead of earnings.
-2026-05-09T16:58:42,TSLA,-0.3,Vehicle recall safety issue offsets record Semi truck order.
-2026-05-09T16:58:42,MSFT,0.6,"AI infrastructure investments, safety leadership, GitHub acquisition success."
-2026-05-09T16:58:42,AMZN,0.3,Amazon Business launches same-day grocery delivery nationwide expansion.
