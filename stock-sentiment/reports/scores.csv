@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-16T20:41:09,AAPL,-0.3,Apple Intelligence settlement and foundry agreement mixed signals.
+2026-05-16T20:41:09,NVDA,0.3,Nvidia earnings upcoming; analyst resets price target ahead.
+2026-05-16T20:41:09,TSLA,0.2,China market pressure offset by potential trade normalization benefits.
+2026-05-16T20:41:09,MSFT,0.3,Bill Ackman backs MSFT AI expansion despite Gates Foundation stock exit.
+2026-05-16T20:41:09,AMZN,0.3,AI investment strength offset by tariff lawsuit and wage concerns.
 2026-05-16T17:00:51,AAPL,-0.5,Apple Intelligence false advertising settlement costs $250 million.
 2026-05-16T17:00:51,NVDA,0.6,Jensen Huang reveals massive AI electricity demand shock; earnings imminent.
 2026-05-16T17:00:51,TSLA,-0.3,China sales decline and financing push offset price increase and Optimus upside.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-10T16:58:47,TSLA,0.6,"China sales rebound, Terafab chip initiative, largest Semi truck order."
 2026-05-10T16:58:47,MSFT,-0.3,"Kenya data center delays, Office vulnerability to AI competition."
 2026-05-10T16:58:47,AMZN,0.4,Cathie Wood's top AI stock pick; positioned for cloud and AI leadership.
-2026-05-10T13:45:46,AAPL,0.3,AI boom tailwinds; Apple in buy areas amid market strength.
-2026-05-10T13:45:46,NVDA,0.6,"AI dominance, earnings catalyst, and strategic investments drive sentiment."
-2026-05-10T13:45:46,TSLA,0.6,"China sales rebound, Terafab chip initiative, largest Semi truck order."
-2026-05-10T13:45:46,MSFT,0.2,AI infrastructure wins offset Office vulnerability concerns and African data center delays.
-2026-05-10T13:45:46,AMZN,0.2,AI boom positioning supports trillion-dollar valuation; tax move neutral.
