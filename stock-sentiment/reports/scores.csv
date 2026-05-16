@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-16T17:00:51,AAPL,-0.5,Apple Intelligence false advertising settlement costs $250 million.
+2026-05-16T17:00:51,NVDA,0.6,Jensen Huang reveals massive AI electricity demand shock; earnings imminent.
+2026-05-16T17:00:51,TSLA,-0.3,China sales decline and financing push offset price increase and Optimus upside.
+2026-05-16T17:00:51,MSFT,0.3,Bill Ackman backs MSFT AI expansion; Gates foundation exits position.
+2026-05-16T17:00:51,AMZN,0.6,Top investors increase Amazon stakes; AI leadership position strengthens.
 2026-05-16T13:48:50,AAPL,0.2,Berkshire affirms Apple as core holding under new CEO leadership.
 2026-05-16T13:48:50,NVDA,0.3,Nvidia Q1 earnings imminent; chip competition and rate policy headwinds offset.
 2026-05-16T13:48:50,TSLA,-0.35,"China sales weakness, robotaxi delays offset Optimus upside potential."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-10T13:45:46,TSLA,0.6,"China sales rebound, Terafab chip initiative, largest Semi truck order."
 2026-05-10T13:45:46,MSFT,0.2,AI infrastructure wins offset Office vulnerability concerns and African data center delays.
 2026-05-10T13:45:46,AMZN,0.2,AI boom positioning supports trillion-dollar valuation; tax move neutral.
-2026-05-09T20:39:43,AAPL,0.7,Apple dominated 2026 chip war; Intel deal reshapes supply chain resilience.
-2026-05-09T20:39:43,NVDA,0.6,AI trillion-dollar asset class creation accelerates semiconductor demand.
-2026-05-09T20:39:43,TSLA,0.2,Record Semi truck order offset by vehicle recall and SEC settlement rejection.
-2026-05-09T20:39:43,MSFT,0.6,"AI infrastructure investments, GitHub acquisition success, safety leadership role."
-2026-05-09T20:39:43,AMZN,0.6,"Globalstar acquisition, AI dominance, grocery expansion, positive analyst sentiment."
