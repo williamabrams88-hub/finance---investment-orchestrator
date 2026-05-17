@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-17T20:43:18,AAPL,0.3,Apple supply chain expansion; Cirrus Logic and MP Materials partnerships announced.
+2026-05-17T20:43:18,NVDA,0.2,AI semiconductor rally euphoria concerns offset space economy opportunity.
+2026-05-17T20:43:18,TSLA,0.2,Robotaxi hub expansion offset by Australian regulatory scrutiny.
+2026-05-17T20:43:18,MSFT,0.3,AI data center expansion faces public opposition; partnership expansion positive.
+2026-05-17T20:43:18,AMZN,-0.6,Berkshire Hathaway exits Amazon position; public opposes AI data centers.
 2026-05-17T16:59:24,AAPL,0.6,Apple expands domestic semiconductor and rare earth magnet production partnerships.
 2026-05-17T16:59:24,NVDA,0.3,BofA upgrades price target; earnings and I/O conference ahead this week.
 2026-05-17T16:59:24,TSLA,0.2,Robotaxi hub expansion offset by Australian regulatory scrutiny.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-11T17:56:30,TSLA,0.6,Robotaxi 2026 rollout expansion and China trade optimism drive sentiment.
 2026-05-11T17:56:30,MSFT,0.3,CEO testifies on OpenAI partnership; AI sector momentum continues.
 2026-05-11T17:56:30,AMZN,0.6,Strong AI chip demand and trillion-dollar club membership amid earnings boom.
-2026-05-11T15:29:45,AAPL,0.3,"WWDC catalyst, analyst optimism, memory chip cost headwind mixed."
-2026-05-11T15:29:45,NVDA,0.3,Memory chip sector strength; AI momentum offset by geopolitical uncertainty.
-2026-05-11T15:29:45,TSLA,0.6,Robotaxi expansion and Optimus valuation catalyst drive bullish sentiment.
-2026-05-11T15:29:45,MSFT,-0.3,AI disruption concerns offset by trillion-dollar club positioning.
-2026-05-11T15:29:45,AMZN,0.6,Strong AI chip demand; $225B backlog and new debt financing for AI expansion.
