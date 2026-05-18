@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-18T15:50:45,AAPL,-0.3,"China iPhone 17 price cuts amid competition pressure, antitrust scrutiny."
+2026-05-18T15:50:45,NVDA,0.0,Nvidia earnings imminent; historical data shows mixed near-term signals.
+2026-05-18T15:50:45,TSLA,-0.3,Robotaxi rollout delays and SpaceX IPO distraction weigh on sentiment.
+2026-05-18T15:50:45,MSFT,0.4,Enterprise AI demand accelerating Azure growth and Copilot adoption.
+2026-05-18T15:50:45,AMZN,0.6,"Strong AWS growth, AI chip momentum, Berkshire stake exit offset by positive catalysts."
 2026-05-17T20:43:18,AAPL,0.3,Apple supply chain expansion; Cirrus Logic and MP Materials partnerships announced.
 2026-05-17T20:43:18,NVDA,0.2,AI semiconductor rally euphoria concerns offset space economy opportunity.
 2026-05-17T20:43:18,TSLA,0.2,Robotaxi hub expansion offset by Australian regulatory scrutiny.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-11T21:13:50,TSLA,0.6,"Optimus valuation upside, China AI momentum, Trump delegation inclusion."
 2026-05-11T21:13:50,MSFT,0.1,CEO testimony in OpenAI trial; AI demand strong but litigation risk present.
 2026-05-11T21:13:50,AMZN,0.6,"€15B France logistics expansion, strong AI cloud demand momentum."
-2026-05-11T17:56:30,AAPL,0.3,Tim Cook joins Trump China summit; preliminary Intel chip deal positive signal.
-2026-05-11T17:56:30,NVDA,0.3,Memory chip sector strength; AI chipmakers steady indexes amid geopolitical uncertainty.
-2026-05-11T17:56:30,TSLA,0.6,Robotaxi 2026 rollout expansion and China trade optimism drive sentiment.
-2026-05-11T17:56:30,MSFT,0.3,CEO testifies on OpenAI partnership; AI sector momentum continues.
-2026-05-11T17:56:30,AMZN,0.6,Strong AI chip demand and trillion-dollar club membership amid earnings boom.
