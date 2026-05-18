@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-18T21:06:58,AAPL,0.3,Apple developing AI writing tools and shortcuts for iOS 27.
+2026-05-18T21:06:58,NVDA,0.7,Nvidia earnings beat expected; CEO optimistic on China market access.
+2026-05-18T21:06:58,TSLA,-0.6,"SpaceX IPO diverts capital and attention from Tesla, pressuring valuation."
+2026-05-18T21:06:58,MSFT,0.3,OpenAI lawsuit cleared; utility deal supports AI data center demand.
+2026-05-18T21:06:58,AMZN,0.4,"Approaching $3T milestone, analyst buy rating, strong AI data center demand."
 2026-05-18T18:02:38,AAPL,0.2,Siri AI overhaul with privacy focus; Intel foundry deal supports chip strategy.
 2026-05-18T18:02:38,NVDA,0.3,Upcoming Q1 earnings report; historical modest gains post-announcement.
 2026-05-18T18:02:38,TSLA,-0.2,"SpaceX IPO capital competition, Chinese EV robotaxi rival, broader tech selloff."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-12T18:01:53,TSLA,-0.3,"FSD delays, battery production setbacks offset China trade opportunity."
 2026-05-12T18:01:53,MSFT,0.6,Revised OpenAI deal strengthens AI strategy; valuation reset attractive.
 2026-05-12T18:01:53,AMZN,0.5,30-minute delivery expansion across major US cities strengthens logistics competitive advantage.
-2026-05-12T14:42:29,AAPL,0.2,Tim Cook joins Trump China trip; potential foundry deal optimism tempered by execution concerns.
-2026-05-12T14:42:29,NVDA,0.6,Record highs on AI momentum ahead of May 20 earnings report.
-2026-05-12T14:42:29,TSLA,0.6,"Optimus upside, Germany battery expansion, strong Q1 results, China sales growth."
-2026-05-12T14:42:29,MSFT,0.3,OpenAI investment showing massive returns; litigation exposure from Musk trial.
-2026-05-12T14:42:29,AMZN,0.3,Amazon expands rapid delivery service; launches Swiss franc bond.
