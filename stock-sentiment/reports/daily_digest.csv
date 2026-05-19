@@ -1,4 +1,7 @@
 timestamp,ticker,signal,confidence,reason
+2026-05-19T15:41:46,NVDA,SELL,High,"Sentiment reversal pos→neg (prev=0.70, now=-0.30)"
+2026-05-19T15:41:46,TSLA,BUY,High,Score spike +0.80 with price -3.3%
+2026-05-19T15:41:46,AMZN,BUY,Medium,Price dropped -3.6% but sentiment=0.60 (overreaction)
 2026-05-18T15:50:45,AAPL,SELL,High,"Sentiment reversal pos→neg (prev=0.30, now=-0.30)"
 2026-05-18T15:50:45,TSLA,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.30)"
 2026-05-18T15:50:45,AMZN,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.60)"
