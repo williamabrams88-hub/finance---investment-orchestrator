@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-19T21:15:30,AAPL,0.2,F1 streaming deal positive; regulatory app store pressure mixed.
+2026-05-19T21:15:30,NVDA,-0.3,Earnings anticipation mixed with sector rotation away from semiconductors.
+2026-05-19T21:15:30,TSLA,-0.6,"Trump sells Tesla stake, talent exodus, SpaceX IPO competition, EV fee proposal."
+2026-05-19T21:15:30,MSFT,0.6,"Bill Ackman stake, analyst upgrades, AI dominance, OpenAI legal victory."
+2026-05-19T21:15:30,AMZN,-0.3,Berkshire exits Amazon stake; Tepper doubles position shows mixed signals.
 2026-05-19T18:08:12,AAPL,0.1,Mixed signals: AI eyewear competition offset by App Store resolution and strong valuation.
 2026-05-19T18:08:12,NVDA,0.0,Earnings report looms amid mixed sentiment and sector weakness.
 2026-05-19T18:08:12,TSLA,-0.6,"Tesla drops on legal setbacks, EV fees, SpaceX IPO capital competition."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-13T18:04:08,TSLA,0.2,China trip with Trump offers opportunity; competitive pressures persist.
 2026-05-13T18:04:08,MSFT,0.3,AI infrastructure demand strong; MSFT benefits from cloud compute agreements.
 2026-05-13T18:04:08,AMZN,0.2,Amazon rebrands AI shopping agent; mixed retail AI competition signals.
-2026-05-13T14:52:03,AAPL,0.2,Cook joins Trump China trip; iPhone demand strong but analyst prefers Alphabet.
-2026-05-13T14:52:03,NVDA,0.3,Jensen Huang joins Trump China trip; earnings expectations high.
-2026-05-13T14:52:03,TSLA,0.3,Musk joins Trump China trade delegation; mixed market sentiment on tech stocks.
-2026-05-13T14:52:03,MSFT,-0.3,LinkedIn layoffs signal cost pressures despite revenue growth acceleration.
-2026-05-13T14:52:03,AMZN,0.6,Ultra-fast delivery expansion and strong cloud/AI growth outlook.
