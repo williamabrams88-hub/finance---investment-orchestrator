@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-20T21:48:25,AAPL,0.3,Apple ranks top stock pick by Graham Stephan; mega-cap growth momentum continues.
+2026-05-20T21:48:25,NVDA,0.9,Q1 earnings beat with strong guidance on data center chip sales.
+2026-05-20T21:48:25,TSLA,0.2,Tesla FSD push in China; offset by Model S/X production halt.
+2026-05-20T21:48:25,MSFT,0.2,Carbon removal deal positive; competitive AI landscape neutral overall.
+2026-05-20T21:48:25,AMZN,-0.3,Google AI search threat to AWS cloud business; Nvidia dominates AI chips.
 2026-05-20T18:21:05,AAPL,0.2,Apple TV series launch supports services growth strategy; mixed tech sentiment.
 2026-05-20T18:21:05,NVDA,0.1,Earnings catalyst mixed with China ban and competitive chip threats.
 2026-05-20T18:21:05,TSLA,0.3,FSD expansion in China and EU; Texas solar megaplant construction underway.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-14T17:54:05,TSLA,0.2,"Q1 margin reset positive, but valuation stretched on AI execution demands."
 2026-05-14T17:54:05,MSFT,0.3,Earnings beat with strong agentic AI positioning; offset by valuation concerns.
 2026-05-14T17:54:05,AMZN,0.3,Amazon competing with Treasury for capital; heavy AI infrastructure spending.
-2026-05-14T14:32:04,AAPL,0.6,"Record highs, strong iPhone demand, China openness signals positive outlook."
-2026-05-14T14:32:04,NVDA,0.6,Nvidia earnings catalyst; chip stocks rally on AI strength momentum.
-2026-05-14T14:32:04,TSLA,0.6,China FSD approval hopes and Trump-Xi trade thaw optimism drive rally.
-2026-05-14T14:32:04,MSFT,-0.35,UK antitrust investigation into bundling practices; OpenAI independence concerns.
-2026-05-14T14:32:04,AMZN,0.2,AI capex investment signals growth; mixed fund performance concerns.
