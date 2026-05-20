@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-20T15:43:44,AAPL,0.2,Apple TV premium content expansion supports services growth strategy.
+2026-05-20T15:43:44,NVDA,0.0,Nvidia earnings imminent; mixed sentiment with competition concerns.
+2026-05-20T15:43:44,TSLA,0.6,"Strong Q1 earnings beat, margin expansion, FSD revenue surge."
+2026-05-20T15:43:44,MSFT,0.3,New Surface devices with AI processors; market concentration risk noted.
+2026-05-20T15:43:44,AMZN,0.3,AWS cloud monetization strength; tariff refund lawsuit offset gains.
 2026-05-19T21:15:30,AAPL,0.2,F1 streaming deal positive; regulatory app store pressure mixed.
 2026-05-19T21:15:30,NVDA,-0.3,Earnings anticipation mixed with sector rotation away from semiconductors.
 2026-05-19T21:15:30,TSLA,-0.6,"Trump sells Tesla stake, talent exodus, SpaceX IPO competition, EV fee proposal."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-13T21:23:05,TSLA,0.6,Musk joins Trump China visit; potential major growth opportunity unlocked.
 2026-05-13T21:23:05,MSFT,0.2,"Mixed signals: AI startup deals offset by tech concentration concerns, CapEx worries."
 2026-05-13T21:23:05,AMZN,0.2,AI shopping assistant upgrade and supply chain expansion offset insider selling.
-2026-05-13T18:04:08,AAPL,0.3,Tech sector rebound lifts AAPL; potential China tariff relief benefits.
-2026-05-13T18:04:08,NVDA,0.6,Nvidia hits record high ahead of earnings; Jensen Huang at Trump-Xi summit.
-2026-05-13T18:04:08,TSLA,0.2,China trip with Trump offers opportunity; competitive pressures persist.
-2026-05-13T18:04:08,MSFT,0.3,AI infrastructure demand strong; MSFT benefits from cloud compute agreements.
-2026-05-13T18:04:08,AMZN,0.2,Amazon rebrands AI shopping agent; mixed retail AI competition signals.
