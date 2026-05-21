@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-21T21:24:29,AAPL,0.3,"Apple earnings strength amid tech sector rotation, competitive pressures."
+2026-05-21T21:24:29,NVDA,0.9,"Earnings beat, record revenue, $80B buyback, strong guidance."
+2026-05-21T21:24:29,TSLA,0.2,China opens door to Tesla self-driving; SpaceX IPO noise neutral for TSLA.
+2026-05-21T21:24:29,MSFT,0.6,Anthropic AI chip deal and $1B EY partnership strengthen position.
+2026-05-21T21:24:29,AMZN,0.6,"Strong Q1 earnings, AI growth momentum, Alexa shopping platform expansion."
 2026-05-21T18:04:56,AAPL,0.0,No AAPL-specific news; sentiment neutral on Apple directly.
 2026-05-21T18:04:56,NVDA,0.3,Earnings beat and strong guidance offset by muted market reaction.
 2026-05-21T18:04:56,TSLA,0.2,SpaceX IPO filing; mixed Tesla sentiment amid valuation concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-15T17:40:55,TSLA,-0.6,China trip disappoints; robotaxi delays and Waymo competition intensify.
 2026-05-15T17:40:55,MSFT,0.6,Bill Ackman's major stake signals undervaluation; stock rallies despite tech selloff.
 2026-05-15T17:40:55,AMZN,0.1,Amazon chart breakout offset by macro headwinds and consumer shift to budget retailers.
-2026-05-15T14:26:16,AAPL,0.4,iPhone sales outpacing competitors globally; tech sector AI boom broadens.
-2026-05-15T14:26:16,NVDA,0.6,Stock surges 4% amid AI boom; 27 quarters consecutive 30%+ revenue growth.
-2026-05-15T14:26:16,TSLA,-0.3,"AI overheating concerns, China trade uncertainty weigh on tech."
-2026-05-15T14:26:16,MSFT,-0.6,UK antitrust probe into Microsoft's AI bundling practices and competitive concerns.
-2026-05-15T14:26:16,AMZN,-0.3,Job cuts in Selling Partner Services offset AI growth opportunities.
