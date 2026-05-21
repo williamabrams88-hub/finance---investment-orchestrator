@@ -1,4 +1,7 @@
 timestamp,ticker,signal,confidence,reason
+2026-05-21T15:45:32,AAPL,SELL,High,"Sentiment reversal pos→neg (prev=0.30, now=-0.30)"
+2026-05-21T15:45:32,TSLA,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.30)"
+2026-05-21T15:45:32,AMZN,BUY,High,"Sentiment reversal neg→pos (prev=-0.30, now=0.60)"
 2026-05-20T15:43:44,TSLA,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.60)"
 2026-05-20T15:43:44,AMZN,BUY,High,"Sentiment reversal neg→pos (prev=-0.30, now=0.30)"
 2026-05-19T15:41:46,NVDA,SELL,High,"Sentiment reversal pos→neg (prev=0.70, now=-0.30)"

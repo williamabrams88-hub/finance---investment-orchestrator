@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-21T15:45:32,AAPL,-0.3,iPhone price cuts in China amid competitive pressure; sector valuation risks.
+2026-05-21T15:45:32,NVDA,0.3,Earnings beat and guidance raise offset by market disappointment and sell-off.
+2026-05-21T15:45:32,TSLA,-0.3,SpaceX IPO diverts capital; CFO sells stock; China FSD uncertain.
+2026-05-21T15:45:32,MSFT,0.3,Ackman builds stake; Anthropic AI chip deal talks support Azure growth.
+2026-05-21T15:45:32,AMZN,0.6,"Strong Q1 earnings, AI leadership, robot automation advancing efficiency."
 2026-05-20T21:48:25,AAPL,0.3,Apple ranks top stock pick by Graham Stephan; mega-cap growth momentum continues.
 2026-05-20T21:48:25,NVDA,0.9,Q1 earnings beat with strong guidance on data center chip sales.
 2026-05-20T21:48:25,TSLA,0.2,Tesla FSD push in China; offset by Model S/X production halt.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-14T21:06:12,TSLA,0.3,AI capex spending tailwinds offset valuation concerns post-earnings rally.
 2026-05-14T21:06:12,MSFT,0.6,Strong AI infrastructure positioning with agentic enterprise backlog growth.
 2026-05-14T21:06:12,AMZN,0.6,AI infrastructure spending surge; regulatory scrutiny on power costs.
-2026-05-14T17:54:05,AAPL,-0.3,OpenAI partnership strain and legal risk offset strong earnings outlook.
-2026-05-14T17:54:05,NVDA,0.6,CEO Huang at China summit; photonics phase 3 AI infrastructure demand.
-2026-05-14T17:54:05,TSLA,0.2,"Q1 margin reset positive, but valuation stretched on AI execution demands."
-2026-05-14T17:54:05,MSFT,0.3,Earnings beat with strong agentic AI positioning; offset by valuation concerns.
-2026-05-14T17:54:05,AMZN,0.3,Amazon competing with Treasury for capital; heavy AI infrastructure spending.
