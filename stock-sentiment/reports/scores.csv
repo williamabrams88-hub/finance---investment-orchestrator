@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-21T18:04:56,AAPL,0.0,No AAPL-specific news; sentiment neutral on Apple directly.
+2026-05-21T18:04:56,NVDA,0.3,Earnings beat and strong guidance offset by muted market reaction.
+2026-05-21T18:04:56,TSLA,0.2,SpaceX IPO filing; mixed Tesla sentiment amid valuation concerns.
+2026-05-21T18:04:56,MSFT,-0.6,AI capex concerns and 12% stock decline offset India data center progress.
+2026-05-21T18:04:56,AMZN,0.2,AWS leadership in AI cloud; offset by data center regulatory headwinds.
 2026-05-21T15:45:32,AAPL,-0.3,iPhone price cuts in China amid competitive pressure; sector valuation risks.
 2026-05-21T15:45:32,NVDA,0.3,Earnings beat and guidance raise offset by market disappointment and sell-off.
 2026-05-21T15:45:32,TSLA,-0.3,SpaceX IPO diverts capital; CFO sells stock; China FSD uncertain.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-15T14:26:16,TSLA,-0.3,"AI overheating concerns, China trade uncertainty weigh on tech."
 2026-05-15T14:26:16,MSFT,-0.6,UK antitrust probe into Microsoft's AI bundling practices and competitive concerns.
 2026-05-15T14:26:16,AMZN,-0.3,Job cuts in Selling Partner Services offset AI growth opportunities.
-2026-05-14T21:06:12,AAPL,-0.3,OpenAI legal action over failed ChatGPT deal; competitive AI pressure.
-2026-05-14T21:06:12,NVDA,0.6,"Stock surge, China summit access, AI infrastructure leadership positioning."
-2026-05-14T21:06:12,TSLA,0.3,AI capex spending tailwinds offset valuation concerns post-earnings rally.
-2026-05-14T21:06:12,MSFT,0.6,Strong AI infrastructure positioning with agentic enterprise backlog growth.
-2026-05-14T21:06:12,AMZN,0.6,AI infrastructure spending surge; regulatory scrutiny on power costs.
