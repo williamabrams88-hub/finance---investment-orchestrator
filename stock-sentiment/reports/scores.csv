@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-22T17:54:18,AAPL,0.3,Spatial computing early innings; regulatory scrutiny on App Store model.
+2026-05-22T17:54:18,NVDA,0.1,Competitive chip market comparison; mobile chip rally excludes NVDA.
+2026-05-22T17:54:18,TSLA,0.1,Mixed signals: SpaceX IPO diverting investor attention from Tesla gains.
+2026-05-22T17:54:18,MSFT,0.2,Microsoft-Anthropic AI chip deal amid broader AI buildout momentum.
+2026-05-22T17:54:18,AMZN,0.3,Mixed signals: AI data-center strength offset by tariff policy scrutiny.
 2026-05-22T14:54:14,AAPL,0.2,Stock at all-time high; Supreme Court case and valuation concerns offset gains.
 2026-05-22T14:54:14,NVDA,0.8,"Q1 earnings beat, strong guidance raise, data center growth acceleration."
 2026-05-22T14:54:14,TSLA,0.1,SpaceX IPO hype diverts investor attention from Tesla stock.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-16T13:48:50,TSLA,-0.35,"China sales weakness, robotaxi delays offset Optimus upside potential."
 2026-05-16T13:48:50,MSFT,-0.3,Bill Gates Foundation sells final $3.2B stake; Ackman builds new position.
 2026-05-16T13:48:50,AMZN,-0.35,Tariff lawsuit and AI governance backlash offset positive AI positioning.
-2026-05-15T20:56:56,AAPL,0.3,iPhone 17 price cuts in China; Intel chip deal offset by OpenAI legal threat.
-2026-05-15T20:56:56,NVDA,0.2,Nvidia earnings loom amid AI sector strength and competitor activity.
-2026-05-15T20:56:56,TSLA,-0.3,China trade disappointment offsets Optimus upside; robotaxi delays weigh.
-2026-05-15T20:56:56,MSFT,-0.3,Tiger Global reduces Microsoft holdings; tech sector weakness amid inflation concerns.
-2026-05-15T20:56:56,AMZN,0.3,Amazon stock up 14% YTD; AI investments and backing Anthropic growth.
