@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-22T14:54:14,AAPL,0.2,Stock at all-time high; Supreme Court case and valuation concerns offset gains.
+2026-05-22T14:54:14,NVDA,0.8,"Q1 earnings beat, strong guidance raise, data center growth acceleration."
+2026-05-22T14:54:14,TSLA,0.1,SpaceX IPO hype diverts investor attention from Tesla stock.
+2026-05-22T14:54:14,MSFT,0.3,AI infrastructure partnerships and Anthropic deal expand compute capacity.
+2026-05-22T14:54:14,AMZN,0.2,Broad market rebound and technical breakout above 20-day moving average.
 2026-05-21T21:24:29,AAPL,0.3,"Apple earnings strength amid tech sector rotation, competitive pressures."
 2026-05-21T21:24:29,NVDA,0.9,"Earnings beat, record revenue, $80B buyback, strong guidance."
 2026-05-21T21:24:29,TSLA,0.2,China opens door to Tesla self-driving; SpaceX IPO noise neutral for TSLA.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-15T20:56:56,TSLA,-0.3,China trade disappointment offsets Optimus upside; robotaxi delays weigh.
 2026-05-15T20:56:56,MSFT,-0.3,Tiger Global reduces Microsoft holdings; tech sector weakness amid inflation concerns.
 2026-05-15T20:56:56,AMZN,0.3,Amazon stock up 14% YTD; AI investments and backing Anthropic growth.
-2026-05-15T17:40:55,AAPL,0.1,iPhone price cuts offset by OpenAI legal threat and chip deal uncertainty.
-2026-05-15T17:40:55,NVDA,0.2,AI rally supports sector; tariff uncertainty and competition headwinds offset gains.
-2026-05-15T17:40:55,TSLA,-0.6,China trip disappoints; robotaxi delays and Waymo competition intensify.
-2026-05-15T17:40:55,MSFT,0.6,Bill Ackman's major stake signals undervaluation; stock rallies despite tech selloff.
-2026-05-15T17:40:55,AMZN,0.1,Amazon chart breakout offset by macro headwinds and consumer shift to budget retailers.
