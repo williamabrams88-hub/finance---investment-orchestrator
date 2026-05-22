@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-22T21:05:48,AAPL,0.3,Apple shines amid AI rally; potential IMAX acquisition interest.
+2026-05-22T21:05:48,NVDA,0.2,Earnings beat but failed to impress; investors seeking alternatives.
+2026-05-22T21:05:48,TSLA,0.6,Tesla FSD launch in China after Trump-Xi talks; positive momentum.
+2026-05-22T21:05:48,MSFT,0.2,AI market broadening beyond infrastructure; mixed sentiment on mega-cap tech.
+2026-05-22T21:05:48,AMZN,0.6,Bank of America upgrade on AI product launch; strong earnings momentum.
 2026-05-22T17:54:18,AAPL,0.3,Spatial computing early innings; regulatory scrutiny on App Store model.
 2026-05-22T17:54:18,NVDA,0.1,Competitive chip market comparison; mobile chip rally excludes NVDA.
 2026-05-22T17:54:18,TSLA,0.1,Mixed signals: SpaceX IPO diverting investor attention from Tesla gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-16T17:00:51,TSLA,-0.3,China sales decline and financing push offset price increase and Optimus upside.
 2026-05-16T17:00:51,MSFT,0.3,Bill Ackman backs MSFT AI expansion; Gates foundation exits position.
 2026-05-16T17:00:51,AMZN,0.6,Top investors increase Amazon stakes; AI leadership position strengthens.
-2026-05-16T13:48:50,AAPL,0.2,Berkshire affirms Apple as core holding under new CEO leadership.
-2026-05-16T13:48:50,NVDA,0.3,Nvidia Q1 earnings imminent; chip competition and rate policy headwinds offset.
-2026-05-16T13:48:50,TSLA,-0.35,"China sales weakness, robotaxi delays offset Optimus upside potential."
-2026-05-16T13:48:50,MSFT,-0.3,Bill Gates Foundation sells final $3.2B stake; Ackman builds new position.
-2026-05-16T13:48:50,AMZN,-0.35,Tariff lawsuit and AI governance backlash offset positive AI positioning.
