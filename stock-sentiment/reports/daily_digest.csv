@@ -1,4 +1,7 @@
 timestamp,ticker,signal,confidence,reason
+2026-05-23T13:54:48,TSLA,SELL,High,Score drop -0.40 with price +2.8%
+2026-05-23T13:54:48,MSFT,BUY,High,Score spike +0.40 with price -0.1%
+2026-05-23T13:54:48,AMZN,SELL,High,Score drop -0.30 with price +1.1%
 2026-05-22T14:54:14,AMZN,SELL,High,Score drop -0.40 with price +1.1%
 2026-05-21T15:45:32,AAPL,SELL,High,"Sentiment reversal pos→neg (prev=0.30, now=-0.30)"
 2026-05-21T15:45:32,TSLA,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.30)"

@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-23T13:54:48,AAPL,0.1,Apple reclassified to value index; mixed sentiment amid tech concentration concerns.
+2026-05-23T13:54:48,NVDA,0.2,Earnings beat but failed to impress; compliance scrutiny on supply chain.
+2026-05-23T13:54:48,TSLA,0.2,Mixed signals: robotaxi challenges offset by AI positioning and price increases.
+2026-05-23T13:54:48,MSFT,0.6,Maia chip deal with Anthropic signals AI infrastructure leadership expansion.
+2026-05-23T13:54:48,AMZN,0.3,Bank of America resets Amazon forecast on AI product launch.
 2026-05-22T21:05:48,AAPL,0.3,Apple shines amid AI rally; potential IMAX acquisition interest.
 2026-05-22T21:05:48,NVDA,0.2,Earnings beat but failed to impress; investors seeking alternatives.
 2026-05-22T21:05:48,TSLA,0.6,Tesla FSD launch in China after Trump-Xi talks; positive momentum.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-16T20:41:09,TSLA,0.2,China market pressure offset by potential trade normalization benefits.
 2026-05-16T20:41:09,MSFT,0.3,Bill Ackman backs MSFT AI expansion despite Gates Foundation stock exit.
 2026-05-16T20:41:09,AMZN,0.3,AI investment strength offset by tariff lawsuit and wage concerns.
-2026-05-16T17:00:51,AAPL,-0.5,Apple Intelligence false advertising settlement costs $250 million.
-2026-05-16T17:00:51,NVDA,0.6,Jensen Huang reveals massive AI electricity demand shock; earnings imminent.
-2026-05-16T17:00:51,TSLA,-0.3,China sales decline and financing push offset price increase and Optimus upside.
-2026-05-16T17:00:51,MSFT,0.3,Bill Ackman backs MSFT AI expansion; Gates foundation exits position.
-2026-05-16T17:00:51,AMZN,0.6,Top investors increase Amazon stakes; AI leadership position strengthens.
