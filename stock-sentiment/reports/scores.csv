@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-23T20:43:19,AAPL,0.6,Analyst upgrade to $375 target; AI-powered ecosystem driving durable growth.
+2026-05-23T20:43:19,NVDA,0.3,Berkshire tripled AI stake; portfolio shift favors AI segment growth.
+2026-05-23T20:43:19,TSLA,0.2,Tesla near buy point; robotaxi potential offset by EV market headwinds.
+2026-05-23T20:43:19,MSFT,0.6,Maia chip deal with Anthropic; Ackman increases stake in MSFT.
+2026-05-23T20:43:19,AMZN,0.3,Strong AI positioning; added to SwingTrader portfolio near buy point.
 2026-05-23T17:02:27,AAPL,0.5,Analyst upgrade to $375 target; AI-powered ecosystem driving durable growth.
 2026-05-23T17:02:27,NVDA,0.2,Earnings beat but failed to impress; investors seeking alternatives.
 2026-05-23T17:02:27,TSLA,0.2,Mixed signals: price increases offset by robotaxi concerns and competitor threats.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-17T16:59:24,TSLA,0.2,Robotaxi hub expansion offset by Australian regulatory scrutiny.
 2026-05-17T16:59:24,MSFT,0.3,AI infrastructure expansion offset by public opposition concerns.
 2026-05-17T16:59:24,AMZN,-0.3,AI data center opposition and valuation concerns offset positive momentum.
-2026-05-17T13:48:59,AAPL,0.3,Apple-Intel foundry deal and rare earth supply chain partnership offset settlement.
-2026-05-17T13:48:59,NVDA,0.3,Trump-Xi summit eases chip export restrictions; valuation concerns persist.
-2026-05-17T13:48:59,TSLA,0.2,Robotaxi expansion offset by Australian regulatory scrutiny over safety claims.
-2026-05-17T13:48:59,MSFT,0.6,"Bill Ackman $2.09B stake, expanded AI partnerships, Azure momentum."
-2026-05-17T13:48:59,AMZN,0.3,AI hardware demand and AWS strategy gains offset valuation concerns.
