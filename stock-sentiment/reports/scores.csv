@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-24T20:50:10,AAPL,0.2,Buffett portfolio inclusion; offset by competitive AI glasses threat from Google.
+2026-05-24T20:50:10,NVDA,0.2,AI infrastructure demand remains strong; valuation concerns persist.
+2026-05-24T20:50:10,TSLA,-0.3,SpaceX IPO may divert investor capital and Musk attention from Tesla.
+2026-05-24T20:50:10,MSFT,0.2,Valuation attractive; AI capex concerns offset by analyst optimism.
+2026-05-24T20:50:10,AMZN,0.3,Major AI infrastructure investment; offset by Berkshire exit and tax controversy.
 2026-05-24T17:04:43,AAPL,0.2,Intel chip-making agreement with Apple signals partnership opportunity.
 2026-05-24T17:04:43,NVDA,0.6,GPU demand accelerating faster than historical semiconductor cycles.
 2026-05-24T17:04:43,TSLA,0.3,FSD China rollout and SpaceX stake boost AI autonomy narrative.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-18T18:02:38,TSLA,-0.2,"SpaceX IPO capital competition, Chinese EV robotaxi rival, broader tech selloff."
 2026-05-18T18:02:38,MSFT,0.3,Microsoft cleared in OpenAI lawsuit; institutional buying interest noted.
 2026-05-18T18:02:38,AMZN,0.1,Tariff lawsuit offsets positive franchise recognition and AWS AI momentum.
-2026-05-18T15:50:45,AAPL,-0.3,"China iPhone 17 price cuts amid competition pressure, antitrust scrutiny."
-2026-05-18T15:50:45,NVDA,0.0,Nvidia earnings imminent; historical data shows mixed near-term signals.
-2026-05-18T15:50:45,TSLA,-0.3,Robotaxi rollout delays and SpaceX IPO distraction weigh on sentiment.
-2026-05-18T15:50:45,MSFT,0.4,Enterprise AI demand accelerating Azure growth and Copilot adoption.
-2026-05-18T15:50:45,AMZN,0.6,"Strong AWS growth, AI chip momentum, Berkshire stake exit offset by positive catalysts."
