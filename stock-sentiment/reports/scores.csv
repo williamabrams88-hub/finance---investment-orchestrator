@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-24T17:04:43,AAPL,0.2,Intel chip-making agreement with Apple signals partnership opportunity.
+2026-05-24T17:04:43,NVDA,0.6,GPU demand accelerating faster than historical semiconductor cycles.
+2026-05-24T17:04:43,TSLA,0.3,FSD China rollout and SpaceX stake boost AI autonomy narrative.
+2026-05-24T17:04:43,MSFT,0.2,OpenAI partnership restructured; stock undervalued but settlement headwind.
+2026-05-24T17:04:43,AMZN,0.7,"AWS AI growth, Trainium chip demand, $100B Anthropic partnership deal."
 2026-05-24T13:51:23,AAPL,0.6,Analyst upgrade to $375 target; AI ecosystem and services growth narrative strengthens.
 2026-05-24T13:51:23,NVDA,0.6,Dividend raise and Uber robotaxi partnership signal growth confidence.
 2026-05-24T13:51:23,TSLA,0.2,FSD China rollout and SpaceX stake offset India exit and recall.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-18T15:50:45,TSLA,-0.3,Robotaxi rollout delays and SpaceX IPO distraction weigh on sentiment.
 2026-05-18T15:50:45,MSFT,0.4,Enterprise AI demand accelerating Azure growth and Copilot adoption.
 2026-05-18T15:50:45,AMZN,0.6,"Strong AWS growth, AI chip momentum, Berkshire stake exit offset by positive catalysts."
-2026-05-17T20:43:18,AAPL,0.3,Apple supply chain expansion; Cirrus Logic and MP Materials partnerships announced.
-2026-05-17T20:43:18,NVDA,0.2,AI semiconductor rally euphoria concerns offset space economy opportunity.
-2026-05-17T20:43:18,TSLA,0.2,Robotaxi hub expansion offset by Australian regulatory scrutiny.
-2026-05-17T20:43:18,MSFT,0.3,AI data center expansion faces public opposition; partnership expansion positive.
-2026-05-17T20:43:18,AMZN,-0.6,Berkshire Hathaway exits Amazon position; public opposes AI data centers.
