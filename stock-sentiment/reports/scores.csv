@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-24T13:51:23,AAPL,0.6,Analyst upgrade to $375 target; AI ecosystem and services growth narrative strengthens.
+2026-05-24T13:51:23,NVDA,0.6,Dividend raise and Uber robotaxi partnership signal growth confidence.
+2026-05-24T13:51:23,TSLA,0.2,FSD China rollout and SpaceX stake offset India exit and recall.
+2026-05-24T13:51:23,MSFT,0.3,RBC reiterates Outperform; hedge funds buying; Gates foundation sold shares.
+2026-05-24T13:51:23,AMZN,0.7,"AWS AI growth accelerates; Trainium chips nearly sold out, Anthropic deal."
 2026-05-23T20:43:19,AAPL,0.6,Analyst upgrade to $375 target; AI-powered ecosystem driving durable growth.
 2026-05-23T20:43:19,NVDA,0.3,Berkshire tripled AI stake; portfolio shift favors AI segment growth.
 2026-05-23T20:43:19,TSLA,0.2,Tesla near buy point; robotaxi potential offset by EV market headwinds.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-17T20:43:18,TSLA,0.2,Robotaxi hub expansion offset by Australian regulatory scrutiny.
 2026-05-17T20:43:18,MSFT,0.3,AI data center expansion faces public opposition; partnership expansion positive.
 2026-05-17T20:43:18,AMZN,-0.6,Berkshire Hathaway exits Amazon position; public opposes AI data centers.
-2026-05-17T16:59:24,AAPL,0.6,Apple expands domestic semiconductor and rare earth magnet production partnerships.
-2026-05-17T16:59:24,NVDA,0.3,BofA upgrades price target; earnings and I/O conference ahead this week.
-2026-05-17T16:59:24,TSLA,0.2,Robotaxi hub expansion offset by Australian regulatory scrutiny.
-2026-05-17T16:59:24,MSFT,0.3,AI infrastructure expansion offset by public opposition concerns.
-2026-05-17T16:59:24,AMZN,-0.3,AI data center opposition and valuation concerns offset positive momentum.
