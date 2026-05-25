@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-25T17:45:58,AAPL,0.0,No AAPL-specific catalysts; Meta regulatory pressure is indirect.
+2026-05-25T17:45:58,NVDA,0.0,Mixed sentiment; no direct NVDA catalysts in news items.
+2026-05-25T17:45:58,TSLA,-0.3,Robotaxi fundamentals weak; margin and demand pressure mounting.
+2026-05-25T17:45:58,MSFT,-0.3,AI revenue accounting scrutiny and major shareholder exit offset growth optimism.
+2026-05-25T17:45:58,AMZN,0.3,AI growth potential offset by bubble concerns and market saturation risks.
 2026-05-25T15:23:56,AAPL,0.0,Strong execution but high valuation raises caution among investors.
 2026-05-25T15:23:56,NVDA,0.2,Strong GPU demand offset by infrastructure capacity constraints.
 2026-05-25T15:23:56,TSLA,-0.6,Tesla fundamentals weaken amid margin pressure and demand challenges.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-19T15:41:46,TSLA,0.2,Q1 earnings beat offset by Trump selling stake and valuation concerns.
 2026-05-19T15:41:46,MSFT,0.2,Saudi Arabia AI datacenter expansion benefits Microsoft hyperscaler demand.
 2026-05-19T15:41:46,AMZN,0.6,Analyst upgrades and top-pick selections drive positive momentum.
-2026-05-18T21:06:58,AAPL,0.3,Apple developing AI writing tools and shortcuts for iOS 27.
-2026-05-18T21:06:58,NVDA,0.7,Nvidia earnings beat expected; CEO optimistic on China market access.
-2026-05-18T21:06:58,TSLA,-0.6,"SpaceX IPO diverts capital and attention from Tesla, pressuring valuation."
-2026-05-18T21:06:58,MSFT,0.3,OpenAI lawsuit cleared; utility deal supports AI data center demand.
-2026-05-18T21:06:58,AMZN,0.4,"Approaching $3T milestone, analyst buy rating, strong AI data center demand."
