@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-25T21:01:05,AAPL,-0.3,Meta pushes age verification burden on Apple; market bubble concerns.
+2026-05-25T21:01:05,NVDA,-0.6,China ban on H200 chips costs Nvidia $30B in lost revenue.
+2026-05-25T21:01:05,TSLA,0.0,SpaceX speculation and general tech commentary; no direct TSLA catalyst.
+2026-05-25T21:01:05,MSFT,0.3,Ackman's massive stake and AI leadership offset revenue booking concerns.
+2026-05-25T21:01:05,AMZN,0.3,Amazon positioned as best growth stock; AI tailwinds offset bubble concerns.
 2026-05-25T17:45:58,AAPL,0.0,No AAPL-specific catalysts; Meta regulatory pressure is indirect.
 2026-05-25T17:45:58,NVDA,0.0,Mixed sentiment; no direct NVDA catalysts in news items.
 2026-05-25T17:45:58,TSLA,-0.3,Robotaxi fundamentals weak; margin and demand pressure mounting.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-19T18:08:12,TSLA,-0.6,"Tesla drops on legal setbacks, EV fees, SpaceX IPO capital competition."
 2026-05-19T18:08:12,MSFT,0.3,AI business surging 123% YoY; stock underperforming fundamentals at $420.
 2026-05-19T18:08:12,AMZN,-0.3,Berkshire exits Amazon position; Shopify outperforms on valuation.
-2026-05-19T15:41:46,AAPL,0.1,Trump's large AAPL purchases offset by regulatory concerns; mixed signals.
-2026-05-19T15:41:46,NVDA,-0.3,"Earnings ahead amid weakening Wall Street bullish sentiment, China deal uncertainty."
-2026-05-19T15:41:46,TSLA,0.2,Q1 earnings beat offset by Trump selling stake and valuation concerns.
-2026-05-19T15:41:46,MSFT,0.2,Saudi Arabia AI datacenter expansion benefits Microsoft hyperscaler demand.
-2026-05-19T15:41:46,AMZN,0.6,Analyst upgrades and top-pick selections drive positive momentum.
