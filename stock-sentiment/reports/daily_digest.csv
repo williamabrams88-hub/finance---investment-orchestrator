@@ -1,4 +1,7 @@
 timestamp,ticker,signal,confidence,reason
+2026-05-25T15:23:56,TSLA,SELL,High,Score drop -0.30 with price +2.8%
+2026-05-25T15:23:56,MSFT,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.60)"
+2026-05-25T15:23:56,AMZN,SELL,High,Score drop -0.30 with price +1.1%
 2026-05-24T13:51:23,NVDA,BUY,High,Score spike +0.30 with price -1.0%
 2026-05-23T13:54:48,TSLA,SELL,High,Score drop -0.40 with price +2.8%
 2026-05-23T13:54:48,MSFT,BUY,High,Score spike +0.40 with price -0.1%
@@ -46,6 +49,3 @@ timestamp,ticker,signal,confidence,reason
 2026-04-30T14:17:04,AAPL,SELL,High,Score drop -0.30 with price +0.7%
 2026-04-30T14:17:04,NVDA,BUY,Medium,Price dropped -5.1% but sentiment=0.60 (overreaction)
 2026-04-30T14:17:04,TSLA,BUY,High,"Sentiment reversal neg→pos (prev=-0.20, now=0.40)"
-2026-04-30T14:17:04,MSFT,BUY,Medium,Price dropped -5.4% but sentiment=0.70 (overreaction)
-2026-04-29T14:22:59,NVDA,SELL,Medium,"Sustained negative for 3 runs (scores: ['-0.70', '-0.60', '-0.60'])"
-2026-04-29T14:22:59,TSLA,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.60)"

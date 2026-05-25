@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-25T15:23:56,AAPL,0.0,Strong execution but high valuation raises caution among investors.
+2026-05-25T15:23:56,NVDA,0.2,Strong GPU demand offset by infrastructure capacity constraints.
+2026-05-25T15:23:56,TSLA,-0.6,Tesla fundamentals weaken amid margin pressure and demand challenges.
+2026-05-25T15:23:56,MSFT,-0.6,"AI bubble fears, concentration risk in tech valuations, market correction warnings."
+2026-05-25T15:23:56,AMZN,0.0,Mixed signals: AI bubble concerns offset by logistics expansion strength.
 2026-05-24T20:50:10,AAPL,0.2,Buffett portfolio inclusion; offset by competitive AI glasses threat from Google.
 2026-05-24T20:50:10,NVDA,0.2,AI infrastructure demand remains strong; valuation concerns persist.
 2026-05-24T20:50:10,TSLA,-0.3,SpaceX IPO may divert investor capital and Musk attention from Tesla.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-18T21:06:58,TSLA,-0.6,"SpaceX IPO diverts capital and attention from Tesla, pressuring valuation."
 2026-05-18T21:06:58,MSFT,0.3,OpenAI lawsuit cleared; utility deal supports AI data center demand.
 2026-05-18T21:06:58,AMZN,0.4,"Approaching $3T milestone, analyst buy rating, strong AI data center demand."
-2026-05-18T18:02:38,AAPL,0.2,Siri AI overhaul with privacy focus; Intel foundry deal supports chip strategy.
-2026-05-18T18:02:38,NVDA,0.3,Upcoming Q1 earnings report; historical modest gains post-announcement.
-2026-05-18T18:02:38,TSLA,-0.2,"SpaceX IPO capital competition, Chinese EV robotaxi rival, broader tech selloff."
-2026-05-18T18:02:38,MSFT,0.3,Microsoft cleared in OpenAI lawsuit; institutional buying interest noted.
-2026-05-18T18:02:38,AMZN,0.1,Tariff lawsuit offsets positive franchise recognition and AWS AI momentum.
