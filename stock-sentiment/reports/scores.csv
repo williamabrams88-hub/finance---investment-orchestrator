@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-26T21:39:47,AAPL,0.6,Bank of America raises AAPL price target on agentic AI opportunity.
+2026-05-26T21:39:47,NVDA,-0.6,Huawei chip breakthrough threatens market share; competitive pressure intensifies.
+2026-05-26T21:39:47,TSLA,0.2,Tesla robotaxi rollout shows promise but early operational issues emerge.
+2026-05-26T21:39:47,MSFT,0.3,Earnings beat offset by stock weakness; EY AI alliance strengthens enterprise position.
+2026-05-26T21:39:47,AMZN,0.3,Tech sector strength and Mag 7 earnings beat; AMZN valuation pullback modest.
 2026-05-26T18:28:29,AAPL,0.6,"CEO transition, AI momentum, and record Services growth offset uncertainty."
 2026-05-26T18:28:29,NVDA,0.2,"AI infrastructure demand surge; competitive pressure from AMD, Intel, Apple."
 2026-05-26T18:28:29,TSLA,0.2,Tesla recovery gains amid SpaceX IPO excitement; mixed sector sentiment.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-20T18:21:05,TSLA,0.3,FSD expansion in China and EU; Texas solar megaplant construction underway.
 2026-05-20T18:21:05,MSFT,0.3,Wedbush views restructured OpenAI partnership as net positive for Azure growth.
 2026-05-20T18:21:05,AMZN,0.3,AWS strong 28% growth; Bezos tax comments create mixed sentiment.
-2026-05-20T15:43:44,AAPL,0.2,Apple TV premium content expansion supports services growth strategy.
-2026-05-20T15:43:44,NVDA,0.0,Nvidia earnings imminent; mixed sentiment with competition concerns.
-2026-05-20T15:43:44,TSLA,0.6,"Strong Q1 earnings beat, margin expansion, FSD revenue surge."
-2026-05-20T15:43:44,MSFT,0.3,New Surface devices with AI processors; market concentration risk noted.
-2026-05-20T15:43:44,AMZN,0.3,AWS cloud monetization strength; tariff refund lawsuit offset gains.
