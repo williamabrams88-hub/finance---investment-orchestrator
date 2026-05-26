@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-26T18:28:29,AAPL,0.6,"CEO transition, AI momentum, and record Services growth offset uncertainty."
+2026-05-26T18:28:29,NVDA,0.2,"AI infrastructure demand surge; competitive pressure from AMD, Intel, Apple."
+2026-05-26T18:28:29,TSLA,0.2,Tesla recovery gains amid SpaceX IPO excitement; mixed sector sentiment.
+2026-05-26T18:28:29,MSFT,0.6,Microsoft EY AI alliance and Airia partnership deepen enterprise cloud ties.
+2026-05-26T18:28:29,AMZN,0.6,Tech rally momentum with Amazon positioned as AI infrastructure leader.
 2026-05-26T16:00:02,AAPL,0.5,BofA raises price target citing agentic AI revenue opportunity.
 2026-05-26T16:00:02,NVDA,0.1,Earnings beat offset by valuation concerns; AI demand remains strong through 2027.
 2026-05-26T16:00:02,TSLA,0.2,SpaceX IPO filing diverts investor attention from Tesla operations.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-20T15:43:44,TSLA,0.6,"Strong Q1 earnings beat, margin expansion, FSD revenue surge."
 2026-05-20T15:43:44,MSFT,0.3,New Surface devices with AI processors; market concentration risk noted.
 2026-05-20T15:43:44,AMZN,0.3,AWS cloud monetization strength; tariff refund lawsuit offset gains.
-2026-05-19T21:15:30,AAPL,0.2,F1 streaming deal positive; regulatory app store pressure mixed.
-2026-05-19T21:15:30,NVDA,-0.3,Earnings anticipation mixed with sector rotation away from semiconductors.
-2026-05-19T21:15:30,TSLA,-0.6,"Trump sells Tesla stake, talent exodus, SpaceX IPO competition, EV fee proposal."
-2026-05-19T21:15:30,MSFT,0.6,"Bill Ackman stake, analyst upgrades, AI dominance, OpenAI legal victory."
-2026-05-19T21:15:30,AMZN,-0.3,Berkshire exits Amazon stake; Tepper doubles position shows mixed signals.
