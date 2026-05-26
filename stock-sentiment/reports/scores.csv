@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-26T16:00:02,AAPL,0.5,BofA raises price target citing agentic AI revenue opportunity.
+2026-05-26T16:00:02,NVDA,0.1,Earnings beat offset by valuation concerns; AI demand remains strong through 2027.
+2026-05-26T16:00:02,TSLA,0.2,SpaceX IPO filing diverts investor attention from Tesla operations.
+2026-05-26T16:00:02,MSFT,-0.3,Criticism that MSFT doesn't belong in Magnificent 7; AI infrastructure spending questioned.
+2026-05-26T16:00:02,AMZN,0.3,Amazon positioned as AI hyperscaler benefiting from massive infrastructure investment.
 2026-05-25T21:01:05,AAPL,-0.3,Meta pushes age verification burden on Apple; market bubble concerns.
 2026-05-25T21:01:05,NVDA,-0.6,China ban on H200 chips costs Nvidia $30B in lost revenue.
 2026-05-25T21:01:05,TSLA,0.0,SpaceX speculation and general tech commentary; no direct TSLA catalyst.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-19T21:15:30,TSLA,-0.6,"Trump sells Tesla stake, talent exodus, SpaceX IPO competition, EV fee proposal."
 2026-05-19T21:15:30,MSFT,0.6,"Bill Ackman stake, analyst upgrades, AI dominance, OpenAI legal victory."
 2026-05-19T21:15:30,AMZN,-0.3,Berkshire exits Amazon stake; Tepper doubles position shows mixed signals.
-2026-05-19T18:08:12,AAPL,0.1,Mixed signals: AI eyewear competition offset by App Store resolution and strong valuation.
-2026-05-19T18:08:12,NVDA,0.0,Earnings report looms amid mixed sentiment and sector weakness.
-2026-05-19T18:08:12,TSLA,-0.6,"Tesla drops on legal setbacks, EV fees, SpaceX IPO capital competition."
-2026-05-19T18:08:12,MSFT,0.3,AI business surging 123% YoY; stock underperforming fundamentals at $420.
-2026-05-19T18:08:12,AMZN,-0.3,Berkshire exits Amazon position; Shopify outperforms on valuation.
