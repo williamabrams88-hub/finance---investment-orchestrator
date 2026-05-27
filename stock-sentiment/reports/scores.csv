@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-27T18:28:31,AAPL,0.3,Bank of America AI growth catalyst; AAPL positioned for $10 trillion milestone.
+2026-05-27T18:28:31,NVDA,0.3,Strong Q1 earnings and AI expansion talks with key partners.
+2026-05-27T18:28:31,TSLA,0.6,"Tesla Europe EV sales surge 38-46%, stock nearing buy point."
+2026-05-27T18:28:31,MSFT,0.6,AI revenue potential underestimated; Anthropic partnership major growth driver.
+2026-05-27T18:28:31,AMZN,0.6,AI shopping service launch and data center clean-tech investment leadership.
 2026-05-27T16:03:05,AAPL,0.6,AI growth potential and record highs offset regulatory concerns.
 2026-05-27T16:03:05,NVDA,-0.3,"Earnings disappointment, competitive threats from Huawei, insider selling pressure."
 2026-05-27T16:03:05,TSLA,0.6,Europe EV sales surge 46% YoY; strong demand catalyst for growth.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-21T15:45:32,TSLA,-0.3,SpaceX IPO diverts capital; CFO sells stock; China FSD uncertain.
 2026-05-21T15:45:32,MSFT,0.3,Ackman builds stake; Anthropic AI chip deal talks support Azure growth.
 2026-05-21T15:45:32,AMZN,0.6,"Strong Q1 earnings, AI leadership, robot automation advancing efficiency."
-2026-05-20T21:48:25,AAPL,0.3,Apple ranks top stock pick by Graham Stephan; mega-cap growth momentum continues.
-2026-05-20T21:48:25,NVDA,0.9,Q1 earnings beat with strong guidance on data center chip sales.
-2026-05-20T21:48:25,TSLA,0.2,Tesla FSD push in China; offset by Model S/X production halt.
-2026-05-20T21:48:25,MSFT,0.2,Carbon removal deal positive; competitive AI landscape neutral overall.
-2026-05-20T21:48:25,AMZN,-0.3,Google AI search threat to AWS cloud business; Nvidia dominates AI chips.
