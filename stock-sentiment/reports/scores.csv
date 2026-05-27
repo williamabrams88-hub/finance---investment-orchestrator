@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-27T21:50:32,AAPL,0.3,iPhone sales outlook improves despite broader smartphone market decline.
+2026-05-27T21:50:32,NVDA,0.2,Competitors gain trillion-dollar valuations; NVDA partner Synopsys beats but stock falls.
+2026-05-27T21:50:32,TSLA,0.4,Wall Street robotaxi upgrade and strong European sales momentum offset merger speculation.
+2026-05-27T21:50:32,MSFT,0.8,Pentagon awards $9.7B software consolidation deal; AI revenue upside.
+2026-05-27T21:50:32,AMZN,0.6,Amazon secures $6B Snowflake chip deal; licenses AI shopping tools to retailers.
 2026-05-27T18:28:31,AAPL,0.3,Bank of America AI growth catalyst; AAPL positioned for $10 trillion milestone.
 2026-05-27T18:28:31,NVDA,0.3,Strong Q1 earnings and AI expansion talks with key partners.
 2026-05-27T18:28:31,TSLA,0.6,"Tesla Europe EV sales surge 38-46%, stock nearing buy point."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-21T18:04:56,TSLA,0.2,SpaceX IPO filing; mixed Tesla sentiment amid valuation concerns.
 2026-05-21T18:04:56,MSFT,-0.6,AI capex concerns and 12% stock decline offset India data center progress.
 2026-05-21T18:04:56,AMZN,0.2,AWS leadership in AI cloud; offset by data center regulatory headwinds.
-2026-05-21T15:45:32,AAPL,-0.3,iPhone price cuts in China amid competitive pressure; sector valuation risks.
-2026-05-21T15:45:32,NVDA,0.3,Earnings beat and guidance raise offset by market disappointment and sell-off.
-2026-05-21T15:45:32,TSLA,-0.3,SpaceX IPO diverts capital; CFO sells stock; China FSD uncertain.
-2026-05-21T15:45:32,MSFT,0.3,Ackman builds stake; Anthropic AI chip deal talks support Azure growth.
-2026-05-21T15:45:32,AMZN,0.6,"Strong Q1 earnings, AI leadership, robot automation advancing efficiency."
