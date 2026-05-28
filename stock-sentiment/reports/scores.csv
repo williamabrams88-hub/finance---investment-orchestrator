@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-28T16:18:19,AAPL,0.6,Earnings beat and $100B buyback authorization drive rally.
+2026-05-28T16:18:19,NVDA,0.1,AI trade bubble concerns offset by strong earnings and market broadening.
+2026-05-28T16:18:19,TSLA,-0.2,AI uncertainty and Chinese EV competition offset merger speculation.
+2026-05-28T16:18:19,MSFT,0.6,New homegrown AI coding model launch; strong positive momentum on independence strategy.
+2026-05-28T16:18:19,AMZN,0.6,Amazon monetizing AI shopping tools to retailers; strong growth momentum.
 2026-05-27T21:50:32,AAPL,0.3,iPhone sales outlook improves despite broader smartphone market decline.
 2026-05-27T21:50:32,NVDA,0.2,Competitors gain trillion-dollar valuations; NVDA partner Synopsys beats but stock falls.
 2026-05-27T21:50:32,TSLA,0.4,Wall Street robotaxi upgrade and strong European sales momentum offset merger speculation.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-21T21:24:29,TSLA,0.2,China opens door to Tesla self-driving; SpaceX IPO noise neutral for TSLA.
 2026-05-21T21:24:29,MSFT,0.6,Anthropic AI chip deal and $1B EY partnership strengthen position.
 2026-05-21T21:24:29,AMZN,0.6,"Strong Q1 earnings, AI growth momentum, Alexa shopping platform expansion."
-2026-05-21T18:04:56,AAPL,0.0,No AAPL-specific news; sentiment neutral on Apple directly.
-2026-05-21T18:04:56,NVDA,0.3,Earnings beat and strong guidance offset by muted market reaction.
-2026-05-21T18:04:56,TSLA,0.2,SpaceX IPO filing; mixed Tesla sentiment amid valuation concerns.
-2026-05-21T18:04:56,MSFT,-0.6,AI capex concerns and 12% stock decline offset India data center progress.
-2026-05-21T18:04:56,AMZN,0.2,AWS leadership in AI cloud; offset by data center regulatory headwinds.
