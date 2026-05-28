@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-28T18:38:05,AAPL,0.6,Apple Intelligence drives iPhone 17 and Mac sales upgrades ahead.
+2026-05-28T18:38:05,NVDA,0.3,Latest earnings assessed positively; AI chip demand remains strong sector-wide.
+2026-05-28T18:38:05,TSLA,0.1,Optimus robotics progress offset by AI uncertainty and earnings pressure.
+2026-05-28T18:38:05,MSFT,0.6,New AI coding model launch at Build conference; GitHub Copilot boost.
+2026-05-28T18:38:05,AMZN,0.6,Amazon monetizes AI shopping tools; $5B Anthropic investment signals AI leadership.
 2026-05-28T16:18:19,AAPL,0.6,Earnings beat and $100B buyback authorization drive rally.
 2026-05-28T16:18:19,NVDA,0.1,AI trade bubble concerns offset by strong earnings and market broadening.
 2026-05-28T16:18:19,TSLA,-0.2,AI uncertainty and Chinese EV competition offset merger speculation.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-22T14:54:14,TSLA,0.1,SpaceX IPO hype diverts investor attention from Tesla stock.
 2026-05-22T14:54:14,MSFT,0.3,AI infrastructure partnerships and Anthropic deal expand compute capacity.
 2026-05-22T14:54:14,AMZN,0.2,Broad market rebound and technical breakout above 20-day moving average.
-2026-05-21T21:24:29,AAPL,0.3,"Apple earnings strength amid tech sector rotation, competitive pressures."
-2026-05-21T21:24:29,NVDA,0.9,"Earnings beat, record revenue, $80B buyback, strong guidance."
-2026-05-21T21:24:29,TSLA,0.2,China opens door to Tesla self-driving; SpaceX IPO noise neutral for TSLA.
-2026-05-21T21:24:29,MSFT,0.6,Anthropic AI chip deal and $1B EY partnership strengthen position.
-2026-05-21T21:24:29,AMZN,0.6,"Strong Q1 earnings, AI growth momentum, Alexa shopping platform expansion."
