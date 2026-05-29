@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-29T21:50:16,AAPL,0.6,AI-driven product overhaul and dividend raise boost momentum.
+2026-05-29T21:50:16,NVDA,0.6,"Strong AI demand, new PC chip announcement at GTC event upcoming."
+2026-05-29T21:50:16,TSLA,0.2,Robotaxi progress offset by merger concerns and competitive pressure.
+2026-05-29T21:50:16,MSFT,0.6,AI spending boom drives tech rally; Dell surges on server demand.
+2026-05-29T21:50:16,AMZN,-0.6,Blue Origin rocket explosion delays Amazon satellite deployment plans.
 2026-05-29T18:35:50,AAPL,0.3,AI momentum and strong tech sector performance support AAPL valuation.
 2026-05-29T18:35:50,NVDA,0.3,"Mixed signals: AI demand strength offset by valuation concerns, sector cooling."
 2026-05-29T18:35:50,TSLA,-0.35,SpaceX merger concerns and robotaxi fleet significantly trails Waymo.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-23T17:02:27,TSLA,0.2,Mixed signals: price increases offset by robotaxi concerns and competitor threats.
 2026-05-23T17:02:27,MSFT,0.6,Maia chip deal with Anthropic signals AI infrastructure leadership expansion.
 2026-05-23T17:02:27,AMZN,0.3,Strong technical positioning; cloud monetization gains offset infrastructure concerns.
-2026-05-23T13:54:48,AAPL,0.1,Apple reclassified to value index; mixed sentiment amid tech concentration concerns.
-2026-05-23T13:54:48,NVDA,0.2,Earnings beat but failed to impress; compliance scrutiny on supply chain.
-2026-05-23T13:54:48,TSLA,0.2,Mixed signals: robotaxi challenges offset by AI positioning and price increases.
-2026-05-23T13:54:48,MSFT,0.6,Maia chip deal with Anthropic signals AI infrastructure leadership expansion.
-2026-05-23T13:54:48,AMZN,0.3,Bank of America resets Amazon forecast on AI product launch.
