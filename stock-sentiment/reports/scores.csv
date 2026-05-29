@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-29T16:01:09,AAPL,0.3,AI platform strength and in-house modem chip development offset mixed sentiment.
+2026-05-29T16:01:09,NVDA,0.3,AI demand strength confirmed; memory chip rally shows potential but valuation concerns emerge.
+2026-05-29T16:01:09,TSLA,-0.35,SpaceX merger concerns and robotaxi fleet trailing Waymo significantly.
+2026-05-29T16:01:09,MSFT,0.3,"AI spending boom supports MSFT, but rising capex concerns weigh sentiment."
+2026-05-29T16:01:09,AMZN,0.3,AI shopping features launched; margin pressure concerns offset gains.
 2026-05-28T21:52:22,AAPL,0.6,"BofA upgrade to $380, Apple Intelligence driving iPhone/Mac sales growth."
 2026-05-28T21:52:22,NVDA,0.3,Memory chip AI boom drives sector rally; NVDA benefits as key supplier.
 2026-05-28T21:52:22,TSLA,-0.3,SpaceX merger concerns offset FSD approval and winning streak gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-22T21:05:48,TSLA,0.6,Tesla FSD launch in China after Trump-Xi talks; positive momentum.
 2026-05-22T21:05:48,MSFT,0.2,AI market broadening beyond infrastructure; mixed sentiment on mega-cap tech.
 2026-05-22T21:05:48,AMZN,0.6,Bank of America upgrade on AI product launch; strong earnings momentum.
-2026-05-22T17:54:18,AAPL,0.3,Spatial computing early innings; regulatory scrutiny on App Store model.
-2026-05-22T17:54:18,NVDA,0.1,Competitive chip market comparison; mobile chip rally excludes NVDA.
-2026-05-22T17:54:18,TSLA,0.1,Mixed signals: SpaceX IPO diverting investor attention from Tesla gains.
-2026-05-22T17:54:18,MSFT,0.2,Microsoft-Anthropic AI chip deal amid broader AI buildout momentum.
-2026-05-22T17:54:18,AMZN,0.3,Mixed signals: AI data-center strength offset by tariff policy scrutiny.
