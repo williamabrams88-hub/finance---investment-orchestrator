@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-29T18:35:50,AAPL,0.3,AI momentum and strong tech sector performance support AAPL valuation.
+2026-05-29T18:35:50,NVDA,0.3,"Mixed signals: AI demand strength offset by valuation concerns, sector cooling."
+2026-05-29T18:35:50,TSLA,-0.35,SpaceX merger concerns and robotaxi fleet significantly trails Waymo.
+2026-05-29T18:35:50,MSFT,0.6,AI infrastructure spending boom; MSFT valued cheaper with stronger business fundamentals.
+2026-05-29T18:35:50,AMZN,-0.3,Blue Origin explosion setback for Bezos' space ambitions; AWS partnership strength offset.
 2026-05-29T16:01:09,AAPL,0.3,AI platform strength and in-house modem chip development offset mixed sentiment.
 2026-05-29T16:01:09,NVDA,0.3,AI demand strength confirmed; memory chip rally shows potential but valuation concerns emerge.
 2026-05-29T16:01:09,TSLA,-0.35,SpaceX merger concerns and robotaxi fleet trailing Waymo significantly.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-23T13:54:48,TSLA,0.2,Mixed signals: robotaxi challenges offset by AI positioning and price increases.
 2026-05-23T13:54:48,MSFT,0.6,Maia chip deal with Anthropic signals AI infrastructure leadership expansion.
 2026-05-23T13:54:48,AMZN,0.3,Bank of America resets Amazon forecast on AI product launch.
-2026-05-22T21:05:48,AAPL,0.3,Apple shines amid AI rally; potential IMAX acquisition interest.
-2026-05-22T21:05:48,NVDA,0.2,Earnings beat but failed to impress; investors seeking alternatives.
-2026-05-22T21:05:48,TSLA,0.6,Tesla FSD launch in China after Trump-Xi talks; positive momentum.
-2026-05-22T21:05:48,MSFT,0.2,AI market broadening beyond infrastructure; mixed sentiment on mega-cap tech.
-2026-05-22T21:05:48,AMZN,0.6,Bank of America upgrade on AI product launch; strong earnings momentum.
