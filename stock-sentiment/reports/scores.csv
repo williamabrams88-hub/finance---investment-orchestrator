@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-30T17:09:22,AAPL,0.2,AI tailwind potential; Renaissance Technologies opens position in AAPL.
+2026-05-30T17:09:22,NVDA,0.6,Analyst upgrade to $500 target; CEO confident on AI spending growth.
+2026-05-30T17:09:22,TSLA,0.3,Stock near buy points; SpaceX merger speculation and AI upside offset governance concerns.
+2026-05-30T17:09:22,MSFT,0.3,AI momentum and Surface refresh launch offset valuation concerns.
+2026-05-30T17:09:22,AMZN,0.3,AWS cloud acceleration and $300 price target offset macro headwinds.
 2026-05-30T13:57:05,AAPL,0.3,AI-driven accessibility upgrades and Siri overhaul offset Huawei competitive pressure.
 2026-05-30T13:57:05,NVDA,0.3,AI sector momentum and $1 trillion valuation milestone support bullish outlook.
 2026-05-30T13:57:05,TSLA,0.3,AI robotics TAM expansion; robotaxi adoption growing despite regulatory headwinds.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-24T13:51:23,TSLA,0.2,FSD China rollout and SpaceX stake offset India exit and recall.
 2026-05-24T13:51:23,MSFT,0.3,RBC reiterates Outperform; hedge funds buying; Gates foundation sold shares.
 2026-05-24T13:51:23,AMZN,0.7,"AWS AI growth accelerates; Trainium chips nearly sold out, Anthropic deal."
-2026-05-23T20:43:19,AAPL,0.6,Analyst upgrade to $375 target; AI-powered ecosystem driving durable growth.
-2026-05-23T20:43:19,NVDA,0.3,Berkshire tripled AI stake; portfolio shift favors AI segment growth.
-2026-05-23T20:43:19,TSLA,0.2,Tesla near buy point; robotaxi potential offset by EV market headwinds.
-2026-05-23T20:43:19,MSFT,0.6,Maia chip deal with Anthropic; Ackman increases stake in MSFT.
-2026-05-23T20:43:19,AMZN,0.3,Strong AI positioning; added to SwingTrader portfolio near buy point.
