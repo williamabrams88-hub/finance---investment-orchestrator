@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-30T20:51:15,AAPL,0.6,BofA upgrades price target to $380; AI positioning as major tailwind.
+2026-05-30T20:51:15,NVDA,-0.3,GOP portfolio shift toward Intel signals potential competitive headwinds for NVDA.
+2026-05-30T20:51:15,TSLA,0.3,"Recovery momentum, SpaceX merger speculation, offset by governance concerns."
+2026-05-30T20:51:15,MSFT,0.4,Billionaire Ackman loads up on MSFT; enterprise AI push affirmed.
+2026-05-30T20:51:15,AMZN,0.3,Billionaire Ackman loaded up on Amazon shares; market tailwinds offset rate concerns.
 2026-05-30T17:09:22,AAPL,0.2,AI tailwind potential; Renaissance Technologies opens position in AAPL.
 2026-05-30T17:09:22,NVDA,0.6,Analyst upgrade to $500 target; CEO confident on AI spending growth.
 2026-05-30T17:09:22,TSLA,0.3,Stock near buy points; SpaceX merger speculation and AI upside offset governance concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-24T17:04:43,TSLA,0.3,FSD China rollout and SpaceX stake boost AI autonomy narrative.
 2026-05-24T17:04:43,MSFT,0.2,OpenAI partnership restructured; stock undervalued but settlement headwind.
 2026-05-24T17:04:43,AMZN,0.7,"AWS AI growth, Trainium chip demand, $100B Anthropic partnership deal."
-2026-05-24T13:51:23,AAPL,0.6,Analyst upgrade to $375 target; AI ecosystem and services growth narrative strengthens.
-2026-05-24T13:51:23,NVDA,0.6,Dividend raise and Uber robotaxi partnership signal growth confidence.
-2026-05-24T13:51:23,TSLA,0.2,FSD China rollout and SpaceX stake offset India exit and recall.
-2026-05-24T13:51:23,MSFT,0.3,RBC reiterates Outperform; hedge funds buying; Gates foundation sold shares.
-2026-05-24T13:51:23,AMZN,0.7,"AWS AI growth accelerates; Trainium chips nearly sold out, Anthropic deal."
