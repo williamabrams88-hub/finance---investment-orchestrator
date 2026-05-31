@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-05-31T17:09:21,AAPL,0.6,"BofA upgrades AAPL to $380; AI strategy shift, leadership transition positive."
+2026-05-31T17:09:21,NVDA,0.0,Mixed sentiment: insider selling offset by AI opportunity positioning.
+2026-05-31T17:09:21,TSLA,0.2,Tesla positioned in AI boom; rival humanoid robot competition emerging.
+2026-05-31T17:09:21,MSFT,0.6,"MSFT reveals $37B AI run rate, expands EY partnership, stock up 7.6%."
+2026-05-31T17:09:21,AMZN,0.3,Bank of America reiterates Buy; cloud momentum healthy despite exec transition.
 2026-05-31T14:02:53,AAPL,0.6,"BofA upgrades AAPL to $380; AI strategy shift, leadership transition positive."
 2026-05-31T14:02:53,NVDA,0.6,AI workloads expand CPU market 30% through 2028; strong AI demand tailwinds.
 2026-05-31T14:02:53,TSLA,0.3,Potential SpaceX-Tesla merger speculation; humanoid robotics market tailwinds.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-25T15:23:56,TSLA,-0.6,Tesla fundamentals weaken amid margin pressure and demand challenges.
 2026-05-25T15:23:56,MSFT,-0.6,"AI bubble fears, concentration risk in tech valuations, market correction warnings."
 2026-05-25T15:23:56,AMZN,0.0,Mixed signals: AI bubble concerns offset by logistics expansion strength.
-2026-05-24T20:50:10,AAPL,0.2,Buffett portfolio inclusion; offset by competitive AI glasses threat from Google.
-2026-05-24T20:50:10,NVDA,0.2,AI infrastructure demand remains strong; valuation concerns persist.
-2026-05-24T20:50:10,TSLA,-0.3,SpaceX IPO may divert investor capital and Musk attention from Tesla.
-2026-05-24T20:50:10,MSFT,0.2,Valuation attractive; AI capex concerns offset by analyst optimism.
-2026-05-24T20:50:10,AMZN,0.3,Major AI infrastructure investment; offset by Berkshire exit and tax controversy.
