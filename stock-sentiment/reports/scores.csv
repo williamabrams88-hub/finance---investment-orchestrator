@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-01T20:19:22,AAPL,0.4,WWDC AI announcements and Siri revamp could drive growth story.
+2026-06-01T20:19:22,NVDA,0.6,New AI chips for PCs and data centers drive ecosystem expansion.
+2026-06-01T20:19:22,TSLA,-0.6,"China FSD fraud claims, NIO competition surge, Optimus robot threat."
+2026-06-01T20:19:22,MSFT,0.6,Major Nvidia partnership on RTX Spark AI chips for Windows PCs.
+2026-06-01T20:19:22,AMZN,0.3,AI infrastructure spending boost; EU cloud regulation risk offset gains.
 2026-06-01T17:57:03,AAPL,0.2,AI product roadmap on track; competitive PC market pressures emerging.
 2026-06-01T17:57:03,NVDA,0.6,RTX Spark processor launch and Uber robotaxi partnership using Nvidia Drive.
 2026-06-01T17:57:03,TSLA,-0.35,China EV competition intensifies; FSD fraud claims and Optimus competition emerge.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-26T16:00:02,TSLA,0.2,SpaceX IPO filing diverts investor attention from Tesla operations.
 2026-05-26T16:00:02,MSFT,-0.3,Criticism that MSFT doesn't belong in Magnificent 7; AI infrastructure spending questioned.
 2026-05-26T16:00:02,AMZN,0.3,Amazon positioned as AI hyperscaler benefiting from massive infrastructure investment.
-2026-05-25T21:01:05,AAPL,-0.3,Meta pushes age verification burden on Apple; market bubble concerns.
-2026-05-25T21:01:05,NVDA,-0.6,China ban on H200 chips costs Nvidia $30B in lost revenue.
-2026-05-25T21:01:05,TSLA,0.0,SpaceX speculation and general tech commentary; no direct TSLA catalyst.
-2026-05-25T21:01:05,MSFT,0.3,Ackman's massive stake and AI leadership offset revenue booking concerns.
-2026-05-25T21:01:05,AMZN,0.3,Amazon positioned as best growth stock; AI tailwinds offset bubble concerns.
