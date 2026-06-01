@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-01T17:57:03,AAPL,0.2,AI product roadmap on track; competitive PC market pressures emerging.
+2026-06-01T17:57:03,NVDA,0.6,RTX Spark processor launch and Uber robotaxi partnership using Nvidia Drive.
+2026-06-01T17:57:03,TSLA,-0.35,China EV competition intensifies; FSD fraud claims and Optimus competition emerge.
+2026-06-01T17:57:03,MSFT,0.6,Nvidia RTX Spark chip for Windows PCs boosts Microsoft ecosystem demand.
+2026-06-01T17:57:03,AMZN,0.3,Satellite internet milestone and airline deals offset Blue Origin rocket setback.
 2026-05-31T20:54:03,AAPL,0.3,AI ambitions and leadership transition drive modest valuation increase.
 2026-05-31T20:54:03,NVDA,0.2,Major $150B Taiwan investment offsets export control loophole closure.
 2026-05-31T20:54:03,TSLA,0.3,SpaceX bulk Cybertruck purchases; Tesla near buy points amid market rally.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-25T21:01:05,TSLA,0.0,SpaceX speculation and general tech commentary; no direct TSLA catalyst.
 2026-05-25T21:01:05,MSFT,0.3,Ackman's massive stake and AI leadership offset revenue booking concerns.
 2026-05-25T21:01:05,AMZN,0.3,Amazon positioned as best growth stock; AI tailwinds offset bubble concerns.
-2026-05-25T17:45:58,AAPL,0.0,No AAPL-specific catalysts; Meta regulatory pressure is indirect.
-2026-05-25T17:45:58,NVDA,0.0,Mixed sentiment; no direct NVDA catalysts in news items.
-2026-05-25T17:45:58,TSLA,-0.3,Robotaxi fundamentals weak; margin and demand pressure mounting.
-2026-05-25T17:45:58,MSFT,-0.3,AI revenue accounting scrutiny and major shareholder exit offset growth optimism.
-2026-05-25T17:45:58,AMZN,0.3,AI growth potential offset by bubble concerns and market saturation risks.
