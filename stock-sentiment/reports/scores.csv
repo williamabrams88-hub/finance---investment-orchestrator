@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-01T22:31:39,AAPL,0.4,WWDC AI strategy updates and Siri revamp expected to drive growth.
+2026-06-01T22:31:39,NVDA,0.6,"Nvidia enters PC market with RTX Spark, Microsoft partnership announced."
+2026-06-01T22:31:39,TSLA,-0.6,"OpenAI robotics competition, China FSD fraud claims, competitive EV pressure."
+2026-06-01T22:31:39,MSFT,0.6,Major AI PC partnership with Nvidia; positioned for AI agent computing boom.
+2026-06-01T22:31:39,AMZN,-0.3,EU cloud rules may exclude Amazon from critical state tenders.
 2026-06-01T20:19:22,AAPL,0.4,WWDC AI announcements and Siri revamp could drive growth story.
 2026-06-01T20:19:22,NVDA,0.6,New AI chips for PCs and data centers drive ecosystem expansion.
 2026-06-01T20:19:22,TSLA,-0.6,"China FSD fraud claims, NIO competition surge, Optimus robot threat."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-26T18:28:29,TSLA,0.2,Tesla recovery gains amid SpaceX IPO excitement; mixed sector sentiment.
 2026-05-26T18:28:29,MSFT,0.6,Microsoft EY AI alliance and Airia partnership deepen enterprise cloud ties.
 2026-05-26T18:28:29,AMZN,0.6,Tech rally momentum with Amazon positioned as AI infrastructure leader.
-2026-05-26T16:00:02,AAPL,0.5,BofA raises price target citing agentic AI revenue opportunity.
-2026-05-26T16:00:02,NVDA,0.1,Earnings beat offset by valuation concerns; AI demand remains strong through 2027.
-2026-05-26T16:00:02,TSLA,0.2,SpaceX IPO filing diverts investor attention from Tesla operations.
-2026-05-26T16:00:02,MSFT,-0.3,Criticism that MSFT doesn't belong in Magnificent 7; AI infrastructure spending questioned.
-2026-05-26T16:00:02,AMZN,0.3,Amazon positioned as AI hyperscaler benefiting from massive infrastructure investment.
