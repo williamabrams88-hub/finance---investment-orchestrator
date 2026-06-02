@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-02T19:42:25,AAPL,0.3,New product features and market expansion offset valuation concerns.
+2026-06-02T19:42:25,NVDA,0.3,CEO endorses competitor; AI dominance confirmed but competitive pressure noted.
+2026-06-02T19:42:25,TSLA,0.2,China EV sales surge 39% offsets OpenAI robotics competition threat.
+2026-06-02T19:42:25,MSFT,0.3,"Microsoft launches in-house AI models, quantum chip; stock slides post-earnings."
+2026-06-02T19:42:25,AMZN,-0.5,AWS regulatory pressure and Ring privacy lawsuit threaten core business segments.
 2026-06-02T16:48:28,AAPL,0.3,Bill-splitting feature launch; valuation concerns offset product momentum.
 2026-06-02T16:48:28,NVDA,0.6,"CEO endorses partner growth, new RTX laptops, analyst upgrade signals."
 2026-06-02T16:48:28,TSLA,-0.3,OpenAI robotics competition threatens Optimus; China sales recovery offsets.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-27T16:03:05,TSLA,0.6,Europe EV sales surge 46% YoY; strong demand catalyst for growth.
 2026-05-27T16:03:05,MSFT,0.6,Analyst upgrades highlight Copilot adoption and Azure acceleration momentum.
 2026-05-27T16:03:05,AMZN,0.6,"£40b UK investment, billionaire buying, AI infrastructure expansion."
-2026-05-26T21:39:47,AAPL,0.6,Bank of America raises AAPL price target on agentic AI opportunity.
-2026-05-26T21:39:47,NVDA,-0.6,Huawei chip breakthrough threatens market share; competitive pressure intensifies.
-2026-05-26T21:39:47,TSLA,0.2,Tesla robotaxi rollout shows promise but early operational issues emerge.
-2026-05-26T21:39:47,MSFT,0.3,Earnings beat offset by stock weakness; EY AI alliance strengthens enterprise position.
-2026-05-26T21:39:47,AMZN,0.3,Tech sector strength and Mag 7 earnings beat; AMZN valuation pullback modest.
