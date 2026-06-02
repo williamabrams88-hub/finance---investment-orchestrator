@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-02T16:48:28,AAPL,0.3,Bill-splitting feature launch; valuation concerns offset product momentum.
+2026-06-02T16:48:28,NVDA,0.6,"CEO endorses partner growth, new RTX laptops, analyst upgrade signals."
+2026-06-02T16:48:28,TSLA,-0.3,OpenAI robotics competition threatens Optimus; China sales recovery offsets.
+2026-06-02T16:48:28,MSFT,0.6,Major Nvidia partnership on RTX Spark laptops; AI infrastructure investment momentum.
+2026-06-02T16:48:28,AMZN,0.3,AI infrastructure spending and custom silicon chip business growth opportunity.
 2026-06-01T22:31:39,AAPL,0.4,WWDC AI strategy updates and Siri revamp expected to drive growth.
 2026-06-01T22:31:39,NVDA,0.6,"Nvidia enters PC market with RTX Spark, Microsoft partnership announced."
 2026-06-01T22:31:39,TSLA,-0.6,"OpenAI robotics competition, China FSD fraud claims, competitive EV pressure."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-26T21:39:47,TSLA,0.2,Tesla robotaxi rollout shows promise but early operational issues emerge.
 2026-05-26T21:39:47,MSFT,0.3,Earnings beat offset by stock weakness; EY AI alliance strengthens enterprise position.
 2026-05-26T21:39:47,AMZN,0.3,Tech sector strength and Mag 7 earnings beat; AMZN valuation pullback modest.
-2026-05-26T18:28:29,AAPL,0.6,"CEO transition, AI momentum, and record Services growth offset uncertainty."
-2026-05-26T18:28:29,NVDA,0.2,"AI infrastructure demand surge; competitive pressure from AMD, Intel, Apple."
-2026-05-26T18:28:29,TSLA,0.2,Tesla recovery gains amid SpaceX IPO excitement; mixed sector sentiment.
-2026-05-26T18:28:29,MSFT,0.6,Microsoft EY AI alliance and Airia partnership deepen enterprise cloud ties.
-2026-05-26T18:28:29,AMZN,0.6,Tech rally momentum with Amazon positioned as AI infrastructure leader.
