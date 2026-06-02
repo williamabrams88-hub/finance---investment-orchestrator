@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-02T22:20:44,AAPL,0.6,AI-powered Siri reveal at WWDC; new product features and market expansion.
+2026-06-02T22:20:44,NVDA,0.6,"CEO endorsement of AI ecosystem, Goldman bullish; tech rally drives records."
+2026-06-02T22:20:44,TSLA,0.3,European Model Y recovery and Shanghai deliveries offset robotics competition concerns.
+2026-06-02T22:20:44,MSFT,0.6,"Microsoft Build: AI partnerships, new models, quantum breakthrough announced."
+2026-06-02T22:20:44,AMZN,0.3,Prime Day expansion to groceries signals retail diversification strategy.
 2026-06-02T19:42:25,AAPL,0.3,New product features and market expansion offset valuation concerns.
 2026-06-02T19:42:25,NVDA,0.3,CEO endorses competitor; AI dominance confirmed but competitive pressure noted.
 2026-06-02T19:42:25,TSLA,0.2,China EV sales surge 39% offsets OpenAI robotics competition threat.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-27T18:28:31,TSLA,0.6,"Tesla Europe EV sales surge 38-46%, stock nearing buy point."
 2026-05-27T18:28:31,MSFT,0.6,AI revenue potential underestimated; Anthropic partnership major growth driver.
 2026-05-27T18:28:31,AMZN,0.6,AI shopping service launch and data center clean-tech investment leadership.
-2026-05-27T16:03:05,AAPL,0.6,AI growth potential and record highs offset regulatory concerns.
-2026-05-27T16:03:05,NVDA,-0.3,"Earnings disappointment, competitive threats from Huawei, insider selling pressure."
-2026-05-27T16:03:05,TSLA,0.6,Europe EV sales surge 46% YoY; strong demand catalyst for growth.
-2026-05-27T16:03:05,MSFT,0.6,Analyst upgrades highlight Copilot adoption and Azure acceleration momentum.
-2026-05-27T16:03:05,AMZN,0.6,"£40b UK investment, billionaire buying, AI infrastructure expansion."
