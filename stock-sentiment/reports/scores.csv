@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-03T17:05:13,AAPL,-0.3,WWDC AI announcements unlikely to boost stock; valuation concerns after 55% rally.
+2026-06-03T17:05:13,NVDA,0.3,CEO endorsement of competitor signals confidence in AI chip ecosystem.
+2026-06-03T17:05:13,TSLA,0.6,"Robotaxi expansion, China recovery, European FSD gains momentum."
+2026-06-03T17:05:13,MSFT,0.6,"Microsoft launches in-house AI models, reduces OpenAI dependence."
+2026-06-03T17:05:13,AMZN,0.2,AWS strength and AI investment offset EU regulatory headwinds.
 2026-06-02T22:20:44,AAPL,0.6,AI-powered Siri reveal at WWDC; new product features and market expansion.
 2026-06-02T22:20:44,NVDA,0.6,"CEO endorsement of AI ecosystem, Goldman bullish; tech rally drives records."
 2026-06-02T22:20:44,TSLA,0.3,European Model Y recovery and Shanghai deliveries offset robotics competition concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-27T21:50:32,TSLA,0.4,Wall Street robotaxi upgrade and strong European sales momentum offset merger speculation.
 2026-05-27T21:50:32,MSFT,0.8,Pentagon awards $9.7B software consolidation deal; AI revenue upside.
 2026-05-27T21:50:32,AMZN,0.6,Amazon secures $6B Snowflake chip deal; licenses AI shopping tools to retailers.
-2026-05-27T18:28:31,AAPL,0.3,Bank of America AI growth catalyst; AAPL positioned for $10 trillion milestone.
-2026-05-27T18:28:31,NVDA,0.3,Strong Q1 earnings and AI expansion talks with key partners.
-2026-05-27T18:28:31,TSLA,0.6,"Tesla Europe EV sales surge 38-46%, stock nearing buy point."
-2026-05-27T18:28:31,MSFT,0.6,AI revenue potential underestimated; Anthropic partnership major growth driver.
-2026-05-27T18:28:31,AMZN,0.6,AI shopping service launch and data center clean-tech investment leadership.
