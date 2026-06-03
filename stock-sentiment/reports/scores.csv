@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-03T19:51:22,AAPL,-0.3,WWDC unlikely positive catalyst; broad tech selloff headwind.
+2026-06-03T19:51:22,NVDA,0.3,CEO bullish on AI chip ecosystem; mixed sentiment on NVDA itself.
+2026-06-03T19:51:22,TSLA,0.3,Robotaxi expansion offset by safety concerns from former engineers.
+2026-06-03T19:51:22,MSFT,0.6,In-house AI models reduce OpenAI dependence; favorable regulatory environment.
+2026-06-03T19:51:22,AMZN,0.3,AI spending commitment and NLRB labor win offset broader tech sector weakness.
 2026-06-03T17:05:13,AAPL,-0.3,WWDC AI announcements unlikely to boost stock; valuation concerns after 55% rally.
 2026-06-03T17:05:13,NVDA,0.3,CEO endorsement of competitor signals confidence in AI chip ecosystem.
 2026-06-03T17:05:13,TSLA,0.6,"Robotaxi expansion, China recovery, European FSD gains momentum."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-28T16:18:19,TSLA,-0.2,AI uncertainty and Chinese EV competition offset merger speculation.
 2026-05-28T16:18:19,MSFT,0.6,New homegrown AI coding model launch; strong positive momentum on independence strategy.
 2026-05-28T16:18:19,AMZN,0.6,Amazon monetizing AI shopping tools to retailers; strong growth momentum.
-2026-05-27T21:50:32,AAPL,0.3,iPhone sales outlook improves despite broader smartphone market decline.
-2026-05-27T21:50:32,NVDA,0.2,Competitors gain trillion-dollar valuations; NVDA partner Synopsys beats but stock falls.
-2026-05-27T21:50:32,TSLA,0.4,Wall Street robotaxi upgrade and strong European sales momentum offset merger speculation.
-2026-05-27T21:50:32,MSFT,0.8,Pentagon awards $9.7B software consolidation deal; AI revenue upside.
-2026-05-27T21:50:32,AMZN,0.6,Amazon secures $6B Snowflake chip deal; licenses AI shopping tools to retailers.
