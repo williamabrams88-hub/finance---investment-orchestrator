@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-03T22:26:12,AAPL,-0.3,CEO Tim Cook stepping down overshadows AI feature optimism.
+2026-06-03T22:26:12,NVDA,0.1,Mixed signals: AI strength offset by sector volatility and valuation concerns.
+2026-06-03T22:26:12,TSLA,0.3,Cybertruck demand strong; Japan sales surge 182% in May.
+2026-06-03T22:26:12,MSFT,0.3,In-house AI models reduce OpenAI reliance; offset by sector headwinds.
+2026-06-03T22:26:12,AMZN,0.3,AI spending commitment and NLRB labor win offset broad tech sector weakness.
 2026-06-03T19:51:22,AAPL,-0.3,WWDC unlikely positive catalyst; broad tech selloff headwind.
 2026-06-03T19:51:22,NVDA,0.3,CEO bullish on AI chip ecosystem; mixed sentiment on NVDA itself.
 2026-06-03T19:51:22,TSLA,0.3,Robotaxi expansion offset by safety concerns from former engineers.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-28T18:38:05,TSLA,0.1,Optimus robotics progress offset by AI uncertainty and earnings pressure.
 2026-05-28T18:38:05,MSFT,0.6,New AI coding model launch at Build conference; GitHub Copilot boost.
 2026-05-28T18:38:05,AMZN,0.6,Amazon monetizes AI shopping tools; $5B Anthropic investment signals AI leadership.
-2026-05-28T16:18:19,AAPL,0.6,Earnings beat and $100B buyback authorization drive rally.
-2026-05-28T16:18:19,NVDA,0.1,AI trade bubble concerns offset by strong earnings and market broadening.
-2026-05-28T16:18:19,TSLA,-0.2,AI uncertainty and Chinese EV competition offset merger speculation.
-2026-05-28T16:18:19,MSFT,0.6,New homegrown AI coding model launch; strong positive momentum on independence strategy.
-2026-05-28T16:18:19,AMZN,0.6,Amazon monetizing AI shopping tools to retailers; strong growth momentum.
