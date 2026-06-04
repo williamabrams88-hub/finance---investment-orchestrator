@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-04T15:33:23,AAPL,-0.7,CEO Tim Cook stepping down; India antitrust probe ongoing.
+2026-06-04T15:33:23,NVDA,-0.3,Semiconductor sector weakness; Broadcom disappoints despite AI strength.
+2026-06-04T15:33:23,TSLA,-0.3,Valuation concerns offset robotaxi expansion; BYD competition emerges.
+2026-06-04T15:33:23,MSFT,0.6,Strong enterprise software and $627B cloud AI backlog visibility.
+2026-06-04T15:33:23,AMZN,0.6,Pinterest commits $4B to AWS through 2031; Anthropic complementary to AWS strategy.
 2026-06-03T22:26:12,AAPL,-0.3,CEO Tim Cook stepping down overshadows AI feature optimism.
 2026-06-03T22:26:12,NVDA,0.1,Mixed signals: AI strength offset by sector volatility and valuation concerns.
 2026-06-03T22:26:12,TSLA,0.3,Cybertruck demand strong; Japan sales surge 182% in May.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-28T21:52:22,TSLA,-0.3,SpaceX merger concerns offset FSD approval and winning streak gains.
 2026-05-28T21:52:22,MSFT,0.7,Dell's $9.7B Pentagon software contract centralizes Microsoft licensing.
 2026-05-28T21:52:22,AMZN,0.3,AWS partnership with Snowflake and strong AI infrastructure demand.
-2026-05-28T18:38:05,AAPL,0.6,Apple Intelligence drives iPhone 17 and Mac sales upgrades ahead.
-2026-05-28T18:38:05,NVDA,0.3,Latest earnings assessed positively; AI chip demand remains strong sector-wide.
-2026-05-28T18:38:05,TSLA,0.1,Optimus robotics progress offset by AI uncertainty and earnings pressure.
-2026-05-28T18:38:05,MSFT,0.6,New AI coding model launch at Build conference; GitHub Copilot boost.
-2026-05-28T18:38:05,AMZN,0.6,Amazon monetizes AI shopping tools; $5B Anthropic investment signals AI leadership.
