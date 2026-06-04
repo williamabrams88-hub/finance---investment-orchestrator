@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-04T18:20:10,AAPL,-0.6,CEO departure and App Store growth deceleration offset AI opportunities.
+2026-06-04T18:20:10,NVDA,0.3,New RTX Spark laptop chip launch; resilience amid chip sector volatility.
+2026-06-04T18:20:10,TSLA,0.1,Robotaxi expansion offset by valuation concerns and sector weakness.
+2026-06-04T18:20:10,MSFT,0.6,In-house AI models reduce OpenAI dependence; $37B AI revenue run rate.
+2026-06-04T18:20:10,AMZN,0.6,Amazon lands $4 billion AI cloud deal from Pinterest; AWS accelerating.
 2026-06-04T15:33:23,AAPL,-0.7,CEO Tim Cook stepping down; India antitrust probe ongoing.
 2026-06-04T15:33:23,NVDA,-0.3,Semiconductor sector weakness; Broadcom disappoints despite AI strength.
 2026-06-04T15:33:23,TSLA,-0.3,Valuation concerns offset robotaxi expansion; BYD competition emerges.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-29T16:01:09,TSLA,-0.35,SpaceX merger concerns and robotaxi fleet trailing Waymo significantly.
 2026-05-29T16:01:09,MSFT,0.3,"AI spending boom supports MSFT, but rising capex concerns weigh sentiment."
 2026-05-29T16:01:09,AMZN,0.3,AI shopping features launched; margin pressure concerns offset gains.
-2026-05-28T21:52:22,AAPL,0.6,"BofA upgrade to $380, Apple Intelligence driving iPhone/Mac sales growth."
-2026-05-28T21:52:22,NVDA,0.3,Memory chip AI boom drives sector rally; NVDA benefits as key supplier.
-2026-05-28T21:52:22,TSLA,-0.3,SpaceX merger concerns offset FSD approval and winning streak gains.
-2026-05-28T21:52:22,MSFT,0.7,Dell's $9.7B Pentagon software contract centralizes Microsoft licensing.
-2026-05-28T21:52:22,AMZN,0.3,AWS partnership with Snowflake and strong AI infrastructure demand.
