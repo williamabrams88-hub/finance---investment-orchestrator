@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-05T21:21:37,AAPL,0.6,AI-powered Siri launch at WWDC expected to drive growth story.
+2026-06-05T21:21:37,NVDA,-0.6,Nasdaq chip sell-off on rate hike concerns; sector-wide pressure.
+2026-06-05T21:21:37,TSLA,0.3,JPMorgan upgrades Tesla; SpaceX IPO momentum supports Musk wealth.
+2026-06-05T21:21:37,MSFT,-0.3,Broad tech selloff and Microsoft technical weakness amid rate concerns.
+2026-06-05T21:21:37,AMZN,-0.3,Rising shipping costs from Iran tensions complicate Prime Day profitability.
 2026-06-05T17:57:52,AAPL,0.6,Apple's major AI bet at WWDC could drive next growth story.
 2026-06-05T17:57:52,NVDA,0.2,AI server demand accelerates; investor rotation away from semiconductor leaders.
 2026-06-05T17:57:52,TSLA,0.1,JPMorgan upgrade offset by Roadster delay and AI rally pullback.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-30T17:09:22,TSLA,0.3,Stock near buy points; SpaceX merger speculation and AI upside offset governance concerns.
 2026-05-30T17:09:22,MSFT,0.3,AI momentum and Surface refresh launch offset valuation concerns.
 2026-05-30T17:09:22,AMZN,0.3,AWS cloud acceleration and $300 price target offset macro headwinds.
-2026-05-30T13:57:05,AAPL,0.3,AI-driven accessibility upgrades and Siri overhaul offset Huawei competitive pressure.
-2026-05-30T13:57:05,NVDA,0.3,AI sector momentum and $1 trillion valuation milestone support bullish outlook.
-2026-05-30T13:57:05,TSLA,0.3,AI robotics TAM expansion; robotaxi adoption growing despite regulatory headwinds.
-2026-05-30T13:57:05,MSFT,0.6,AI PC innovation with NVIDIA partnership drives strong monthly gains.
-2026-05-30T13:57:05,AMZN,-0.3,Blue Origin launch pad explosion delays Amazon satellite plans significantly.
