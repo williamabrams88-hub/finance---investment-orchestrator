@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-05T17:57:52,AAPL,0.6,Apple's major AI bet at WWDC could drive next growth story.
+2026-06-05T17:57:52,NVDA,0.2,AI server demand accelerates; investor rotation away from semiconductor leaders.
+2026-06-05T17:57:52,TSLA,0.1,JPMorgan upgrade offset by Roadster delay and AI rally pullback.
+2026-06-05T17:57:52,MSFT,0.2,Mixed signals: LinkedIn leadership transition offset by AI strength narrative.
+2026-06-05T17:57:52,AMZN,0.2,Mixed signals: cost pressures offset by AI growth thesis and strategic partnerships.
 2026-06-05T15:21:24,AAPL,0.5,Apple to unveil major AI strategy and AI-powered Siri at WWDC.
 2026-06-05T15:21:24,NVDA,-0.3,AI valuation concerns and semiconductor sector weakness offset CPU opportunity.
 2026-06-05T15:21:24,TSLA,0.5,"JP Morgan upgrades Tesla to neutral, raises price target significantly."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-30T13:57:05,TSLA,0.3,AI robotics TAM expansion; robotaxi adoption growing despite regulatory headwinds.
 2026-05-30T13:57:05,MSFT,0.6,AI PC innovation with NVIDIA partnership drives strong monthly gains.
 2026-05-30T13:57:05,AMZN,-0.3,Blue Origin launch pad explosion delays Amazon satellite plans significantly.
-2026-05-29T21:50:16,AAPL,0.6,AI-driven product overhaul and dividend raise boost momentum.
-2026-05-29T21:50:16,NVDA,0.6,"Strong AI demand, new PC chip announcement at GTC event upcoming."
-2026-05-29T21:50:16,TSLA,0.2,Robotaxi progress offset by merger concerns and competitive pressure.
-2026-05-29T21:50:16,MSFT,0.6,AI spending boom drives tech rally; Dell surges on server demand.
-2026-05-29T21:50:16,AMZN,-0.6,Blue Origin rocket explosion delays Amazon satellite deployment plans.
