@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-06T17:17:38,AAPL,0.3,WWDC AI announcements could drive stock surge; settlement lawsuit risk remains.
+2026-06-06T17:17:38,NVDA,-0.6,Nasdaq plunge on rate hike concerns; tech sector headwind for NVDA.
+2026-06-06T17:17:38,TSLA,-0.3,Roadster demo delayed to August; broader market selloff on rate hike concerns.
+2026-06-06T17:17:38,MSFT,0.1,Reid Hoffman exits board; mixed AI sector sentiment amid regulation.
+2026-06-06T17:17:38,AMZN,-0.6,"AI spending strains, $2.5B FTC settlement, Berkshire exits position."
 2026-06-06T14:00:46,AAPL,0.6,WWDC AI announcements positioned as major catalyst; settlement lawsuit risk offset.
 2026-06-06T14:00:46,NVDA,-0.6,Nasdaq plunge on rate hike concerns; Warren scrutiny of Huang.
 2026-06-06T14:00:46,TSLA,0.3,JPMorgan upgrades Tesla; offset by Roadster demo delay and market weakness.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-31T14:02:53,TSLA,0.3,Potential SpaceX-Tesla merger speculation; humanoid robotics market tailwinds.
 2026-05-31T14:02:53,MSFT,0.7,"Microsoft AI business hits $37B run rate, expands EY partnership."
 2026-05-31T14:02:53,AMZN,0.3,Bank of America reiterates Buy rating; cloud momentum healthy.
-2026-05-30T20:51:15,AAPL,0.6,BofA upgrades price target to $380; AI positioning as major tailwind.
-2026-05-30T20:51:15,NVDA,-0.3,GOP portfolio shift toward Intel signals potential competitive headwinds for NVDA.
-2026-05-30T20:51:15,TSLA,0.3,"Recovery momentum, SpaceX merger speculation, offset by governance concerns."
-2026-05-30T20:51:15,MSFT,0.4,Billionaire Ackman loads up on MSFT; enterprise AI push affirmed.
-2026-05-30T20:51:15,AMZN,0.3,Billionaire Ackman loaded up on Amazon shares; market tailwinds offset rate concerns.
