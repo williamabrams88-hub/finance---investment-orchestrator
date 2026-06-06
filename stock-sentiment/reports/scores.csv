@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-06T20:59:04,AAPL,0.2,AI strategy potential offset by iPhone marketing lawsuit settlement.
+2026-06-06T20:59:04,NVDA,-0.3,Chip sector sell-off and Fed caution on AI valuations weigh sentiment.
+2026-06-06T20:59:04,TSLA,0.2,Terafab chip facility positions Tesla as major revenue driver in Texas.
+2026-06-06T20:59:04,MSFT,0.4,Wells Fargo raises MSFT price target to $650; AI strategy optimism.
+2026-06-06T20:59:04,AMZN,-0.35,"AI spending strains, $2.5B FTC settlement, Berkshire exits position."
 2026-06-06T17:17:38,AAPL,0.3,WWDC AI announcements could drive stock surge; settlement lawsuit risk remains.
 2026-06-06T17:17:38,NVDA,-0.6,Nasdaq plunge on rate hike concerns; tech sector headwind for NVDA.
 2026-06-06T17:17:38,TSLA,-0.3,Roadster demo delayed to August; broader market selloff on rate hike concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-31T17:09:21,TSLA,0.2,Tesla positioned in AI boom; rival humanoid robot competition emerging.
 2026-05-31T17:09:21,MSFT,0.6,"MSFT reveals $37B AI run rate, expands EY partnership, stock up 7.6%."
 2026-05-31T17:09:21,AMZN,0.3,Bank of America reiterates Buy; cloud momentum healthy despite exec transition.
-2026-05-31T14:02:53,AAPL,0.6,"BofA upgrades AAPL to $380; AI strategy shift, leadership transition positive."
-2026-05-31T14:02:53,NVDA,0.6,AI workloads expand CPU market 30% through 2028; strong AI demand tailwinds.
-2026-05-31T14:02:53,TSLA,0.3,Potential SpaceX-Tesla merger speculation; humanoid robotics market tailwinds.
-2026-05-31T14:02:53,MSFT,0.7,"Microsoft AI business hits $37B run rate, expands EY partnership."
-2026-05-31T14:02:53,AMZN,0.3,Bank of America reiterates Buy rating; cloud momentum healthy.
