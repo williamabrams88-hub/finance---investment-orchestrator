@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-06T14:00:46,AAPL,0.6,WWDC AI announcements positioned as major catalyst; settlement lawsuit risk offset.
+2026-06-06T14:00:46,NVDA,-0.6,Nasdaq plunge on rate hike concerns; Warren scrutiny of Huang.
+2026-06-06T14:00:46,TSLA,0.3,JPMorgan upgrades Tesla; offset by Roadster demo delay and market weakness.
+2026-06-06T14:00:46,MSFT,0.6,"Microsoft unveils seven proprietary AI models, reduces OpenAI dependence."
+2026-06-06T14:00:46,AMZN,-0.6,"FTC settlement, AI spending strain, rising shipping costs weigh on sentiment."
 2026-06-05T21:21:37,AAPL,0.6,AI-powered Siri launch at WWDC expected to drive growth story.
 2026-06-05T21:21:37,NVDA,-0.6,Nasdaq chip sell-off on rate hike concerns; sector-wide pressure.
 2026-06-05T21:21:37,TSLA,0.3,JPMorgan upgrades Tesla; SpaceX IPO momentum supports Musk wealth.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-05-30T20:51:15,TSLA,0.3,"Recovery momentum, SpaceX merger speculation, offset by governance concerns."
 2026-05-30T20:51:15,MSFT,0.4,Billionaire Ackman loads up on MSFT; enterprise AI push affirmed.
 2026-05-30T20:51:15,AMZN,0.3,Billionaire Ackman loaded up on Amazon shares; market tailwinds offset rate concerns.
-2026-05-30T17:09:22,AAPL,0.2,AI tailwind potential; Renaissance Technologies opens position in AAPL.
-2026-05-30T17:09:22,NVDA,0.6,Analyst upgrade to $500 target; CEO confident on AI spending growth.
-2026-05-30T17:09:22,TSLA,0.3,Stock near buy points; SpaceX merger speculation and AI upside offset governance concerns.
-2026-05-30T17:09:22,MSFT,0.3,AI momentum and Surface refresh launch offset valuation concerns.
-2026-05-30T17:09:22,AMZN,0.3,AWS cloud acceleration and $300 price target offset macro headwinds.
