@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-07T17:20:11,AAPL,0.6,WWDC AI pivot with Siri relaunch and paid services expansion.
+2026-06-07T17:20:11,NVDA,-0.6,Chip sector rout erases $1 trillion; AI trade momentum cracking.
+2026-06-07T17:20:11,TSLA,0.3,Robotaxi progress and AI integration offset valuation concerns and Waymo competition.
+2026-06-07T17:20:11,MSFT,0.3,Quantum chip advancement and board transition; AI tailwinds offset uncertainty.
+2026-06-07T17:20:11,AMZN,0.6,"Cloud revenue acceleration, AI infrastructure demand, analyst upgrades on hyperscalers."
 2026-06-07T14:10:40,AAPL,0.6,WWDC AI rollout and Siri overhaul with analyst upgrades support momentum.
 2026-06-07T14:10:40,NVDA,-0.6,Chip stocks rout erases $1 trillion; AI trade momentum cracking.
 2026-06-07T14:10:40,TSLA,0.3,Robotaxi progress and AI integration offset valuation concerns and Waymo competition.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-01T17:57:03,TSLA,-0.35,China EV competition intensifies; FSD fraud claims and Optimus competition emerge.
 2026-06-01T17:57:03,MSFT,0.6,Nvidia RTX Spark chip for Windows PCs boosts Microsoft ecosystem demand.
 2026-06-01T17:57:03,AMZN,0.3,Satellite internet milestone and airline deals offset Blue Origin rocket setback.
-2026-05-31T20:54:03,AAPL,0.3,AI ambitions and leadership transition drive modest valuation increase.
-2026-05-31T20:54:03,NVDA,0.2,Major $150B Taiwan investment offsets export control loophole closure.
-2026-05-31T20:54:03,TSLA,0.3,SpaceX bulk Cybertruck purchases; Tesla near buy points amid market rally.
-2026-05-31T20:54:03,MSFT,0.6,Microsoft AI business hits $37B run rate; major EY partnership expansion.
-2026-05-31T20:54:03,AMZN,0.1,Mixed signals: AI strategy shift offset by analyst buy rating.
