@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-08T16:10:11,AAPL,0.6,Apple unveils major Siri AI overhaul at WWDC with high expectations.
+2026-06-08T16:10:11,NVDA,0.6,"Strong AI datacenter demand, margin protection through 2030, sector recovery."
+2026-06-08T16:10:11,TSLA,0.3,Tesla China sales surge 22% YoY; SpaceX IPO creates modest positive sentiment.
+2026-06-08T16:10:11,MSFT,-0.6,Microsoft pressuring OpenAI exit; EU regulatory threat to U.S. tech dominance.
+2026-06-08T16:10:11,AMZN,0.6,Multibillion-dollar AI data center fiber infrastructure deal with Corning.
 2026-06-07T21:06:54,AAPL,0.6,WWDC AI announcement with Siri relaunch and paid services expansion.
 2026-06-07T21:06:54,NVDA,-0.6,Chip sector rout erases $1T; NVDA loses $279B in single day.
 2026-06-07T21:06:54,TSLA,0.3,Robotaxi progress and AI integration offset autonomous driving competition concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-01T22:31:39,TSLA,-0.6,"OpenAI robotics competition, China FSD fraud claims, competitive EV pressure."
 2026-06-01T22:31:39,MSFT,0.6,Major AI PC partnership with Nvidia; positioned for AI agent computing boom.
 2026-06-01T22:31:39,AMZN,-0.3,EU cloud rules may exclude Amazon from critical state tenders.
-2026-06-01T20:19:22,AAPL,0.4,WWDC AI announcements and Siri revamp could drive growth story.
-2026-06-01T20:19:22,NVDA,0.6,New AI chips for PCs and data centers drive ecosystem expansion.
-2026-06-01T20:19:22,TSLA,-0.6,"China FSD fraud claims, NIO competition surge, Optimus robot threat."
-2026-06-01T20:19:22,MSFT,0.6,Major Nvidia partnership on RTX Spark AI chips for Windows PCs.
-2026-06-01T20:19:22,AMZN,0.3,AI infrastructure spending boost; EU cloud regulation risk offset gains.
