@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-09T15:21:26,AAPL,-0.3,AI announcement underwhelmed; iPhone sales boost unlikely near-term.
+2026-06-09T15:21:26,NVDA,0.3,Synopsys partnership strengthens AI chip development; sector recovery underway.
+2026-06-09T15:21:26,TSLA,0.6,J.P. Morgan triples price target; robotics and autonomous driving catalysts.
+2026-06-09T15:21:26,MSFT,0.6,"AI leadership position, NHS Copilot rollout, UBS Buy rating maintained."
+2026-06-09T15:21:26,AMZN,0.4,BofA reiterates Buy rating; Leo satellite project approaching operational tipping point.
 2026-06-08T21:47:22,AAPL,-0.3,AI Siri launch lacks timeline; investors spooked despite new features.
 2026-06-08T21:47:22,NVDA,0.6,"Chip sector recovery, Google-SpaceX GPU deal validates AI demand."
 2026-06-08T21:47:22,TSLA,0.3,China sales surge 22% YoY; SpaceX IPO speculation creates mixed signals.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-02T22:20:44,TSLA,0.3,European Model Y recovery and Shanghai deliveries offset robotics competition concerns.
 2026-06-02T22:20:44,MSFT,0.6,"Microsoft Build: AI partnerships, new models, quantum breakthrough announced."
 2026-06-02T22:20:44,AMZN,0.3,Prime Day expansion to groceries signals retail diversification strategy.
-2026-06-02T19:42:25,AAPL,0.3,New product features and market expansion offset valuation concerns.
-2026-06-02T19:42:25,NVDA,0.3,CEO endorses competitor; AI dominance confirmed but competitive pressure noted.
-2026-06-02T19:42:25,TSLA,0.2,China EV sales surge 39% offsets OpenAI robotics competition threat.
-2026-06-02T19:42:25,MSFT,0.3,"Microsoft launches in-house AI models, quantum chip; stock slides post-earnings."
-2026-06-02T19:42:25,AMZN,-0.5,AWS regulatory pressure and Ring privacy lawsuit threaten core business segments.
