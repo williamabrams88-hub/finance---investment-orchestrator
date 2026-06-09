@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-09T18:08:25,AAPL,0.3,Apple unveils AI-powered Siri; market underwhelmed by reveal.
+2026-06-09T18:08:25,NVDA,0.5,NVDA included in MANGOS AI mega-cap grouping; new RTX Spark chip launch.
+2026-06-09T18:08:25,TSLA,0.3,FSD Denmark approval and robotaxi expansion offset competitive pressure from Rivian.
+2026-06-09T18:08:25,MSFT,0.6,AI cloud infrastructure demand supports Azure growth trajectory.
+2026-06-09T18:08:25,AMZN,0.6,"AWS strength: Pinterest $4B deal, Corning partnership, analyst upgrades."
 2026-06-09T15:21:26,AAPL,-0.3,AI announcement underwhelmed; iPhone sales boost unlikely near-term.
 2026-06-09T15:21:26,NVDA,0.3,Synopsys partnership strengthens AI chip development; sector recovery underway.
 2026-06-09T15:21:26,TSLA,0.6,J.P. Morgan triples price target; robotics and autonomous driving catalysts.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-03T17:05:13,TSLA,0.6,"Robotaxi expansion, China recovery, European FSD gains momentum."
 2026-06-03T17:05:13,MSFT,0.6,"Microsoft launches in-house AI models, reduces OpenAI dependence."
 2026-06-03T17:05:13,AMZN,0.2,AWS strength and AI investment offset EU regulatory headwinds.
-2026-06-02T22:20:44,AAPL,0.6,AI-powered Siri reveal at WWDC; new product features and market expansion.
-2026-06-02T22:20:44,NVDA,0.6,"CEO endorsement of AI ecosystem, Goldman bullish; tech rally drives records."
-2026-06-02T22:20:44,TSLA,0.3,European Model Y recovery and Shanghai deliveries offset robotics competition concerns.
-2026-06-02T22:20:44,MSFT,0.6,"Microsoft Build: AI partnerships, new models, quantum breakthrough announced."
-2026-06-02T22:20:44,AMZN,0.3,Prime Day expansion to groceries signals retail diversification strategy.
