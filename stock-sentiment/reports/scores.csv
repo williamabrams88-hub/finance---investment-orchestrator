@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-09T21:44:33,AAPL,-0.3,"AI disappointment at WWDC, EU regulatory setback for Siri AI rollout."
+2026-06-09T21:44:33,NVDA,0.2,Retail investors return to AI leaders; mixed sentiment on tech sector weakness.
+2026-06-09T21:44:33,TSLA,-0.3,Musk credibility concerns and capital rotation to SpaceX IPO weigh on Tesla.
+2026-06-09T21:44:33,MSFT,-0.3,Tech sector selloff and AI stock decline pressure Microsoft shares.
+2026-06-09T21:44:33,AMZN,-0.3,Tech sector selloff amid AI valuation concerns and control risks.
 2026-06-09T18:08:25,AAPL,0.3,Apple unveils AI-powered Siri; market underwhelmed by reveal.
 2026-06-09T18:08:25,NVDA,0.5,NVDA included in MANGOS AI mega-cap grouping; new RTX Spark chip launch.
 2026-06-09T18:08:25,TSLA,0.3,FSD Denmark approval and robotaxi expansion offset competitive pressure from Rivian.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-03T19:51:22,TSLA,0.3,Robotaxi expansion offset by safety concerns from former engineers.
 2026-06-03T19:51:22,MSFT,0.6,In-house AI models reduce OpenAI dependence; favorable regulatory environment.
 2026-06-03T19:51:22,AMZN,0.3,AI spending commitment and NLRB labor win offset broader tech sector weakness.
-2026-06-03T17:05:13,AAPL,-0.3,WWDC AI announcements unlikely to boost stock; valuation concerns after 55% rally.
-2026-06-03T17:05:13,NVDA,0.3,CEO endorsement of competitor signals confidence in AI chip ecosystem.
-2026-06-03T17:05:13,TSLA,0.6,"Robotaxi expansion, China recovery, European FSD gains momentum."
-2026-06-03T17:05:13,MSFT,0.6,"Microsoft launches in-house AI models, reduces OpenAI dependence."
-2026-06-03T17:05:13,AMZN,0.2,AWS strength and AI investment offset EU regulatory headwinds.
