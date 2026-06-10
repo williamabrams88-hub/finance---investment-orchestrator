@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-10T21:55:26,AAPL,-0.35,WWDC AI Siri underwhelms investors; self-driving project abandoned.
+2026-06-10T21:55:26,NVDA,-0.6,AI hardware selloff amid inflation concerns and competitive pressure.
+2026-06-10T21:55:26,TSLA,0.6,"JPMorgan upgrade, FSD approval in Belgium, battery business tailwinds."
+2026-06-10T21:55:26,MSFT,-0.3,Azure job cuts in China amid geopolitical tensions weigh sentiment.
+2026-06-10T21:55:26,AMZN,0.6,Amazon expands logistics network; AI investments and infrastructure growth continue.
 2026-06-10T18:31:51,AAPL,0.3,WWDC Siri AI upgrade balanced against execution uncertainty concerns.
 2026-06-10T18:31:51,NVDA,0.2,Retail investors returning to AI leaders; OpenAI data center expansion signals sector strength.
 2026-06-10T18:31:51,TSLA,0.3,FSD regulatory approvals expand; geopolitical volatility and competitor battery moves offset gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-04T18:20:10,TSLA,0.1,Robotaxi expansion offset by valuation concerns and sector weakness.
 2026-06-04T18:20:10,MSFT,0.6,In-house AI models reduce OpenAI dependence; $37B AI revenue run rate.
 2026-06-04T18:20:10,AMZN,0.6,Amazon lands $4 billion AI cloud deal from Pinterest; AWS accelerating.
-2026-06-04T15:33:23,AAPL,-0.7,CEO Tim Cook stepping down; India antitrust probe ongoing.
-2026-06-04T15:33:23,NVDA,-0.3,Semiconductor sector weakness; Broadcom disappoints despite AI strength.
-2026-06-04T15:33:23,TSLA,-0.3,Valuation concerns offset robotaxi expansion; BYD competition emerges.
-2026-06-04T15:33:23,MSFT,0.6,Strong enterprise software and $627B cloud AI backlog visibility.
-2026-06-04T15:33:23,AMZN,0.6,Pinterest commits $4B to AWS through 2031; Anthropic complementary to AWS strategy.
