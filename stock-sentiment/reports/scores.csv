@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-10T15:56:13,AAPL,0.2,AI innovation and leadership transition signal mixed sentiment.
+2026-06-10T15:56:13,NVDA,-0.3,Chip sector selloff; retail interest in AI leaders offsets sector weakness.
+2026-06-10T15:56:13,TSLA,0.2,FSD Denmark approval and Level 4 autonomy claim offset by competitive pressures.
+2026-06-10T15:56:13,MSFT,-0.3,Bill Gates Epstein testimony overshadows AI partnership expansion gains.
+2026-06-10T15:56:13,AMZN,0.6,"Amazon expands LTL shipping business to all customers, disrupting logistics."
 2026-06-09T21:44:33,AAPL,-0.3,"AI disappointment at WWDC, EU regulatory setback for Siri AI rollout."
 2026-06-09T21:44:33,NVDA,0.2,Retail investors return to AI leaders; mixed sentiment on tech sector weakness.
 2026-06-09T21:44:33,TSLA,-0.3,Musk credibility concerns and capital rotation to SpaceX IPO weigh on Tesla.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-03T22:26:12,TSLA,0.3,Cybertruck demand strong; Japan sales surge 182% in May.
 2026-06-03T22:26:12,MSFT,0.3,In-house AI models reduce OpenAI reliance; offset by sector headwinds.
 2026-06-03T22:26:12,AMZN,0.3,AI spending commitment and NLRB labor win offset broad tech sector weakness.
-2026-06-03T19:51:22,AAPL,-0.3,WWDC unlikely positive catalyst; broad tech selloff headwind.
-2026-06-03T19:51:22,NVDA,0.3,CEO bullish on AI chip ecosystem; mixed sentiment on NVDA itself.
-2026-06-03T19:51:22,TSLA,0.3,Robotaxi expansion offset by safety concerns from former engineers.
-2026-06-03T19:51:22,MSFT,0.6,In-house AI models reduce OpenAI dependence; favorable regulatory environment.
-2026-06-03T19:51:22,AMZN,0.3,AI spending commitment and NLRB labor win offset broader tech sector weakness.
