@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-10T18:31:51,AAPL,0.3,WWDC Siri AI upgrade balanced against execution uncertainty concerns.
+2026-06-10T18:31:51,NVDA,0.2,Retail investors returning to AI leaders; OpenAI data center expansion signals sector strength.
+2026-06-10T18:31:51,TSLA,0.3,FSD regulatory approvals expand; geopolitical volatility and competitor battery moves offset gains.
+2026-06-10T18:31:51,MSFT,0.2,Mixed signals: AI expansion offset by data security concerns.
+2026-06-10T18:31:51,AMZN,0.3,AI expansion funding and chip business success offset tech sector rotation concerns.
 2026-06-10T15:56:13,AAPL,0.2,AI innovation and leadership transition signal mixed sentiment.
 2026-06-10T15:56:13,NVDA,-0.3,Chip sector selloff; retail interest in AI leaders offsets sector weakness.
 2026-06-10T15:56:13,TSLA,0.2,FSD Denmark approval and Level 4 autonomy claim offset by competitive pressures.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-04T15:33:23,TSLA,-0.3,Valuation concerns offset robotaxi expansion; BYD competition emerges.
 2026-06-04T15:33:23,MSFT,0.6,Strong enterprise software and $627B cloud AI backlog visibility.
 2026-06-04T15:33:23,AMZN,0.6,Pinterest commits $4B to AWS through 2031; Anthropic complementary to AWS strategy.
-2026-06-03T22:26:12,AAPL,-0.3,CEO Tim Cook stepping down overshadows AI feature optimism.
-2026-06-03T22:26:12,NVDA,0.1,Mixed signals: AI strength offset by sector volatility and valuation concerns.
-2026-06-03T22:26:12,TSLA,0.3,Cybertruck demand strong; Japan sales surge 182% in May.
-2026-06-03T22:26:12,MSFT,0.3,In-house AI models reduce OpenAI reliance; offset by sector headwinds.
-2026-06-03T22:26:12,AMZN,0.3,AI spending commitment and NLRB labor win offset broad tech sector weakness.
