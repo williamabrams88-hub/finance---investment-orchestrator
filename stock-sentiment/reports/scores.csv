@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-11T18:48:15,AAPL,0.2,Siri AI launch practical but fails to impress investors significantly.
+2026-06-11T18:48:15,NVDA,0.3,NVDA included in MANGOS tech grouping; KKR partnership supports AI infrastructure.
+2026-06-11T18:48:15,TSLA,0.2,SpaceX IPO closing boosts TSLA; mixed EV market headwinds offset gains.
+2026-06-11T18:48:15,MSFT,0.3,BNP Paribas bullish note on Copilot AI breakthrough offsets sector weakness.
+2026-06-11T18:48:15,AMZN,0.6,"Amazon expands logistics, secures AI investments, resolves patent dispute."
 2026-06-11T16:19:10,AAPL,-0.3,Magnificent 7 selloff and competitive AI pressure from Siri launch.
 2026-06-11T16:19:10,NVDA,0.3,NVDA included in MANGOS tech leadership group; offset by Mag 7 skepticism.
 2026-06-11T16:19:10,TSLA,-0.3,Robotaxi scrutiny and capital reallocation to SpaceX offset FSD expansion.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-05T15:21:24,TSLA,0.5,"JP Morgan upgrades Tesla to neutral, raises price target significantly."
 2026-06-05T15:21:24,MSFT,0.2,Mixed signals: cloud AI infrastructure strength offset by sector valuation concerns.
 2026-06-05T15:21:24,AMZN,-0.3,Engineers criticize AI spending amid job cuts; mixed cloud outlook.
-2026-06-04T21:28:26,AAPL,0.2,App Store strength offset by Services growth deceleration concerns.
-2026-06-04T21:28:26,NVDA,0.2,Potential Apple alliance via Nemotron model offsets AI competition concerns.
-2026-06-04T21:28:26,TSLA,-0.3,OpenAI enters robotics; tech sector weakness; Broadcom drag on AI stocks.
-2026-06-04T21:28:26,MSFT,0.3,Model-agnostic AI strategy praised; OpenAI relationship deteriorating.
-2026-06-04T21:28:26,AMZN,0.6,Pinterest $4B AWS deal; Anthropic IPO benefits; AI infrastructure demand surge.
