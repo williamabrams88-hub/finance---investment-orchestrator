@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-11T21:58:31,AAPL,0.2,"Siri AI upgrade shown at WWDC, but investor enthusiasm remains muted."
+2026-06-11T21:58:31,NVDA,0.7,S&P Global upgrades NVDA to AA; $10B AI infrastructure investment demand.
+2026-06-11T21:58:31,TSLA,0.3,Robotaxi rollout and FSD expansion offset by Mag 7 selloff and SpaceX capital diversion.
+2026-06-11T21:58:31,MSFT,0.3,BNP Paribas bullish on Copilot AI breakthrough; sector volatility offset gains.
+2026-06-11T21:58:31,AMZN,0.3,Bezos-led Prometheus raises $12B for AI manufacturing tools.
 2026-06-11T18:48:15,AAPL,0.2,Siri AI launch practical but fails to impress investors significantly.
 2026-06-11T18:48:15,NVDA,0.3,NVDA included in MANGOS tech grouping; KKR partnership supports AI infrastructure.
 2026-06-11T18:48:15,TSLA,0.2,SpaceX IPO closing boosts TSLA; mixed EV market headwinds offset gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-05T17:57:52,TSLA,0.1,JPMorgan upgrade offset by Roadster delay and AI rally pullback.
 2026-06-05T17:57:52,MSFT,0.2,Mixed signals: LinkedIn leadership transition offset by AI strength narrative.
 2026-06-05T17:57:52,AMZN,0.2,Mixed signals: cost pressures offset by AI growth thesis and strategic partnerships.
-2026-06-05T15:21:24,AAPL,0.5,Apple to unveil major AI strategy and AI-powered Siri at WWDC.
-2026-06-05T15:21:24,NVDA,-0.3,AI valuation concerns and semiconductor sector weakness offset CPU opportunity.
-2026-06-05T15:21:24,TSLA,0.5,"JP Morgan upgrades Tesla to neutral, raises price target significantly."
-2026-06-05T15:21:24,MSFT,0.2,Mixed signals: cloud AI infrastructure strength offset by sector valuation concerns.
-2026-06-05T15:21:24,AMZN,-0.3,Engineers criticize AI spending amid job cuts; mixed cloud outlook.
