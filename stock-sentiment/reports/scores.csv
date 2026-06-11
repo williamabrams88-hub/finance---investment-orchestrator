@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-11T16:19:10,AAPL,-0.3,Magnificent 7 selloff and competitive AI pressure from Siri launch.
+2026-06-11T16:19:10,NVDA,0.3,NVDA included in MANGOS tech leadership group; offset by Mag 7 skepticism.
+2026-06-11T16:19:10,TSLA,-0.3,Robotaxi scrutiny and capital reallocation to SpaceX offset FSD expansion.
+2026-06-11T16:19:10,MSFT,-0.3,Azure layoffs and Xbox restructuring offset strong AI partnership gains.
+2026-06-11T16:19:10,AMZN,0.6,Amazon expands logistics network; resolves patent litigation with InterDigital.
 2026-06-10T21:55:26,AAPL,-0.35,WWDC AI Siri underwhelms investors; self-driving project abandoned.
 2026-06-10T21:55:26,NVDA,-0.6,AI hardware selloff amid inflation concerns and competitive pressure.
 2026-06-10T21:55:26,TSLA,0.6,"JPMorgan upgrade, FSD approval in Belgium, battery business tailwinds."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-04T21:28:26,TSLA,-0.3,OpenAI enters robotics; tech sector weakness; Broadcom drag on AI stocks.
 2026-06-04T21:28:26,MSFT,0.3,Model-agnostic AI strategy praised; OpenAI relationship deteriorating.
 2026-06-04T21:28:26,AMZN,0.6,Pinterest $4B AWS deal; Anthropic IPO benefits; AI infrastructure demand surge.
-2026-06-04T18:20:10,AAPL,-0.6,CEO departure and App Store growth deceleration offset AI opportunities.
-2026-06-04T18:20:10,NVDA,0.3,New RTX Spark laptop chip launch; resilience amid chip sector volatility.
-2026-06-04T18:20:10,TSLA,0.1,Robotaxi expansion offset by valuation concerns and sector weakness.
-2026-06-04T18:20:10,MSFT,0.6,In-house AI models reduce OpenAI dependence; $37B AI revenue run rate.
-2026-06-04T18:20:10,AMZN,0.6,Amazon lands $4 billion AI cloud deal from Pinterest; AWS accelerating.
