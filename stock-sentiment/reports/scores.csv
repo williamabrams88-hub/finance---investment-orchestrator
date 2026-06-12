@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-12T21:28:05,AAPL,-0.3,AI ambitions hampered by memory costs; component headwinds replace tariff concerns.
+2026-06-12T21:28:05,NVDA,0.3,AI trade broadening with positive momentum; chips mixed on SpaceX IPO.
+2026-06-12T21:28:05,TSLA,0.3,SpaceX IPO success boosts Musk wealth; Tesla stock underperforms.
+2026-06-12T21:28:05,MSFT,-0.35,"Xbox restructuring amid gaming struggles, AI spending concerns weigh."
+2026-06-12T21:28:05,AMZN,0.2,Bezos' AI startup raises $12B; SpaceX IPO; power constraints risk.
 2026-06-12T18:09:18,AAPL,0.2,Siri AI upgrade and record Services revenue offset Project Titan exit uncertainty.
 2026-06-12T18:09:18,NVDA,0.0,No direct NVDA catalyst; chip sector mixed with Intel/AMD rallying.
 2026-06-12T18:09:18,TSLA,-0.3,SpaceX IPO success diverts investor capital and attention from Tesla.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-06T17:17:38,TSLA,-0.3,Roadster demo delayed to August; broader market selloff on rate hike concerns.
 2026-06-06T17:17:38,MSFT,0.1,Reid Hoffman exits board; mixed AI sector sentiment amid regulation.
 2026-06-06T17:17:38,AMZN,-0.6,"AI spending strains, $2.5B FTC settlement, Berkshire exits position."
-2026-06-06T14:00:46,AAPL,0.6,WWDC AI announcements positioned as major catalyst; settlement lawsuit risk offset.
-2026-06-06T14:00:46,NVDA,-0.6,Nasdaq plunge on rate hike concerns; Warren scrutiny of Huang.
-2026-06-06T14:00:46,TSLA,0.3,JPMorgan upgrades Tesla; offset by Roadster demo delay and market weakness.
-2026-06-06T14:00:46,MSFT,0.6,"Microsoft unveils seven proprietary AI models, reduces OpenAI dependence."
-2026-06-06T14:00:46,AMZN,-0.6,"FTC settlement, AI spending strain, rising shipping costs weigh on sentiment."
