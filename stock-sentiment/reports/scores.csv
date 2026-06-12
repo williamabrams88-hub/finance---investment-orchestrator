@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-12T18:09:18,AAPL,0.2,Siri AI upgrade and record Services revenue offset Project Titan exit uncertainty.
+2026-06-12T18:09:18,NVDA,0.0,No direct NVDA catalyst; chip sector mixed with Intel/AMD rallying.
+2026-06-12T18:09:18,TSLA,-0.3,SpaceX IPO success diverts investor capital and attention from Tesla.
+2026-06-12T18:09:18,MSFT,-0.35,"AI spending concerns, stock selloff, major investor position cuts."
+2026-06-12T18:09:18,AMZN,0.3,AWS custom chips demand growth; AI data center power constraints risk.
 2026-06-12T15:32:28,AAPL,-0.3,AI upgrades shown but stock declined 8%; unquantified cost headwinds concern.
 2026-06-12T15:32:28,NVDA,0.3,"AI infrastructure demand surge; ChatGPT hits 1B users, KKR invests $10B."
 2026-06-12T15:32:28,TSLA,-0.3,SpaceX IPO may divert retail investor capital from Tesla shares.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-06T14:00:46,TSLA,0.3,JPMorgan upgrades Tesla; offset by Roadster demo delay and market weakness.
 2026-06-06T14:00:46,MSFT,0.6,"Microsoft unveils seven proprietary AI models, reduces OpenAI dependence."
 2026-06-06T14:00:46,AMZN,-0.6,"FTC settlement, AI spending strain, rising shipping costs weigh on sentiment."
-2026-06-05T21:21:37,AAPL,0.6,AI-powered Siri launch at WWDC expected to drive growth story.
-2026-06-05T21:21:37,NVDA,-0.6,Nasdaq chip sell-off on rate hike concerns; sector-wide pressure.
-2026-06-05T21:21:37,TSLA,0.3,JPMorgan upgrades Tesla; SpaceX IPO momentum supports Musk wealth.
-2026-06-05T21:21:37,MSFT,-0.3,Broad tech selloff and Microsoft technical weakness amid rate concerns.
-2026-06-05T21:21:37,AMZN,-0.3,Rising shipping costs from Iran tensions complicate Prime Day profitability.
