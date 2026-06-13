@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-13T17:25:38,AAPL,0.3,AI leadership recognition offset by supply chain contamination allegations.
+2026-06-13T17:25:38,NVDA,0.3,AI trade momentum positive; chips mixed on broader market dynamics.
+2026-06-13T17:25:38,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
+2026-06-13T17:25:38,MSFT,-0.6,"Securities lawsuit alleges misleading AI and Copilot claims, competitive concerns."
+2026-06-13T17:25:38,AMZN,-0.3,CEO's AI disclosure triggered regulatory crackdown on Anthropic models.
 2026-06-13T14:18:02,AAPL,-0.6,Supply chain pollution risk in key iPhone production facility India.
 2026-06-13T14:18:02,NVDA,0.3,AI trade momentum positive; chips mixed on SpaceX IPO news.
 2026-06-13T14:18:02,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-07T14:10:40,TSLA,0.3,Robotaxi progress and AI integration offset valuation concerns and Waymo competition.
 2026-06-07T14:10:40,MSFT,0.6,Wells Fargo PT raise to $650; bullish on hyperscaler AI capex despite concerns.
 2026-06-07T14:10:40,AMZN,0.4,Strong cloud growth acceleration offsets privacy concerns and capex worries.
-2026-06-06T20:59:04,AAPL,0.2,AI strategy potential offset by iPhone marketing lawsuit settlement.
-2026-06-06T20:59:04,NVDA,-0.3,Chip sector sell-off and Fed caution on AI valuations weigh sentiment.
-2026-06-06T20:59:04,TSLA,0.2,Terafab chip facility positions Tesla as major revenue driver in Texas.
-2026-06-06T20:59:04,MSFT,0.4,Wells Fargo raises MSFT price target to $650; AI strategy optimism.
-2026-06-06T20:59:04,AMZN,-0.35,"AI spending strains, $2.5B FTC settlement, Berkshire exits position."
