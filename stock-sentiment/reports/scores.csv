@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-13T14:18:02,AAPL,-0.6,Supply chain pollution risk in key iPhone production facility India.
+2026-06-13T14:18:02,NVDA,0.3,AI trade momentum positive; chips mixed on SpaceX IPO news.
+2026-06-13T14:18:02,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
+2026-06-13T14:18:02,MSFT,-0.6,Securities lawsuit alleges misleading AI and Copilot statements.
+2026-06-13T14:18:02,AMZN,0.3,Harvard's $149M stake; Seth Klarman's top holding; AI beneficiary undervalued.
 2026-06-12T21:28:05,AAPL,-0.3,AI ambitions hampered by memory costs; component headwinds replace tariff concerns.
 2026-06-12T21:28:05,NVDA,0.3,AI trade broadening with positive momentum; chips mixed on SpaceX IPO.
 2026-06-12T21:28:05,TSLA,0.3,SpaceX IPO success boosts Musk wealth; Tesla stock underperforms.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-06T20:59:04,TSLA,0.2,Terafab chip facility positions Tesla as major revenue driver in Texas.
 2026-06-06T20:59:04,MSFT,0.4,Wells Fargo raises MSFT price target to $650; AI strategy optimism.
 2026-06-06T20:59:04,AMZN,-0.35,"AI spending strains, $2.5B FTC settlement, Berkshire exits position."
-2026-06-06T17:17:38,AAPL,0.3,WWDC AI announcements could drive stock surge; settlement lawsuit risk remains.
-2026-06-06T17:17:38,NVDA,-0.6,Nasdaq plunge on rate hike concerns; tech sector headwind for NVDA.
-2026-06-06T17:17:38,TSLA,-0.3,Roadster demo delayed to August; broader market selloff on rate hike concerns.
-2026-06-06T17:17:38,MSFT,0.1,Reid Hoffman exits board; mixed AI sector sentiment amid regulation.
-2026-06-06T17:17:38,AMZN,-0.6,"AI spending strains, $2.5B FTC settlement, Berkshire exits position."
