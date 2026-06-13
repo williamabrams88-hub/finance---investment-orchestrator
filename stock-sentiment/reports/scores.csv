@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-13T21:10:08,AAPL,-0.3,Supply chain contamination risk in India iPhone factory expansion.
+2026-06-13T21:10:08,NVDA,0.6,AI partnerships expand; CoreWeave validates new NVIDIA hardware at scale.
+2026-06-13T21:10:08,TSLA,-0.3,SpaceX IPO diverts investor capital; Tesla now less valuable than SpaceX.
+2026-06-13T21:10:08,MSFT,0.6,LinkedIn BrandWorks launch and KPMG AI partnership expansion drive revenue growth.
+2026-06-13T21:10:08,AMZN,0.6,"Major AI/cloud investments, satellite expansion, custom chip advancement."
 2026-06-13T17:25:38,AAPL,0.3,AI leadership recognition offset by supply chain contamination allegations.
 2026-06-13T17:25:38,NVDA,0.3,AI trade momentum positive; chips mixed on broader market dynamics.
 2026-06-13T17:25:38,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-07T17:20:11,TSLA,0.3,Robotaxi progress and AI integration offset valuation concerns and Waymo competition.
 2026-06-07T17:20:11,MSFT,0.3,Quantum chip advancement and board transition; AI tailwinds offset uncertainty.
 2026-06-07T17:20:11,AMZN,0.6,"Cloud revenue acceleration, AI infrastructure demand, analyst upgrades on hyperscalers."
-2026-06-07T14:10:40,AAPL,0.6,WWDC AI rollout and Siri overhaul with analyst upgrades support momentum.
-2026-06-07T14:10:40,NVDA,-0.6,Chip stocks rout erases $1 trillion; AI trade momentum cracking.
-2026-06-07T14:10:40,TSLA,0.3,Robotaxi progress and AI integration offset valuation concerns and Waymo competition.
-2026-06-07T14:10:40,MSFT,0.6,Wells Fargo PT raise to $650; bullish on hyperscaler AI capex despite concerns.
-2026-06-07T14:10:40,AMZN,0.4,Strong cloud growth acceleration offsets privacy concerns and capex worries.
