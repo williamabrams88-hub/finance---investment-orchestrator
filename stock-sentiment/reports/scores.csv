@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-14T14:20:38,AAPL,0.3,WWDC AI strategy gains credibility as competitors face pullback.
+2026-06-14T14:20:38,NVDA,0.7,AI infrastructure spending surge; CEO highlights agentic AI scaling rapidly.
+2026-06-14T14:20:38,TSLA,-0.3,SpaceX IPO diverts Musk capital; robotics competition emerges.
+2026-06-14T14:20:38,MSFT,0.6,AI infrastructure demand accelerating; LinkedIn BrandWorks revenue expansion.
+2026-06-14T14:20:38,AMZN,0.6,"Major AI/cloud investments, satellite expansion, strong bond demand."
 2026-06-13T21:10:08,AAPL,-0.3,Supply chain contamination risk in India iPhone factory expansion.
 2026-06-13T21:10:08,NVDA,0.6,AI partnerships expand; CoreWeave validates new NVIDIA hardware at scale.
 2026-06-13T21:10:08,TSLA,-0.3,SpaceX IPO diverts investor capital; Tesla now less valuable than SpaceX.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-07T21:06:54,TSLA,0.3,Robotaxi progress and AI integration offset autonomous driving competition concerns.
 2026-06-07T21:06:54,MSFT,0.6,Quantum chip advancement and AI infrastructure expansion validate long-term positioning.
 2026-06-07T21:06:54,AMZN,0.6,AI infrastructure demand drives cloud growth; Amazon dominates beauty retail market.
-2026-06-07T17:20:11,AAPL,0.6,WWDC AI pivot with Siri relaunch and paid services expansion.
-2026-06-07T17:20:11,NVDA,-0.6,Chip sector rout erases $1 trillion; AI trade momentum cracking.
-2026-06-07T17:20:11,TSLA,0.3,Robotaxi progress and AI integration offset valuation concerns and Waymo competition.
-2026-06-07T17:20:11,MSFT,0.3,Quantum chip advancement and board transition; AI tailwinds offset uncertainty.
-2026-06-07T17:20:11,AMZN,0.6,"Cloud revenue acceleration, AI infrastructure demand, analyst upgrades on hyperscalers."
