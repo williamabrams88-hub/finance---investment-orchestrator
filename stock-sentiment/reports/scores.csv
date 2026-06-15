@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-15T19:49:40,AAPL,0.6,Best March quarter ever; iPhone 17 demand drives record revenue and Services growth.
+2026-06-15T19:49:40,NVDA,0.6,"Kazakhstan AI deal deploys 100,000 Nvidia GPUs by 2027."
+2026-06-15T19:49:40,TSLA,0.2,SpaceX IPO momentum and merger speculation offset FSD regulatory scrutiny.
+2026-06-15T19:49:40,MSFT,-0.6,Shareholder lawsuit over Azure slowdown masks AI spending concerns.
+2026-06-15T19:49:40,AMZN,0.3,Fifth consecutive earnings beat; AWS fastest growth in 15 quarters.
 2026-06-15T17:25:02,AAPL,0.6,"Record March quarter earnings, iPhone 17 demand, AI roadmap optimism."
 2026-06-15T17:25:02,NVDA,0.0,No NVDA-specific news; mixed Mag 7 headwinds offset by AI sector strength.
 2026-06-15T17:25:02,TSLA,0.3,Geopolitical deal boost and AI chip progress offset merger speculation noise.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-09T15:21:26,TSLA,0.6,J.P. Morgan triples price target; robotics and autonomous driving catalysts.
 2026-06-09T15:21:26,MSFT,0.6,"AI leadership position, NHS Copilot rollout, UBS Buy rating maintained."
 2026-06-09T15:21:26,AMZN,0.4,BofA reiterates Buy rating; Leo satellite project approaching operational tipping point.
-2026-06-08T21:47:22,AAPL,-0.3,AI Siri launch lacks timeline; investors spooked despite new features.
-2026-06-08T21:47:22,NVDA,0.6,"Chip sector recovery, Google-SpaceX GPU deal validates AI demand."
-2026-06-08T21:47:22,TSLA,0.3,China sales surge 22% YoY; SpaceX IPO speculation creates mixed signals.
-2026-06-08T21:47:22,MSFT,0.6,"NHS Copilot rollout to 505,000 staff; mainstream AI adoption accelerating."
-2026-06-08T21:47:22,AMZN,0.6,Multibillion-dollar fiber infrastructure deal with Corning signals AI expansion.
