@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-15T17:25:02,AAPL,0.6,"Record March quarter earnings, iPhone 17 demand, AI roadmap optimism."
+2026-06-15T17:25:02,NVDA,0.0,No NVDA-specific news; mixed Mag 7 headwinds offset by AI sector strength.
+2026-06-15T17:25:02,TSLA,0.3,Geopolitical deal boost and AI chip progress offset merger speculation noise.
+2026-06-15T17:25:02,MSFT,-0.3,Shareholder lawsuit over disclosure failures offsets AI innovation gains.
+2026-06-15T17:25:02,AMZN,0.3,Broad market rally on geopolitical deal; AMZN India infrastructure expansion.
 2026-06-14T21:05:55,AAPL,-0.3,Supply chain risk in India offsets positive AI sentiment from WWDC.
 2026-06-14T21:05:55,NVDA,0.6,"Strong AI infrastructure demand sustains exceptional growth, solid balance sheet."
 2026-06-14T21:05:55,TSLA,0.6,Tesla-SpaceX merger speculation and Level 4 autonomy breakthrough.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-08T21:47:22,TSLA,0.3,China sales surge 22% YoY; SpaceX IPO speculation creates mixed signals.
 2026-06-08T21:47:22,MSFT,0.6,"NHS Copilot rollout to 505,000 staff; mainstream AI adoption accelerating."
 2026-06-08T21:47:22,AMZN,0.6,Multibillion-dollar fiber infrastructure deal with Corning signals AI expansion.
-2026-06-08T18:27:19,AAPL,0.6,Apple unveils AI-powered Siri with Google partnership at WWDC.
-2026-06-08T18:27:19,NVDA,0.6,"CEO confidence, strategic partnerships, chip sector rebound signal strength."
-2026-06-08T18:27:19,TSLA,0.3,China sales surge 22% offsets SpaceX IPO distraction concerns.
-2026-06-08T18:27:19,MSFT,0.6,Microsoft Copilot healthcare jackpot; AI lab ambitions signaled at Build.
-2026-06-08T18:27:19,AMZN,0.6,"AI deal with Corning, €10B European automation investment, Proteus robot deployment."
