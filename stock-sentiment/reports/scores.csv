@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-16T22:08:07,AAPL,0.1,AI product plans offset by regulatory probe and mixed sentiment.
+2026-06-16T22:08:07,NVDA,-0.3,Nasdaq chip selloff as market rotates toward defensive stocks.
+2026-06-16T22:08:07,TSLA,0.3,"JPMorgan upgrade to Neutral, autonomous tech regulatory headwinds in New Jersey."
+2026-06-16T22:08:07,MSFT,0.0,SpaceX IPO surge; no direct MSFT catalyst identified.
+2026-06-16T22:08:07,AMZN,-0.6,FTC drafts complaint over misleading ads; potential billions in penalties.
 2026-06-16T19:39:14,AAPL,0.3,AI AirPods and foldable iPhone launches planned for 2027.
 2026-06-16T19:39:14,NVDA,0.3,NVDA launches $20B bond sale to fund AI infrastructure expansion.
 2026-06-16T19:39:14,TSLA,0.3,"JPMorgan upgrade to Neutral, price target raised to $475."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-10T18:31:51,TSLA,0.3,FSD regulatory approvals expand; geopolitical volatility and competitor battery moves offset gains.
 2026-06-10T18:31:51,MSFT,0.2,Mixed signals: AI expansion offset by data security concerns.
 2026-06-10T18:31:51,AMZN,0.3,AI expansion funding and chip business success offset tech sector rotation concerns.
-2026-06-10T15:56:13,AAPL,0.2,AI innovation and leadership transition signal mixed sentiment.
-2026-06-10T15:56:13,NVDA,-0.3,Chip sector selloff; retail interest in AI leaders offsets sector weakness.
-2026-06-10T15:56:13,TSLA,0.2,FSD Denmark approval and Level 4 autonomy claim offset by competitive pressures.
-2026-06-10T15:56:13,MSFT,-0.3,Bill Gates Epstein testimony overshadows AI partnership expansion gains.
-2026-06-10T15:56:13,AMZN,0.6,"Amazon expands LTL shipping business to all customers, disrupting logistics."
