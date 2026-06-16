@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-16T17:12:08,AAPL,-0.3,iCloud regulatory scrutiny and modest AI strategy reception at WWDC.
+2026-06-16T17:12:08,NVDA,0.3,NVDA taps debt market for $20B AI infrastructure investment.
+2026-06-16T17:12:08,TSLA,0.2,TSLA included in Fab 10 narrative; offset by demand concerns and SpaceX outperformance.
+2026-06-16T17:12:08,MSFT,-0.6,Shareholder lawsuits over Azure slowdown and undisclosed AI spending.
+2026-06-16T17:12:08,AMZN,-0.6,SpaceX surpasses Amazon in market cap; competitive threat to Bezos.
 2026-06-15T22:14:47,AAPL,-0.3,Rising memory costs pressure margins as AI upgrades demand more hardware.
 2026-06-15T22:14:47,NVDA,0.6,"Nvidia jumps on bond sale, buyback, and AI-fueled market rally."
 2026-06-15T22:14:47,TSLA,-0.3,SpaceX IPO overshadows Tesla; Cathie Wood exits Tesla for SpaceX.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-09T21:44:33,TSLA,-0.3,Musk credibility concerns and capital rotation to SpaceX IPO weigh on Tesla.
 2026-06-09T21:44:33,MSFT,-0.3,Tech sector selloff and AI stock decline pressure Microsoft shares.
 2026-06-09T21:44:33,AMZN,-0.3,Tech sector selloff amid AI valuation concerns and control risks.
-2026-06-09T18:08:25,AAPL,0.3,Apple unveils AI-powered Siri; market underwhelmed by reveal.
-2026-06-09T18:08:25,NVDA,0.5,NVDA included in MANGOS AI mega-cap grouping; new RTX Spark chip launch.
-2026-06-09T18:08:25,TSLA,0.3,FSD Denmark approval and robotaxi expansion offset competitive pressure from Rivian.
-2026-06-09T18:08:25,MSFT,0.6,AI cloud infrastructure demand supports Azure growth trajectory.
-2026-06-09T18:08:25,AMZN,0.6,"AWS strength: Pinterest $4B deal, Corning partnership, analyst upgrades."
