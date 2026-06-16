@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-16T19:39:14,AAPL,0.3,AI AirPods and foldable iPhone launches planned for 2027.
+2026-06-16T19:39:14,NVDA,0.3,NVDA launches $20B bond sale to fund AI infrastructure expansion.
+2026-06-16T19:39:14,TSLA,0.3,"JPMorgan upgrade to Neutral, price target raised to $475."
+2026-06-16T19:39:14,MSFT,0.3,New Surface AI products launched; Xbox restructuring exploration underway.
+2026-06-16T19:39:14,AMZN,0.2,UBS Buy rating and Alexa+ launch offset by SpaceX competitive surge.
 2026-06-16T17:12:08,AAPL,-0.3,iCloud regulatory scrutiny and modest AI strategy reception at WWDC.
 2026-06-16T17:12:08,NVDA,0.3,NVDA taps debt market for $20B AI infrastructure investment.
 2026-06-16T17:12:08,TSLA,0.2,TSLA included in Fab 10 narrative; offset by demand concerns and SpaceX outperformance.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-10T15:56:13,TSLA,0.2,FSD Denmark approval and Level 4 autonomy claim offset by competitive pressures.
 2026-06-10T15:56:13,MSFT,-0.3,Bill Gates Epstein testimony overshadows AI partnership expansion gains.
 2026-06-10T15:56:13,AMZN,0.6,"Amazon expands LTL shipping business to all customers, disrupting logistics."
-2026-06-09T21:44:33,AAPL,-0.3,"AI disappointment at WWDC, EU regulatory setback for Siri AI rollout."
-2026-06-09T21:44:33,NVDA,0.2,Retail investors return to AI leaders; mixed sentiment on tech sector weakness.
-2026-06-09T21:44:33,TSLA,-0.3,Musk credibility concerns and capital rotation to SpaceX IPO weigh on Tesla.
-2026-06-09T21:44:33,MSFT,-0.3,Tech sector selloff and AI stock decline pressure Microsoft shares.
-2026-06-09T21:44:33,AMZN,-0.3,Tech sector selloff amid AI valuation concerns and control risks.
