@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-17T18:21:44,AAPL,0.1,Mixed signals: AI settlement offset by strong iPhone demand and Services growth.
+2026-06-17T18:21:44,NVDA,0.3,NVDA included in trending MANGOS mega-cap tech ETF basket.
+2026-06-17T18:21:44,TSLA,0.5,Goldman Sachs raises Q2 delivery forecast; Tesla defies auto industry slump.
+2026-06-17T18:21:44,MSFT,-0.3,Stock weakness below 200-day MA; analyst recommends selling on rallies.
+2026-06-17T18:21:44,AMZN,0.3,AWS partnership with AI startup Odyssey signals cloud AI investment strength.
 2026-06-17T15:54:43,AAPL,-0.3,Investors demand tangible AI progress beyond promises.
 2026-06-17T15:54:43,NVDA,-0.3,Intel 18A production threatens GPU dominance; AI hype may mask macro risks.
 2026-06-17T15:54:43,TSLA,0.3,Goldman raises Q2 delivery forecast; robotaxi execution critical for momentum.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-11T16:19:10,TSLA,-0.3,Robotaxi scrutiny and capital reallocation to SpaceX offset FSD expansion.
 2026-06-11T16:19:10,MSFT,-0.3,Azure layoffs and Xbox restructuring offset strong AI partnership gains.
 2026-06-11T16:19:10,AMZN,0.6,Amazon expands logistics network; resolves patent litigation with InterDigital.
-2026-06-10T21:55:26,AAPL,-0.35,WWDC AI Siri underwhelms investors; self-driving project abandoned.
-2026-06-10T21:55:26,NVDA,-0.6,AI hardware selloff amid inflation concerns and competitive pressure.
-2026-06-10T21:55:26,TSLA,0.6,"JPMorgan upgrade, FSD approval in Belgium, battery business tailwinds."
-2026-06-10T21:55:26,MSFT,-0.3,Azure job cuts in China amid geopolitical tensions weigh sentiment.
-2026-06-10T21:55:26,AMZN,0.6,Amazon expands logistics network; AI investments and infrastructure growth continue.
