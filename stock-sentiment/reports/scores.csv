@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-17T15:54:43,AAPL,-0.3,Investors demand tangible AI progress beyond promises.
+2026-06-17T15:54:43,NVDA,-0.3,Intel 18A production threatens GPU dominance; AI hype may mask macro risks.
+2026-06-17T15:54:43,TSLA,0.3,Goldman raises Q2 delivery forecast; robotaxi execution critical for momentum.
+2026-06-17T15:54:43,MSFT,-0.6,Azure growth missed expectations; stock below 200-day moving average.
+2026-06-17T15:54:43,AMZN,-0.7,"FTC lawsuit threat over deceptive advertising practices, multi-billion dollar penalty risk."
 2026-06-16T22:08:07,AAPL,0.1,AI product plans offset by regulatory probe and mixed sentiment.
 2026-06-16T22:08:07,NVDA,-0.3,Nasdaq chip selloff as market rotates toward defensive stocks.
 2026-06-16T22:08:07,TSLA,0.3,"JPMorgan upgrade to Neutral, autonomous tech regulatory headwinds in New Jersey."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-10T21:55:26,TSLA,0.6,"JPMorgan upgrade, FSD approval in Belgium, battery business tailwinds."
 2026-06-10T21:55:26,MSFT,-0.3,Azure job cuts in China amid geopolitical tensions weigh sentiment.
 2026-06-10T21:55:26,AMZN,0.6,Amazon expands logistics network; AI investments and infrastructure growth continue.
-2026-06-10T18:31:51,AAPL,0.3,WWDC Siri AI upgrade balanced against execution uncertainty concerns.
-2026-06-10T18:31:51,NVDA,0.2,Retail investors returning to AI leaders; OpenAI data center expansion signals sector strength.
-2026-06-10T18:31:51,TSLA,0.3,FSD regulatory approvals expand; geopolitical volatility and competitor battery moves offset gains.
-2026-06-10T18:31:51,MSFT,0.2,Mixed signals: AI expansion offset by data security concerns.
-2026-06-10T18:31:51,AMZN,0.3,AI expansion funding and chip business success offset tech sector rotation concerns.
