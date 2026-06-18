@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-18T18:27:05,AAPL,0.3,Intel partnership diversifies chip supply; memory cost pressures offset gains.
+2026-06-18T18:27:05,NVDA,-0.3,"Amazon, Intel competition threaten NVDA's AI chip dominance position."
+2026-06-18T18:27:05,TSLA,-0.6,Sweden opposes Tesla self-driving rollout over speeding safety concerns.
+2026-06-18T18:27:05,MSFT,0.6,ByteDance $1B+ annual AI/cloud spend; regulatory scrutiny offset gains.
+2026-06-18T18:27:05,AMZN,0.6,AI chip sales strategy and potential EU regulatory scrutiny on AWS.
 2026-06-18T15:44:24,AAPL,0.6,Apple secures Intel chip deal; positive supply chain and US manufacturing catalyst.
 2026-06-18T15:44:24,NVDA,0.2,NVDA included in MANGOS ETF trend; Intel gains overshadow chip sector.
 2026-06-18T15:44:24,TSLA,-0.3,Sweden opposes Tesla self-driving rollout; offset by safety data support.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-12T15:32:28,TSLA,-0.3,SpaceX IPO may divert retail investor capital from Tesla shares.
 2026-06-12T15:32:28,MSFT,0.2,AI monetization strength offset by massive CapEx spending concerns.
 2026-06-12T15:32:28,AMZN,0.3,AWS custom chips and nuclear power infrastructure drive AI growth.
-2026-06-11T21:58:31,AAPL,0.2,"Siri AI upgrade shown at WWDC, but investor enthusiasm remains muted."
-2026-06-11T21:58:31,NVDA,0.7,S&P Global upgrades NVDA to AA; $10B AI infrastructure investment demand.
-2026-06-11T21:58:31,TSLA,0.3,Robotaxi rollout and FSD expansion offset by Mag 7 selloff and SpaceX capital diversion.
-2026-06-11T21:58:31,MSFT,0.3,BNP Paribas bullish on Copilot AI breakthrough; sector volatility offset gains.
-2026-06-11T21:58:31,AMZN,0.3,Bezos-led Prometheus raises $12B for AI manufacturing tools.
