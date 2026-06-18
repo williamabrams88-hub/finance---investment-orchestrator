@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-18T15:44:24,AAPL,0.6,Apple secures Intel chip deal; positive supply chain and US manufacturing catalyst.
+2026-06-18T15:44:24,NVDA,0.2,NVDA included in MANGOS ETF trend; Intel gains overshadow chip sector.
+2026-06-18T15:44:24,TSLA,-0.3,Sweden opposes Tesla self-driving rollout; offset by safety data support.
+2026-06-18T15:44:24,MSFT,0.6,Microsoft expands AI business in China with ByteDance as major customer.
+2026-06-18T15:44:24,AMZN,0.6,Amazon exploring custom AI chip sales to other companies.
 2026-06-17T21:57:09,AAPL,-0.6,Price increases unavoidable due to memory chip shortage and AI demand.
 2026-06-17T21:57:09,NVDA,0.3,NVDA included in trending MANGOS mega-cap AI stock cohort.
 2026-06-17T21:57:09,TSLA,-0.3,Robotaxi competition intensifies; Tesla trails Waymo and Chinese competitors.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-11T21:58:31,TSLA,0.3,Robotaxi rollout and FSD expansion offset by Mag 7 selloff and SpaceX capital diversion.
 2026-06-11T21:58:31,MSFT,0.3,BNP Paribas bullish on Copilot AI breakthrough; sector volatility offset gains.
 2026-06-11T21:58:31,AMZN,0.3,Bezos-led Prometheus raises $12B for AI manufacturing tools.
-2026-06-11T18:48:15,AAPL,0.2,Siri AI launch practical but fails to impress investors significantly.
-2026-06-11T18:48:15,NVDA,0.3,NVDA included in MANGOS tech grouping; KKR partnership supports AI infrastructure.
-2026-06-11T18:48:15,TSLA,0.2,SpaceX IPO closing boosts TSLA; mixed EV market headwinds offset gains.
-2026-06-11T18:48:15,MSFT,0.3,BNP Paribas bullish note on Copilot AI breakthrough offsets sector weakness.
-2026-06-11T18:48:15,AMZN,0.6,"Amazon expands logistics, secures AI investments, resolves patent dispute."
