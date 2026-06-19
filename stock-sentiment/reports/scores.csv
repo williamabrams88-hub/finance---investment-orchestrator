@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-19T15:35:50,AAPL,0.3,"Price hikes confirmed; 2027 product year ahead, tariff risks loom."
+2026-06-19T15:35:50,NVDA,-0.6,"Amazon plans to sell AI chips, intensifying competitive pressure on Nvidia."
+2026-06-19T15:35:50,TSLA,0.1,FSD regulatory approval in Denmark offset by EU speed limit pushback.
+2026-06-19T15:35:50,MSFT,-0.7,"Shareholder fraud lawsuit over undisclosed Azure slowdown, AI costs."
+2026-06-19T15:35:50,AMZN,0.6,CEO announces AI chip sales plans; €10B European fulfillment investment.
 2026-06-18T22:02:19,AAPL,0.6,Apple-Intel US chip manufacturing deal; iPhone pricing power amid chip shortage.
 2026-06-18T22:02:19,NVDA,-0.3,Amazon plans AI chip sales; Intel-Apple deal diverts semiconductor demand.
 2026-06-18T22:02:19,TSLA,-0.6,Sweden opposes EU FSD approval; safety data positive but regulatory headwind.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-12T21:28:05,TSLA,0.3,SpaceX IPO success boosts Musk wealth; Tesla stock underperforms.
 2026-06-12T21:28:05,MSFT,-0.35,"Xbox restructuring amid gaming struggles, AI spending concerns weigh."
 2026-06-12T21:28:05,AMZN,0.2,Bezos' AI startup raises $12B; SpaceX IPO; power constraints risk.
-2026-06-12T18:09:18,AAPL,0.2,Siri AI upgrade and record Services revenue offset Project Titan exit uncertainty.
-2026-06-12T18:09:18,NVDA,0.0,No direct NVDA catalyst; chip sector mixed with Intel/AMD rallying.
-2026-06-12T18:09:18,TSLA,-0.3,SpaceX IPO success diverts investor capital and attention from Tesla.
-2026-06-12T18:09:18,MSFT,-0.35,"AI spending concerns, stock selloff, major investor position cuts."
-2026-06-12T18:09:18,AMZN,0.3,AWS custom chips demand growth; AI data center power constraints risk.
