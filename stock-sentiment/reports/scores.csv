@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-19T21:05:06,AAPL,0.3,iPhone pricing increase as Apple pushes AI-driven upgrades.
+2026-06-19T21:05:06,NVDA,0.2,AI infrastructure demand supports debt issuance; mixed sentiment on valuations.
+2026-06-19T21:05:06,TSLA,0.3,FSD regulatory approvals offset by European roadblocks; Cathie Wood buying support.
+2026-06-19T21:05:06,MSFT,-0.7,"Shareholder lawsuit alleges Azure slowdown disclosure failure, stock fell 10%."
+2026-06-19T21:05:06,AMZN,0.7,"AWS AI revenue $15B run rate, massive infrastructure spending cycle."
 2026-06-19T18:01:03,AAPL,-0.3,Apple CEO confirms price hikes amid AI competition pressure.
 2026-06-19T18:01:03,NVDA,0.3,Google AI chip competition offset by analyst upgrades and infrastructure tailwinds.
 2026-06-19T18:01:03,TSLA,0.3,FSD approval in Denmark offset by European regulatory headwinds.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-13T17:25:38,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
 2026-06-13T17:25:38,MSFT,-0.6,"Securities lawsuit alleges misleading AI and Copilot claims, competitive concerns."
 2026-06-13T17:25:38,AMZN,-0.3,CEO's AI disclosure triggered regulatory crackdown on Anthropic models.
-2026-06-13T14:18:02,AAPL,-0.6,Supply chain pollution risk in key iPhone production facility India.
-2026-06-13T14:18:02,NVDA,0.3,AI trade momentum positive; chips mixed on SpaceX IPO news.
-2026-06-13T14:18:02,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
-2026-06-13T14:18:02,MSFT,-0.6,Securities lawsuit alleges misleading AI and Copilot statements.
-2026-06-13T14:18:02,AMZN,0.3,Harvard's $149M stake; Seth Klarman's top holding; AI beneficiary undervalued.
