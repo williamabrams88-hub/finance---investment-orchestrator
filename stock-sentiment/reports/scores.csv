@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-19T18:01:03,AAPL,-0.3,Apple CEO confirms price hikes amid AI competition pressure.
+2026-06-19T18:01:03,NVDA,0.3,Google AI chip competition offset by analyst upgrades and infrastructure tailwinds.
+2026-06-19T18:01:03,TSLA,0.3,FSD approval in Denmark offset by European regulatory headwinds.
+2026-06-19T18:01:03,MSFT,-0.7,"Shareholder lawsuit alleges Azure slowdown disclosure failure, stock fell 10%."
+2026-06-19T18:01:03,AMZN,0.7,AWS AI revenue $15B run rate; $3T hyperscaler capex cycle underway.
 2026-06-19T15:35:50,AAPL,0.3,"Price hikes confirmed; 2027 product year ahead, tariff risks loom."
 2026-06-19T15:35:50,NVDA,-0.6,"Amazon plans to sell AI chips, intensifying competitive pressure on Nvidia."
 2026-06-19T15:35:50,TSLA,0.1,FSD regulatory approval in Denmark offset by EU speed limit pushback.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-13T14:18:02,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
 2026-06-13T14:18:02,MSFT,-0.6,Securities lawsuit alleges misleading AI and Copilot statements.
 2026-06-13T14:18:02,AMZN,0.3,Harvard's $149M stake; Seth Klarman's top holding; AI beneficiary undervalued.
-2026-06-12T21:28:05,AAPL,-0.3,AI ambitions hampered by memory costs; component headwinds replace tariff concerns.
-2026-06-12T21:28:05,NVDA,0.3,AI trade broadening with positive momentum; chips mixed on SpaceX IPO.
-2026-06-12T21:28:05,TSLA,0.3,SpaceX IPO success boosts Musk wealth; Tesla stock underperforms.
-2026-06-12T21:28:05,MSFT,-0.35,"Xbox restructuring amid gaming struggles, AI spending concerns weigh."
-2026-06-12T21:28:05,AMZN,0.2,Bezos' AI startup raises $12B; SpaceX IPO; power constraints risk.
