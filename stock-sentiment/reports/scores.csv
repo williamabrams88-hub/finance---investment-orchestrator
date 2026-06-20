@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-20T17:27:51,AAPL,0.3,Domestic chip manufacturing partnership; memory cost pressures offset gains.
+2026-06-20T17:27:51,NVDA,0.2,Nvidia near buy point; included in AI boom positioning strategies.
+2026-06-20T17:27:51,TSLA,0.3,FSD parking feature improvement; offset by lowered robotaxi/Optimus expectations.
+2026-06-20T17:27:51,MSFT,-0.3,Abandoned Oracle data center deal; CEO warns of AI dominance backlash.
+2026-06-20T17:27:51,AMZN,0.5,AWS Graviton5 launch and Prime Day demand signal positive.
 2026-06-20T14:21:26,AAPL,0.3,"Apple secures domestic chip manufacturing partnership with Intel, supporting US strategy."
 2026-06-20T14:21:26,NVDA,-0.3,"Big Tech leadership waning; financials, industrials, biotech poised for breakout."
 2026-06-20T14:21:26,TSLA,0.2,Musk tempers Optimus/Robotaxi expectations; Grok integration feature teased.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-14T14:20:38,TSLA,-0.3,SpaceX IPO diverts Musk capital; robotics competition emerges.
 2026-06-14T14:20:38,MSFT,0.6,AI infrastructure demand accelerating; LinkedIn BrandWorks revenue expansion.
 2026-06-14T14:20:38,AMZN,0.6,"Major AI/cloud investments, satellite expansion, strong bond demand."
-2026-06-13T21:10:08,AAPL,-0.3,Supply chain contamination risk in India iPhone factory expansion.
-2026-06-13T21:10:08,NVDA,0.6,AI partnerships expand; CoreWeave validates new NVIDIA hardware at scale.
-2026-06-13T21:10:08,TSLA,-0.3,SpaceX IPO diverts investor capital; Tesla now less valuable than SpaceX.
-2026-06-13T21:10:08,MSFT,0.6,LinkedIn BrandWorks launch and KPMG AI partnership expansion drive revenue growth.
-2026-06-13T21:10:08,AMZN,0.6,"Major AI/cloud investments, satellite expansion, custom chip advancement."
