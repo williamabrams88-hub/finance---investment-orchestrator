@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-20T21:11:44,AAPL,0.3,Apple chip manufacturing partnership with Intel; memory cost pressures offset.
+2026-06-20T21:11:44,NVDA,0.2,AI trend exposure opportunity; NVDA mentioned in broad chip/datacenter context.
+2026-06-20T21:11:44,TSLA,0.3,FSD parking feature improvement; offset by cautious robotaxi/Optimus guidance.
+2026-06-20T21:11:44,MSFT,-0.3,Withdrew from Oracle data center deal; CEO warns of AI dominance backlash.
+2026-06-20T21:11:44,AMZN,0.0,SpaceX IPO briefly surpassed Amazon market cap; no direct AMZN catalyst.
 2026-06-20T17:27:51,AAPL,0.3,Domestic chip manufacturing partnership; memory cost pressures offset gains.
 2026-06-20T17:27:51,NVDA,0.2,Nvidia near buy point; included in AI boom positioning strategies.
 2026-06-20T17:27:51,TSLA,0.3,FSD parking feature improvement; offset by lowered robotaxi/Optimus expectations.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-14T17:22:19,TSLA,0.6,Analyst confirms Tesla achieved Level 4 autonomous driving capability.
 2026-06-14T17:22:19,MSFT,0.3,Cloud growth accelerating; Xbox restructuring review underway.
 2026-06-14T17:22:19,AMZN,0.3,Pinterest partnership expands AWS AI integration; mixed regulatory headwinds.
-2026-06-14T14:20:38,AAPL,0.3,WWDC AI strategy gains credibility as competitors face pullback.
-2026-06-14T14:20:38,NVDA,0.7,AI infrastructure spending surge; CEO highlights agentic AI scaling rapidly.
-2026-06-14T14:20:38,TSLA,-0.3,SpaceX IPO diverts Musk capital; robotics competition emerges.
-2026-06-14T14:20:38,MSFT,0.6,AI infrastructure demand accelerating; LinkedIn BrandWorks revenue expansion.
-2026-06-14T14:20:38,AMZN,0.6,"Major AI/cloud investments, satellite expansion, strong bond demand."
