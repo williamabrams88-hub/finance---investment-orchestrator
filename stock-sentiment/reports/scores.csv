@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-20T14:21:26,AAPL,0.3,"Apple secures domestic chip manufacturing partnership with Intel, supporting US strategy."
+2026-06-20T14:21:26,NVDA,-0.3,"Big Tech leadership waning; financials, industrials, biotech poised for breakout."
+2026-06-20T14:21:26,TSLA,0.2,Musk tempers Optimus/Robotaxi expectations; Grok integration feature teased.
+2026-06-20T14:21:26,MSFT,0.2,Y Combinator partnership expansion offset by Oracle data center deal withdrawal.
+2026-06-20T14:21:26,AMZN,0.4,AWS Graviton5 launch and Prime Day consumer demand signal.
 2026-06-19T21:05:06,AAPL,0.3,iPhone pricing increase as Apple pushes AI-driven upgrades.
 2026-06-19T21:05:06,NVDA,0.2,AI infrastructure demand supports debt issuance; mixed sentiment on valuations.
 2026-06-19T21:05:06,TSLA,0.3,FSD regulatory approvals offset by European roadblocks; Cathie Wood buying support.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-13T21:10:08,TSLA,-0.3,SpaceX IPO diverts investor capital; Tesla now less valuable than SpaceX.
 2026-06-13T21:10:08,MSFT,0.6,LinkedIn BrandWorks launch and KPMG AI partnership expansion drive revenue growth.
 2026-06-13T21:10:08,AMZN,0.6,"Major AI/cloud investments, satellite expansion, custom chip advancement."
-2026-06-13T17:25:38,AAPL,0.3,AI leadership recognition offset by supply chain contamination allegations.
-2026-06-13T17:25:38,NVDA,0.3,AI trade momentum positive; chips mixed on broader market dynamics.
-2026-06-13T17:25:38,TSLA,-0.3,SpaceX IPO diverts capital; TSLA displaced from Mag 7 leadership.
-2026-06-13T17:25:38,MSFT,-0.6,"Securities lawsuit alleges misleading AI and Copilot claims, competitive concerns."
-2026-06-13T17:25:38,AMZN,-0.3,CEO's AI disclosure triggered regulatory crackdown on Anthropic models.
