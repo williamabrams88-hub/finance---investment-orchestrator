@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-21T17:41:20,AAPL,-0.6,Price hikes due to memory costs; potential supply chain shifts to Intel.
+2026-06-21T17:41:20,NVDA,0.1,Mixed AI sector sentiment; NVDA supply chain strength noted positively.
+2026-06-21T17:41:20,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
+2026-06-21T17:41:20,MSFT,0.0,No direct MSFT news; competitive AI landscape remains neutral.
+2026-06-21T17:41:20,AMZN,0.6,"AWS reaccelerating, advertising growing, analyst upgrades with 36% upside target."
 2026-06-21T14:26:15,AAPL,-0.3,Price increases due to memory costs offset by potential Intel chip partnership.
 2026-06-21T14:26:15,NVDA,0.6,Nvidia invests $2B in Nebius for AI data center expansion.
 2026-06-21T14:26:15,TSLA,0.2,FSD progress offset by EU regulatory headwinds and cautious guidance.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-15T17:25:02,TSLA,0.3,Geopolitical deal boost and AI chip progress offset merger speculation noise.
 2026-06-15T17:25:02,MSFT,-0.3,Shareholder lawsuit over disclosure failures offsets AI innovation gains.
 2026-06-15T17:25:02,AMZN,0.3,Broad market rally on geopolitical deal; AMZN India infrastructure expansion.
-2026-06-14T21:05:55,AAPL,-0.3,Supply chain risk in India offsets positive AI sentiment from WWDC.
-2026-06-14T21:05:55,NVDA,0.6,"Strong AI infrastructure demand sustains exceptional growth, solid balance sheet."
-2026-06-14T21:05:55,TSLA,0.6,Tesla-SpaceX merger speculation and Level 4 autonomy breakthrough.
-2026-06-14T21:05:55,MSFT,0.3,Cloud growth reacceleration and AI positioning offset Xbox restructuring concerns.
-2026-06-14T21:05:55,AMZN,0.3,Amazon logistics expansion and cloud growth acceleration position competitively.
