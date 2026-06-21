@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-21T14:26:15,AAPL,-0.3,Price increases due to memory costs offset by potential Intel chip partnership.
+2026-06-21T14:26:15,NVDA,0.6,Nvidia invests $2B in Nebius for AI data center expansion.
+2026-06-21T14:26:15,TSLA,0.2,FSD progress offset by EU regulatory headwinds and cautious guidance.
+2026-06-21T14:26:15,MSFT,-0.3,MSFT exits Oracle data center deal; competitive AI talent losses at rivals.
+2026-06-21T14:26:15,AMZN,0.6,"AWS reaccelerating, advertising compounding, custom silicon scaling fast."
 2026-06-20T21:11:44,AAPL,0.3,Apple chip manufacturing partnership with Intel; memory cost pressures offset.
 2026-06-20T21:11:44,NVDA,0.2,AI trend exposure opportunity; NVDA mentioned in broad chip/datacenter context.
 2026-06-20T21:11:44,TSLA,0.3,FSD parking feature improvement; offset by cautious robotaxi/Optimus guidance.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-14T21:05:55,TSLA,0.6,Tesla-SpaceX merger speculation and Level 4 autonomy breakthrough.
 2026-06-14T21:05:55,MSFT,0.3,Cloud growth reacceleration and AI positioning offset Xbox restructuring concerns.
 2026-06-14T21:05:55,AMZN,0.3,Amazon logistics expansion and cloud growth acceleration position competitively.
-2026-06-14T17:22:19,AAPL,0.3,WWDC AI announcements position Apple competitively; sentiment shift positive.
-2026-06-14T17:22:19,NVDA,0.6,Google paying SpaceX $920M monthly; NVDA positioned as quiet beneficiary.
-2026-06-14T17:22:19,TSLA,0.6,Analyst confirms Tesla achieved Level 4 autonomous driving capability.
-2026-06-14T17:22:19,MSFT,0.3,Cloud growth accelerating; Xbox restructuring review underway.
-2026-06-14T17:22:19,AMZN,0.3,Pinterest partnership expands AWS AI integration; mixed regulatory headwinds.
