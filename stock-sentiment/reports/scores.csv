@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-21T21:09:48,AAPL,0.2,Apple-Intel U.S. chip partnership offsets price hike concerns.
+2026-06-21T21:09:48,NVDA,0.0,No NVDA-specific news; macro and sector commentary only.
+2026-06-21T21:09:48,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
+2026-06-21T21:09:48,MSFT,0.0,No direct MSFT news; competitive AI landscape remains neutral.
+2026-06-21T21:09:48,AMZN,0.35,"AWS reaccelerating, advertising growing, analyst bullish with 36% upside target."
 2026-06-21T17:41:20,AAPL,-0.6,Price hikes due to memory costs; potential supply chain shifts to Intel.
 2026-06-21T17:41:20,NVDA,0.1,Mixed AI sector sentiment; NVDA supply chain strength noted positively.
 2026-06-21T17:41:20,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-15T19:49:40,TSLA,0.2,SpaceX IPO momentum and merger speculation offset FSD regulatory scrutiny.
 2026-06-15T19:49:40,MSFT,-0.6,Shareholder lawsuit over Azure slowdown masks AI spending concerns.
 2026-06-15T19:49:40,AMZN,0.3,Fifth consecutive earnings beat; AWS fastest growth in 15 quarters.
-2026-06-15T17:25:02,AAPL,0.6,"Record March quarter earnings, iPhone 17 demand, AI roadmap optimism."
-2026-06-15T17:25:02,NVDA,0.0,No NVDA-specific news; mixed Mag 7 headwinds offset by AI sector strength.
-2026-06-15T17:25:02,TSLA,0.3,Geopolitical deal boost and AI chip progress offset merger speculation noise.
-2026-06-15T17:25:02,MSFT,-0.3,Shareholder lawsuit over disclosure failures offsets AI innovation gains.
-2026-06-15T17:25:02,AMZN,0.3,Broad market rally on geopolitical deal; AMZN India infrastructure expansion.
