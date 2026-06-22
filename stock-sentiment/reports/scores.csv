@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-22T21:59:19,AAPL,0.2,"Mixed signals: AI strategy reset positive, but iPhone price increases loom."
+2026-06-22T21:59:19,NVDA,-0.3,Tech sector selloff; NVDA shares decline amid market uncertainty.
+2026-06-22T21:59:19,TSLA,-0.6,Fatal crash under federal investigation; cybersecurity breach exposes trade secrets.
+2026-06-22T21:59:19,MSFT,0.6,Major 20-year data center power deal with Chevron; enterprise AI channel expansion.
+2026-06-22T21:59:19,AMZN,0.2,AWS expands into industrial AI with ArcelorMittal partnership; tech sector weakness offsets gains.
 2026-06-22T19:31:48,AAPL,0.3,AI strategy reset positive; offset by rising memory costs and supply chain breach.
 2026-06-22T19:31:48,NVDA,0.6,Major robotics breakthrough with customer adoption of safety tech.
 2026-06-22T19:31:48,TSLA,-0.3,Cybersecurity breach exposes Tesla trade secrets; SpaceX merger concerns weigh.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-16T19:39:14,TSLA,0.3,"JPMorgan upgrade to Neutral, price target raised to $475."
 2026-06-16T19:39:14,MSFT,0.3,New Surface AI products launched; Xbox restructuring exploration underway.
 2026-06-16T19:39:14,AMZN,0.2,UBS Buy rating and Alexa+ launch offset by SpaceX competitive surge.
-2026-06-16T17:12:08,AAPL,-0.3,iCloud regulatory scrutiny and modest AI strategy reception at WWDC.
-2026-06-16T17:12:08,NVDA,0.3,NVDA taps debt market for $20B AI infrastructure investment.
-2026-06-16T17:12:08,TSLA,0.2,TSLA included in Fab 10 narrative; offset by demand concerns and SpaceX outperformance.
-2026-06-16T17:12:08,MSFT,-0.6,Shareholder lawsuits over Azure slowdown and undisclosed AI spending.
-2026-06-16T17:12:08,AMZN,-0.6,SpaceX surpasses Amazon in market cap; competitive threat to Bezos.
