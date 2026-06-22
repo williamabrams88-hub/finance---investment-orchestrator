@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-22T17:08:31,AAPL,-0.6,Analyst downgrade and Tata cybersecurity breach exposing Apple trade secrets.
+2026-06-22T17:08:31,NVDA,-0.3,Tepper trimmed NVDA 13%; SpaceX deal partially offsets positioning shift.
+2026-06-22T17:08:31,TSLA,0.2,Operational gains offset by robotaxi delays and valuation concerns.
+2026-06-22T17:08:31,MSFT,0.2,AI infrastructure investment secured; sector capex concerns weigh slightly.
+2026-06-22T17:08:31,AMZN,-0.6,Berkshire exits Amazon position; AI capex concerns weigh on stock.
 2026-06-21T21:09:48,AAPL,0.2,Apple-Intel U.S. chip partnership offsets price hike concerns.
 2026-06-21T21:09:48,NVDA,0.0,No NVDA-specific news; macro and sector commentary only.
 2026-06-21T21:09:48,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-15T22:14:47,TSLA,-0.3,SpaceX IPO overshadows Tesla; Cathie Wood exits Tesla for SpaceX.
 2026-06-15T22:14:47,MSFT,-0.6,Shareholder lawsuit over Azure/Copilot misstatements; weak AI adoption.
 2026-06-15T22:14:47,AMZN,0.3,Data center expansion positive; Anthropic regulatory risk clouds outlook.
-2026-06-15T19:49:40,AAPL,0.6,Best March quarter ever; iPhone 17 demand drives record revenue and Services growth.
-2026-06-15T19:49:40,NVDA,0.6,"Kazakhstan AI deal deploys 100,000 Nvidia GPUs by 2027."
-2026-06-15T19:49:40,TSLA,0.2,SpaceX IPO momentum and merger speculation offset FSD regulatory scrutiny.
-2026-06-15T19:49:40,MSFT,-0.6,Shareholder lawsuit over Azure slowdown masks AI spending concerns.
-2026-06-15T19:49:40,AMZN,0.3,Fifth consecutive earnings beat; AWS fastest growth in 15 quarters.
