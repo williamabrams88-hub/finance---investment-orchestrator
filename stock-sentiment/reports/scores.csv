@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-23T17:58:42,AAPL,-0.6,Memory cost inflation forces iPhone price hikes; UK lawsuit threatens iCloud revenue.
+2026-06-23T17:58:42,NVDA,-0.3,AI bubble concerns and Big Tech selloff amid mixed market sentiment.
+2026-06-23T17:58:42,TSLA,-0.35,Fatal crash probe and regulatory scrutiny offset European battery deal gains.
+2026-06-23T17:58:42,MSFT,0.3,Data center expansion and AI model launches offset sector headwinds.
+2026-06-23T17:58:42,AMZN,0.3,"Prime Day event, AI infrastructure investment, labor dispute offset gains."
 2026-06-23T15:17:35,AAPL,-0.35,Price hikes unavoidable due to memory costs; $4B iCloud lawsuit approved.
 2026-06-23T15:17:35,NVDA,0.4,NVDA launches BioNeMo toolkit for AI-driven life sciences research.
 2026-06-23T15:17:35,TSLA,0.2,Battery storage partnership in Europe; EV sales slump offset gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-17T15:54:43,TSLA,0.3,Goldman raises Q2 delivery forecast; robotaxi execution critical for momentum.
 2026-06-17T15:54:43,MSFT,-0.6,Azure growth missed expectations; stock below 200-day moving average.
 2026-06-17T15:54:43,AMZN,-0.7,"FTC lawsuit threat over deceptive advertising practices, multi-billion dollar penalty risk."
-2026-06-16T22:08:07,AAPL,0.1,AI product plans offset by regulatory probe and mixed sentiment.
-2026-06-16T22:08:07,NVDA,-0.3,Nasdaq chip selloff as market rotates toward defensive stocks.
-2026-06-16T22:08:07,TSLA,0.3,"JPMorgan upgrade to Neutral, autonomous tech regulatory headwinds in New Jersey."
-2026-06-16T22:08:07,MSFT,0.0,SpaceX IPO surge; no direct MSFT catalyst identified.
-2026-06-16T22:08:07,AMZN,-0.6,FTC drafts complaint over misleading ads; potential billions in penalties.
