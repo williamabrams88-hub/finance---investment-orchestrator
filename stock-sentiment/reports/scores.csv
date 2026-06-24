@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-24T17:56:15,AAPL,0.3,BofA bullish on price increases offsetting memory costs; Intel chip deal strategic.
+2026-06-24T17:56:15,NVDA,0.3,CoreWeave deepens Nvidia partnership; OpenAI tests Broadcom chips.
+2026-06-24T17:56:15,TSLA,-0.6,Fatal Autopilot crash lawsuit and NHTSA probe offset VPP partnership gains.
+2026-06-24T17:56:15,MSFT,-0.3,Big Tech AI capex concerns outweigh chip efficiency gains.
+2026-06-24T17:56:15,AMZN,0.6,"Prime Day strong sales, robotaxi updates, AWS partnership expansion."
 2026-06-24T14:48:02,AAPL,0.3,Intel chip deal eases supply constraints; BofA maintains buy rating.
 2026-06-24T14:48:02,NVDA,-0.3,"Competitive threats from OpenAI-Broadcom chip partnership, supply constraints."
 2026-06-24T14:48:02,TSLA,-0.3,Tech sector selloff and AI valuation concerns offset positive fundamentals.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-18T15:44:24,TSLA,-0.3,Sweden opposes Tesla self-driving rollout; offset by safety data support.
 2026-06-18T15:44:24,MSFT,0.6,Microsoft expands AI business in China with ByteDance as major customer.
 2026-06-18T15:44:24,AMZN,0.6,Amazon exploring custom AI chip sales to other companies.
-2026-06-17T21:57:09,AAPL,-0.6,Price increases unavoidable due to memory chip shortage and AI demand.
-2026-06-17T21:57:09,NVDA,0.3,NVDA included in trending MANGOS mega-cap AI stock cohort.
-2026-06-17T21:57:09,TSLA,-0.3,Robotaxi competition intensifies; Tesla trails Waymo and Chinese competitors.
-2026-06-17T21:57:09,MSFT,-0.4,Stock weakness below 200-day average; analyst warns to sell on rallies.
-2026-06-17T21:57:09,AMZN,-0.6,Fed rate hike forecast pressures tech stocks; SpaceX valuation exceeds Amazon.
