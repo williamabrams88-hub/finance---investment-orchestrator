@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-24T21:19:27,AAPL,0.3,iPhone 17 cycle momentum; AI upgrade skepticism partially offsets gains.
+2026-06-24T21:19:27,NVDA,-0.3,OpenAI-Broadcom AI chip partnership threatens NVDA's GPU dominance.
+2026-06-24T21:19:27,TSLA,-0.3,Tech selloff and lawsuit offset renewable energy partnership gains.
+2026-06-24T21:19:27,MSFT,0.2,Microsoft benefits from AI infrastructure demand; broader tech sector cooling.
+2026-06-24T21:19:27,AMZN,0.6,"Prime Day sales surge, robotaxi updates, and institutional buying support."
 2026-06-24T17:56:15,AAPL,0.3,BofA bullish on price increases offsetting memory costs; Intel chip deal strategic.
 2026-06-24T17:56:15,NVDA,0.3,CoreWeave deepens Nvidia partnership; OpenAI tests Broadcom chips.
 2026-06-24T17:56:15,TSLA,-0.6,Fatal Autopilot crash lawsuit and NHTSA probe offset VPP partnership gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-18T18:27:05,TSLA,-0.6,Sweden opposes Tesla self-driving rollout over speeding safety concerns.
 2026-06-18T18:27:05,MSFT,0.6,ByteDance $1B+ annual AI/cloud spend; regulatory scrutiny offset gains.
 2026-06-18T18:27:05,AMZN,0.6,AI chip sales strategy and potential EU regulatory scrutiny on AWS.
-2026-06-18T15:44:24,AAPL,0.6,Apple secures Intel chip deal; positive supply chain and US manufacturing catalyst.
-2026-06-18T15:44:24,NVDA,0.2,NVDA included in MANGOS ETF trend; Intel gains overshadow chip sector.
-2026-06-18T15:44:24,TSLA,-0.3,Sweden opposes Tesla self-driving rollout; offset by safety data support.
-2026-06-18T15:44:24,MSFT,0.6,Microsoft expands AI business in China with ByteDance as major customer.
-2026-06-18T15:44:24,AMZN,0.6,Amazon exploring custom AI chip sales to other companies.
