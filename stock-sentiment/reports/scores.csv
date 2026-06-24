@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-24T14:48:02,AAPL,0.3,Intel chip deal eases supply constraints; BofA maintains buy rating.
+2026-06-24T14:48:02,NVDA,-0.3,"Competitive threats from OpenAI-Broadcom chip partnership, supply constraints."
+2026-06-24T14:48:02,TSLA,-0.3,Tech sector selloff and AI valuation concerns offset positive fundamentals.
+2026-06-24T14:48:02,MSFT,-0.3,Tech sector AI valuation correction; MSFT power deal noted but sector headwinds dominate.
+2026-06-24T14:48:02,AMZN,0.0,Prime Day event underway; no material Amazon-specific catalysts identified.
 2026-06-23T21:28:25,AAPL,-0.3,UK lawsuit over iCloud services; competitive pressure from Meta AI glasses.
 2026-06-23T21:28:25,NVDA,-0.4,AI sector profit-taking; investors demand evidence of returns on spending.
 2026-06-23T21:28:25,TSLA,-0.6,"Fatal crash scrutiny, safety probe, and broad tech selloff pressure TSLA."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-17T21:57:09,TSLA,-0.3,Robotaxi competition intensifies; Tesla trails Waymo and Chinese competitors.
 2026-06-17T21:57:09,MSFT,-0.4,Stock weakness below 200-day average; analyst warns to sell on rallies.
 2026-06-17T21:57:09,AMZN,-0.6,Fed rate hike forecast pressures tech stocks; SpaceX valuation exceeds Amazon.
-2026-06-17T18:21:44,AAPL,0.1,Mixed signals: AI settlement offset by strong iPhone demand and Services growth.
-2026-06-17T18:21:44,NVDA,0.3,NVDA included in trending MANGOS mega-cap tech ETF basket.
-2026-06-17T18:21:44,TSLA,0.5,Goldman Sachs raises Q2 delivery forecast; Tesla defies auto industry slump.
-2026-06-17T18:21:44,MSFT,-0.3,Stock weakness below 200-day MA; analyst recommends selling on rallies.
-2026-06-17T18:21:44,AMZN,0.3,AWS partnership with AI startup Odyssey signals cloud AI investment strength.
