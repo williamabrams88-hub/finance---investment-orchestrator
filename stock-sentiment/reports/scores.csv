@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-25T21:27:49,AAPL,-0.6,Price hikes to offset chip costs; stock plunges 6% amid tech weakness.
+2026-06-25T21:27:49,NVDA,0.6,Semiconductor complex rallies on Micron earnings; AI chip demand strengthens.
+2026-06-25T21:27:49,TSLA,0.1,Energy coalition and production ramp offset Mag 7 selloff and lawsuit headwinds.
+2026-06-25T21:27:49,MSFT,-0.3,Xbox price hikes and tech sector weakness offset data center expansion.
+2026-06-25T21:27:49,AMZN,-0.3,Stock slips below 200-day line amid Mag 7 rotation selloff.
 2026-06-25T18:11:37,AAPL,-0.7,Apple raises prices 4-6% due to AI-driven memory shortage crisis.
 2026-06-25T18:11:37,NVDA,0.6,Micron earnings beat signals strong AI chip demand tailwinds.
 2026-06-25T18:11:37,TSLA,0.3,Robotaxi regulatory boost and Optimus humanoid robot momentum offset valuation concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-19T18:01:03,TSLA,0.3,FSD approval in Denmark offset by European regulatory headwinds.
 2026-06-19T18:01:03,MSFT,-0.7,"Shareholder lawsuit alleges Azure slowdown disclosure failure, stock fell 10%."
 2026-06-19T18:01:03,AMZN,0.7,AWS AI revenue $15B run rate; $3T hyperscaler capex cycle underway.
-2026-06-19T15:35:50,AAPL,0.3,"Price hikes confirmed; 2027 product year ahead, tariff risks loom."
-2026-06-19T15:35:50,NVDA,-0.6,"Amazon plans to sell AI chips, intensifying competitive pressure on Nvidia."
-2026-06-19T15:35:50,TSLA,0.1,FSD regulatory approval in Denmark offset by EU speed limit pushback.
-2026-06-19T15:35:50,MSFT,-0.7,"Shareholder fraud lawsuit over undisclosed Azure slowdown, AI costs."
-2026-06-19T15:35:50,AMZN,0.6,CEO announces AI chip sales plans; €10B European fulfillment investment.
