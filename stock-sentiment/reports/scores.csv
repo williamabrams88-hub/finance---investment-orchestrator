@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-25T14:47:40,AAPL,-0.7,Apple raises prices 20-25% due to AI-driven memory chip shortage.
+2026-06-25T14:47:40,NVDA,-0.3,Broadcom-OpenAI partnership and Qualcomm competition threaten NVDA dominance.
+2026-06-25T14:47:40,TSLA,0.3,Major energy deals with power plants and battery storage partnerships.
+2026-06-25T14:47:40,MSFT,-0.6,MSFT stock down 24% YTD; AI gains bypass Microsoft despite sector strength.
+2026-06-25T14:47:40,AMZN,-0.3,EU gatekeeper designation threat offsets India AI investment gains.
 2026-06-24T21:19:27,AAPL,0.3,iPhone 17 cycle momentum; AI upgrade skepticism partially offsets gains.
 2026-06-24T21:19:27,NVDA,-0.3,OpenAI-Broadcom AI chip partnership threatens NVDA's GPU dominance.
 2026-06-24T21:19:27,TSLA,-0.3,Tech selloff and lawsuit offset renewable energy partnership gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-18T22:02:19,TSLA,-0.6,Sweden opposes EU FSD approval; safety data positive but regulatory headwind.
 2026-06-18T22:02:19,MSFT,0.3,Teams feature boost and ByteDance AI deal offset malware warning and EU scrutiny.
 2026-06-18T22:02:19,AMZN,0.6,AI chip sales strategy and $10B Missouri data center investment announced.
-2026-06-18T18:27:05,AAPL,0.3,Intel partnership diversifies chip supply; memory cost pressures offset gains.
-2026-06-18T18:27:05,NVDA,-0.3,"Amazon, Intel competition threaten NVDA's AI chip dominance position."
-2026-06-18T18:27:05,TSLA,-0.6,Sweden opposes Tesla self-driving rollout over speeding safety concerns.
-2026-06-18T18:27:05,MSFT,0.6,ByteDance $1B+ annual AI/cloud spend; regulatory scrutiny offset gains.
-2026-06-18T18:27:05,AMZN,0.6,AI chip sales strategy and potential EU regulatory scrutiny on AWS.
