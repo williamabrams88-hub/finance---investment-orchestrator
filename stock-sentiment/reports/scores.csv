@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-26T17:50:21,AAPL,-0.3,Price hikes amid memory cost concerns; analyst support limits downside.
+2026-06-26T17:50:21,NVDA,0.6,Micron earnings beat lifts semiconductor sector; AI compute financialization tailwinds.
+2026-06-26T17:50:21,TSLA,0.3,Robotaxi regulatory rollback and production expansion offset FSD lawsuit settlement.
+2026-06-26T17:50:21,MSFT,-0.6,MSFT tumbles to 3-year lows amid memory chip cost concerns.
+2026-06-26T17:50:21,AMZN,0.6,iHeartMedia ad partnership and AI cloud infrastructure tailwinds benefit Amazon.
 2026-06-26T14:39:27,AAPL,-0.6,Memory chip shortage forcing Apple price hikes; market skepticism on iPhone pricing power.
 2026-06-26T14:39:27,NVDA,0.2,Micron earnings beat offsets semiconductor sector weakness and memory cost concerns.
 2026-06-26T14:39:27,TSLA,0.3,Autonomy leadership questioned; production expansion and battery partnerships offset
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-20T14:21:26,TSLA,0.2,Musk tempers Optimus/Robotaxi expectations; Grok integration feature teased.
 2026-06-20T14:21:26,MSFT,0.2,Y Combinator partnership expansion offset by Oracle data center deal withdrawal.
 2026-06-20T14:21:26,AMZN,0.4,AWS Graviton5 launch and Prime Day consumer demand signal.
-2026-06-19T21:05:06,AAPL,0.3,iPhone pricing increase as Apple pushes AI-driven upgrades.
-2026-06-19T21:05:06,NVDA,0.2,AI infrastructure demand supports debt issuance; mixed sentiment on valuations.
-2026-06-19T21:05:06,TSLA,0.3,FSD regulatory approvals offset by European roadblocks; Cathie Wood buying support.
-2026-06-19T21:05:06,MSFT,-0.7,"Shareholder lawsuit alleges Azure slowdown disclosure failure, stock fell 10%."
-2026-06-19T21:05:06,AMZN,0.7,"AWS AI revenue $15B run rate, massive infrastructure spending cycle."
