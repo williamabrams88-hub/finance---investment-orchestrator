@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-26T21:15:00,AAPL,-0.6,Vision Pro hardware chief defects to OpenAI; tech sector weakness.
+2026-06-26T21:15:00,NVDA,-0.6,Tech sell-off crushes semiconductor stocks; NVDA slides amid sector weakness.
+2026-06-26T21:15:00,TSLA,0.2,Production expansion offset by valuation concerns and competitive threats.
+2026-06-26T21:15:00,MSFT,-0.6,Tech sector selloff; memory chip costs weigh on semiconductor stocks.
+2026-06-26T21:15:00,AMZN,0.3,CIOs expect stronger cloud spending; tech sector mixed on AI costs.
 2026-06-26T17:50:21,AAPL,-0.3,Price hikes amid memory cost concerns; analyst support limits downside.
 2026-06-26T17:50:21,NVDA,0.6,Micron earnings beat lifts semiconductor sector; AI compute financialization tailwinds.
 2026-06-26T17:50:21,TSLA,0.3,Robotaxi regulatory rollback and production expansion offset FSD lawsuit settlement.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-20T17:27:51,TSLA,0.3,FSD parking feature improvement; offset by lowered robotaxi/Optimus expectations.
 2026-06-20T17:27:51,MSFT,-0.3,Abandoned Oracle data center deal; CEO warns of AI dominance backlash.
 2026-06-20T17:27:51,AMZN,0.5,AWS Graviton5 launch and Prime Day demand signal positive.
-2026-06-20T14:21:26,AAPL,0.3,"Apple secures domestic chip manufacturing partnership with Intel, supporting US strategy."
-2026-06-20T14:21:26,NVDA,-0.3,"Big Tech leadership waning; financials, industrials, biotech poised for breakout."
-2026-06-20T14:21:26,TSLA,0.2,Musk tempers Optimus/Robotaxi expectations; Grok integration feature teased.
-2026-06-20T14:21:26,MSFT,0.2,Y Combinator partnership expansion offset by Oracle data center deal withdrawal.
-2026-06-20T14:21:26,AMZN,0.4,AWS Graviton5 launch and Prime Day consumer demand signal.
