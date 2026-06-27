@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-27T20:57:10,AAPL,-0.6,"Price hikes, analyst downgrade, regulatory pressures offset AI chip roadmap."
+2026-06-27T20:57:10,NVDA,0.5,NVIDIA launches Vera Rubin Platform for scientific supercomputing.
+2026-06-27T20:57:10,TSLA,0.4,"Berlin plant production increase 20% to 7,500 vehicles weekly."
+2026-06-27T20:57:10,MSFT,0.3,AI infrastructure deals and investor confidence offset regulatory scrutiny.
+2026-06-27T20:57:10,AMZN,0.3,AI partnerships and $13B India investment offset EU gatekeeper regulatory concerns.
 2026-06-27T17:12:51,AAPL,-0.6,"Price hikes, regulatory concessions, and geopolitical chip sourcing challenges."
 2026-06-27T17:12:51,NVDA,0.3,Multiverse Computing launches NVIDIA-powered reasoning model; underperformance vs. semiconductor peers.
 2026-06-27T17:12:51,TSLA,0.2,Berlin production expansion offsets competitive EV market pressures.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-21T17:41:20,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
 2026-06-21T17:41:20,MSFT,0.0,No direct MSFT news; competitive AI landscape remains neutral.
 2026-06-21T17:41:20,AMZN,0.6,"AWS reaccelerating, advertising growing, analyst upgrades with 36% upside target."
-2026-06-21T14:26:15,AAPL,-0.3,Price increases due to memory costs offset by potential Intel chip partnership.
-2026-06-21T14:26:15,NVDA,0.6,Nvidia invests $2B in Nebius for AI data center expansion.
-2026-06-21T14:26:15,TSLA,0.2,FSD progress offset by EU regulatory headwinds and cautious guidance.
-2026-06-21T14:26:15,MSFT,-0.3,MSFT exits Oracle data center deal; competitive AI talent losses at rivals.
-2026-06-21T14:26:15,AMZN,0.6,"AWS reaccelerating, advertising compounding, custom silicon scaling fast."
