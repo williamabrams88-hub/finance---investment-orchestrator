@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-28T14:05:24,AAPL,-0.3,"Price hikes, supply chain pressures, analyst downgrade offset AI chip roadmap."
+2026-06-28T14:05:24,NVDA,0.3,AI demand outstripping supply supports semiconductor capacity expansion.
+2026-06-28T14:05:24,TSLA,0.2,AI chip milestone and Semi incentives offset competitive autonomous vehicle threats.
+2026-06-28T14:05:24,MSFT,0.2,AI infrastructure partnerships offset concerns about competitive positioning.
+2026-06-28T14:05:24,AMZN,0.2,AWS AI pricing increases; mixed capex sustainability concerns.
 2026-06-27T20:57:10,AAPL,-0.6,"Price hikes, analyst downgrade, regulatory pressures offset AI chip roadmap."
 2026-06-27T20:57:10,NVDA,0.5,NVIDIA launches Vera Rubin Platform for scientific supercomputing.
 2026-06-27T20:57:10,TSLA,0.4,"Berlin plant production increase 20% to 7,500 vehicles weekly."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-21T21:09:48,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
 2026-06-21T21:09:48,MSFT,0.0,No direct MSFT news; competitive AI landscape remains neutral.
 2026-06-21T21:09:48,AMZN,0.35,"AWS reaccelerating, advertising growing, analyst bullish with 36% upside target."
-2026-06-21T17:41:20,AAPL,-0.6,Price hikes due to memory costs; potential supply chain shifts to Intel.
-2026-06-21T17:41:20,NVDA,0.1,Mixed AI sector sentiment; NVDA supply chain strength noted positively.
-2026-06-21T17:41:20,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
-2026-06-21T17:41:20,MSFT,0.0,No direct MSFT news; competitive AI landscape remains neutral.
-2026-06-21T17:41:20,AMZN,0.6,"AWS reaccelerating, advertising growing, analyst upgrades with 36% upside target."
