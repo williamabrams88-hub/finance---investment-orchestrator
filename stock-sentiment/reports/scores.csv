@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-28T17:15:23,AAPL,-0.35,Price hikes amid component costs; analyst downgrade to Hold.
+2026-06-28T17:15:23,NVDA,0.1,"Nokia partnership positive, but no direct NVDA news; mixed AI sentiment."
+2026-06-28T17:15:23,TSLA,-0.3,"Stock decline, EV sales concerns, competitive AI driving threats emerge."
+2026-06-28T17:15:23,MSFT,-0.3,Strong AI position offset by competitive pressure and supply chain headwinds.
+2026-06-28T17:15:23,AMZN,0.6,Amazon's AI empire and record Prime Day sales drive platform strength.
 2026-06-28T14:05:24,AAPL,-0.3,"Price hikes, supply chain pressures, analyst downgrade offset AI chip roadmap."
 2026-06-28T14:05:24,NVDA,0.3,AI demand outstripping supply supports semiconductor capacity expansion.
 2026-06-28T14:05:24,TSLA,0.2,AI chip milestone and Semi incentives offset competitive autonomous vehicle threats.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-22T17:08:31,TSLA,0.2,Operational gains offset by robotaxi delays and valuation concerns.
 2026-06-22T17:08:31,MSFT,0.2,AI infrastructure investment secured; sector capex concerns weigh slightly.
 2026-06-22T17:08:31,AMZN,-0.6,Berkshire exits Amazon position; AI capex concerns weigh on stock.
-2026-06-21T21:09:48,AAPL,0.2,Apple-Intel U.S. chip partnership offsets price hike concerns.
-2026-06-21T21:09:48,NVDA,0.0,No NVDA-specific news; macro and sector commentary only.
-2026-06-21T21:09:48,TSLA,-0.3,Robotaxi fleet lagging competitors; FSD regulatory headwinds in EU.
-2026-06-21T21:09:48,MSFT,0.0,No direct MSFT news; competitive AI landscape remains neutral.
-2026-06-21T21:09:48,AMZN,0.35,"AWS reaccelerating, advertising growing, analyst bullish with 36% upside target."
