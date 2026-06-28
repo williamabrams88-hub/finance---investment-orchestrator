@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-28T20:56:20,AAPL,-0.3,Price hikes amid chip costs; analyst downgrade to Hold rating.
+2026-06-28T20:56:20,NVDA,0.2,Nvidia-backed CoreWeave positioned as attractive AI infrastructure opportunity.
+2026-06-28T20:56:20,TSLA,-0.3,Tech rout and competitive AI threats offset positive chip milestone.
+2026-06-28T20:56:20,MSFT,-0.3,MSFT shares down 22% YTD; losing AI investment narrative to competitors.
+2026-06-28T20:56:20,AMZN,0.6,Amazon's AI empire recognized as world's most complete tech platform.
 2026-06-28T17:15:23,AAPL,-0.35,Price hikes amid component costs; analyst downgrade to Hold.
 2026-06-28T17:15:23,NVDA,0.1,"Nokia partnership positive, but no direct NVDA news; mixed AI sentiment."
 2026-06-28T17:15:23,TSLA,-0.3,"Stock decline, EV sales concerns, competitive AI driving threats emerge."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-22T19:31:48,TSLA,-0.3,Cybersecurity breach exposes Tesla trade secrets; SpaceX merger concerns weigh.
 2026-06-22T19:31:48,MSFT,0.3,Enterprise AI expansion with KPMG partnership strengthens channel strategy.
 2026-06-22T19:31:48,AMZN,0.6,Prime Day $15.7B forecast and AWS acceleration to 28% growth.
-2026-06-22T17:08:31,AAPL,-0.6,Analyst downgrade and Tata cybersecurity breach exposing Apple trade secrets.
-2026-06-22T17:08:31,NVDA,-0.3,Tepper trimmed NVDA 13%; SpaceX deal partially offsets positioning shift.
-2026-06-22T17:08:31,TSLA,0.2,Operational gains offset by robotaxi delays and valuation concerns.
-2026-06-22T17:08:31,MSFT,0.2,AI infrastructure investment secured; sector capex concerns weigh slightly.
-2026-06-22T17:08:31,AMZN,-0.6,Berkshire exits Amazon position; AI capex concerns weigh on stock.
