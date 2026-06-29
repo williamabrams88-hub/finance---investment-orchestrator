@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-29T21:21:33,AAPL,-0.3,Memory chip cost pressures and supply chain scrutiny offset sector recovery.
+2026-06-29T21:21:33,NVDA,0.2,Tech sector rebound lifts market; NVDA demand remains strong but faces competition.
+2026-06-29T21:21:33,TSLA,0.6,Q2 delivery beat expectations; analyst upgrades; NHTSA steering probe dropped.
+2026-06-29T21:21:33,MSFT,-0.3,Worst month since 2000 offsets AI spending optimism and valuation opportunity.
+2026-06-29T21:21:33,AMZN,0.2,Amazon climbs amid Magnificent Seven recovery; AI spending scrutiny ahead.
 2026-06-29T18:09:32,AAPL,0.2,Apple seeks China memory flexibility; tech sector stabilizes after weak week.
 2026-06-29T18:09:32,NVDA,0.6,Investors pile into AI trade; Nvidia critical to market recovery.
 2026-06-29T18:09:32,TSLA,-0.3,Fierce self-driving rival emerges; Magnificent Seven underperformance persists.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-23T17:58:42,TSLA,-0.35,Fatal crash probe and regulatory scrutiny offset European battery deal gains.
 2026-06-23T17:58:42,MSFT,0.3,Data center expansion and AI model launches offset sector headwinds.
 2026-06-23T17:58:42,AMZN,0.3,"Prime Day event, AI infrastructure investment, labor dispute offset gains."
-2026-06-23T15:17:35,AAPL,-0.35,Price hikes unavoidable due to memory costs; $4B iCloud lawsuit approved.
-2026-06-23T15:17:35,NVDA,0.4,NVDA launches BioNeMo toolkit for AI-driven life sciences research.
-2026-06-23T15:17:35,TSLA,0.2,Battery storage partnership in Europe; EV sales slump offset gains.
-2026-06-23T15:17:35,MSFT,0.3,Microsoft completes first Racine County data center; AI infrastructure expansion.
-2026-06-23T15:17:35,AMZN,-0.3,AI spending concerns weigh on stock ahead of Prime Day event.
