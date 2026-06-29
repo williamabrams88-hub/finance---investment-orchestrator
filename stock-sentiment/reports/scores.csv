@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-29T18:09:32,AAPL,0.2,Apple seeks China memory flexibility; tech sector stabilizes after weak week.
+2026-06-29T18:09:32,NVDA,0.6,Investors pile into AI trade; Nvidia critical to market recovery.
+2026-06-29T18:09:32,TSLA,-0.3,Fierce self-driving rival emerges; Magnificent Seven underperformance persists.
+2026-06-29T18:09:32,MSFT,0.3,AI spending momentum continues; enterprise adoption accelerating past experimental phase.
+2026-06-29T18:09:32,AMZN,0.3,Strong Prime Day demand offsets AI spending and competitive pressures.
 2026-06-29T16:01:28,AAPL,-0.6,"India antitrust probe, supply chain leverage pressure, memory chip cost inflation."
 2026-06-29T16:01:28,NVDA,-0.3,Magnificent Seven underperformance; competitors investing heavily in AI.
 2026-06-29T16:01:28,TSLA,0.2,Tesla stock recovers Monday; Q2 delivery report due this week.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-23T15:17:35,TSLA,0.2,Battery storage partnership in Europe; EV sales slump offset gains.
 2026-06-23T15:17:35,MSFT,0.3,Microsoft completes first Racine County data center; AI infrastructure expansion.
 2026-06-23T15:17:35,AMZN,-0.3,AI spending concerns weigh on stock ahead of Prime Day event.
-2026-06-22T21:59:19,AAPL,0.2,"Mixed signals: AI strategy reset positive, but iPhone price increases loom."
-2026-06-22T21:59:19,NVDA,-0.3,Tech sector selloff; NVDA shares decline amid market uncertainty.
-2026-06-22T21:59:19,TSLA,-0.6,Fatal crash under federal investigation; cybersecurity breach exposes trade secrets.
-2026-06-22T21:59:19,MSFT,0.6,Major 20-year data center power deal with Chevron; enterprise AI channel expansion.
-2026-06-22T21:59:19,AMZN,0.2,AWS expands into industrial AI with ArcelorMittal partnership; tech sector weakness offsets gains.
