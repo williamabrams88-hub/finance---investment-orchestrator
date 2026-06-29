@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-29T16:01:28,AAPL,-0.6,"India antitrust probe, supply chain leverage pressure, memory chip cost inflation."
+2026-06-29T16:01:28,NVDA,-0.3,Magnificent Seven underperformance; competitors investing heavily in AI.
+2026-06-29T16:01:28,TSLA,0.2,Tesla stock recovers Monday; Q2 delivery report due this week.
+2026-06-29T16:01:28,MSFT,-0.7,Worst month since 2000 amid tech sector weakness and sector rotation.
+2026-06-29T16:01:28,AMZN,0.6,Amazon climbs as AI adoption accelerates; market recovery from tech selloff.
 2026-06-28T20:56:20,AAPL,-0.3,Price hikes amid chip costs; analyst downgrade to Hold rating.
 2026-06-28T20:56:20,NVDA,0.2,Nvidia-backed CoreWeave positioned as attractive AI infrastructure opportunity.
 2026-06-28T20:56:20,TSLA,-0.3,Tech rout and competitive AI threats offset positive chip milestone.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-22T21:59:19,TSLA,-0.6,Fatal crash under federal investigation; cybersecurity breach exposes trade secrets.
 2026-06-22T21:59:19,MSFT,0.6,Major 20-year data center power deal with Chevron; enterprise AI channel expansion.
 2026-06-22T21:59:19,AMZN,0.2,AWS expands into industrial AI with ArcelorMittal partnership; tech sector weakness offsets gains.
-2026-06-22T19:31:48,AAPL,0.3,AI strategy reset positive; offset by rising memory costs and supply chain breach.
-2026-06-22T19:31:48,NVDA,0.6,Major robotics breakthrough with customer adoption of safety tech.
-2026-06-22T19:31:48,TSLA,-0.3,Cybersecurity breach exposes Tesla trade secrets; SpaceX merger concerns weigh.
-2026-06-22T19:31:48,MSFT,0.3,Enterprise AI expansion with KPMG partnership strengthens channel strategy.
-2026-06-22T19:31:48,AMZN,0.6,Prime Day $15.7B forecast and AWS acceleration to 28% growth.
