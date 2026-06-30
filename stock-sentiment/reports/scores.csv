@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-30T14:34:29,AAPL,-0.3,Mag 7 loses $2.3T amid AI spending scrutiny; Apple downgrade.
+2026-06-30T14:34:29,NVDA,-0.3,Stock sagging amid short-term pressure; chip sector commodity concerns.
+2026-06-30T14:34:29,TSLA,-0.3,"Magnificent Seven selloff, autonomy competition, commodity headwinds offset gains."
+2026-06-30T14:34:29,MSFT,-0.8,"Massive selloff: 18% monthly loss, 26% YTD decline, AI spending scrutiny."
+2026-06-30T14:34:29,AMZN,-0.3,NLRB labor ruling and AI spending scrutiny offset by AWS partnership growth.
 2026-06-29T21:21:33,AAPL,-0.3,Memory chip cost pressures and supply chain scrutiny offset sector recovery.
 2026-06-29T21:21:33,NVDA,0.2,Tech sector rebound lifts market; NVDA demand remains strong but faces competition.
 2026-06-29T21:21:33,TSLA,0.6,Q2 delivery beat expectations; analyst upgrades; NHTSA steering probe dropped.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-23T21:28:25,TSLA,-0.6,"Fatal crash scrutiny, safety probe, and broad tech selloff pressure TSLA."
 2026-06-23T21:28:25,MSFT,0.6,Microsoft expands AI data center infrastructure with $4.7B Wisconsin investment.
 2026-06-23T21:28:25,AMZN,0.3,Prime Day 2026 event launches with $26B spending forecast.
-2026-06-23T17:58:42,AAPL,-0.6,Memory cost inflation forces iPhone price hikes; UK lawsuit threatens iCloud revenue.
-2026-06-23T17:58:42,NVDA,-0.3,AI bubble concerns and Big Tech selloff amid mixed market sentiment.
-2026-06-23T17:58:42,TSLA,-0.35,Fatal crash probe and regulatory scrutiny offset European battery deal gains.
-2026-06-23T17:58:42,MSFT,0.3,Data center expansion and AI model launches offset sector headwinds.
-2026-06-23T17:58:42,AMZN,0.3,"Prime Day event, AI infrastructure investment, labor dispute offset gains."
