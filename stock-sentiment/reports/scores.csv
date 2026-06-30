@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-30T21:24:25,AAPL,-0.3,Supply chain concerns and geopolitical risks overshadow positive partnerships.
+2026-06-30T21:24:25,NVDA,0.1,Mixed signals: near-term weakness offset by data center strength.
+2026-06-30T21:24:25,TSLA,0.1,Q2 delivery print imminent; FSD regulatory uncertainty in Europe weighs.
+2026-06-30T21:24:25,MSFT,0.2,AI segment at $37B run rate offsets investor concerns about massive capex spending.
+2026-06-30T21:24:25,AMZN,0.3,AWS launches $1B AI engineering division; offset by investor rotation away from Mag7.
 2026-06-30T17:57:30,AAPL,-0.6,"iPhone 18 Pro data breach, price hikes, Epic Games contempt appeal, regulatory pressure."
 2026-06-30T17:57:30,NVDA,-0.3,Stock sagging amid short-term penalty box; broader chip rally provides modest offset.
 2026-06-30T17:57:30,TSLA,-0.2,"US sales decline, FSD regulatory uncertainty in Europe weigh sentiment."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-24T17:56:15,TSLA,-0.6,Fatal Autopilot crash lawsuit and NHTSA probe offset VPP partnership gains.
 2026-06-24T17:56:15,MSFT,-0.3,Big Tech AI capex concerns outweigh chip efficiency gains.
 2026-06-24T17:56:15,AMZN,0.6,"Prime Day strong sales, robotaxi updates, AWS partnership expansion."
-2026-06-24T14:48:02,AAPL,0.3,Intel chip deal eases supply constraints; BofA maintains buy rating.
-2026-06-24T14:48:02,NVDA,-0.3,"Competitive threats from OpenAI-Broadcom chip partnership, supply constraints."
-2026-06-24T14:48:02,TSLA,-0.3,Tech sector selloff and AI valuation concerns offset positive fundamentals.
-2026-06-24T14:48:02,MSFT,-0.3,Tech sector AI valuation correction; MSFT power deal noted but sector headwinds dominate.
-2026-06-24T14:48:02,AMZN,0.0,Prime Day event underway; no material Amazon-specific catalysts identified.
