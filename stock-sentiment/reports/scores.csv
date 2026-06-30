@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-06-30T17:57:30,AAPL,-0.6,"iPhone 18 Pro data breach, price hikes, Epic Games contempt appeal, regulatory pressure."
+2026-06-30T17:57:30,NVDA,-0.3,Stock sagging amid short-term penalty box; broader chip rally provides modest offset.
+2026-06-30T17:57:30,TSLA,-0.2,"US sales decline, FSD regulatory uncertainty in Europe weigh sentiment."
+2026-06-30T17:57:30,MSFT,0.3,"Earnings beat, Azure growth, but market punished stock anyway."
+2026-06-30T17:57:30,AMZN,0.6,AWS launches $1B AI engineer unit; FTC settlement modest headwind.
 2026-06-30T14:34:29,AAPL,-0.3,Mag 7 loses $2.3T amid AI spending scrutiny; Apple downgrade.
 2026-06-30T14:34:29,NVDA,-0.3,Stock sagging amid short-term pressure; chip sector commodity concerns.
 2026-06-30T14:34:29,TSLA,-0.3,"Magnificent Seven selloff, autonomy competition, commodity headwinds offset gains."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-24T14:48:02,TSLA,-0.3,Tech sector selloff and AI valuation concerns offset positive fundamentals.
 2026-06-24T14:48:02,MSFT,-0.3,Tech sector AI valuation correction; MSFT power deal noted but sector headwinds dominate.
 2026-06-24T14:48:02,AMZN,0.0,Prime Day event underway; no material Amazon-specific catalysts identified.
-2026-06-23T21:28:25,AAPL,-0.3,UK lawsuit over iCloud services; competitive pressure from Meta AI glasses.
-2026-06-23T21:28:25,NVDA,-0.4,AI sector profit-taking; investors demand evidence of returns on spending.
-2026-06-23T21:28:25,TSLA,-0.6,"Fatal crash scrutiny, safety probe, and broad tech selloff pressure TSLA."
-2026-06-23T21:28:25,MSFT,0.6,Microsoft expands AI data center infrastructure with $4.7B Wisconsin investment.
-2026-06-23T21:28:25,AMZN,0.3,Prime Day 2026 event launches with $26B spending forecast.
