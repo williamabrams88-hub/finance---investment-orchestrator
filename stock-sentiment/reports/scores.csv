@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-01T17:58:42,AAPL,0.1,AI expansion and services growth offset valuation concerns and competition.
+2026-07-01T17:58:42,NVDA,0.0,"No NVDA-specific news; AI sector discussion mentions competitors AMD, Anthropic."
+2026-07-01T17:58:42,TSLA,0.2,Q2 delivery expectations rising; FSD hype questioned; valuation concerns persist.
+2026-07-01T17:58:42,MSFT,0.6,20-year AI data center power deal signals infrastructure expansion leadership.
+2026-07-01T17:58:42,AMZN,-0.3,Meta's cloud computing challenge pressures Amazon; retail logistics costly.
 2026-07-01T14:51:58,AAPL,0.1,Proactive AI cybersecurity updates; analyst bullish views offset by pricing concerns.
 2026-07-01T14:51:58,NVDA,-0.3,Chip sector profit-taking after 82% gain; China tailwind underappreciated.
 2026-07-01T14:51:58,TSLA,-0.3,BYD regains EV sales crown; Tesla faces intensifying Chinese competition.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-25T14:47:40,TSLA,0.3,Major energy deals with power plants and battery storage partnerships.
 2026-06-25T14:47:40,MSFT,-0.6,MSFT stock down 24% YTD; AI gains bypass Microsoft despite sector strength.
 2026-06-25T14:47:40,AMZN,-0.3,EU gatekeeper designation threat offsets India AI investment gains.
-2026-06-24T21:19:27,AAPL,0.3,iPhone 17 cycle momentum; AI upgrade skepticism partially offsets gains.
-2026-06-24T21:19:27,NVDA,-0.3,OpenAI-Broadcom AI chip partnership threatens NVDA's GPU dominance.
-2026-06-24T21:19:27,TSLA,-0.3,Tech selloff and lawsuit offset renewable energy partnership gains.
-2026-06-24T21:19:27,MSFT,0.2,Microsoft benefits from AI infrastructure demand; broader tech sector cooling.
-2026-06-24T21:19:27,AMZN,0.6,"Prime Day sales surge, robotaxi updates, and institutional buying support."
