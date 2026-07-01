@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-01T14:51:58,AAPL,0.1,Proactive AI cybersecurity updates; analyst bullish views offset by pricing concerns.
+2026-07-01T14:51:58,NVDA,-0.3,Chip sector profit-taking after 82% gain; China tailwind underappreciated.
+2026-07-01T14:51:58,TSLA,-0.3,BYD regains EV sales crown; Tesla faces intensifying Chinese competition.
+2026-07-01T14:51:58,MSFT,-0.3,"Meta enters cloud market, intensifying competition for Azure and AWS."
+2026-07-01T14:51:58,AMZN,-0.6,Meta's new AI cloud business threatens Amazon's cloud dominance.
 2026-06-30T21:24:25,AAPL,-0.3,Supply chain concerns and geopolitical risks overshadow positive partnerships.
 2026-06-30T21:24:25,NVDA,0.1,Mixed signals: near-term weakness offset by data center strength.
 2026-06-30T21:24:25,TSLA,0.1,Q2 delivery print imminent; FSD regulatory uncertainty in Europe weighs.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-24T21:19:27,TSLA,-0.3,Tech selloff and lawsuit offset renewable energy partnership gains.
 2026-06-24T21:19:27,MSFT,0.2,Microsoft benefits from AI infrastructure demand; broader tech sector cooling.
 2026-06-24T21:19:27,AMZN,0.6,"Prime Day sales surge, robotaxi updates, and institutional buying support."
-2026-06-24T17:56:15,AAPL,0.3,BofA bullish on price increases offsetting memory costs; Intel chip deal strategic.
-2026-06-24T17:56:15,NVDA,0.3,CoreWeave deepens Nvidia partnership; OpenAI tests Broadcom chips.
-2026-06-24T17:56:15,TSLA,-0.6,Fatal Autopilot crash lawsuit and NHTSA probe offset VPP partnership gains.
-2026-06-24T17:56:15,MSFT,-0.3,Big Tech AI capex concerns outweigh chip efficiency gains.
-2026-06-24T17:56:15,AMZN,0.6,"Prime Day strong sales, robotaxi updates, AWS partnership expansion."
