@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-02T17:50:40,AAPL,0.2,Foldable iPhone catalyst offset by AI-driven pricing pressures and supply concerns.
+2026-07-02T17:50:40,NVDA,0.3,Nvidia launches AI revenue model; retail outflows and short bets offset gains.
+2026-07-02T17:50:40,TSLA,-0.3,Q2 delivery beat offset by tech selloff and short positioning.
+2026-07-02T17:50:40,MSFT,0.2,Kyndryl partnership expansion; offset by Magnificent 7 retail outflows.
+2026-07-02T17:50:40,AMZN,0.3,Workato AWS partnership expands AI production; sector headwinds offset gains.
 2026-07-02T14:21:28,AAPL,-0.3,Apple Intelligence failing to drive upgrades; China demand weakening.
 2026-07-02T14:21:28,NVDA,-0.6,"Retail exodus, AI chip valuation concerns, circular financing questions persist."
 2026-07-02T14:21:28,TSLA,0.8,"Q2 deliveries crush forecasts at 480K, easing demand concerns."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-26T14:39:27,TSLA,0.3,Autonomy leadership questioned; production expansion and battery partnerships offset
 2026-06-26T14:39:27,MSFT,-0.6,"Tech selloff amid AI spending concerns, MSFT at year lows."
 2026-06-26T14:39:27,AMZN,0.3,"AWS GPU price hike signals strong AI demand, offset by regulatory gatekeeper classification."
-2026-06-25T21:27:49,AAPL,-0.6,Price hikes to offset chip costs; stock plunges 6% amid tech weakness.
-2026-06-25T21:27:49,NVDA,0.6,Semiconductor complex rallies on Micron earnings; AI chip demand strengthens.
-2026-06-25T21:27:49,TSLA,0.1,Energy coalition and production ramp offset Mag 7 selloff and lawsuit headwinds.
-2026-06-25T21:27:49,MSFT,-0.3,Xbox price hikes and tech sector weakness offset data center expansion.
-2026-06-25T21:27:49,AMZN,-0.3,Stock slips below 200-day line amid Mag 7 rotation selloff.
