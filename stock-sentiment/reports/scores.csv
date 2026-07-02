@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-02T14:21:28,AAPL,-0.3,Apple Intelligence failing to drive upgrades; China demand weakening.
+2026-07-02T14:21:28,NVDA,-0.6,"Retail exodus, AI chip valuation concerns, circular financing questions persist."
+2026-07-02T14:21:28,TSLA,0.8,"Q2 deliveries crush forecasts at 480K, easing demand concerns."
+2026-07-02T14:21:28,MSFT,-0.3,AI threatens software business model; stock down 17% amid sector rotation.
+2026-07-02T14:21:28,AMZN,-0.3,Retail investor exodus from Mag 7; MGM Studios drops film project.
 2026-07-01T21:23:19,AAPL,-0.3,China chip negotiations and Russia app store fine offset positive sentiment.
 2026-07-01T21:23:19,NVDA,0.3,"Palantir partnership expands NVDA AI adoption in government, commercial sectors."
 2026-07-01T21:23:19,TSLA,0.3,"Delivery report imminent; analyst forecasts 420k vehicles, stock up four days."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-25T21:27:49,TSLA,0.1,Energy coalition and production ramp offset Mag 7 selloff and lawsuit headwinds.
 2026-06-25T21:27:49,MSFT,-0.3,Xbox price hikes and tech sector weakness offset data center expansion.
 2026-06-25T21:27:49,AMZN,-0.3,Stock slips below 200-day line amid Mag 7 rotation selloff.
-2026-06-25T18:11:37,AAPL,-0.7,Apple raises prices 4-6% due to AI-driven memory shortage crisis.
-2026-06-25T18:11:37,NVDA,0.6,Micron earnings beat signals strong AI chip demand tailwinds.
-2026-06-25T18:11:37,TSLA,0.3,Robotaxi regulatory boost and Optimus humanoid robot momentum offset valuation concerns.
-2026-06-25T18:11:37,MSFT,-0.6,Xbox price hikes third time in 13 months; stock hits 14-month low.
-2026-06-25T18:11:37,AMZN,-0.3,Stock breaks 200-day line amid cloud sector weakness; offset by India expansion.
