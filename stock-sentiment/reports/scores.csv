@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-03T17:27:40,AAPL,-0.3,AI price increases and market skepticism on AI productivity impact.
+2026-07-03T17:27:40,NVDA,0.0,No NVDA-specific news; mentions only as AI market leader context.
+2026-07-03T17:27:40,TSLA,0.6,Q2 delivery beat 21% above consensus; robotaxi expansion to Miami.
+2026-07-03T17:27:40,MSFT,0.6,Microsoft launches $2.5B AI adoption unit to drive enterprise AI deployment.
+2026-07-03T17:27:40,AMZN,0.3,Amazon expands robotaxi competition; corporate AI spending becomes more efficient.
 2026-07-03T14:25:40,AAPL,-0.3,AI-driven price increases pressuring consumer demand; mixed sentiment.
 2026-07-03T14:25:40,NVDA,0.0,No NVDA-specific news; unrelated tech sector items.
 2026-07-03T14:25:40,TSLA,0.7,Q2 deliveries beat 25% YoY; energy storage crushes forecasts.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-27T13:59:01,TSLA,0.1,Tesla expands German production; competitive pressures from Bezos-backed rivals.
 2026-06-27T13:59:01,MSFT,0.2,AI infrastructure demand supports cloud growth; competitive pressures temper gains.
 2026-06-27T13:59:01,AMZN,0.3,Amazon Bedrock AI infrastructure expansion; offset by FTC settlement and Blue Origin underperformance.
-2026-06-26T21:15:00,AAPL,-0.6,Vision Pro hardware chief defects to OpenAI; tech sector weakness.
-2026-06-26T21:15:00,NVDA,-0.6,Tech sell-off crushes semiconductor stocks; NVDA slides amid sector weakness.
-2026-06-26T21:15:00,TSLA,0.2,Production expansion offset by valuation concerns and competitive threats.
-2026-06-26T21:15:00,MSFT,-0.6,Tech sector selloff; memory chip costs weigh on semiconductor stocks.
-2026-06-26T21:15:00,AMZN,0.3,CIOs expect stronger cloud spending; tech sector mixed on AI costs.
