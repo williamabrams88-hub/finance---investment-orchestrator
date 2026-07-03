@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-03T20:58:55,AAPL,-0.3,Rising component costs pressuring margins; AI pricing concerns offset positive sentiment.
+2026-07-03T20:58:55,NVDA,0.0,No NVDA-specific news; sentiment neutral across unrelated stocks.
+2026-07-03T20:58:55,TSLA,0.3,Q2 delivery beat offset by margin concerns and stock weakness.
+2026-07-03T20:58:55,MSFT,0.3,AI services expansion offset by upcoming layoffs across divisions.
+2026-07-03T20:58:55,AMZN,-0.3,Stock underperformance; competitors accelerate in robotaxi and cloud services.
 2026-07-03T17:27:40,AAPL,-0.3,AI price increases and market skepticism on AI productivity impact.
 2026-07-03T17:27:40,NVDA,0.0,No NVDA-specific news; mentions only as AI market leader context.
 2026-07-03T17:27:40,TSLA,0.6,Q2 delivery beat 21% above consensus; robotaxi expansion to Miami.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-27T17:12:51,TSLA,0.2,Berlin production expansion offsets competitive EV market pressures.
 2026-06-27T17:12:51,MSFT,0.6,AI infrastructure demand drives positive sentiment; Burry bullish bet signals confidence.
 2026-06-27T17:12:51,AMZN,0.2,AWS Bedrock integration positions Amazon in AI infrastructure; FTC settlement overhead.
-2026-06-27T13:59:01,AAPL,-0.3,Sector rotation away from AI; lobbying for Chinese chip access amid cost pressures.
-2026-06-27T13:59:01,NVDA,0.2,AI compute financialization trend supports chip demand outlook.
-2026-06-27T13:59:01,TSLA,0.1,Tesla expands German production; competitive pressures from Bezos-backed rivals.
-2026-06-27T13:59:01,MSFT,0.2,AI infrastructure demand supports cloud growth; competitive pressures temper gains.
-2026-06-27T13:59:01,AMZN,0.3,Amazon Bedrock AI infrastructure expansion; offset by FTC settlement and Blue Origin underperformance.
