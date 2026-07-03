@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-03T14:25:40,AAPL,-0.3,AI-driven price increases pressuring consumer demand; mixed sentiment.
+2026-07-03T14:25:40,NVDA,0.0,No NVDA-specific news; unrelated tech sector items.
+2026-07-03T14:25:40,TSLA,0.7,Q2 deliveries beat 25% YoY; energy storage crushes forecasts.
+2026-07-03T14:25:40,MSFT,0.6,Microsoft launches $2.5B AI adoption unit; strong enterprise AI demand signals.
+2026-07-03T14:25:40,AMZN,0.0,Investor interest noted; no material catalysts for AMZN specifically.
 2026-07-02T20:59:26,AAPL,0.3,Foldable iPhone production ramp; mixed tech sector amid macro headwinds.
 2026-07-02T20:59:26,NVDA,0.2,AI sector selloff concerns offset by revenue share partnerships.
 2026-07-02T20:59:26,TSLA,0.3,Strong delivery beat offset by market rotation away from growth stocks.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-26T21:15:00,TSLA,0.2,Production expansion offset by valuation concerns and competitive threats.
 2026-06-26T21:15:00,MSFT,-0.6,Tech sector selloff; memory chip costs weigh on semiconductor stocks.
 2026-06-26T21:15:00,AMZN,0.3,CIOs expect stronger cloud spending; tech sector mixed on AI costs.
-2026-06-26T17:50:21,AAPL,-0.3,Price hikes amid memory cost concerns; analyst support limits downside.
-2026-06-26T17:50:21,NVDA,0.6,Micron earnings beat lifts semiconductor sector; AI compute financialization tailwinds.
-2026-06-26T17:50:21,TSLA,0.3,Robotaxi regulatory rollback and production expansion offset FSD lawsuit settlement.
-2026-06-26T17:50:21,MSFT,-0.6,MSFT tumbles to 3-year lows amid memory chip cost concerns.
-2026-06-26T17:50:21,AMZN,0.6,iHeartMedia ad partnership and AI cloud infrastructure tailwinds benefit Amazon.
