@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-04T13:50:38,AAPL,-0.3,Rising component costs and potential memory supplier shift pressure margins.
+2026-07-04T13:50:38,NVDA,0.6,AI infrastructure buildout with $750B spending wave and strong guidance.
+2026-07-04T13:50:38,TSLA,0.6,Robotaxi expansion to Miami; beat delivery estimates despite stock decline.
+2026-07-04T13:50:38,MSFT,0.3,Microsoft launches $2.5B Frontier Company for enterprise AI adoption.
+2026-07-04T13:50:38,AMZN,-0.3,"Anthropic exploring custom chips, reducing AWS dependency; New Jersey Medicaid cost pressures."
 2026-07-03T20:58:55,AAPL,-0.3,Rising component costs pressuring margins; AI pricing concerns offset positive sentiment.
 2026-07-03T20:58:55,NVDA,0.0,No NVDA-specific news; sentiment neutral across unrelated stocks.
 2026-07-03T20:58:55,TSLA,0.3,Q2 delivery beat offset by margin concerns and stock weakness.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-27T20:57:10,TSLA,0.4,"Berlin plant production increase 20% to 7,500 vehicles weekly."
 2026-06-27T20:57:10,MSFT,0.3,AI infrastructure deals and investor confidence offset regulatory scrutiny.
 2026-06-27T20:57:10,AMZN,0.3,AI partnerships and $13B India investment offset EU gatekeeper regulatory concerns.
-2026-06-27T17:12:51,AAPL,-0.6,"Price hikes, regulatory concessions, and geopolitical chip sourcing challenges."
-2026-06-27T17:12:51,NVDA,0.3,Multiverse Computing launches NVIDIA-powered reasoning model; underperformance vs. semiconductor peers.
-2026-06-27T17:12:51,TSLA,0.2,Berlin production expansion offsets competitive EV market pressures.
-2026-06-27T17:12:51,MSFT,0.6,AI infrastructure demand drives positive sentiment; Burry bullish bet signals confidence.
-2026-06-27T17:12:51,AMZN,0.2,AWS Bedrock integration positions Amazon in AI infrastructure; FTC settlement overhead.
