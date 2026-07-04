@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-04T20:51:04,AAPL,0.4,Major 2026-2027 product refresh with foldable iPhone and Ultra model launch.
+2026-07-04T20:51:04,NVDA,0.3,AI memory supercycle strengthens; semiconductor sector tailwinds benefit chip leaders.
+2026-07-04T20:51:04,TSLA,0.3,Robotaxi expansion to Miami offsets analyst caution on fundamentals.
+2026-07-04T20:51:04,MSFT,0.3,Partnership expansion with Kyndryl; positioned as AI and cloud leader.
+2026-07-04T20:51:04,AMZN,0.3,Custom AI chips expansion and hedge fund accumulation offset grocery exit.
 2026-07-04T17:08:17,AAPL,0.2,Analyst upgrade maintained; price increases offset supply chain concerns.
 2026-07-04T17:08:17,NVDA,0.0,No NVDA-specific news; mixed AI sector sentiment with macro concerns.
 2026-07-04T17:08:17,TSLA,0.3,Robotaxi expansion to Miami; mixed sentiment on fundamentals versus future tech.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-28T17:15:23,TSLA,-0.3,"Stock decline, EV sales concerns, competitive AI driving threats emerge."
 2026-06-28T17:15:23,MSFT,-0.3,Strong AI position offset by competitive pressure and supply chain headwinds.
 2026-06-28T17:15:23,AMZN,0.6,Amazon's AI empire and record Prime Day sales drive platform strength.
-2026-06-28T14:05:24,AAPL,-0.3,"Price hikes, supply chain pressures, analyst downgrade offset AI chip roadmap."
-2026-06-28T14:05:24,NVDA,0.3,AI demand outstripping supply supports semiconductor capacity expansion.
-2026-06-28T14:05:24,TSLA,0.2,AI chip milestone and Semi incentives offset competitive autonomous vehicle threats.
-2026-06-28T14:05:24,MSFT,0.2,AI infrastructure partnerships offset concerns about competitive positioning.
-2026-06-28T14:05:24,AMZN,0.2,AWS AI pricing increases; mixed capex sustainability concerns.
