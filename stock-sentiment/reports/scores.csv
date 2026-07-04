@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-04T17:08:17,AAPL,0.2,Analyst upgrade maintained; price increases offset supply chain concerns.
+2026-07-04T17:08:17,NVDA,0.0,No NVDA-specific news; mixed AI sector sentiment with macro concerns.
+2026-07-04T17:08:17,TSLA,0.3,Robotaxi expansion to Miami; mixed sentiment on fundamentals versus future tech.
+2026-07-04T17:08:17,MSFT,0.4,AI leadership position and strategic partnerships strengthen long-term outlook.
+2026-07-04T17:08:17,AMZN,0.3,Amazon expanding AI chip business; hedge fund increases position 214%.
 2026-07-04T13:50:38,AAPL,-0.3,Rising component costs and potential memory supplier shift pressure margins.
 2026-07-04T13:50:38,NVDA,0.6,AI infrastructure buildout with $750B spending wave and strong guidance.
 2026-07-04T13:50:38,TSLA,0.6,Robotaxi expansion to Miami; beat delivery estimates despite stock decline.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-28T14:05:24,TSLA,0.2,AI chip milestone and Semi incentives offset competitive autonomous vehicle threats.
 2026-06-28T14:05:24,MSFT,0.2,AI infrastructure partnerships offset concerns about competitive positioning.
 2026-06-28T14:05:24,AMZN,0.2,AWS AI pricing increases; mixed capex sustainability concerns.
-2026-06-27T20:57:10,AAPL,-0.6,"Price hikes, analyst downgrade, regulatory pressures offset AI chip roadmap."
-2026-06-27T20:57:10,NVDA,0.5,NVIDIA launches Vera Rubin Platform for scientific supercomputing.
-2026-06-27T20:57:10,TSLA,0.4,"Berlin plant production increase 20% to 7,500 vehicles weekly."
-2026-06-27T20:57:10,MSFT,0.3,AI infrastructure deals and investor confidence offset regulatory scrutiny.
-2026-06-27T20:57:10,AMZN,0.3,AI partnerships and $13B India investment offset EU gatekeeper regulatory concerns.
