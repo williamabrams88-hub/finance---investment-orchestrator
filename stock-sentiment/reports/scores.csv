@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-05T17:13:29,AAPL,0.3,New foldable iPhone and product expansion planned for 2026-2027.
+2026-07-05T17:13:29,NVDA,-0.3,AI bubble fears and hyperscaler capex spending concerns weigh sentiment.
+2026-07-05T17:13:29,TSLA,0.1,Robotaxi expansion to Miami offset by California EV incentive exclusion.
+2026-07-05T17:13:29,MSFT,0.3,Stock at 52-week low seen as buying opportunity; AI infrastructure investment thesis intact.
+2026-07-05T17:13:29,AMZN,0.2,Bill Ackman endorses Amazon despite AI capex concerns; stock down 13% in month.
 2026-07-05T13:57:08,AAPL,0.3,New foldable iPhone and product lineup expansion planned for 2026-2027.
 2026-07-05T13:57:08,NVDA,0.4,Strong EPS and revenue estimate revisions; AI Factory Blackwell demand catalyst.
 2026-07-05T13:57:08,TSLA,0.1,Robotaxi expansion to Miami offsets valuation concerns and short bets.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-29T16:01:28,TSLA,0.2,Tesla stock recovers Monday; Q2 delivery report due this week.
 2026-06-29T16:01:28,MSFT,-0.7,Worst month since 2000 amid tech sector weakness and sector rotation.
 2026-06-29T16:01:28,AMZN,0.6,Amazon climbs as AI adoption accelerates; market recovery from tech selloff.
-2026-06-28T20:56:20,AAPL,-0.3,Price hikes amid chip costs; analyst downgrade to Hold rating.
-2026-06-28T20:56:20,NVDA,0.2,Nvidia-backed CoreWeave positioned as attractive AI infrastructure opportunity.
-2026-06-28T20:56:20,TSLA,-0.3,Tech rout and competitive AI threats offset positive chip milestone.
-2026-06-28T20:56:20,MSFT,-0.3,MSFT shares down 22% YTD; losing AI investment narrative to competitors.
-2026-06-28T20:56:20,AMZN,0.6,Amazon's AI empire recognized as world's most complete tech platform.
