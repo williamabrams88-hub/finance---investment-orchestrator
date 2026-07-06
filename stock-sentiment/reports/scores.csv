@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-06T21:25:33,AAPL,0.6,Broadcom secures five-year custom processor supply deal with Apple through 2031.
+2026-07-06T21:25:33,NVDA,0.2,Nvidia denies Kyber server delays; chip sector rebounds after selloff.
+2026-07-06T21:25:33,TSLA,0.6,"Robotaxi expansion to Miami, AI rally, positive EV turnaround signals."
+2026-07-06T21:25:33,MSFT,-0.6,"4,800 job cuts including Xbox restructuring amid margin pressures."
+2026-07-06T21:25:33,AMZN,0.3,"Amazon exploring AI chip market expansion, potential competitive advantage."
 2026-07-06T18:12:19,AAPL,0.6,"Broadcom expands Apple chip partnership through 2031, signals AI upside."
 2026-07-06T18:12:19,NVDA,-0.3,Next-gen Kyber Rack delayed to 2028; competitive AMD gains momentum.
 2026-07-06T18:12:19,TSLA,0.6,"Robotaxi expansion, delivery beats, and institutional buying momentum."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-30T17:57:30,TSLA,-0.2,"US sales decline, FSD regulatory uncertainty in Europe weigh sentiment."
 2026-06-30T17:57:30,MSFT,0.3,"Earnings beat, Azure growth, but market punished stock anyway."
 2026-06-30T17:57:30,AMZN,0.6,AWS launches $1B AI engineer unit; FTC settlement modest headwind.
-2026-06-30T14:34:29,AAPL,-0.3,Mag 7 loses $2.3T amid AI spending scrutiny; Apple downgrade.
-2026-06-30T14:34:29,NVDA,-0.3,Stock sagging amid short-term pressure; chip sector commodity concerns.
-2026-06-30T14:34:29,TSLA,-0.3,"Magnificent Seven selloff, autonomy competition, commodity headwinds offset gains."
-2026-06-30T14:34:29,MSFT,-0.8,"Massive selloff: 18% monthly loss, 26% YTD decline, AI spending scrutiny."
-2026-06-30T14:34:29,AMZN,-0.3,NLRB labor ruling and AI spending scrutiny offset by AWS partnership growth.
