@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-06T15:50:23,AAPL,0.6,"Broadcom extends Apple chip supply deal through 2031, securing long-term partnership."
+2026-07-06T15:50:23,NVDA,-0.3,Rumored Kyber AI delay and memory boom ending concerns weigh sentiment.
+2026-07-06T15:50:23,TSLA,0.2,Robotaxi expansion to Miami shows progress but slow rollout continues.
+2026-07-06T15:50:23,MSFT,-0.6,"4,800 job cuts including Xbox restructuring, unprofitable gaming division."
+2026-07-06T15:50:23,AMZN,0.3,AI infrastructure investment thesis strengthens; custom chips offset Nvidia concerns.
 2026-07-05T20:53:18,AAPL,0.3,Strong iPhone demand and foldable expansion plans offset geopolitical concerns.
 2026-07-05T20:53:18,NVDA,0.2,New revenue-sharing AI startup program expands ecosystem; GeForce revival signals demand.
 2026-07-05T20:53:18,TSLA,0.1,Robotaxi expansion to Miami offset by California EV incentive snub.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-29T21:21:33,TSLA,0.6,Q2 delivery beat expectations; analyst upgrades; NHTSA steering probe dropped.
 2026-06-29T21:21:33,MSFT,-0.3,Worst month since 2000 offsets AI spending optimism and valuation opportunity.
 2026-06-29T21:21:33,AMZN,0.2,Amazon climbs amid Magnificent Seven recovery; AI spending scrutiny ahead.
-2026-06-29T18:09:32,AAPL,0.2,Apple seeks China memory flexibility; tech sector stabilizes after weak week.
-2026-06-29T18:09:32,NVDA,0.6,Investors pile into AI trade; Nvidia critical to market recovery.
-2026-06-29T18:09:32,TSLA,-0.3,Fierce self-driving rival emerges; Magnificent Seven underperformance persists.
-2026-06-29T18:09:32,MSFT,0.3,AI spending momentum continues; enterprise adoption accelerating past experimental phase.
-2026-06-29T18:09:32,AMZN,0.3,Strong Prime Day demand offsets AI spending and competitive pressures.
