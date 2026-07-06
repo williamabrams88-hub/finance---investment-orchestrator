@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-06T18:12:19,AAPL,0.6,"Broadcom expands Apple chip partnership through 2031, signals AI upside."
+2026-07-06T18:12:19,NVDA,-0.3,Next-gen Kyber Rack delayed to 2028; competitive AMD gains momentum.
+2026-07-06T18:12:19,TSLA,0.6,"Robotaxi expansion, delivery beats, and institutional buying momentum."
+2026-07-06T18:12:19,MSFT,-0.6,"4,800 job cuts; Xbox division restructuring amid margin pressures."
+2026-07-06T18:12:19,AMZN,0.1,Meta's cloud competition threat offset by Amazon's AI reinvention focus.
 2026-07-06T15:50:23,AAPL,0.6,"Broadcom extends Apple chip supply deal through 2031, securing long-term partnership."
 2026-07-06T15:50:23,NVDA,-0.3,Rumored Kyber AI delay and memory boom ending concerns weigh sentiment.
 2026-07-06T15:50:23,TSLA,0.2,Robotaxi expansion to Miami shows progress but slow rollout continues.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-30T14:34:29,TSLA,-0.3,"Magnificent Seven selloff, autonomy competition, commodity headwinds offset gains."
 2026-06-30T14:34:29,MSFT,-0.8,"Massive selloff: 18% monthly loss, 26% YTD decline, AI spending scrutiny."
 2026-06-30T14:34:29,AMZN,-0.3,NLRB labor ruling and AI spending scrutiny offset by AWS partnership growth.
-2026-06-29T21:21:33,AAPL,-0.3,Memory chip cost pressures and supply chain scrutiny offset sector recovery.
-2026-06-29T21:21:33,NVDA,0.2,Tech sector rebound lifts market; NVDA demand remains strong but faces competition.
-2026-06-29T21:21:33,TSLA,0.6,Q2 delivery beat expectations; analyst upgrades; NHTSA steering probe dropped.
-2026-06-29T21:21:33,MSFT,-0.3,Worst month since 2000 offsets AI spending optimism and valuation opportunity.
-2026-06-29T21:21:33,AMZN,0.2,Amazon climbs amid Magnificent Seven recovery; AI spending scrutiny ahead.
