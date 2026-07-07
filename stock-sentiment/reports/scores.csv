@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-07T18:01:46,AAPL,-0.3,App Store growth slows 3% YoY; mixed sentiment ahead of earnings.
+2026-07-07T18:01:46,NVDA,0.2,"Nvidia denies server delays, roadmap intact; mixed sector sentiment."
+2026-07-07T18:01:46,TSLA,-0.3,FSD manslaughter charge offsets robotaxi expansion and margin recovery.
+2026-07-07T18:01:46,MSFT,-0.3,Xbox layoffs offset by cost-saving AI model internalization gains.
+2026-07-07T18:01:46,AMZN,0.3,Prime Day success and AI infrastructure investment offset debt financing concerns.
 2026-07-07T14:54:09,AAPL,0.4,Foldable iPhone launch catalyst; memory supply advantage positions Apple well.
 2026-07-07T14:54:09,NVDA,-0.6,Chip sector selloff triggered by Samsung earnings; NVDA peers down sharply.
 2026-07-07T14:54:09,TSLA,0.6,RBC raises price target on SpaceX merger speculation and standalone valuation.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-01T14:51:58,TSLA,-0.3,BYD regains EV sales crown; Tesla faces intensifying Chinese competition.
 2026-07-01T14:51:58,MSFT,-0.3,"Meta enters cloud market, intensifying competition for Azure and AWS."
 2026-07-01T14:51:58,AMZN,-0.6,Meta's new AI cloud business threatens Amazon's cloud dominance.
-2026-06-30T21:24:25,AAPL,-0.3,Supply chain concerns and geopolitical risks overshadow positive partnerships.
-2026-06-30T21:24:25,NVDA,0.1,Mixed signals: near-term weakness offset by data center strength.
-2026-06-30T21:24:25,TSLA,0.1,Q2 delivery print imminent; FSD regulatory uncertainty in Europe weighs.
-2026-06-30T21:24:25,MSFT,0.2,AI segment at $37B run rate offsets investor concerns about massive capex spending.
-2026-06-30T21:24:25,AMZN,0.3,AWS launches $1B AI engineering division; offset by investor rotation away from Mag7.
