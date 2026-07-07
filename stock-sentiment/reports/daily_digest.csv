@@ -1,4 +1,6 @@
 timestamp,ticker,signal,confidence,reason
+2026-07-07T14:54:09,NVDA,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.60)"
+2026-07-07T14:54:09,MSFT,SELL,Medium,"Sustained negative for 3 runs (scores: ['-0.60', '-0.60', '-0.60'])"
 2026-07-06T15:50:23,NVDA,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.30)"
 2026-07-06T15:50:23,MSFT,SELL,High,"Sentiment reversal pos→neg (prev=0.30, now=-0.60)"
 2026-07-06T15:50:23,AMZN,BUY,High,"Sentiment reversal neg→pos (prev=-0.30, now=0.30)"
@@ -47,5 +49,3 @@ timestamp,ticker,signal,confidence,reason
 2026-06-19T15:35:50,MSFT,SELL,High,"Sentiment reversal pos→neg (prev=0.30, now=-0.70)"
 2026-06-18T15:44:24,AAPL,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.60)"
 2026-06-18T15:44:24,MSFT,BUY,High,"Sentiment reversal neg→pos (prev=-0.40, now=0.60)"
-2026-06-18T15:44:24,AMZN,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.60)"
-2026-06-17T15:54:43,AAPL,SELL,High,"Sentiment reversal pos→neg (prev=0.10, now=-0.30)"

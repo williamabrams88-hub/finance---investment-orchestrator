@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-07T14:54:09,AAPL,0.4,Foldable iPhone launch catalyst; memory supply advantage positions Apple well.
+2026-07-07T14:54:09,NVDA,-0.6,Chip sector selloff triggered by Samsung earnings; NVDA peers down sharply.
+2026-07-07T14:54:09,TSLA,0.6,RBC raises price target on SpaceX merger speculation and standalone valuation.
+2026-07-07T14:54:09,MSFT,-0.6,"Xbox division cuts 3,200 jobs; unprofitable gaming business restructuring."
+2026-07-07T14:54:09,AMZN,0.2,Heavy AI infrastructure investment via $25B bond sale; analyst optimism.
 2026-07-06T21:25:33,AAPL,0.6,Broadcom secures five-year custom processor supply deal with Apple through 2031.
 2026-07-06T21:25:33,NVDA,0.2,Nvidia denies Kyber server delays; chip sector rebounds after selloff.
 2026-07-06T21:25:33,TSLA,0.6,"Robotaxi expansion to Miami, AI rally, positive EV turnaround signals."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-06-30T21:24:25,TSLA,0.1,Q2 delivery print imminent; FSD regulatory uncertainty in Europe weighs.
 2026-06-30T21:24:25,MSFT,0.2,AI segment at $37B run rate offsets investor concerns about massive capex spending.
 2026-06-30T21:24:25,AMZN,0.3,AWS launches $1B AI engineering division; offset by investor rotation away from Mag7.
-2026-06-30T17:57:30,AAPL,-0.6,"iPhone 18 Pro data breach, price hikes, Epic Games contempt appeal, regulatory pressure."
-2026-06-30T17:57:30,NVDA,-0.3,Stock sagging amid short-term penalty box; broader chip rally provides modest offset.
-2026-06-30T17:57:30,TSLA,-0.2,"US sales decline, FSD regulatory uncertainty in Europe weigh sentiment."
-2026-06-30T17:57:30,MSFT,0.3,"Earnings beat, Azure growth, but market punished stock anyway."
-2026-06-30T17:57:30,AMZN,0.6,AWS launches $1B AI engineer unit; FTC settlement modest headwind.
