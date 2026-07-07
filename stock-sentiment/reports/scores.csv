@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-07T21:19:12,AAPL,0.3,Price increases weathering demand; supplier IPO signals strength.
+2026-07-07T21:19:12,NVDA,-0.6,DeepSeek develops custom AI chip to reduce Nvidia reliance
+2026-07-07T21:19:12,TSLA,-0.3,FSD manslaughter charge offsets SpaceX merger speculation and AI initiatives.
+2026-07-07T21:19:12,MSFT,-0.3,Xbox job cuts offset by strong $37B AI revenue growth.
+2026-07-07T21:19:12,AMZN,-0.3,Heavy AI capex concerns offset by strong bond market demand.
 2026-07-07T18:01:46,AAPL,-0.3,App Store growth slows 3% YoY; mixed sentiment ahead of earnings.
 2026-07-07T18:01:46,NVDA,0.2,"Nvidia denies server delays, roadmap intact; mixed sector sentiment."
 2026-07-07T18:01:46,TSLA,-0.3,FSD manslaughter charge offsets robotaxi expansion and margin recovery.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-01T17:58:42,TSLA,0.2,Q2 delivery expectations rising; FSD hype questioned; valuation concerns persist.
 2026-07-01T17:58:42,MSFT,0.6,20-year AI data center power deal signals infrastructure expansion leadership.
 2026-07-01T17:58:42,AMZN,-0.3,Meta's cloud computing challenge pressures Amazon; retail logistics costly.
-2026-07-01T14:51:58,AAPL,0.1,Proactive AI cybersecurity updates; analyst bullish views offset by pricing concerns.
-2026-07-01T14:51:58,NVDA,-0.3,Chip sector profit-taking after 82% gain; China tailwind underappreciated.
-2026-07-01T14:51:58,TSLA,-0.3,BYD regains EV sales crown; Tesla faces intensifying Chinese competition.
-2026-07-01T14:51:58,MSFT,-0.3,"Meta enters cloud market, intensifying competition for Azure and AWS."
-2026-07-01T14:51:58,AMZN,-0.6,Meta's new AI cloud business threatens Amazon's cloud dominance.
