@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-08T21:02:04,AAPL,0.6,"Apple secures $30B Broadcom chip deal through 2031, strengthening US supply chain."
+2026-07-08T21:02:04,NVDA,0.6,"Record revenue, low valuation, strong AI demand from major partners."
+2026-07-08T21:02:04,TSLA,0.3,"Robotaxi expansion and AI focus offset record deliveries, merger speculation uncertain."
+2026-07-08T21:02:04,MSFT,-0.3,Xbox unit downsizing; quantum security opportunity partially offsets.
+2026-07-08T21:02:04,AMZN,0.3,Amazon's $25B bond and AI infrastructure investments signal growth confidence.
 2026-07-08T17:39:09,AAPL,0.6,"Apple-Broadcom $30B AI chip partnership, largest domestic manufacturing deal."
 2026-07-08T17:39:09,NVDA,-0.6,DeepSeek chip development threatens demand; open-source AI reduces pricing power.
 2026-07-08T17:39:09,TSLA,0.2,Robotaxi expansion and SpaceX synergies offset competitive and legal headwinds.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-02T17:50:40,TSLA,-0.3,Q2 delivery beat offset by tech selloff and short positioning.
 2026-07-02T17:50:40,MSFT,0.2,Kyndryl partnership expansion; offset by Magnificent 7 retail outflows.
 2026-07-02T17:50:40,AMZN,0.3,Workato AWS partnership expands AI production; sector headwinds offset gains.
-2026-07-02T14:21:28,AAPL,-0.3,Apple Intelligence failing to drive upgrades; China demand weakening.
-2026-07-02T14:21:28,NVDA,-0.6,"Retail exodus, AI chip valuation concerns, circular financing questions persist."
-2026-07-02T14:21:28,TSLA,0.8,"Q2 deliveries crush forecasts at 480K, easing demand concerns."
-2026-07-02T14:21:28,MSFT,-0.3,AI threatens software business model; stock down 17% amid sector rotation.
-2026-07-02T14:21:28,AMZN,-0.3,Retail investor exodus from Mag 7; MGM Studios drops film project.
