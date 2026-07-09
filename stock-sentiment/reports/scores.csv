@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-09T15:27:22,AAPL,0.6,Apple secures $30B Broadcom chip deal; explores on-device AI via PrismML.
+2026-07-09T15:27:22,NVDA,-0.3,"Valuation decline amid $1 trillion rout, but record revenue offsets."
+2026-07-09T15:27:22,TSLA,-0.3,Promises vs. delivery concerns; analyst Hold rating despite AI potential.
+2026-07-09T15:27:22,MSFT,0.6,Top AI vendor status; strong OpenAI partnership; Azure momentum despite compute headwinds.
+2026-07-09T15:27:22,AMZN,0.3,AWS reaccelerates; $25B bond sale funds AI infrastructure investment.
 2026-07-08T21:02:04,AAPL,0.6,"Apple secures $30B Broadcom chip deal through 2031, strengthening US supply chain."
 2026-07-08T21:02:04,NVDA,0.6,"Record revenue, low valuation, strong AI demand from major partners."
 2026-07-08T21:02:04,TSLA,0.3,"Robotaxi expansion and AI focus offset record deliveries, merger speculation uncertain."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-02T20:59:26,TSLA,0.3,Strong delivery beat offset by market rotation away from growth stocks.
 2026-07-02T20:59:26,MSFT,0.6,"Microsoft launches $2.5B AI implementation business with 6,000-person team."
 2026-07-02T20:59:26,AMZN,0.2,Leo satellite service launch offset by AI capex concerns and retail sentiment weakness.
-2026-07-02T17:50:40,AAPL,0.2,Foldable iPhone catalyst offset by AI-driven pricing pressures and supply concerns.
-2026-07-02T17:50:40,NVDA,0.3,Nvidia launches AI revenue model; retail outflows and short bets offset gains.
-2026-07-02T17:50:40,TSLA,-0.3,Q2 delivery beat offset by tech selloff and short positioning.
-2026-07-02T17:50:40,MSFT,0.2,Kyndryl partnership expansion; offset by Magnificent 7 retail outflows.
-2026-07-02T17:50:40,AMZN,0.3,Workato AWS partnership expands AI production; sector headwinds offset gains.
