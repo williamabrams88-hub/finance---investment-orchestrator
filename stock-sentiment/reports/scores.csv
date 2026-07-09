@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-09T17:58:04,AAPL,0.7,Apple secures $30B multiyear Broadcom chip deal through 2031.
+2026-07-09T17:58:04,NVDA,0.3,SemiAnalysis predicts NVIDIA will crush earnings; valuation concerns offset gains.
+2026-07-09T17:58:04,TSLA,-0.3,Analyst skepticism on near-term Optimus/Robotaxi timeline offsets RBC price target raise.
+2026-07-09T17:58:04,MSFT,0.2,Haleon five-year AI deal offset by customer diversification away from MSFT.
+2026-07-09T17:58:04,AMZN,0.6,"BofA price target raise, AWS sovereign cloud expansion, AI infrastructure investment."
 2026-07-09T15:27:22,AAPL,0.6,Apple secures $30B Broadcom chip deal; explores on-device AI via PrismML.
 2026-07-09T15:27:22,NVDA,-0.3,"Valuation decline amid $1 trillion rout, but record revenue offsets."
 2026-07-09T15:27:22,TSLA,-0.3,Promises vs. delivery concerns; analyst Hold rating despite AI potential.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-03T14:25:40,TSLA,0.7,Q2 deliveries beat 25% YoY; energy storage crushes forecasts.
 2026-07-03T14:25:40,MSFT,0.6,Microsoft launches $2.5B AI adoption unit; strong enterprise AI demand signals.
 2026-07-03T14:25:40,AMZN,0.0,Investor interest noted; no material catalysts for AMZN specifically.
-2026-07-02T20:59:26,AAPL,0.3,Foldable iPhone production ramp; mixed tech sector amid macro headwinds.
-2026-07-02T20:59:26,NVDA,0.2,AI sector selloff concerns offset by revenue share partnerships.
-2026-07-02T20:59:26,TSLA,0.3,Strong delivery beat offset by market rotation away from growth stocks.
-2026-07-02T20:59:26,MSFT,0.6,"Microsoft launches $2.5B AI implementation business with 6,000-person team."
-2026-07-02T20:59:26,AMZN,0.2,Leo satellite service launch offset by AI capex concerns and retail sentiment weakness.
