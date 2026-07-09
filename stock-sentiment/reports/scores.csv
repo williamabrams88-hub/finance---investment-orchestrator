@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-09T21:18:56,AAPL,0.3,AI infrastructure pivot and $30B Broadcom deal offset weak App Store growth.
+2026-07-09T21:18:56,NVDA,-0.3,Valuation concerns despite low prices; competition emerging in AI chips.
+2026-07-09T21:18:56,TSLA,0.3,UBS price target hike offset by valuation concerns on robotaxi timeline.
+2026-07-09T21:18:56,MSFT,0.6,Microsoft launches $2.5B AI unit; Haleon signs five-year AI deal.
+2026-07-09T21:18:56,AMZN,0.6,"AI infrastructure expansion, satellite internet rollout, renewable energy deals."
 2026-07-09T17:58:04,AAPL,0.7,Apple secures $30B multiyear Broadcom chip deal through 2031.
 2026-07-09T17:58:04,NVDA,0.3,SemiAnalysis predicts NVIDIA will crush earnings; valuation concerns offset gains.
 2026-07-09T17:58:04,TSLA,-0.3,Analyst skepticism on near-term Optimus/Robotaxi timeline offsets RBC price target raise.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-03T17:27:40,TSLA,0.6,Q2 delivery beat 21% above consensus; robotaxi expansion to Miami.
 2026-07-03T17:27:40,MSFT,0.6,Microsoft launches $2.5B AI adoption unit to drive enterprise AI deployment.
 2026-07-03T17:27:40,AMZN,0.3,Amazon expands robotaxi competition; corporate AI spending becomes more efficient.
-2026-07-03T14:25:40,AAPL,-0.3,AI-driven price increases pressuring consumer demand; mixed sentiment.
-2026-07-03T14:25:40,NVDA,0.0,No NVDA-specific news; unrelated tech sector items.
-2026-07-03T14:25:40,TSLA,0.7,Q2 deliveries beat 25% YoY; energy storage crushes forecasts.
-2026-07-03T14:25:40,MSFT,0.6,Microsoft launches $2.5B AI adoption unit; strong enterprise AI demand signals.
-2026-07-03T14:25:40,AMZN,0.0,Investor interest noted; no material catalysts for AMZN specifically.
