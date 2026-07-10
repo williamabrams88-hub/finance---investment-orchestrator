@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-10T21:02:26,AAPL,0.3,Apple-Broadcom chip supply deal amid AI demand surge.
+2026-07-10T21:02:26,NVDA,0.3,SK Hynix IPO success signals chip sector strength; NVDA earnings upcoming.
+2026-07-10T21:02:26,TSLA,-0.3,Valuation concerns and FSD delays offset strong Q2 delivery beat.
+2026-07-10T21:02:26,MSFT,-0.3,Memory shortage raises PC costs; analyst skepticism on AI positioning.
+2026-07-10T21:02:26,AMZN,-0.3,AI spending concerns offset by AWS regulatory oversight and valuation strength.
 2026-07-10T17:48:49,AAPL,0.6,Apple secures $30B Broadcom chip deal for AI strategy advancement.
 2026-07-10T17:48:49,NVDA,-0.3,Stock down 16% from peak; China chip access easing provides modest support.
 2026-07-10T17:48:49,TSLA,0.2,Record Q2 deliveries offset by legal headwinds and Robotaxi delays.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-04T17:08:17,TSLA,0.3,Robotaxi expansion to Miami; mixed sentiment on fundamentals versus future tech.
 2026-07-04T17:08:17,MSFT,0.4,AI leadership position and strategic partnerships strengthen long-term outlook.
 2026-07-04T17:08:17,AMZN,0.3,Amazon expanding AI chip business; hedge fund increases position 214%.
-2026-07-04T13:50:38,AAPL,-0.3,Rising component costs and potential memory supplier shift pressure margins.
-2026-07-04T13:50:38,NVDA,0.6,AI infrastructure buildout with $750B spending wave and strong guidance.
-2026-07-04T13:50:38,TSLA,0.6,Robotaxi expansion to Miami; beat delivery estimates despite stock decline.
-2026-07-04T13:50:38,MSFT,0.3,Microsoft launches $2.5B Frontier Company for enterprise AI adoption.
-2026-07-04T13:50:38,AMZN,-0.3,"Anthropic exploring custom chips, reducing AWS dependency; New Jersey Medicaid cost pressures."
