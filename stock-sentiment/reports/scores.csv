@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-10T14:44:39,AAPL,0.6,Apple announces $30B multi-year Broadcom chip deal; mixed PC market headwinds.
+2026-07-10T14:44:39,NVDA,0.2,Sector tailwinds from AI spending; SK Hynix IPO signals memory chip demand.
+2026-07-10T14:44:39,TSLA,0.3,Strong Q1 earnings beat offset by FSD inflection point potential.
+2026-07-10T14:44:39,MSFT,-0.2,Price target cut offset by AI momentum; regulatory oversight concerns emerge.
+2026-07-10T14:44:39,AMZN,0.2,Mixed signals: AWS regulatory oversight offset by shipping expansion strength.
 2026-07-09T21:18:56,AAPL,0.3,AI infrastructure pivot and $30B Broadcom deal offset weak App Store growth.
 2026-07-09T21:18:56,NVDA,-0.3,Valuation concerns despite low prices; competition emerging in AI chips.
 2026-07-09T21:18:56,TSLA,0.3,UBS price target hike offset by valuation concerns on robotaxi timeline.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-03T20:58:55,TSLA,0.3,Q2 delivery beat offset by margin concerns and stock weakness.
 2026-07-03T20:58:55,MSFT,0.3,AI services expansion offset by upcoming layoffs across divisions.
 2026-07-03T20:58:55,AMZN,-0.3,Stock underperformance; competitors accelerate in robotaxi and cloud services.
-2026-07-03T17:27:40,AAPL,-0.3,AI price increases and market skepticism on AI productivity impact.
-2026-07-03T17:27:40,NVDA,0.0,No NVDA-specific news; mentions only as AI market leader context.
-2026-07-03T17:27:40,TSLA,0.6,Q2 delivery beat 21% above consensus; robotaxi expansion to Miami.
-2026-07-03T17:27:40,MSFT,0.6,Microsoft launches $2.5B AI adoption unit to drive enterprise AI deployment.
-2026-07-03T17:27:40,AMZN,0.3,Amazon expands robotaxi competition; corporate AI spending becomes more efficient.
