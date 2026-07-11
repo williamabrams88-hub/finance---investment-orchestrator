@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-11T17:00:08,AAPL,0.3,Apple-Broadcom $30B chip deal offsets trade secret lawsuit concerns.
+2026-07-11T17:00:08,NVDA,0.3,AI demand growing; Nvidia and Apple solving investor concerns.
+2026-07-11T17:00:08,TSLA,0.6,Robotaxi deployment fulfills decade-old promise; AI application potential recognized.
+2026-07-11T17:00:08,MSFT,0.3,Dividend growth trajectory and AI spending momentum offset retirement program costs.
+2026-07-11T17:00:08,AMZN,0.6,AWS-Kyndryl agentic AI partnership; strong cloud fundamentals undervalued.
 2026-07-11T13:43:04,AAPL,0.3,Apple-Broadcom $30B chip deal offsets trade secret lawsuit concerns.
 2026-07-11T13:43:04,NVDA,-0.3,AI chip delay concerns offset by sector strength and recovery.
 2026-07-11T13:43:04,TSLA,-0.3,NHTSA robotaxi safety concerns offset Optimus production progress.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-05T13:57:08,TSLA,0.1,Robotaxi expansion to Miami offsets valuation concerns and short bets.
 2026-07-05T13:57:08,MSFT,0.6,OpenAI IPO catalyst and sustained AI cloud demand strength.
 2026-07-05T13:57:08,AMZN,0.2,Bill Ackman endorses Amazon despite AI capex concerns; stock down 13% in month.
-2026-07-04T20:51:04,AAPL,0.4,Major 2026-2027 product refresh with foldable iPhone and Ultra model launch.
-2026-07-04T20:51:04,NVDA,0.3,AI memory supercycle strengthens; semiconductor sector tailwinds benefit chip leaders.
-2026-07-04T20:51:04,TSLA,0.3,Robotaxi expansion to Miami offsets analyst caution on fundamentals.
-2026-07-04T20:51:04,MSFT,0.3,Partnership expansion with Kyndryl; positioned as AI and cloud leader.
-2026-07-04T20:51:04,AMZN,0.3,Custom AI chips expansion and hedge fund accumulation offset grocery exit.
