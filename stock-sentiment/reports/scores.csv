@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-12T13:43:46,AAPL,0.6,Broadcom $30B chip deal through 2031; trillion-dollar AI ambitions.
+2026-07-12T13:43:46,NVDA,0.3,NVIDIA recognized as top quality stock; Nemotron model achieves benchmark performance.
+2026-07-12T13:43:46,TSLA,-0.3,Robotaxi safety concerns from federal regulators pressure autonomous ambitions.
+2026-07-12T13:43:46,MSFT,0.3,Haleon partnership advances AI capabilities; emissions concerns offset gains.
+2026-07-12T13:43:46,AMZN,-0.3,Losing online grocery market share; cloud competition from SpaceX threat.
 2026-07-11T20:41:42,AAPL,-0.6,Apple sues OpenAI for trade secret theft; memory supply constraints loom.
 2026-07-11T20:41:42,NVDA,0.2,AI demand strength offset by rising chip costs and competitive pressures.
 2026-07-11T20:41:42,TSLA,0.6,Tesla fulfills decade-old robotaxi promise; positions as valuable AI competitor.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-05T20:53:18,TSLA,0.1,Robotaxi expansion to Miami offset by California EV incentive snub.
 2026-07-05T20:53:18,MSFT,0.3,AI infrastructure demand sustained; regulatory concerns offset upside.
 2026-07-05T20:53:18,AMZN,-0.3,Meta cloud competition threat; AWS growth concerns amid AI capex debate.
-2026-07-05T17:13:29,AAPL,0.3,New foldable iPhone and product expansion planned for 2026-2027.
-2026-07-05T17:13:29,NVDA,-0.3,AI bubble fears and hyperscaler capex spending concerns weigh sentiment.
-2026-07-05T17:13:29,TSLA,0.1,Robotaxi expansion to Miami offset by California EV incentive exclusion.
-2026-07-05T17:13:29,MSFT,0.3,Stock at 52-week low seen as buying opportunity; AI infrastructure investment thesis intact.
-2026-07-05T17:13:29,AMZN,0.2,Bill Ackman endorses Amazon despite AI capex concerns; stock down 13% in month.
