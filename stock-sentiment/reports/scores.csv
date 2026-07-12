@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-12T20:39:05,AAPL,-0.6,"Apple alleges ex-engineer stole secrets, coached colleague at OpenAI."
+2026-07-12T20:39:05,NVDA,0.0,Mixed sentiment; AI bubble concerns offset by positioning near buy points.
+2026-07-12T20:39:05,TSLA,0.1,Robotaxi progress offset by regulatory safety concerns and competitive pressures.
+2026-07-12T20:39:05,MSFT,0.3,Haleon partnership advances AI capabilities; analyst support offset by valuation concerns.
+2026-07-12T20:39:05,AMZN,0.1,AI capex competition and potential cloud disruption risks offset growth.
 2026-07-12T17:00:52,AAPL,0.2,Billionaire D.E. Shaw holds AAPL; stock up 48.9% YoY despite AI competition.
 2026-07-12T17:00:52,NVDA,0.2,Nvidia near buy point; Goldman SpaceX forecast supports semiconductor demand.
 2026-07-12T17:00:52,TSLA,0.2,Robotaxi progress offset by regulatory safety scrutiny and competitive pressures.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-06T18:12:19,TSLA,0.6,"Robotaxi expansion, delivery beats, and institutional buying momentum."
 2026-07-06T18:12:19,MSFT,-0.6,"4,800 job cuts; Xbox division restructuring amid margin pressures."
 2026-07-06T18:12:19,AMZN,0.1,Meta's cloud competition threat offset by Amazon's AI reinvention focus.
-2026-07-06T15:50:23,AAPL,0.6,"Broadcom extends Apple chip supply deal through 2031, securing long-term partnership."
-2026-07-06T15:50:23,NVDA,-0.3,Rumored Kyber AI delay and memory boom ending concerns weigh sentiment.
-2026-07-06T15:50:23,TSLA,0.2,Robotaxi expansion to Miami shows progress but slow rollout continues.
-2026-07-06T15:50:23,MSFT,-0.6,"4,800 job cuts including Xbox restructuring, unprofitable gaming division."
-2026-07-06T15:50:23,AMZN,0.3,AI infrastructure investment thesis strengthens; custom chips offset Nvidia concerns.
