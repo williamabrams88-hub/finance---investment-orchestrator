@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-12T17:00:52,AAPL,0.2,Billionaire D.E. Shaw holds AAPL; stock up 48.9% YoY despite AI competition.
+2026-07-12T17:00:52,NVDA,0.2,Nvidia near buy point; Goldman SpaceX forecast supports semiconductor demand.
+2026-07-12T17:00:52,TSLA,0.2,Robotaxi progress offset by regulatory safety scrutiny and competitive pressures.
+2026-07-12T17:00:52,MSFT,0.2,Haleon partnership positive; AI spending concentration risk offsets gains.
+2026-07-12T17:00:52,AMZN,0.1,Cloud competition intensifies; AI spending concentration poses economic risk.
 2026-07-12T13:43:46,AAPL,0.6,Broadcom $30B chip deal through 2031; trillion-dollar AI ambitions.
 2026-07-12T13:43:46,NVDA,0.3,NVIDIA recognized as top quality stock; Nemotron model achieves benchmark performance.
 2026-07-12T13:43:46,TSLA,-0.3,Robotaxi safety concerns from federal regulators pressure autonomous ambitions.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-06T15:50:23,TSLA,0.2,Robotaxi expansion to Miami shows progress but slow rollout continues.
 2026-07-06T15:50:23,MSFT,-0.6,"4,800 job cuts including Xbox restructuring, unprofitable gaming division."
 2026-07-06T15:50:23,AMZN,0.3,AI infrastructure investment thesis strengthens; custom chips offset Nvidia concerns.
-2026-07-05T20:53:18,AAPL,0.3,Strong iPhone demand and foldable expansion plans offset geopolitical concerns.
-2026-07-05T20:53:18,NVDA,0.2,New revenue-sharing AI startup program expands ecosystem; GeForce revival signals demand.
-2026-07-05T20:53:18,TSLA,0.1,Robotaxi expansion to Miami offset by California EV incentive snub.
-2026-07-05T20:53:18,MSFT,0.3,AI infrastructure demand sustained; regulatory concerns offset upside.
-2026-07-05T20:53:18,AMZN,-0.3,Meta cloud competition threat; AWS growth concerns amid AI capex debate.
