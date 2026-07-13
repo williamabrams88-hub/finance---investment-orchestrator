@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-13T20:53:17,AAPL,0.3,Record smartphone market share offsets retail selling and AI spending concerns.
+2026-07-13T20:53:17,NVDA,-0.3,Chip sector weakness; retail selling; AI spending concerns persist.
+2026-07-13T20:53:17,TSLA,0.1,California EV rebate favors Tesla; robot production plans offset retail selling pressure.
+2026-07-13T20:53:17,MSFT,-0.3,Tech sector sell-off; Microsoft underperforming amid AI spending concerns.
+2026-07-13T20:53:17,AMZN,-0.3,AI capex surge raises ROI concerns; valuation attractive but spending trajectory uncertain.
 2026-07-13T17:56:25,AAPL,0.2,Analyst upgrade and market share gains offset retail selling pressure.
 2026-07-13T17:56:25,NVDA,0.3,TSMC AI strength benefits chip supply chain; Google TPU competition noted.
 2026-07-13T17:56:25,TSLA,-0.3,"Retail selling pressure, California subsidy loss to Rivian, valuation concerns."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-07T18:01:46,TSLA,-0.3,FSD manslaughter charge offsets robotaxi expansion and margin recovery.
 2026-07-07T18:01:46,MSFT,-0.3,Xbox layoffs offset by cost-saving AI model internalization gains.
 2026-07-07T18:01:46,AMZN,0.3,Prime Day success and AI infrastructure investment offset debt financing concerns.
-2026-07-07T14:54:09,AAPL,0.4,Foldable iPhone launch catalyst; memory supply advantage positions Apple well.
-2026-07-07T14:54:09,NVDA,-0.6,Chip sector selloff triggered by Samsung earnings; NVDA peers down sharply.
-2026-07-07T14:54:09,TSLA,0.6,RBC raises price target on SpaceX merger speculation and standalone valuation.
-2026-07-07T14:54:09,MSFT,-0.6,"Xbox division cuts 3,200 jobs; unprofitable gaming business restructuring."
-2026-07-07T14:54:09,AMZN,0.2,Heavy AI infrastructure investment via $25B bond sale; analyst optimism.
