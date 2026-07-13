@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-13T17:56:25,AAPL,0.2,Analyst upgrade and market share gains offset retail selling pressure.
+2026-07-13T17:56:25,NVDA,0.3,TSMC AI strength benefits chip supply chain; Google TPU competition noted.
+2026-07-13T17:56:25,TSLA,-0.3,"Retail selling pressure, California subsidy loss to Rivian, valuation concerns."
+2026-07-13T17:56:25,MSFT,0.1,Earnings due July 29; AI strategy positioning amid sector rotation concerns.
+2026-07-13T17:56:25,AMZN,-0.3,Rising AI capex concerns offset valuation opportunity; mixed sentiment.
 2026-07-13T14:51:37,AAPL,-0.3,Trade secret lawsuit against OpenAI pressures AI partnership; offset by analyst upgrades.
 2026-07-13T14:51:37,NVDA,-0.3,SK Hynix profit warning rattles chip sector; NVDA valuation concerns persist.
 2026-07-13T14:51:37,TSLA,0.3,Strong earnings inflection offset by valuation concerns and geopolitical headwinds.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-07T14:54:09,TSLA,0.6,RBC raises price target on SpaceX merger speculation and standalone valuation.
 2026-07-07T14:54:09,MSFT,-0.6,"Xbox division cuts 3,200 jobs; unprofitable gaming business restructuring."
 2026-07-07T14:54:09,AMZN,0.2,Heavy AI infrastructure investment via $25B bond sale; analyst optimism.
-2026-07-06T21:25:33,AAPL,0.6,Broadcom secures five-year custom processor supply deal with Apple through 2031.
-2026-07-06T21:25:33,NVDA,0.2,Nvidia denies Kyber server delays; chip sector rebounds after selloff.
-2026-07-06T21:25:33,TSLA,0.6,"Robotaxi expansion to Miami, AI rally, positive EV turnaround signals."
-2026-07-06T21:25:33,MSFT,-0.6,"4,800 job cuts including Xbox restructuring amid margin pressures."
-2026-07-06T21:25:33,AMZN,0.3,"Amazon exploring AI chip market expansion, potential competitive advantage."
