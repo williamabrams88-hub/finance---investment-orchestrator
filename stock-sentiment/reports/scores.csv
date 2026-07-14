@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-14T20:55:17,AAPL,-0.65,Multiple analyst downgrades cite slowing iPhone sales and growth concerns.
+2026-07-14T20:55:17,NVDA,0.3,Chip profit boom expected by 2027; offset by open-source AI competition concerns.
+2026-07-14T20:55:17,TSLA,0.4,Multiple analyst price target hikes ahead of Q2 earnings report.
+2026-07-14T20:55:17,MSFT,0.3,Microsoft cheaper than S&P 500; IBM weakness raises enterprise spending concerns.
+2026-07-14T20:55:17,AMZN,0.6,AWS momentum and Prime Day spending position AMZN well for Q2 earnings.
 2026-07-14T17:16:40,AAPL,0.3,"iPhone strength in China, new models planned, but valuation concerns emerge."
 2026-07-14T17:16:40,NVDA,0.2,Profit boom offset by export controls and open-source competition.
 2026-07-14T17:16:40,TSLA,0.4,"Strong Q2 deliveries, price target boosts, robotics pivot potential."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-08T17:39:09,TSLA,0.2,Robotaxi expansion and SpaceX synergies offset competitive and legal headwinds.
 2026-07-08T17:39:09,MSFT,-0.6,"Capex surge to $270B, cost cuts, competitive AI pressure from DeepSeek."
 2026-07-08T17:39:09,AMZN,0.0,Mixed signals: AI spending uncertainty offset by retail strength.
-2026-07-08T14:32:03,AAPL,0.6,"Apple secures $30B Broadcom chip deal, strengthens US supply chain."
-2026-07-08T14:32:03,NVDA,-0.3,Semiconductor sector selloff outweighs positive AI infrastructure demand signals.
-2026-07-08T14:32:03,TSLA,0.6,"Robotaxi expansion, $9B Megapack orders, Model Y L production boost."
-2026-07-08T14:32:03,MSFT,-0.3,AI infrastructure spending concerns offset positive rebound sentiment.
-2026-07-08T14:32:03,AMZN,0.2,AI infrastructure spending sensitivity; competitive chip development pressures margins.
