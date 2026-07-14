@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-14T17:16:40,AAPL,0.3,"iPhone strength in China, new models planned, but valuation concerns emerge."
+2026-07-14T17:16:40,NVDA,0.2,Profit boom offset by export controls and open-source competition.
+2026-07-14T17:16:40,TSLA,0.4,"Strong Q2 deliveries, price target boosts, robotics pivot potential."
+2026-07-14T17:16:40,MSFT,0.2,IBM weakness triggers sector selloff; MSFT positioned as cloud leader.
+2026-07-14T17:16:40,AMZN,0.5,Wells Fargo raises PT; AWS acceleration expected in Q2.
 2026-07-14T14:02:11,AAPL,-0.65,Multiple analyst downgrades cite iPhone weakness and slowing hardware demand.
 2026-07-14T14:02:11,NVDA,0.4,Chip profit boom and cash generation; CUDA-Q quantum validation milestone.
 2026-07-14T14:02:11,TSLA,0.2,Analyst upgrades offset retail selling; robotics pivot offers long-term upside.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-08T14:32:03,TSLA,0.6,"Robotaxi expansion, $9B Megapack orders, Model Y L production boost."
 2026-07-08T14:32:03,MSFT,-0.3,AI infrastructure spending concerns offset positive rebound sentiment.
 2026-07-08T14:32:03,AMZN,0.2,AI infrastructure spending sensitivity; competitive chip development pressures margins.
-2026-07-07T21:19:12,AAPL,0.3,Price increases weathering demand; supplier IPO signals strength.
-2026-07-07T21:19:12,NVDA,-0.6,DeepSeek develops custom AI chip to reduce Nvidia reliance
-2026-07-07T21:19:12,TSLA,-0.3,FSD manslaughter charge offsets SpaceX merger speculation and AI initiatives.
-2026-07-07T21:19:12,MSFT,-0.3,Xbox job cuts offset by strong $37B AI revenue growth.
-2026-07-07T21:19:12,AMZN,-0.3,Heavy AI capex concerns offset by strong bond market demand.
