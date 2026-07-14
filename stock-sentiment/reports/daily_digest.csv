@@ -1,4 +1,7 @@
 timestamp,ticker,signal,confidence,reason
+2026-07-14T14:02:11,AAPL,SELL,High,"Sentiment reversal pos→neg (prev=0.30, now=-0.65)"
+2026-07-14T14:02:11,NVDA,BUY,High,"Sentiment reversal neg→pos (prev=-0.30, now=0.40)"
+2026-07-14T14:02:11,MSFT,BUY,High,"Sentiment reversal neg→pos (prev=-0.30, now=0.30)"
 2026-07-13T14:51:37,NVDA,SELL,High,Score drop -0.30 with price +0.2%
 2026-07-13T14:51:37,AMZN,SELL,High,"Sentiment reversal pos→neg (prev=0.10, now=-0.30)"
 2026-07-12T13:43:46,AAPL,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.60)"
@@ -46,6 +49,3 @@ timestamp,ticker,signal,confidence,reason
 2026-06-25T14:47:40,AMZN,SELL,High,"Sentiment reversal pos→neg (prev=0.60, now=-0.30)"
 2026-06-24T14:48:02,AAPL,BUY,High,"Sentiment reversal neg→pos (prev=-0.30, now=0.30)"
 2026-06-24T14:48:02,TSLA,BUY,High,Score spike +0.30 with price -0.5%
-2026-06-24T14:48:02,MSFT,SELL,High,"Sentiment reversal pos→neg (prev=0.60, now=-0.30)"
-2026-06-24T14:48:02,AMZN,SELL,High,Score drop -0.30 with price +2.2%
-2026-06-23T15:17:35,AAPL,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.35)"
