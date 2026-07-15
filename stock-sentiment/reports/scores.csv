@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-15T13:58:58,AAPL,0.2,US AI race advantage supports long-term competitive positioning.
+2026-07-15T13:58:58,NVDA,0.2,Rubin production on track; hyperscaler AI ROI concerns offset gains.
+2026-07-15T13:58:58,TSLA,0.2,"Strong EPS growth expected, but competitive pressure from BYD intensifies."
+2026-07-15T13:58:58,MSFT,-0.3,Analyst price cuts ahead of earnings; capex concerns offset strong Q4 outlook.
+2026-07-15T13:58:58,AMZN,-0.3,Hyperscaler AI spending pressure; massive capex costs questioned.
 2026-07-14T20:55:17,AAPL,-0.65,Multiple analyst downgrades cite slowing iPhone sales and growth concerns.
 2026-07-14T20:55:17,NVDA,0.3,Chip profit boom expected by 2027; offset by open-source AI competition concerns.
 2026-07-14T20:55:17,TSLA,0.4,Multiple analyst price target hikes ahead of Q2 earnings report.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-08T21:02:04,TSLA,0.3,"Robotaxi expansion and AI focus offset record deliveries, merger speculation uncertain."
 2026-07-08T21:02:04,MSFT,-0.3,Xbox unit downsizing; quantum security opportunity partially offsets.
 2026-07-08T21:02:04,AMZN,0.3,Amazon's $25B bond and AI infrastructure investments signal growth confidence.
-2026-07-08T17:39:09,AAPL,0.6,"Apple-Broadcom $30B AI chip partnership, largest domestic manufacturing deal."
-2026-07-08T17:39:09,NVDA,-0.6,DeepSeek chip development threatens demand; open-source AI reduces pricing power.
-2026-07-08T17:39:09,TSLA,0.2,Robotaxi expansion and SpaceX synergies offset competitive and legal headwinds.
-2026-07-08T17:39:09,MSFT,-0.6,"Capex surge to $270B, cost cuts, competitive AI pressure from DeepSeek."
-2026-07-08T17:39:09,AMZN,0.0,Mixed signals: AI spending uncertainty offset by retail strength.
