@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-15T20:55:14,AAPL,0.2,Rising chip costs offset by AI chip strategy and China market expansion.
+2026-07-15T20:55:14,NVDA,0.3,ASML forecast lift signals strong AI chip equipment demand tailwinds.
+2026-07-15T20:55:14,TSLA,-0.3,Valuation concerns offset semi partnership; analyst downgrade weighs sentiment.
+2026-07-15T20:55:14,MSFT,-0.3,AI spending pressure offset by Azure demand and strategic security overhaul.
+2026-07-15T20:55:14,AMZN,0.6,CEO confirms AI chip demand booming; analyst upgrade to top pick.
 2026-07-15T17:19:19,AAPL,-0.3,"AI chip struggles, legal dispute with OpenAI, offset by acquisition strategy."
 2026-07-15T17:19:19,NVDA,0.3,ASML demand surge supports AI chip ecosystem; NVDA valued favorably versus AMD.
 2026-07-15T17:19:19,TSLA,0.1,"Q2 earnings beat expected, but valuation concerns and analyst skepticism persist."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-09T17:58:04,TSLA,-0.3,Analyst skepticism on near-term Optimus/Robotaxi timeline offsets RBC price target raise.
 2026-07-09T17:58:04,MSFT,0.2,Haleon five-year AI deal offset by customer diversification away from MSFT.
 2026-07-09T17:58:04,AMZN,0.6,"BofA price target raise, AWS sovereign cloud expansion, AI infrastructure investment."
-2026-07-09T15:27:22,AAPL,0.6,Apple secures $30B Broadcom chip deal; explores on-device AI via PrismML.
-2026-07-09T15:27:22,NVDA,-0.3,"Valuation decline amid $1 trillion rout, but record revenue offsets."
-2026-07-09T15:27:22,TSLA,-0.3,Promises vs. delivery concerns; analyst Hold rating despite AI potential.
-2026-07-09T15:27:22,MSFT,0.6,Top AI vendor status; strong OpenAI partnership; Azure momentum despite compute headwinds.
-2026-07-09T15:27:22,AMZN,0.3,AWS reaccelerates; $25B bond sale funds AI infrastructure investment.
