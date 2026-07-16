@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-16T17:18:58,AAPL,0.6,iPhone AI features approved in China; regulatory green light for AI strategy.
+2026-07-16T17:18:58,NVDA,0.6,TSMC capex raise signals strong AI chip demand; Nvidia expands Japan partnerships.
+2026-07-16T17:18:58,TSLA,0.1,"Mixed signals: EV adoption tailwinds offset by affordability concerns, valuation questions."
+2026-07-16T17:18:58,MSFT,-0.3,Stock down 20% YTD; AI spending hasn't delivered expected returns yet.
+2026-07-16T17:18:58,AMZN,0.6,AI spending strength and analyst preference for Amazon's cloud position.
 2026-07-16T14:10:46,AAPL,0.6,"Apple Intelligence approved for China launch with Alibaba, Baidu partnership."
 2026-07-16T14:10:46,NVDA,0.3,"TSMC, ASML raise forecasts; AI chip demand strong but TSMC stock tumbles."
 2026-07-16T14:10:46,TSLA,0.1,"Mixed signals: FSD cleared in crash, earnings ahead, SpaceX acquisition speculation."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-10T14:44:39,TSLA,0.3,Strong Q1 earnings beat offset by FSD inflection point potential.
 2026-07-10T14:44:39,MSFT,-0.2,Price target cut offset by AI momentum; regulatory oversight concerns emerge.
 2026-07-10T14:44:39,AMZN,0.2,Mixed signals: AWS regulatory oversight offset by shipping expansion strength.
-2026-07-09T21:18:56,AAPL,0.3,AI infrastructure pivot and $30B Broadcom deal offset weak App Store growth.
-2026-07-09T21:18:56,NVDA,-0.3,Valuation concerns despite low prices; competition emerging in AI chips.
-2026-07-09T21:18:56,TSLA,0.3,UBS price target hike offset by valuation concerns on robotaxi timeline.
-2026-07-09T21:18:56,MSFT,0.6,Microsoft launches $2.5B AI unit; Haleon signs five-year AI deal.
-2026-07-09T21:18:56,AMZN,0.6,"AI infrastructure expansion, satellite internet rollout, renewable energy deals."
