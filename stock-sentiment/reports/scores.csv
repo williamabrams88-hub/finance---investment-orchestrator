@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-17T20:48:45,AAPL,0.6,AI upgrade cycle and reclaimed market cap leader position.
+2026-07-17T20:48:45,NVDA,-0.6,"AI spending concerns, market rotation away from chip capex leaders."
+2026-07-17T20:48:45,TSLA,-0.3,Competitive pressure from Rivian software and Lucid rally; awaiting Q2 earnings.
+2026-07-17T20:48:45,MSFT,-0.3,Broad market sell-off and semiconductor weakness; AI narrative questions cloud growth.
+2026-07-17T20:48:45,AMZN,0.3,Amazon beats Starlink on satellite internet licensing; custom AI chip strategy competitive.
 2026-07-17T17:14:21,AAPL,0.3,Apple reclaims most valuable company; antitrust settlement talks ongoing.
 2026-07-17T17:14:21,NVDA,-0.3,Market rotation away from AI chips; Apple reclaims top valuation spot.
 2026-07-17T17:14:21,TSLA,0.3,Robotaxi momentum and BofA Buy rating offset growth slowdown concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-11T17:00:08,TSLA,0.6,Robotaxi deployment fulfills decade-old promise; AI application potential recognized.
 2026-07-11T17:00:08,MSFT,0.3,Dividend growth trajectory and AI spending momentum offset retirement program costs.
 2026-07-11T17:00:08,AMZN,0.6,AWS-Kyndryl agentic AI partnership; strong cloud fundamentals undervalued.
-2026-07-11T13:43:04,AAPL,0.3,Apple-Broadcom $30B chip deal offsets trade secret lawsuit concerns.
-2026-07-11T13:43:04,NVDA,-0.3,AI chip delay concerns offset by sector strength and recovery.
-2026-07-11T13:43:04,TSLA,-0.3,NHTSA robotaxi safety concerns offset Optimus production progress.
-2026-07-11T13:43:04,MSFT,0.1,AI infrastructure spending questioned; earnings season scrutiny ahead.
-2026-07-11T13:43:04,AMZN,0.2,AI capex growth expected to accelerate; AWS positioned to beat Q2 estimates.
