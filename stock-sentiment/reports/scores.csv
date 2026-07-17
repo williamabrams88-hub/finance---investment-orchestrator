@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-17T13:54:40,AAPL,0.6,Multiple analyst upgrades on AI capabilities and strong product pipeline ahead.
+2026-07-17T13:54:40,NVDA,-0.3,Semiconductor sector selloff amid AI jitters and risk-off sentiment.
+2026-07-17T13:54:40,TSLA,0.1,Earnings report July 22 with mixed sentiment; robotaxi competition concerns offset.
+2026-07-17T13:54:40,MSFT,-0.3,CEO criticizes competitor's AI model; broader AI ROI concerns emerge.
+2026-07-17T13:54:40,AMZN,0.2,AI spending focus amid tech sector volatility and valuation concerns.
 2026-07-16T20:52:36,AAPL,0.6,China approves Apple Intelligence; higher iPhone prices support margins.
 2026-07-16T20:52:36,NVDA,0.2,"AI demand strong, but NVDA underperforming peers; valuation concerns."
 2026-07-16T20:52:36,TSLA,0.2,Surprise delivery beat offset by valuation concerns and merger speculation.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-10T21:02:26,TSLA,-0.3,Valuation concerns and FSD delays offset strong Q2 delivery beat.
 2026-07-10T21:02:26,MSFT,-0.3,Memory shortage raises PC costs; analyst skepticism on AI positioning.
 2026-07-10T21:02:26,AMZN,-0.3,AI spending concerns offset by AWS regulatory oversight and valuation strength.
-2026-07-10T17:48:49,AAPL,0.6,Apple secures $30B Broadcom chip deal for AI strategy advancement.
-2026-07-10T17:48:49,NVDA,-0.3,Stock down 16% from peak; China chip access easing provides modest support.
-2026-07-10T17:48:49,TSLA,0.2,Record Q2 deliveries offset by legal headwinds and Robotaxi delays.
-2026-07-10T17:48:49,MSFT,0.2,Cloud growth momentum offset by regulatory oversight concerns.
-2026-07-10T17:48:49,AMZN,0.2,AWS fastest growth in 15 quarters offsets free cash flow concerns.
