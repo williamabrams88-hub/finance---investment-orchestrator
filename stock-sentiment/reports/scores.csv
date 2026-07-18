@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-18T13:37:46,AAPL,-0.3,AI strategy concerns offset by strong valuation and core business strength.
+2026-07-18T13:37:46,NVDA,-0.3,Tech sell-off pushes NVDA lower; Apple reclaims most valuable company.
+2026-07-18T13:37:46,TSLA,0.2,Record Q2 deliveries offset by intensifying EV competition globally.
+2026-07-18T13:37:46,MSFT,0.2,AI strategy shift; mixed market sentiment on cloud and AI investments.
+2026-07-18T13:37:46,AMZN,0.3,Amazon leading $182B AI infrastructure investment; battery supply deal signed.
 2026-07-17T20:48:45,AAPL,0.6,AI upgrade cycle and reclaimed market cap leader position.
 2026-07-17T20:48:45,NVDA,-0.6,"AI spending concerns, market rotation away from chip capex leaders."
 2026-07-17T20:48:45,TSLA,-0.3,Competitive pressure from Rivian software and Lucid rally; awaiting Q2 earnings.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-11T20:41:42,TSLA,0.6,Tesla fulfills decade-old robotaxi promise; positions as valuable AI competitor.
 2026-07-11T20:41:42,MSFT,0.2,AI spending momentum offset by voluntary retirement program concerns.
 2026-07-11T20:41:42,AMZN,0.3,AWS expands agentic AI deployment; grocery losses offset gains.
-2026-07-11T17:00:08,AAPL,0.3,Apple-Broadcom $30B chip deal offsets trade secret lawsuit concerns.
-2026-07-11T17:00:08,NVDA,0.3,AI demand growing; Nvidia and Apple solving investor concerns.
-2026-07-11T17:00:08,TSLA,0.6,Robotaxi deployment fulfills decade-old promise; AI application potential recognized.
-2026-07-11T17:00:08,MSFT,0.3,Dividend growth trajectory and AI spending momentum offset retirement program costs.
-2026-07-11T17:00:08,AMZN,0.6,AWS-Kyndryl agentic AI partnership; strong cloud fundamentals undervalued.
