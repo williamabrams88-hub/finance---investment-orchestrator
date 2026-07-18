@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-18T20:41:02,AAPL,0.3,New Siri AI and Apple Intelligence drive record stock high.
+2026-07-18T20:41:02,NVDA,0.3,AI spending surge and memory bottleneck create mixed tailwinds and headwinds.
+2026-07-18T20:41:02,TSLA,0.3,Record Q2 deliveries; profit margins key to earnings catalyst.
+2026-07-18T20:41:02,MSFT,-0.3,Stock underperformance amid AI capex concerns and competitive positioning questions.
+2026-07-18T20:41:02,AMZN,0.2,Heavy AI capex spending and new infrastructure competition emerging.
 2026-07-18T16:59:32,AAPL,0.3,New Siri AI beta and Apple Intelligence drive record stock high.
 2026-07-18T16:59:32,NVDA,0.0,Mixed AI sector sentiment; no direct NVDA catalyst identified.
 2026-07-18T16:59:32,TSLA,0.2,"Record Q2 deliveries offset by competitive EV pressure, earnings ahead."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-12T17:00:52,TSLA,0.2,Robotaxi progress offset by regulatory safety scrutiny and competitive pressures.
 2026-07-12T17:00:52,MSFT,0.2,Haleon partnership positive; AI spending concentration risk offsets gains.
 2026-07-12T17:00:52,AMZN,0.1,Cloud competition intensifies; AI spending concentration poses economic risk.
-2026-07-12T13:43:46,AAPL,0.6,Broadcom $30B chip deal through 2031; trillion-dollar AI ambitions.
-2026-07-12T13:43:46,NVDA,0.3,NVIDIA recognized as top quality stock; Nemotron model achieves benchmark performance.
-2026-07-12T13:43:46,TSLA,-0.3,Robotaxi safety concerns from federal regulators pressure autonomous ambitions.
-2026-07-12T13:43:46,MSFT,0.3,Haleon partnership advances AI capabilities; emissions concerns offset gains.
-2026-07-12T13:43:46,AMZN,-0.3,Losing online grocery market share; cloud competition from SpaceX threat.
