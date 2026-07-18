@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-18T16:59:32,AAPL,0.3,New Siri AI beta and Apple Intelligence drive record stock high.
+2026-07-18T16:59:32,NVDA,0.0,Mixed AI sector sentiment; no direct NVDA catalyst identified.
+2026-07-18T16:59:32,TSLA,0.2,"Record Q2 deliveries offset by competitive EV pressure, earnings ahead."
+2026-07-18T16:59:32,MSFT,0.2,Microsoft pushes in-house AI models; broad tech sector uncertainty on AI capex returns.
+2026-07-18T16:59:32,AMZN,0.2,AI infrastructure investment and battery supply deal offset debt concerns.
 2026-07-18T13:37:46,AAPL,-0.3,AI strategy concerns offset by strong valuation and core business strength.
 2026-07-18T13:37:46,NVDA,-0.3,Tech sell-off pushes NVDA lower; Apple reclaims most valuable company.
 2026-07-18T13:37:46,TSLA,0.2,Record Q2 deliveries offset by intensifying EV competition globally.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-12T13:43:46,TSLA,-0.3,Robotaxi safety concerns from federal regulators pressure autonomous ambitions.
 2026-07-12T13:43:46,MSFT,0.3,Haleon partnership advances AI capabilities; emissions concerns offset gains.
 2026-07-12T13:43:46,AMZN,-0.3,Losing online grocery market share; cloud competition from SpaceX threat.
-2026-07-11T20:41:42,AAPL,-0.6,Apple sues OpenAI for trade secret theft; memory supply constraints loom.
-2026-07-11T20:41:42,NVDA,0.2,AI demand strength offset by rising chip costs and competitive pressures.
-2026-07-11T20:41:42,TSLA,0.6,Tesla fulfills decade-old robotaxi promise; positions as valuable AI competitor.
-2026-07-11T20:41:42,MSFT,0.2,AI spending momentum offset by voluntary retirement program concerns.
-2026-07-11T20:41:42,AMZN,0.3,AWS expands agentic AI deployment; grocery losses offset gains.
