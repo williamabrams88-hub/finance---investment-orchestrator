@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-19T16:59:41,AAPL,0.6,HSBC analyst upgrade flags operational turning point; record highs amid AI positioning.
+2026-07-19T16:59:41,NVDA,-0.3,Korean brokerage downgrade triggers chip sector selloff; NVIDIA shares decline.
+2026-07-19T16:59:41,TSLA,0.1,Earnings week ahead; mixed analyst views on valuation and growth drivers.
+2026-07-19T16:59:41,MSFT,-0.5,Job cuts and massive AI spending exceed current revenue generation.
+2026-07-19T16:59:41,AMZN,0.3,"Price cuts on 13,000 grocery items; AI chip business validates $200B investment."
 2026-07-19T13:40:21,AAPL,0.4,Apple upgraded by HSBC as operational turning point; Services growth accelerates.
 2026-07-19T13:40:21,NVDA,-0.3,AMD surpasses NVDA in chip ETF; earnings season scrutiny ahead.
 2026-07-19T13:40:21,TSLA,0.2,Tesla earnings week amid geopolitical uncertainty; mixed analyst views.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-13T14:51:37,TSLA,0.3,Strong earnings inflection offset by valuation concerns and geopolitical headwinds.
 2026-07-13T14:51:37,MSFT,0.2,AI infrastructure spending surge benefits Microsoft cloud and enterprise positioning.
 2026-07-13T14:51:37,AMZN,-0.3,AI spending bets questioned; Bezos contradicts own job cuts messaging.
-2026-07-12T20:39:05,AAPL,-0.6,"Apple alleges ex-engineer stole secrets, coached colleague at OpenAI."
-2026-07-12T20:39:05,NVDA,0.0,Mixed sentiment; AI bubble concerns offset by positioning near buy points.
-2026-07-12T20:39:05,TSLA,0.1,Robotaxi progress offset by regulatory safety concerns and competitive pressures.
-2026-07-12T20:39:05,MSFT,0.3,Haleon partnership advances AI capabilities; analyst support offset by valuation concerns.
-2026-07-12T20:39:05,AMZN,0.1,AI capex competition and potential cloud disruption risks offset growth.
