@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-19T20:41:59,AAPL,0.6,"Apple Intelligence China approval, strong momentum, all-time high despite legal headwinds."
+2026-07-19T20:41:59,NVDA,0.6,Major Rubin GPU deal with Japan signals strong enterprise demand growth.
+2026-07-19T20:41:59,TSLA,0.0,Upcoming earnings report with mixed analyst expectations and competitive pressure.
+2026-07-19T20:41:59,MSFT,-0.6,Heavy AI spending exceeds current revenue; $1.2T market value decline.
+2026-07-19T20:41:59,AMZN,0.6,AI capex investment validated; grocery expansion and chip business growth.
 2026-07-19T16:59:41,AAPL,0.6,HSBC analyst upgrade flags operational turning point; record highs amid AI positioning.
 2026-07-19T16:59:41,NVDA,-0.3,Korean brokerage downgrade triggers chip sector selloff; NVIDIA shares decline.
 2026-07-19T16:59:41,TSLA,0.1,Earnings week ahead; mixed analyst views on valuation and growth drivers.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-13T17:56:25,TSLA,-0.3,"Retail selling pressure, California subsidy loss to Rivian, valuation concerns."
 2026-07-13T17:56:25,MSFT,0.1,Earnings due July 29; AI strategy positioning amid sector rotation concerns.
 2026-07-13T17:56:25,AMZN,-0.3,Rising AI capex concerns offset valuation opportunity; mixed sentiment.
-2026-07-13T14:51:37,AAPL,-0.3,Trade secret lawsuit against OpenAI pressures AI partnership; offset by analyst upgrades.
-2026-07-13T14:51:37,NVDA,-0.3,SK Hynix profit warning rattles chip sector; NVDA valuation concerns persist.
-2026-07-13T14:51:37,TSLA,0.3,Strong earnings inflection offset by valuation concerns and geopolitical headwinds.
-2026-07-13T14:51:37,MSFT,0.2,AI infrastructure spending surge benefits Microsoft cloud and enterprise positioning.
-2026-07-13T14:51:37,AMZN,-0.3,AI spending bets questioned; Bezos contradicts own job cuts messaging.
