@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-19T13:40:21,AAPL,0.4,Apple upgraded by HSBC as operational turning point; Services growth accelerates.
+2026-07-19T13:40:21,NVDA,-0.3,AMD surpasses NVDA in chip ETF; earnings season scrutiny ahead.
+2026-07-19T13:40:21,TSLA,0.2,Tesla earnings week amid geopolitical uncertainty; mixed analyst views.
+2026-07-19T13:40:21,MSFT,-0.3,Heavy AI spending outpacing revenue; stock down 27% from highs.
+2026-07-19T13:40:21,AMZN,0.6,AI investment justified by strong Trainium chip business growth.
 2026-07-18T20:41:02,AAPL,0.3,New Siri AI and Apple Intelligence drive record stock high.
 2026-07-18T20:41:02,NVDA,0.3,AI spending surge and memory bottleneck create mixed tailwinds and headwinds.
 2026-07-18T20:41:02,TSLA,0.3,Record Q2 deliveries; profit margins key to earnings catalyst.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-12T20:39:05,TSLA,0.1,Robotaxi progress offset by regulatory safety concerns and competitive pressures.
 2026-07-12T20:39:05,MSFT,0.3,Haleon partnership advances AI capabilities; analyst support offset by valuation concerns.
 2026-07-12T20:39:05,AMZN,0.1,AI capex competition and potential cloud disruption risks offset growth.
-2026-07-12T17:00:52,AAPL,0.2,Billionaire D.E. Shaw holds AAPL; stock up 48.9% YoY despite AI competition.
-2026-07-12T17:00:52,NVDA,0.2,Nvidia near buy point; Goldman SpaceX forecast supports semiconductor demand.
-2026-07-12T17:00:52,TSLA,0.2,Robotaxi progress offset by regulatory safety scrutiny and competitive pressures.
-2026-07-12T17:00:52,MSFT,0.2,Haleon partnership positive; AI spending concentration risk offsets gains.
-2026-07-12T17:00:52,AMZN,0.1,Cloud competition intensifies; AI spending concentration poses economic risk.
