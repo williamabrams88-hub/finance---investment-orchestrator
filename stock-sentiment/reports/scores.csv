@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-20T18:05:58,AAPL,0.2,Earnings catalyst ahead; AI competition concerns offset valuation strength.
+2026-07-20T18:05:58,NVDA,0.6,Chip sector recovery; GPU demand strength supports NVDA ecosystem.
+2026-07-20T18:05:58,TSLA,0.3,Earnings week ahead; investor focus on robotaxi and Optimus updates.
+2026-07-20T18:05:58,MSFT,0.6,AMD partnership expansion for Azure AI inference deployment strengthens ecosystem.
+2026-07-20T18:05:58,AMZN,0.6,Amazon winning AI hyperscaler contracts; massive capex investment thesis.
 2026-07-20T14:24:18,AAPL,0.4,BofA expects earnings beat; offset by AI spending concerns.
 2026-07-20T14:24:18,NVDA,0.2,Modest rebound in AI chip stocks; AMD gains on Microsoft partnership.
 2026-07-20T14:24:18,TSLA,0.0,Earnings week ahead; investors await robotaxi and Optimus spending details.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-14T14:02:11,TSLA,0.2,Analyst upgrades offset retail selling; robotics pivot offers long-term upside.
 2026-07-14T14:02:11,MSFT,0.3,Microsoft AI infrastructure investments in Portugal data centres expand.
 2026-07-14T14:02:11,AMZN,-0.3,Free cash flow decline amid AI pivot raises profitability concerns.
-2026-07-13T20:53:17,AAPL,0.3,Record smartphone market share offsets retail selling and AI spending concerns.
-2026-07-13T20:53:17,NVDA,-0.3,Chip sector weakness; retail selling; AI spending concerns persist.
-2026-07-13T20:53:17,TSLA,0.1,California EV rebate favors Tesla; robot production plans offset retail selling pressure.
-2026-07-13T20:53:17,MSFT,-0.3,Tech sector sell-off; Microsoft underperforming amid AI spending concerns.
-2026-07-13T20:53:17,AMZN,-0.3,AI capex surge raises ROI concerns; valuation attractive but spending trajectory uncertain.
