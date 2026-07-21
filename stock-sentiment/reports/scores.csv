@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-21T17:22:38,AAPL,0.6,BofA backs Apple before Q3; Klarna device leasing launch expands services.
+2026-07-21T17:22:38,NVDA,0.3,Nvidia Vera CPU launch advances AI infrastructure competitive positioning.
+2026-07-21T17:22:38,TSLA,0.3,Robotaxi expansion and Grok AI features offset earnings cash burn concerns.
+2026-07-21T17:22:38,MSFT,0.6,AGI Summit presentation and multi-billion Mistral AI infrastructure deal.
+2026-07-21T17:22:38,AMZN,0.6,"Amazon Business $60B sales, AI chip competition, analyst upgrades."
 2026-07-21T14:10:06,AAPL,0.3,"Analyst upgrade and historic valuation amid AI optimism, offset by valuation concerns."
 2026-07-21T14:10:06,NVDA,0.6,"Semiconductor recovery, AI demand surge, strategic GPU partnerships strengthen."
 2026-07-21T14:10:06,TSLA,0.2,Robotaxi expansion and AI investments offset cash burn concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-15T13:58:58,TSLA,0.2,"Strong EPS growth expected, but competitive pressure from BYD intensifies."
 2026-07-15T13:58:58,MSFT,-0.3,Analyst price cuts ahead of earnings; capex concerns offset strong Q4 outlook.
 2026-07-15T13:58:58,AMZN,-0.3,Hyperscaler AI spending pressure; massive capex costs questioned.
-2026-07-14T20:55:17,AAPL,-0.65,Multiple analyst downgrades cite slowing iPhone sales and growth concerns.
-2026-07-14T20:55:17,NVDA,0.3,Chip profit boom expected by 2027; offset by open-source AI competition concerns.
-2026-07-14T20:55:17,TSLA,0.4,Multiple analyst price target hikes ahead of Q2 earnings report.
-2026-07-14T20:55:17,MSFT,0.3,Microsoft cheaper than S&P 500; IBM weakness raises enterprise spending concerns.
-2026-07-14T20:55:17,AMZN,0.6,AWS momentum and Prime Day spending position AMZN well for Q2 earnings.
