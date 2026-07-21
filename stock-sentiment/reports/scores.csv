@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-21T21:01:59,AAPL,0.2,Apple lease program launch; regulatory headwinds offset modest positive momentum.
+2026-07-21T21:01:59,NVDA,0.6,"AI spending momentum, chip recovery, strong earnings week ahead."
+2026-07-21T21:01:59,TSLA,0.1,Q2 earnings due Wednesday; cash burn concerns offset sales gains.
+2026-07-21T21:01:59,MSFT,0.3,Microsoft expands European AI push through Mistral partnership.
+2026-07-21T21:01:59,AMZN,0.2,AI growth potential offsets valuation premium concerns amid sector recovery.
 2026-07-21T17:22:38,AAPL,0.6,BofA backs Apple before Q3; Klarna device leasing launch expands services.
 2026-07-21T17:22:38,NVDA,0.3,Nvidia Vera CPU launch advances AI infrastructure competitive positioning.
 2026-07-21T17:22:38,TSLA,0.3,Robotaxi expansion and Grok AI features offset earnings cash burn concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-15T17:19:19,TSLA,0.1,"Q2 earnings beat expected, but valuation concerns and analyst skepticism persist."
 2026-07-15T17:19:19,MSFT,-0.6,AI spending pressure and analyst price-target cuts ahead of earnings.
 2026-07-15T17:19:19,AMZN,0.1,AI spending pressure offset by satellite internet expansion and chip innovation.
-2026-07-15T13:58:58,AAPL,0.2,US AI race advantage supports long-term competitive positioning.
-2026-07-15T13:58:58,NVDA,0.2,Rubin production on track; hyperscaler AI ROI concerns offset gains.
-2026-07-15T13:58:58,TSLA,0.2,"Strong EPS growth expected, but competitive pressure from BYD intensifies."
-2026-07-15T13:58:58,MSFT,-0.3,Analyst price cuts ahead of earnings; capex concerns offset strong Q4 outlook.
-2026-07-15T13:58:58,AMZN,-0.3,Hyperscaler AI spending pressure; massive capex costs questioned.
