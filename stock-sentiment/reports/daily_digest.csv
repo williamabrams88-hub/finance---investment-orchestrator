@@ -1,4 +1,5 @@
 timestamp,ticker,signal,confidence,reason
+2026-07-21T14:10:06,AMZN,BUY,High,Score spike +0.40 with price -0.9%
 2026-07-20T14:24:18,NVDA,SELL,High,Score drop -0.40 with price +2.6%
 2026-07-20T14:24:18,MSFT,BUY,High,"Sentiment reversal neg→pos (prev=-0.60, now=0.30)"
 2026-07-20T14:24:18,AMZN,SELL,High,Score drop -0.30 with price +0.5%
@@ -48,4 +49,3 @@ timestamp,ticker,signal,confidence,reason
 2026-07-01T14:51:58,MSFT,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.30)"
 2026-07-01T14:51:58,AMZN,SELL,High,"Sentiment reversal pos→neg (prev=0.30, now=-0.60)"
 2026-06-30T14:34:29,NVDA,SELL,High,"Sentiment reversal pos→neg (prev=0.20, now=-0.30)"
-2026-06-30T14:34:29,TSLA,SELL,High,"Sentiment reversal pos→neg (prev=0.60, now=-0.30)"

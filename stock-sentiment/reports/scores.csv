@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-21T14:10:06,AAPL,0.3,"Analyst upgrade and historic valuation amid AI optimism, offset by valuation concerns."
+2026-07-21T14:10:06,NVDA,0.6,"Semiconductor recovery, AI demand surge, strategic GPU partnerships strengthen."
+2026-07-21T14:10:06,TSLA,0.2,Robotaxi expansion and AI investments offset cash burn concerns.
+2026-07-21T14:10:06,MSFT,0.6,Multibillion-dollar Mistral AI partnership expands European compute capacity.
+2026-07-21T14:10:06,AMZN,0.6,"Analyst upgrades, AI infrastructure leadership, $200B capex positioning."
 2026-07-20T21:06:28,AAPL,0.2,Q3 earnings beat expected; margin concerns offset by services growth.
 2026-07-20T21:06:28,NVDA,0.6,Bristol Myers expands NVIDIA partnership; chip demand recovery signals strength.
 2026-07-20T21:06:28,TSLA,0.0,Earnings report pending; high expectations but valuation concerns persist.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-14T20:55:17,TSLA,0.4,Multiple analyst price target hikes ahead of Q2 earnings report.
 2026-07-14T20:55:17,MSFT,0.3,Microsoft cheaper than S&P 500; IBM weakness raises enterprise spending concerns.
 2026-07-14T20:55:17,AMZN,0.6,AWS momentum and Prime Day spending position AMZN well for Q2 earnings.
-2026-07-14T17:16:40,AAPL,0.3,"iPhone strength in China, new models planned, but valuation concerns emerge."
-2026-07-14T17:16:40,NVDA,0.2,Profit boom offset by export controls and open-source competition.
-2026-07-14T17:16:40,TSLA,0.4,"Strong Q2 deliveries, price target boosts, robotics pivot potential."
-2026-07-14T17:16:40,MSFT,0.2,IBM weakness triggers sector selloff; MSFT positioned as cloud leader.
-2026-07-14T17:16:40,AMZN,0.5,Wells Fargo raises PT; AWS acceleration expected in Q2.
