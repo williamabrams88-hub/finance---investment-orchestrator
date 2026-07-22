@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-22T14:12:39,AAPL,-0.3,Apple Watch patent loss offset by foldable phone launch anticipation.
+2026-07-22T14:12:39,NVDA,0.6,"Wistron U.S. factory production, valuation underpriced, freemium software moat."
+2026-07-22T14:12:39,TSLA,-0.3,Earnings uncertainty amid rising short positions and tech sector caution.
+2026-07-22T14:12:39,MSFT,-0.3,AI capex surge strains free cash flow; cloud ROI questioned.
+2026-07-22T14:12:39,AMZN,0.0,Mixed signals: warehouse renovation investment offset by job cuts.
 2026-07-21T21:01:59,AAPL,0.2,Apple lease program launch; regulatory headwinds offset modest positive momentum.
 2026-07-21T21:01:59,NVDA,0.6,"AI spending momentum, chip recovery, strong earnings week ahead."
 2026-07-21T21:01:59,TSLA,0.1,Q2 earnings due Wednesday; cash burn concerns offset sales gains.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-15T20:55:14,TSLA,-0.3,Valuation concerns offset semi partnership; analyst downgrade weighs sentiment.
 2026-07-15T20:55:14,MSFT,-0.3,AI spending pressure offset by Azure demand and strategic security overhaul.
 2026-07-15T20:55:14,AMZN,0.6,CEO confirms AI chip demand booming; analyst upgrade to top pick.
-2026-07-15T17:19:19,AAPL,-0.3,"AI chip struggles, legal dispute with OpenAI, offset by acquisition strategy."
-2026-07-15T17:19:19,NVDA,0.3,ASML demand surge supports AI chip ecosystem; NVDA valued favorably versus AMD.
-2026-07-15T17:19:19,TSLA,0.1,"Q2 earnings beat expected, but valuation concerns and analyst skepticism persist."
-2026-07-15T17:19:19,MSFT,-0.6,AI spending pressure and analyst price-target cuts ahead of earnings.
-2026-07-15T17:19:19,AMZN,0.1,AI spending pressure offset by satellite internet expansion and chip innovation.
