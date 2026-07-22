@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-22T21:00:13,AAPL,-0.6,"IP lawsuit with OpenAI, failed patent appeal against Masimo."
+2026-07-22T21:00:13,NVDA,-0.6,AMD-Anthropic deal and AI chip competition intensify; market unwind fears.
+2026-07-22T21:00:13,TSLA,-0.3,Revenue beat but EPS miss; margins compressed by R&D spending surge.
+2026-07-22T21:00:13,MSFT,0.2,Microsoft joins nuclear AI initiative; indirect positive amid mixed tech sentiment.
+2026-07-22T21:00:13,AMZN,0.3,AWS acceleration expected; offset by AI job cuts and sector uncertainty.
 2026-07-22T17:22:32,AAPL,0.3,"Apple plans major MacBook, iMac overhaul for AI-fueled demand."
 2026-07-22T17:22:32,NVDA,-0.3,CEO endorses Chinese AI rivals; chip sector volatility amid spending concerns.
 2026-07-22T17:22:32,TSLA,0.3,Tesla earnings beat on deliveries; investor focus on AI spending efficiency.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-16T17:18:58,TSLA,0.1,"Mixed signals: EV adoption tailwinds offset by affordability concerns, valuation questions."
 2026-07-16T17:18:58,MSFT,-0.3,Stock down 20% YTD; AI spending hasn't delivered expected returns yet.
 2026-07-16T17:18:58,AMZN,0.6,AI spending strength and analyst preference for Amazon's cloud position.
-2026-07-16T14:10:46,AAPL,0.6,"Apple Intelligence approved for China launch with Alibaba, Baidu partnership."
-2026-07-16T14:10:46,NVDA,0.3,"TSMC, ASML raise forecasts; AI chip demand strong but TSMC stock tumbles."
-2026-07-16T14:10:46,TSLA,0.1,"Mixed signals: FSD cleared in crash, earnings ahead, SpaceX acquisition speculation."
-2026-07-16T14:10:46,MSFT,0.6,Microsoft emerging as clear AI beneficiary; CIO budget growth favors cloud.
-2026-07-16T14:10:46,AMZN,0.3,Amazon-backed Anthropic seeks billions in credit ahead of IPO.
