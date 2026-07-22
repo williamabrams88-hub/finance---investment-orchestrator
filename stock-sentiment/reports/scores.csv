@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-22T17:22:32,AAPL,0.3,"Apple plans major MacBook, iMac overhaul for AI-fueled demand."
+2026-07-22T17:22:32,NVDA,-0.3,CEO endorses Chinese AI rivals; chip sector volatility amid spending concerns.
+2026-07-22T17:22:32,TSLA,0.3,Tesla earnings beat on deliveries; investor focus on AI spending efficiency.
+2026-07-22T17:22:32,MSFT,0.3,"AMD secures Microsoft AI chip deal, signaling competitive strength."
+2026-07-22T17:22:32,AMZN,0.2,AWS upside potential offsets AI spending concerns and job cuts.
 2026-07-22T14:12:39,AAPL,-0.3,Apple Watch patent loss offset by foldable phone launch anticipation.
 2026-07-22T14:12:39,NVDA,0.6,"Wistron U.S. factory production, valuation underpriced, freemium software moat."
 2026-07-22T14:12:39,TSLA,-0.3,Earnings uncertainty amid rising short positions and tech sector caution.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-16T14:10:46,TSLA,0.1,"Mixed signals: FSD cleared in crash, earnings ahead, SpaceX acquisition speculation."
 2026-07-16T14:10:46,MSFT,0.6,Microsoft emerging as clear AI beneficiary; CIO budget growth favors cloud.
 2026-07-16T14:10:46,AMZN,0.3,Amazon-backed Anthropic seeks billions in credit ahead of IPO.
-2026-07-15T20:55:14,AAPL,0.2,Rising chip costs offset by AI chip strategy and China market expansion.
-2026-07-15T20:55:14,NVDA,0.3,ASML forecast lift signals strong AI chip equipment demand tailwinds.
-2026-07-15T20:55:14,TSLA,-0.3,Valuation concerns offset semi partnership; analyst downgrade weighs sentiment.
-2026-07-15T20:55:14,MSFT,-0.3,AI spending pressure offset by Azure demand and strategic security overhaul.
-2026-07-15T20:55:14,AMZN,0.6,CEO confirms AI chip demand booming; analyst upgrade to top pick.
