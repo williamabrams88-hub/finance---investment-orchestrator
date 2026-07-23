@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-23T17:24:30,AAPL,0.6,"Strong revenue growth, CEO transition, analyst upgrades amid AI leadership."
+2026-07-23T17:24:30,NVDA,-0.3,AMD-Anthropic chip deal threatens NVDA's AI infrastructure dominance.
+2026-07-23T17:24:30,TSLA,-0.6,"Q2 EPS miss, stock tumbles 10% despite revenue beat and AI roadmap."
+2026-07-23T17:24:30,MSFT,0.2,AI capex spending surge offset by infrastructure ROI concerns.
+2026-07-23T17:24:30,AMZN,-0.6,"Senate China probe, AI spending concerns weigh before earnings."
 2026-07-23T14:22:35,AAPL,0.2,Apple stands out from Magnificent Seven; regulatory scrutiny on Big Tech.
 2026-07-23T14:22:35,NVDA,-0.3,AMD-Anthropic deal threatens NVDA's AI chip dominance; competitive pressure.
 2026-07-23T14:22:35,TSLA,-0.7,"Earnings miss, negative free cash flow, weak AI guidance weigh heavily."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-17T13:54:40,TSLA,0.1,Earnings report July 22 with mixed sentiment; robotaxi competition concerns offset.
 2026-07-17T13:54:40,MSFT,-0.3,CEO criticizes competitor's AI model; broader AI ROI concerns emerge.
 2026-07-17T13:54:40,AMZN,0.2,AI spending focus amid tech sector volatility and valuation concerns.
-2026-07-16T20:52:36,AAPL,0.6,China approves Apple Intelligence; higher iPhone prices support margins.
-2026-07-16T20:52:36,NVDA,0.2,"AI demand strong, but NVDA underperforming peers; valuation concerns."
-2026-07-16T20:52:36,TSLA,0.2,Surprise delivery beat offset by valuation concerns and merger speculation.
-2026-07-16T20:52:36,MSFT,0.6,"Microsoft AI models reduce costs, compete with OpenAI and rivals."
-2026-07-16T20:52:36,AMZN,0.6,AI data center cost advantage; analysts project 32% upside potential.
