@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-24T14:01:22,AAPL,-0.3,"Magnificent 7 selloff amid AI spending concerns, but AAPL relatively resilient."
+2026-07-24T14:01:22,NVDA,-0.6,AMD launches competing Helios AI system; Intel beats earnings; competitive pressure intensifies.
+2026-07-24T14:01:22,TSLA,-0.7,"Negative cash flow, robotaxi struggles, analyst downgrades post-earnings miss."
+2026-07-24T14:01:22,MSFT,0.4,Analyst upgrade: MSFT top AI stock with OpenAI partnership advantage.
+2026-07-24T14:01:22,AMZN,0.2,Amazon included in $1T AI capex spending outlook; tech sector volatility persists.
 2026-07-23T20:57:13,AAPL,-0.6,"Magnificent Seven tech rout amid AI trade skepticism, earnings misses."
 2026-07-23T20:57:13,NVDA,-0.6,"Magnificent Seven selloff, AMD competitive threat to AI dominance."
 2026-07-23T20:57:13,TSLA,-0.6,"Broad tech selloff, earnings miss, robotaxi delays disappoint investors."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-17T20:48:45,TSLA,-0.3,Competitive pressure from Rivian software and Lucid rally; awaiting Q2 earnings.
 2026-07-17T20:48:45,MSFT,-0.3,Broad market sell-off and semiconductor weakness; AI narrative questions cloud growth.
 2026-07-17T20:48:45,AMZN,0.3,Amazon beats Starlink on satellite internet licensing; custom AI chip strategy competitive.
-2026-07-17T17:14:21,AAPL,0.3,Apple reclaims most valuable company; antitrust settlement talks ongoing.
-2026-07-17T17:14:21,NVDA,-0.3,Market rotation away from AI chips; Apple reclaims top valuation spot.
-2026-07-17T17:14:21,TSLA,0.3,Robotaxi momentum and BofA Buy rating offset growth slowdown concerns.
-2026-07-17T17:14:21,MSFT,0.6,"60+ analysts bullish; $37B AI run rate, doubled backlog support valuation."
-2026-07-17T17:14:21,AMZN,0.6,CEO's $25B AI data center investment signals strong AI infrastructure commitment.
