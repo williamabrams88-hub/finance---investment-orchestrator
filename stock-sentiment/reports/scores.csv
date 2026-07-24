@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-24T17:39:22,AAPL,-0.3,Magnificent Seven selloff; Google's negative cash flow spooks investors.
+2026-07-24T17:39:22,NVDA,-0.3,AMD competition intensifies; open-source AI threatens proprietary model moat.
+2026-07-24T17:39:22,TSLA,-0.3,"Magnificent Seven selloff, Waymo safety lead, offset by Wood buying and capex commitment."
+2026-07-24T17:39:22,MSFT,0.3,Azure and AI growth in focus ahead of Q4 earnings results.
+2026-07-24T17:39:22,AMZN,0.6,AWS chip operation rivals semiconductor giants; compute shortage supports cloud demand.
 2026-07-24T14:01:22,AAPL,-0.3,"Magnificent 7 selloff amid AI spending concerns, but AAPL relatively resilient."
 2026-07-24T14:01:22,NVDA,-0.6,AMD launches competing Helios AI system; Intel beats earnings; competitive pressure intensifies.
 2026-07-24T14:01:22,TSLA,-0.7,"Negative cash flow, robotaxi struggles, analyst downgrades post-earnings miss."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-18T13:37:46,TSLA,0.2,Record Q2 deliveries offset by intensifying EV competition globally.
 2026-07-18T13:37:46,MSFT,0.2,AI strategy shift; mixed market sentiment on cloud and AI investments.
 2026-07-18T13:37:46,AMZN,0.3,Amazon leading $182B AI infrastructure investment; battery supply deal signed.
-2026-07-17T20:48:45,AAPL,0.6,AI upgrade cycle and reclaimed market cap leader position.
-2026-07-17T20:48:45,NVDA,-0.6,"AI spending concerns, market rotation away from chip capex leaders."
-2026-07-17T20:48:45,TSLA,-0.3,Competitive pressure from Rivian software and Lucid rally; awaiting Q2 earnings.
-2026-07-17T20:48:45,MSFT,-0.3,Broad market sell-off and semiconductor weakness; AI narrative questions cloud growth.
-2026-07-17T20:48:45,AMZN,0.3,Amazon beats Starlink on satellite internet licensing; custom AI chip strategy competitive.
