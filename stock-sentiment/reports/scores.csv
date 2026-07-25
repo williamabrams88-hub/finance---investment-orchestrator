@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-25T17:00:29,AAPL,-0.3,Mag 7 selloff amid AI profitability concerns; earnings ahead.
+2026-07-25T17:00:29,NVDA,-0.6,AI buildout profitability questioned; major tech stocks declining sharply.
+2026-07-25T17:00:29,TSLA,-0.6,Revenue beat masked profit collapse and cash burn concerns.
+2026-07-25T17:00:29,MSFT,0.3,Earnings catalyst July 29; Azure acceleration offsets regulatory AI concerns.
+2026-07-25T17:00:29,AMZN,0.3,Upcoming earnings; advertising business strength; data center power demand tailwind.
 2026-07-25T13:51:29,AAPL,0.2,Apple earnings upcoming; mixed sentiment on chip sourcing strategy.
 2026-07-25T13:51:29,NVDA,-0.3,AI buildout profitability questioned; memory stock pullback amid sector rotation.
 2026-07-25T13:51:29,TSLA,-0.3,Disappointing quarter offset by record services segment growth and safety approval.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-19T13:40:21,TSLA,0.2,Tesla earnings week amid geopolitical uncertainty; mixed analyst views.
 2026-07-19T13:40:21,MSFT,-0.3,Heavy AI spending outpacing revenue; stock down 27% from highs.
 2026-07-19T13:40:21,AMZN,0.6,AI investment justified by strong Trainium chip business growth.
-2026-07-18T20:41:02,AAPL,0.3,New Siri AI and Apple Intelligence drive record stock high.
-2026-07-18T20:41:02,NVDA,0.3,AI spending surge and memory bottleneck create mixed tailwinds and headwinds.
-2026-07-18T20:41:02,TSLA,0.3,Record Q2 deliveries; profit margins key to earnings catalyst.
-2026-07-18T20:41:02,MSFT,-0.3,Stock underperformance amid AI capex concerns and competitive positioning questions.
-2026-07-18T20:41:02,AMZN,0.2,Heavy AI capex spending and new infrastructure competition emerging.
