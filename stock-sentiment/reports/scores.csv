@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-26T20:52:39,AAPL,0.2,Apple earnings week amid Fed meeting; mixed Mag 7 performance signals.
+2026-07-26T20:52:39,NVDA,0.0,No NVDA-specific news; sentiment neutral across unrelated stocks.
+2026-07-26T20:52:39,TSLA,-0.6,"Rising capex, margin pressure, valuation concerns post-earnings drop."
+2026-07-26T20:52:39,MSFT,0.2,Earnings week focus; AI spending ROI concerns persist.
+2026-07-26T20:52:39,AMZN,0.3,Upcoming earnings with analyst price targets 34% above current stock.
 2026-07-26T17:03:14,AAPL,0.2,Apple earnings report amid busy tech earnings week and Fed meeting.
 2026-07-26T17:03:14,NVDA,0.2,Positive sentiment as quantum computing pick-and-shovel play supplier.
 2026-07-26T17:03:14,TSLA,-0.6,"Disappointing earnings, stock down 14%, mixed AI monetization outlook."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-20T18:05:58,TSLA,0.3,Earnings week ahead; investor focus on robotaxi and Optimus updates.
 2026-07-20T18:05:58,MSFT,0.6,AMD partnership expansion for Azure AI inference deployment strengthens ecosystem.
 2026-07-20T18:05:58,AMZN,0.6,Amazon winning AI hyperscaler contracts; massive capex investment thesis.
-2026-07-20T14:24:18,AAPL,0.4,BofA expects earnings beat; offset by AI spending concerns.
-2026-07-20T14:24:18,NVDA,0.2,Modest rebound in AI chip stocks; AMD gains on Microsoft partnership.
-2026-07-20T14:24:18,TSLA,0.0,Earnings week ahead; investors await robotaxi and Optimus spending details.
-2026-07-20T14:24:18,MSFT,0.3,Major AMD Helios AI infrastructure deal expands Azure capabilities.
-2026-07-20T14:24:18,AMZN,0.3,AI cloud investment thesis intact; ROI crossover moment ahead for Amazon.
