@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-26T17:03:14,AAPL,0.2,Apple earnings report amid busy tech earnings week and Fed meeting.
+2026-07-26T17:03:14,NVDA,0.2,Positive sentiment as quantum computing pick-and-shovel play supplier.
+2026-07-26T17:03:14,TSLA,-0.6,"Disappointing earnings, stock down 14%, mixed AI monetization outlook."
+2026-07-26T17:03:14,MSFT,0.3,MSFT earnings week amid AI capex competition and Fed uncertainty.
+2026-07-26T17:03:14,AMZN,0.3,Earnings week catalyst; analyst targets 34% above current price.
 2026-07-26T13:44:19,AAPL,0.3,Apple leads earnings wave; foldable iPhone launch sets competitive advantage.
 2026-07-26T13:44:19,NVDA,0.0,No NVDA-specific news; macro sentiment mixed on AI spending trends.
 2026-07-26T13:44:19,TSLA,-0.6,"Mixed earnings, stock down 14%, analyst skepticism despite Wood buying."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-20T14:24:18,TSLA,0.0,Earnings week ahead; investors await robotaxi and Optimus spending details.
 2026-07-20T14:24:18,MSFT,0.3,Major AMD Helios AI infrastructure deal expands Azure capabilities.
 2026-07-20T14:24:18,AMZN,0.3,AI cloud investment thesis intact; ROI crossover moment ahead for Amazon.
-2026-07-19T20:41:59,AAPL,0.6,"Apple Intelligence China approval, strong momentum, all-time high despite legal headwinds."
-2026-07-19T20:41:59,NVDA,0.6,Major Rubin GPU deal with Japan signals strong enterprise demand growth.
-2026-07-19T20:41:59,TSLA,0.0,Upcoming earnings report with mixed analyst expectations and competitive pressure.
-2026-07-19T20:41:59,MSFT,-0.6,Heavy AI spending exceeds current revenue; $1.2T market value decline.
-2026-07-19T20:41:59,AMZN,0.6,AI capex investment validated; grocery expansion and chip business growth.
