@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-26T13:44:19,AAPL,0.3,Apple leads earnings wave; foldable iPhone launch sets competitive advantage.
+2026-07-26T13:44:19,NVDA,0.0,No NVDA-specific news; macro sentiment mixed on AI spending trends.
+2026-07-26T13:44:19,TSLA,-0.6,"Mixed earnings, stock down 14%, analyst skepticism despite Wood buying."
+2026-07-26T13:44:19,MSFT,0.3,3M partnership expands Azure AI infrastructure; earnings week ahead.
+2026-07-26T13:44:19,AMZN,0.6,Earnings beat expected; analysts target 34% upside before July 30 report.
 2026-07-25T20:43:33,AAPL,0.3,Foldable iPhone launch and Apple Maps automotive expansion offset supply chain concerns.
 2026-07-25T20:43:33,NVDA,0.1,AI demand questioned; valuation concerns offset positive positioning.
 2026-07-25T20:43:33,TSLA,-0.7,Q2 earnings miss with profit collapse and cash burn concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-19T20:41:59,TSLA,0.0,Upcoming earnings report with mixed analyst expectations and competitive pressure.
 2026-07-19T20:41:59,MSFT,-0.6,Heavy AI spending exceeds current revenue; $1.2T market value decline.
 2026-07-19T20:41:59,AMZN,0.6,AI capex investment validated; grocery expansion and chip business growth.
-2026-07-19T16:59:41,AAPL,0.6,HSBC analyst upgrade flags operational turning point; record highs amid AI positioning.
-2026-07-19T16:59:41,NVDA,-0.3,Korean brokerage downgrade triggers chip sector selloff; NVIDIA shares decline.
-2026-07-19T16:59:41,TSLA,0.1,Earnings week ahead; mixed analyst views on valuation and growth drivers.
-2026-07-19T16:59:41,MSFT,-0.5,Job cuts and massive AI spending exceed current revenue generation.
-2026-07-19T16:59:41,AMZN,0.3,"Price cuts on 13,000 grocery items; AI chip business validates $200B investment."
