@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-27T21:05:24,AAPL,0.3,Apple hits record high ahead of fiscal Q3 earnings report.
+2026-07-27T21:05:24,NVDA,0.6,Nvidia pursues $750B AI deals; OpenAI Ohio data center financing partnership.
+2026-07-27T21:05:24,TSLA,-0.8,"Weak Q2 earnings, stock down 18% last week, valuation concerns persist."
+2026-07-27T21:05:24,MSFT,0.3,Earnings week focus; AI capex scrutiny offset by cloud demand strength.
+2026-07-27T21:05:24,AMZN,0.3,Amazon Leo satellite constellation launch plans; earnings guidance watch.
 2026-07-27T17:43:42,AAPL,0.3,Strong pre-earnings momentum offset by Chinese chip competition concerns.
 2026-07-27T17:43:42,NVDA,-0.6,Apple surpasses Nvidia; OpenAI move and semiconductor sector weakness pressure stock.
 2026-07-27T17:43:42,TSLA,-0.8,"Weak Q2 earnings, 18% weekly drop, technical breakdown to $296."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-21T17:22:38,TSLA,0.3,Robotaxi expansion and Grok AI features offset earnings cash burn concerns.
 2026-07-21T17:22:38,MSFT,0.6,AGI Summit presentation and multi-billion Mistral AI infrastructure deal.
 2026-07-21T17:22:38,AMZN,0.6,"Amazon Business $60B sales, AI chip competition, analyst upgrades."
-2026-07-21T14:10:06,AAPL,0.3,"Analyst upgrade and historic valuation amid AI optimism, offset by valuation concerns."
-2026-07-21T14:10:06,NVDA,0.6,"Semiconductor recovery, AI demand surge, strategic GPU partnerships strengthen."
-2026-07-21T14:10:06,TSLA,0.2,Robotaxi expansion and AI investments offset cash burn concerns.
-2026-07-21T14:10:06,MSFT,0.6,Multibillion-dollar Mistral AI partnership expands European compute capacity.
-2026-07-21T14:10:06,AMZN,0.6,"Analyst upgrades, AI infrastructure leadership, $200B capex positioning."
