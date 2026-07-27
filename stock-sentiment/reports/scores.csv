@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-27T17:43:42,AAPL,0.3,Strong pre-earnings momentum offset by Chinese chip competition concerns.
+2026-07-27T17:43:42,NVDA,-0.6,Apple surpasses Nvidia; OpenAI move and semiconductor sector weakness pressure stock.
+2026-07-27T17:43:42,TSLA,-0.8,"Weak Q2 earnings, 18% weekly drop, technical breakdown to $296."
+2026-07-27T17:43:42,MSFT,0.6,Microsoft earnings week with strong AI partnership and Azure leadership positioning.
+2026-07-27T17:43:42,AMZN,0.3,Upcoming earnings report; satellite constellation expansion plans.
 2026-07-27T14:52:34,AAPL,0.3,Record high before Q3 earnings; new AI features and smart glasses pipeline.
 2026-07-27T14:52:34,NVDA,-0.3,Chip sector weakness and capex concerns offset OpenAI partnership talks.
 2026-07-27T14:52:34,TSLA,-0.6,"Q2 earnings miss, margin concerns, and short seller bets intensify."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-21T14:10:06,TSLA,0.2,Robotaxi expansion and AI investments offset cash burn concerns.
 2026-07-21T14:10:06,MSFT,0.6,Multibillion-dollar Mistral AI partnership expands European compute capacity.
 2026-07-21T14:10:06,AMZN,0.6,"Analyst upgrades, AI infrastructure leadership, $200B capex positioning."
-2026-07-20T21:06:28,AAPL,0.2,Q3 earnings beat expected; margin concerns offset by services growth.
-2026-07-20T21:06:28,NVDA,0.6,Bristol Myers expands NVIDIA partnership; chip demand recovery signals strength.
-2026-07-20T21:06:28,TSLA,0.0,Earnings report pending; high expectations but valuation concerns persist.
-2026-07-20T21:06:28,MSFT,0.3,Azure growth and AI spending execution under investor scrutiny.
-2026-07-20T21:06:28,AMZN,0.2,Amazon highlighted as founder-led innovator; AI capex concerns overblown.
