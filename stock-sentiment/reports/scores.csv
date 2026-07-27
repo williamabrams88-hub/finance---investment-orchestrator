@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-27T14:52:34,AAPL,0.3,Record high before Q3 earnings; new AI features and smart glasses pipeline.
+2026-07-27T14:52:34,NVDA,-0.3,Chip sector weakness and capex concerns offset OpenAI partnership talks.
+2026-07-27T14:52:34,TSLA,-0.6,"Q2 earnings miss, margin concerns, and short seller bets intensify."
+2026-07-27T14:52:34,MSFT,0.4,MSFT earnings week ahead; capex guidance and AI demand in focus.
+2026-07-27T14:52:34,AMZN,0.3,Earnings week catalyst; capex concerns offset by satellite expansion opportunity.
 2026-07-26T20:52:39,AAPL,0.2,Apple earnings week amid Fed meeting; mixed Mag 7 performance signals.
 2026-07-26T20:52:39,NVDA,0.0,No NVDA-specific news; sentiment neutral across unrelated stocks.
 2026-07-26T20:52:39,TSLA,-0.6,"Rising capex, margin pressure, valuation concerns post-earnings drop."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-20T21:06:28,TSLA,0.0,Earnings report pending; high expectations but valuation concerns persist.
 2026-07-20T21:06:28,MSFT,0.3,Azure growth and AI spending execution under investor scrutiny.
 2026-07-20T21:06:28,AMZN,0.2,Amazon highlighted as founder-led innovator; AI capex concerns overblown.
-2026-07-20T18:05:58,AAPL,0.2,Earnings catalyst ahead; AI competition concerns offset valuation strength.
-2026-07-20T18:05:58,NVDA,0.6,Chip sector recovery; GPU demand strength supports NVDA ecosystem.
-2026-07-20T18:05:58,TSLA,0.3,Earnings week ahead; investor focus on robotaxi and Optimus updates.
-2026-07-20T18:05:58,MSFT,0.6,AMD partnership expansion for Azure AI inference deployment strengthens ecosystem.
-2026-07-20T18:05:58,AMZN,0.6,Amazon winning AI hyperscaler contracts; massive capex investment thesis.
