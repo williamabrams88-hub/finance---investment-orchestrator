@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-28T17:36:46,AAPL,0.1,Mixed signals: $5T milestone and strong momentum offset by analyst bearishness and lawsuit.
+2026-07-28T17:36:46,NVDA,-0.6,Semiconductor sell-off deepens; NVDA faces sector headwinds and China risks.
+2026-07-28T17:36:46,TSLA,-0.3,"Earnings miss, margin collapse offset by analyst optimism and insider buying."
+2026-07-28T17:36:46,MSFT,0.3,Backs OpenAI Ohio data center expansion; capex spending concerns offset gains.
+2026-07-28T17:36:46,AMZN,0.3,Amazon tops Fortune Global 500; offset by AI strategy rethink.
 2026-07-28T14:26:51,AAPL,0.3,Market cap milestone and smart home innovation offset lawsuit and valuation concerns.
 2026-07-28T14:26:51,NVDA,-0.6,Credit default spike and AI spending concerns offset major partnership talks.
 2026-07-28T14:26:51,TSLA,-0.3,Worst earnings reaction of year; Arizona power deal modest positive offset.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-22T14:12:39,TSLA,-0.3,Earnings uncertainty amid rising short positions and tech sector caution.
 2026-07-22T14:12:39,MSFT,-0.3,AI capex surge strains free cash flow; cloud ROI questioned.
 2026-07-22T14:12:39,AMZN,0.0,Mixed signals: warehouse renovation investment offset by job cuts.
-2026-07-21T21:01:59,AAPL,0.2,Apple lease program launch; regulatory headwinds offset modest positive momentum.
-2026-07-21T21:01:59,NVDA,0.6,"AI spending momentum, chip recovery, strong earnings week ahead."
-2026-07-21T21:01:59,TSLA,0.1,Q2 earnings due Wednesday; cash burn concerns offset sales gains.
-2026-07-21T21:01:59,MSFT,0.3,Microsoft expands European AI push through Mistral partnership.
-2026-07-21T21:01:59,AMZN,0.2,AI growth potential offsets valuation premium concerns amid sector recovery.
