@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-28T21:03:09,AAPL,0.6,"Market cap milestone, smooth CEO transition, strong earnings ahead."
+2026-07-28T21:03:09,NVDA,-0.3,AI chip sector sell-off deepens; semiconductor weakness spreads.
+2026-07-28T21:03:09,TSLA,-0.6,"Stock oversold, merger speculation, price target cuts weigh on sentiment."
+2026-07-28T21:03:09,MSFT,0.1,Earnings report awaited; AI capex returns offset debt concerns.
+2026-07-28T21:03:09,AMZN,0.1,Amazon earnings imminent; mixed signals on AI capex returns and margins.
 2026-07-28T17:36:46,AAPL,0.1,Mixed signals: $5T milestone and strong momentum offset by analyst bearishness and lawsuit.
 2026-07-28T17:36:46,NVDA,-0.6,Semiconductor sell-off deepens; NVDA faces sector headwinds and China risks.
 2026-07-28T17:36:46,TSLA,-0.3,"Earnings miss, margin collapse offset by analyst optimism and insider buying."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-22T17:22:32,TSLA,0.3,Tesla earnings beat on deliveries; investor focus on AI spending efficiency.
 2026-07-22T17:22:32,MSFT,0.3,"AMD secures Microsoft AI chip deal, signaling competitive strength."
 2026-07-22T17:22:32,AMZN,0.2,AWS upside potential offsets AI spending concerns and job cuts.
-2026-07-22T14:12:39,AAPL,-0.3,Apple Watch patent loss offset by foldable phone launch anticipation.
-2026-07-22T14:12:39,NVDA,0.6,"Wistron U.S. factory production, valuation underpriced, freemium software moat."
-2026-07-22T14:12:39,TSLA,-0.3,Earnings uncertainty amid rising short positions and tech sector caution.
-2026-07-22T14:12:39,MSFT,-0.3,AI capex surge strains free cash flow; cloud ROI questioned.
-2026-07-22T14:12:39,AMZN,0.0,Mixed signals: warehouse renovation investment offset by job cuts.
