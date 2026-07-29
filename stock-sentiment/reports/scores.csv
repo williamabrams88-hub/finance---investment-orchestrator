@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-29T20:50:04,AAPL,-0.3,"Qualcomm warns of accelerating Apple revenue decline, offset by strong earnings."
+2026-07-29T20:50:04,NVDA,0.3,AI power demand surge; chip sector headwinds offset by long-term opportunity.
+2026-07-29T20:50:04,TSLA,-0.8,"Weak Q2 earnings, margin pressure, 18% weekly drop on AI spending concerns."
+2026-07-29T20:50:04,MSFT,0.8,"Azure beats 43% growth, $100B revenue milestone, strong AI momentum."
+2026-07-29T20:50:04,AMZN,0.2,Q2 earnings test AWS growth against elevated AI spending concerns.
 2026-07-29T17:16:45,AAPL,0.6,"Market cap milestone, strong iPhone 17 demand, upcoming earnings catalyst."
 2026-07-29T17:16:45,NVDA,-0.6,"AI infrastructure debt concerns, hyperscaler capex sustainability questioned."
 2026-07-29T17:16:45,TSLA,-0.6,"Weaker Q2 earnings, valuation concerns, short thesis from prominent investor."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-23T17:24:30,TSLA,-0.6,"Q2 EPS miss, stock tumbles 10% despite revenue beat and AI roadmap."
 2026-07-23T17:24:30,MSFT,0.2,AI capex spending surge offset by infrastructure ROI concerns.
 2026-07-23T17:24:30,AMZN,-0.6,"Senate China probe, AI spending concerns weigh before earnings."
-2026-07-23T14:22:35,AAPL,0.2,Apple stands out from Magnificent Seven; regulatory scrutiny on Big Tech.
-2026-07-23T14:22:35,NVDA,-0.3,AMD-Anthropic deal threatens NVDA's AI chip dominance; competitive pressure.
-2026-07-23T14:22:35,TSLA,-0.7,"Earnings miss, negative free cash flow, weak AI guidance weigh heavily."
-2026-07-23T14:22:35,MSFT,0.3,Analyst support ahead of earnings; AI capex concerns overblown.
-2026-07-23T14:22:35,AMZN,0.3,India e-commerce rule relaxation supports Amazon export growth opportunity.
