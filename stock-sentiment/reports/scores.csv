@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-29T17:16:45,AAPL,0.6,"Market cap milestone, strong iPhone 17 demand, upcoming earnings catalyst."
+2026-07-29T17:16:45,NVDA,-0.6,"AI infrastructure debt concerns, hyperscaler capex sustainability questioned."
+2026-07-29T17:16:45,TSLA,-0.6,"Weaker Q2 earnings, valuation concerns, short thesis from prominent investor."
+2026-07-29T17:16:45,MSFT,0.1,MSFT earnings imminent; AI ROI concerns offset by triple-digit growth.
+2026-07-29T17:16:45,AMZN,0.3,Q2 earnings ahead with UBS bullish on AWS and e-commerce margins.
 2026-07-29T14:25:08,AAPL,0.3,Apple hits $5T milestone; quiet strategy driving strong growth ahead.
 2026-07-29T14:25:08,NVDA,-0.3,Chip sector selloff; key supplier SK Hynix misses earnings expectations.
 2026-07-29T14:25:08,TSLA,-0.7,"Weaker earnings, five-day losing streak, valuation concerns persist."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-23T14:22:35,TSLA,-0.7,"Earnings miss, negative free cash flow, weak AI guidance weigh heavily."
 2026-07-23T14:22:35,MSFT,0.3,Analyst support ahead of earnings; AI capex concerns overblown.
 2026-07-23T14:22:35,AMZN,0.3,India e-commerce rule relaxation supports Amazon export growth opportunity.
-2026-07-22T21:00:13,AAPL,-0.6,"IP lawsuit with OpenAI, failed patent appeal against Masimo."
-2026-07-22T21:00:13,NVDA,-0.6,AMD-Anthropic deal and AI chip competition intensify; market unwind fears.
-2026-07-22T21:00:13,TSLA,-0.3,Revenue beat but EPS miss; margins compressed by R&D spending surge.
-2026-07-22T21:00:13,MSFT,0.2,Microsoft joins nuclear AI initiative; indirect positive amid mixed tech sentiment.
-2026-07-22T21:00:13,AMZN,0.3,AWS acceleration expected; offset by AI job cuts and sector uncertainty.
