@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-30T17:36:33,AAPL,0.0,"Earnings test looms; stock priced in gains, volatile reaction unlikely."
+2026-07-30T17:36:33,NVDA,-0.6,Semiconductor sector selloff as SK Hynix disappoints; AI trade unwinds.
+2026-07-30T17:36:33,TSLA,0.3,10 millionth EV milestone achieved; stock rebounds from six-day loss.
+2026-07-30T17:36:33,MSFT,0.9,Azure surge validates AI bet; stock soars 17% on earnings beat.
+2026-07-30T17:36:33,AMZN,0.3,Amazon AI enterprise momentum ahead of Q2 earnings report.
 2026-07-30T14:22:29,AAPL,0.2,Upcoming earnings report; chip sector rebounding amid mixed signals.
 2026-07-30T14:22:29,NVDA,-0.6,"AI trade unwinds, SK Hynix disappoints, semiconductor sector plummets."
 2026-07-30T14:22:29,TSLA,-0.7,Stock down 21% in six days; spending plans concern investors post-earnings.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-24T14:01:22,TSLA,-0.7,"Negative cash flow, robotaxi struggles, analyst downgrades post-earnings miss."
 2026-07-24T14:01:22,MSFT,0.4,Analyst upgrade: MSFT top AI stock with OpenAI partnership advantage.
 2026-07-24T14:01:22,AMZN,0.2,Amazon included in $1T AI capex spending outlook; tech sector volatility persists.
-2026-07-23T20:57:13,AAPL,-0.6,"Magnificent Seven tech rout amid AI trade skepticism, earnings misses."
-2026-07-23T20:57:13,NVDA,-0.6,"Magnificent Seven selloff, AMD competitive threat to AI dominance."
-2026-07-23T20:57:13,TSLA,-0.6,"Broad tech selloff, earnings miss, robotaxi delays disappoint investors."
-2026-07-23T20:57:13,MSFT,-0.3,Magnificent Seven selloff amid AI spending concerns; offset by Databricks Azure partnership.
-2026-07-23T20:57:13,AMZN,-0.65,"FTC settlement, Senate probe, AI cost concerns weigh on stock."
