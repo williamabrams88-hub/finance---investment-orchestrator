@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-30T21:02:26,AAPL,0.6,"Earnings beat on iPhone, Mac sales; stock fell despite strong results."
+2026-07-30T21:02:26,NVDA,0.3,Microsoft Azure growth acceleration supports AI infrastructure demand.
+2026-07-30T21:02:26,TSLA,0.2,10M EV milestone and robotaxi expansion offset margin concerns.
+2026-07-30T21:02:26,MSFT,0.9,"Strong earnings beat, Azure cloud surge, Copilot adoption driving 15% stock jump."
+2026-07-30T21:02:26,AMZN,0.8,"Q2 earnings beat, AWS grows 37%, strongest in 18 quarters."
 2026-07-30T17:36:33,AAPL,0.0,"Earnings test looms; stock priced in gains, volatile reaction unlikely."
 2026-07-30T17:36:33,NVDA,-0.6,Semiconductor sector selloff as SK Hynix disappoints; AI trade unwinds.
 2026-07-30T17:36:33,TSLA,0.3,10 millionth EV milestone achieved; stock rebounds from six-day loss.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-24T17:39:22,TSLA,-0.3,"Magnificent Seven selloff, Waymo safety lead, offset by Wood buying and capex commitment."
 2026-07-24T17:39:22,MSFT,0.3,Azure and AI growth in focus ahead of Q4 earnings results.
 2026-07-24T17:39:22,AMZN,0.6,AWS chip operation rivals semiconductor giants; compute shortage supports cloud demand.
-2026-07-24T14:01:22,AAPL,-0.3,"Magnificent 7 selloff amid AI spending concerns, but AAPL relatively resilient."
-2026-07-24T14:01:22,NVDA,-0.6,AMD launches competing Helios AI system; Intel beats earnings; competitive pressure intensifies.
-2026-07-24T14:01:22,TSLA,-0.7,"Negative cash flow, robotaxi struggles, analyst downgrades post-earnings miss."
-2026-07-24T14:01:22,MSFT,0.4,Analyst upgrade: MSFT top AI stock with OpenAI partnership advantage.
-2026-07-24T14:01:22,AMZN,0.2,Amazon included in $1T AI capex spending outlook; tech sector volatility persists.
