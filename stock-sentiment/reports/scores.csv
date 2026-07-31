@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-31T14:25:40,AAPL,0.2,Earnings beat offset by weak guidance and Services slowdown concerns.
+2026-07-31T14:25:40,NVDA,0.3,Memory chip supply constraints; AI infrastructure demand supports long-term positioning.
+2026-07-31T14:25:40,TSLA,-0.3,China business sale speculation amid SpaceX merger uncertainty.
+2026-07-31T14:25:40,MSFT,0.8,"Blowout earnings, record cloud revenue, strong AI monetization."
+2026-07-31T14:25:40,AMZN,0.9,Q2 earnings beat with AWS cloud business surging strongly.
 2026-07-30T21:02:26,AAPL,0.6,"Earnings beat on iPhone, Mac sales; stock fell despite strong results."
 2026-07-30T21:02:26,NVDA,0.3,Microsoft Azure growth acceleration supports AI infrastructure demand.
 2026-07-30T21:02:26,TSLA,0.2,10M EV milestone and robotaxi expansion offset margin concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-24T20:57:26,TSLA,-0.6,"Stock decline amid high CapEx spending concerns, weak earnings."
 2026-07-24T20:57:26,MSFT,-0.3,AI spending concerns weigh on earnings outlook; valuation upside offset by CapEx fears.
 2026-07-24T20:57:26,AMZN,-0.6,AI spending concerns and valuation losses ahead of earnings.
-2026-07-24T17:39:22,AAPL,-0.3,Magnificent Seven selloff; Google's negative cash flow spooks investors.
-2026-07-24T17:39:22,NVDA,-0.3,AMD competition intensifies; open-source AI threatens proprietary model moat.
-2026-07-24T17:39:22,TSLA,-0.3,"Magnificent Seven selloff, Waymo safety lead, offset by Wood buying and capex commitment."
-2026-07-24T17:39:22,MSFT,0.3,Azure and AI growth in focus ahead of Q4 earnings results.
-2026-07-24T17:39:22,AMZN,0.6,AWS chip operation rivals semiconductor giants; compute shortage supports cloud demand.
