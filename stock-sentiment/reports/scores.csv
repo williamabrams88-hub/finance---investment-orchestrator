@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-07-31T17:39:49,AAPL,0.2,Strong iPhone sales and US manufacturing commitment offset weak guidance concerns.
+2026-07-31T17:39:49,NVDA,0.3,AI infrastructure demand drives cloud growth across sector peers.
+2026-07-31T17:39:49,TSLA,-0.3,China spinoff plan amid merger speculation; Q2 earnings miss weighs sentiment.
+2026-07-31T17:39:49,MSFT,0.9,Strong earnings beat powered by AI growth; record market cap gain.
+2026-07-31T17:39:49,AMZN,0.9,"Q2 earnings beat, AWS accelerating, analyst price target raised."
 2026-07-31T14:25:40,AAPL,0.2,Earnings beat offset by weak guidance and Services slowdown concerns.
 2026-07-31T14:25:40,NVDA,0.3,Memory chip supply constraints; AI infrastructure demand supports long-term positioning.
 2026-07-31T14:25:40,TSLA,-0.3,China business sale speculation amid SpaceX merger uncertainty.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-25T13:51:29,TSLA,-0.3,Disappointing quarter offset by record services segment growth and safety approval.
 2026-07-25T13:51:29,MSFT,0.3,CEO defends AI strategy; earnings week ahead with high expectations.
 2026-07-25T13:51:29,AMZN,0.6,AWS earnings beat expected; AI power demand tailwind for data centers.
-2026-07-24T20:57:26,AAPL,0.3,Apple avoids massive AI spending while competitors face investor scrutiny.
-2026-07-24T20:57:26,NVDA,0.3,Compute shortage persists; CEO defends AI policy amid regulatory scrutiny.
-2026-07-24T20:57:26,TSLA,-0.6,"Stock decline amid high CapEx spending concerns, weak earnings."
-2026-07-24T20:57:26,MSFT,-0.3,AI spending concerns weigh on earnings outlook; valuation upside offset by CapEx fears.
-2026-07-24T20:57:26,AMZN,-0.6,AI spending concerns and valuation losses ahead of earnings.
