@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-01T20:43:49,AAPL,-0.3,CEO transition and margin pressure from rising memory costs offset strong earnings.
+2026-08-01T20:43:49,NVDA,0.1,CEO highlights AI software constraints; mixed sentiment on chip demand.
+2026-08-01T20:43:49,TSLA,-0.3,Stock down 20-30% YTD; rival BYD gaining EV market share overseas.
+2026-08-01T20:43:49,MSFT,-0.6,Regulatory probes into Microsoft 365 and Copilot practices across key markets.
+2026-08-01T20:43:49,AMZN,0.7,"Strong earnings beat; AWS fastest growth in 18 quarters, AI spending surge."
 2026-08-01T17:02:13,AAPL,-0.3,Earnings beat offset by weak guidance and memory shortage concerns.
 2026-08-01T17:02:13,NVDA,0.1,AI infrastructure opportunity remains despite valuation concerns and speculation debate.
 2026-08-01T17:02:13,TSLA,-0.3,Stock down 20-30% YTD; competitive pressure from BYD; mixed sentiment on FSD monetization.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-26T17:03:14,TSLA,-0.6,"Disappointing earnings, stock down 14%, mixed AI monetization outlook."
 2026-07-26T17:03:14,MSFT,0.3,MSFT earnings week amid AI capex competition and Fed uncertainty.
 2026-07-26T17:03:14,AMZN,0.3,Earnings week catalyst; analyst targets 34% above current price.
-2026-07-26T13:44:19,AAPL,0.3,Apple leads earnings wave; foldable iPhone launch sets competitive advantage.
-2026-07-26T13:44:19,NVDA,0.0,No NVDA-specific news; macro sentiment mixed on AI spending trends.
-2026-07-26T13:44:19,TSLA,-0.6,"Mixed earnings, stock down 14%, analyst skepticism despite Wood buying."
-2026-07-26T13:44:19,MSFT,0.3,3M partnership expands Azure AI infrastructure; earnings week ahead.
-2026-07-26T13:44:19,AMZN,0.6,Earnings beat expected; analysts target 34% upside before July 30 report.
