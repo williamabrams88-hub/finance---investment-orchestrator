@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-01T13:43:51,AAPL,-0.3,Weak guidance and supply constraints offset earnings beat; CEO transition ahead.
+2026-08-01T13:43:51,NVDA,0.1,AI infrastructure shift to inference presents growth opportunity; mixed sentiment.
+2026-08-01T13:43:51,TSLA,0.3,China spinoff consideration and FSD subscription revenue growth offset competitive pressure.
+2026-08-01T13:43:51,MSFT,0.0,No MSFT-specific news; mixed Big Tech earnings sentiment.
+2026-08-01T13:43:51,AMZN,0.8,"AWS beats expectations with fastest growth in 18 quarters, AI spending accelerates."
 2026-07-31T20:59:15,AAPL,-0.75,Memory chip shortage threatens margins; weak forward guidance despite earnings beat.
 2026-07-31T20:59:15,NVDA,0.7,"Amazon raises capex to $220B, reaffirms NVIDIA's AI chip importance."
 2026-07-31T20:59:15,TSLA,-0.3,"China business separation speculation, weakened domestic sales, merger uncertainty."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-25T20:43:33,TSLA,-0.7,Q2 earnings miss with profit collapse and cash burn concerns.
 2026-07-25T20:43:33,MSFT,0.6,Earnings catalyst July 29; Azure and AI business accelerating despite valuation dip.
 2026-07-25T20:43:33,AMZN,0.2,Amazon earnings catalyst upcoming; advertising business growth potential noted.
-2026-07-25T17:00:29,AAPL,-0.3,Mag 7 selloff amid AI profitability concerns; earnings ahead.
-2026-07-25T17:00:29,NVDA,-0.6,AI buildout profitability questioned; major tech stocks declining sharply.
-2026-07-25T17:00:29,TSLA,-0.6,Revenue beat masked profit collapse and cash burn concerns.
-2026-07-25T17:00:29,MSFT,0.3,Earnings catalyst July 29; Azure acceleration offsets regulatory AI concerns.
-2026-07-25T17:00:29,AMZN,0.3,Upcoming earnings; advertising business strength; data center power demand tailwind.
