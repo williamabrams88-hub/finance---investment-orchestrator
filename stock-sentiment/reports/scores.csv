@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-01T17:02:13,AAPL,-0.3,Earnings beat offset by weak guidance and memory shortage concerns.
+2026-08-01T17:02:13,NVDA,0.1,AI infrastructure opportunity remains despite valuation concerns and speculation debate.
+2026-08-01T17:02:13,TSLA,-0.3,Stock down 20-30% YTD; competitive pressure from BYD; mixed sentiment on FSD monetization.
+2026-08-01T17:02:13,MSFT,0.4,Increased AI infrastructure spending; market rewards cloud business model.
+2026-08-01T17:02:13,AMZN,0.9,"AWS beats expectations with fastest growth in 18 quarters, AI spending accelerates."
 2026-08-01T13:43:51,AAPL,-0.3,Weak guidance and supply constraints offset earnings beat; CEO transition ahead.
 2026-08-01T13:43:51,NVDA,0.1,AI infrastructure shift to inference presents growth opportunity; mixed sentiment.
 2026-08-01T13:43:51,TSLA,0.3,China spinoff consideration and FSD subscription revenue growth offset competitive pressure.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-26T13:44:19,TSLA,-0.6,"Mixed earnings, stock down 14%, analyst skepticism despite Wood buying."
 2026-07-26T13:44:19,MSFT,0.3,3M partnership expands Azure AI infrastructure; earnings week ahead.
 2026-07-26T13:44:19,AMZN,0.6,Earnings beat expected; analysts target 34% upside before July 30 report.
-2026-07-25T20:43:33,AAPL,0.3,Foldable iPhone launch and Apple Maps automotive expansion offset supply chain concerns.
-2026-07-25T20:43:33,NVDA,0.1,AI demand questioned; valuation concerns offset positive positioning.
-2026-07-25T20:43:33,TSLA,-0.7,Q2 earnings miss with profit collapse and cash burn concerns.
-2026-07-25T20:43:33,MSFT,0.6,Earnings catalyst July 29; Azure and AI business accelerating despite valuation dip.
-2026-07-25T20:43:33,AMZN,0.2,Amazon earnings catalyst upcoming; advertising business growth potential noted.
