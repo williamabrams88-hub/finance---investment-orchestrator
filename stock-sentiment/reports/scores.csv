@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-02T13:43:45,AAPL,0.2,Strong iPhone sales and education gains offset margin pressure concerns.
+2026-08-02T13:43:45,NVDA,0.3,CEO bullish on AI chip cycle durability; valuation fairly priced near fair value.
+2026-08-02T13:43:45,TSLA,0.3,Strong Q2 delivery growth offset by China separation concerns and stock decline.
+2026-08-02T13:43:45,MSFT,-0.3,Regulatory probes on Microsoft 365 and Copilot offset AI growth optimism.
+2026-08-02T13:43:45,AMZN,0.7,"Strong Q2 earnings, striking 2028 AI demand, AWS capacity expansion."
 2026-08-01T20:43:49,AAPL,-0.3,CEO transition and margin pressure from rising memory costs offset strong earnings.
 2026-08-01T20:43:49,NVDA,0.1,CEO highlights AI software constraints; mixed sentiment on chip demand.
 2026-08-01T20:43:49,TSLA,-0.3,Stock down 20-30% YTD; rival BYD gaining EV market share overseas.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-26T20:52:39,TSLA,-0.6,"Rising capex, margin pressure, valuation concerns post-earnings drop."
 2026-07-26T20:52:39,MSFT,0.2,Earnings week focus; AI spending ROI concerns persist.
 2026-07-26T20:52:39,AMZN,0.3,Upcoming earnings with analyst price targets 34% above current stock.
-2026-07-26T17:03:14,AAPL,0.2,Apple earnings report amid busy tech earnings week and Fed meeting.
-2026-07-26T17:03:14,NVDA,0.2,Positive sentiment as quantum computing pick-and-shovel play supplier.
-2026-07-26T17:03:14,TSLA,-0.6,"Disappointing earnings, stock down 14%, mixed AI monetization outlook."
-2026-07-26T17:03:14,MSFT,0.3,MSFT earnings week amid AI capex competition and Fed uncertainty.
-2026-07-26T17:03:14,AMZN,0.3,Earnings week catalyst; analyst targets 34% above current price.
