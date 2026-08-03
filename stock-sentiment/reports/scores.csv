@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-03T14:56:19,AAPL,-0.3,KeyBanc downgrade offset by India manufacturing boost and AI momentum.
+2026-08-03T14:56:19,NVDA,0.2,AI cloud strength and positive August outlook offset hardware margin concerns.
+2026-08-03T14:56:19,TSLA,-0.6,BYD surpasses Tesla in global EV sales; China competition intensifies.
+2026-08-03T14:56:19,MSFT,0.3,Strong balance sheet and AI positioning; competitive pressure from Amazon's momentum.
+2026-08-03T14:56:19,AMZN,0.8,"Blowout earnings, strong cloud growth, $3T valuation milestone reached."
 2026-08-02T20:47:56,AAPL,0.2,Strong earnings and iPhone sales offset by AI cost concerns and guidance questions.
 2026-08-02T20:47:56,NVDA,0.1,Mixed signals: recent share decline but analyst support for long-term gains.
 2026-08-02T20:47:56,TSLA,0.3,Strong Q2 delivery growth offset by China separation exploration uncertainty.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-27T21:05:24,TSLA,-0.8,"Weak Q2 earnings, stock down 18% last week, valuation concerns persist."
 2026-07-27T21:05:24,MSFT,0.3,Earnings week focus; AI capex scrutiny offset by cloud demand strength.
 2026-07-27T21:05:24,AMZN,0.3,Amazon Leo satellite constellation launch plans; earnings guidance watch.
-2026-07-27T17:43:42,AAPL,0.3,Strong pre-earnings momentum offset by Chinese chip competition concerns.
-2026-07-27T17:43:42,NVDA,-0.6,Apple surpasses Nvidia; OpenAI move and semiconductor sector weakness pressure stock.
-2026-07-27T17:43:42,TSLA,-0.8,"Weak Q2 earnings, 18% weekly drop, technical breakdown to $296."
-2026-07-27T17:43:42,MSFT,0.6,Microsoft earnings week with strong AI partnership and Azure leadership positioning.
-2026-07-27T17:43:42,AMZN,0.3,Upcoming earnings report; satellite constellation expansion plans.
