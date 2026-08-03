@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-03T20:58:10,AAPL,-0.6,"Supply shortages, below-consensus guidance, stock down 10% in four days."
+2026-08-03T20:58:10,NVDA,0.1,Mixed signals: chip strength offset by AI hardware cost concerns.
+2026-08-03T20:58:10,TSLA,0.2,Safety probe offset by stock recovery; robotaxi progress emerging.
+2026-08-03T20:58:10,MSFT,0.7,Azure beats expectations; stock breaks out post-earnings rally.
+2026-08-03T20:58:10,AMZN,0.7,"Strong Q2 earnings, AWS growth, $3 trillion milestone achieved."
 2026-08-03T17:52:34,AAPL,0.3,Rational valuations emerging; AI buildout potential supports bull case.
 2026-08-03T17:52:34,NVDA,0.2,AI spending monetization proven; broader tech valuation rationalization underway.
 2026-08-03T17:52:34,TSLA,-0.3,"Earnings miss, valuation pressure offset by modest recovery momentum."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-28T17:36:46,TSLA,-0.3,"Earnings miss, margin collapse offset by analyst optimism and insider buying."
 2026-07-28T17:36:46,MSFT,0.3,Backs OpenAI Ohio data center expansion; capex spending concerns offset gains.
 2026-07-28T17:36:46,AMZN,0.3,Amazon tops Fortune Global 500; offset by AI strategy rethink.
-2026-07-28T14:26:51,AAPL,0.3,Market cap milestone and smart home innovation offset lawsuit and valuation concerns.
-2026-07-28T14:26:51,NVDA,-0.6,Credit default spike and AI spending concerns offset major partnership talks.
-2026-07-28T14:26:51,TSLA,-0.3,Worst earnings reaction of year; Arizona power deal modest positive offset.
-2026-07-28T14:26:51,MSFT,0.3,Billionaire accumulation and AI advantage offset broad tech sector AI spending concerns.
-2026-07-28T14:26:51,AMZN,0.3,Earnings week ahead with AI spending concerns offset by analyst optimism.
