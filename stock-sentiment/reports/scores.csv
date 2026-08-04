@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-04T14:33:07,AAPL,-0.3,Apple stock peaked; Magnificent Seven trade fracturing amid valuation concerns.
+2026-08-04T14:33:07,NVDA,0.2,Chip scarcity debate reframed by CFO earnings call disclosure.
+2026-08-04T14:33:07,TSLA,-0.35,China sales lag rivals; negative free cash flow amid heavy capex spending.
+2026-08-04T14:33:07,MSFT,0.6,Strong earnings beat drives Big Tech rally; AI investments gaining traction.
+2026-08-04T14:33:07,AMZN,-0.6,Antitrust lawsuit filed; AWS underperforms Google Cloud.
 2026-08-03T20:58:10,AAPL,-0.6,"Supply shortages, below-consensus guidance, stock down 10% in four days."
 2026-08-03T20:58:10,NVDA,0.1,Mixed signals: chip strength offset by AI hardware cost concerns.
 2026-08-03T20:58:10,TSLA,0.2,Safety probe offset by stock recovery; robotaxi progress emerging.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-28T21:03:09,TSLA,-0.6,"Stock oversold, merger speculation, price target cuts weigh on sentiment."
 2026-07-28T21:03:09,MSFT,0.1,Earnings report awaited; AI capex returns offset debt concerns.
 2026-07-28T21:03:09,AMZN,0.1,Amazon earnings imminent; mixed signals on AI capex returns and margins.
-2026-07-28T17:36:46,AAPL,0.1,Mixed signals: $5T milestone and strong momentum offset by analyst bearishness and lawsuit.
-2026-07-28T17:36:46,NVDA,-0.6,Semiconductor sell-off deepens; NVDA faces sector headwinds and China risks.
-2026-07-28T17:36:46,TSLA,-0.3,"Earnings miss, margin collapse offset by analyst optimism and insider buying."
-2026-07-28T17:36:46,MSFT,0.3,Backs OpenAI Ohio data center expansion; capex spending concerns offset gains.
-2026-07-28T17:36:46,AMZN,0.3,Amazon tops Fortune Global 500; offset by AI strategy rethink.
