@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-05T14:25:14,AAPL,0.3,iPhone production ramp signals strong demand; AI CapEx concerns offset gains.
+2026-08-05T14:25:14,NVDA,0.7,SpaceX exclusive Nvidia partnership; AMD competitive pressure weakens.
+2026-08-05T14:25:14,TSLA,-0.3,SpaceX earnings miss drags TSLA; market correlation concerns emerge.
+2026-08-05T14:25:14,MSFT,0.6,Earnings beat and four-day winning streak; AI demand validates strategy.
+2026-08-05T14:25:14,AMZN,0.6,AWS AI infrastructure demand strong through 2028; court overturns Perplexity injunction.
 2026-08-04T21:06:10,AAPL,-0.3,India sales milestone offset by analyst downgrades on cost pressures.
 2026-08-04T21:06:10,NVDA,0.1,AMD earnings beat; chipmaker demand outlook mixed amid tech rally.
 2026-08-04T21:06:10,TSLA,0.3,SpaceX earnings catalyst; Tesla-SpaceX synergy speculation supports upside.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-29T20:50:04,TSLA,-0.8,"Weak Q2 earnings, margin pressure, 18% weekly drop on AI spending concerns."
 2026-07-29T20:50:04,MSFT,0.8,"Azure beats 43% growth, $100B revenue milestone, strong AI momentum."
 2026-07-29T20:50:04,AMZN,0.2,Q2 earnings test AWS growth against elevated AI spending concerns.
-2026-07-29T17:16:45,AAPL,0.6,"Market cap milestone, strong iPhone 17 demand, upcoming earnings catalyst."
-2026-07-29T17:16:45,NVDA,-0.6,"AI infrastructure debt concerns, hyperscaler capex sustainability questioned."
-2026-07-29T17:16:45,TSLA,-0.6,"Weaker Q2 earnings, valuation concerns, short thesis from prominent investor."
-2026-07-29T17:16:45,MSFT,0.1,MSFT earnings imminent; AI ROI concerns offset by triple-digit growth.
-2026-07-29T17:16:45,AMZN,0.3,Q2 earnings ahead with UBS bullish on AWS and e-commerce margins.
