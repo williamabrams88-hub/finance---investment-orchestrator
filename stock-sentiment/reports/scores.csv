@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-05T21:02:39,AAPL,0.2,Memory price increases benefit suppliers; cheaper memory sourcing efforts face headwinds.
+2026-08-05T21:02:39,NVDA,0.3,AMD competition intensifies; NVDA positioned as AI leader.
+2026-08-05T21:02:39,TSLA,-0.3,High capex spending and stock weakness offset AI product upside.
+2026-08-05T21:02:39,MSFT,0.6,"Microsoft deepens AI partnerships, leads $500B chip infrastructure buildout."
+2026-08-05T21:02:39,AMZN,0.6,AWS strength drives Amazon earnings beat; cloud dominance continues.
 2026-08-05T17:40:00,AAPL,0.6,iPhone production ramp and strong memory demand signal positive momentum.
 2026-08-05T17:40:00,NVDA,0.6,Major SpaceX AI deal win; AMD competition intensifies with memory supply concerns.
 2026-08-05T17:40:00,TSLA,0.3,Record deliveries and robotaxi expansion offset by high capex spending.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-30T17:36:33,TSLA,0.3,10 millionth EV milestone achieved; stock rebounds from six-day loss.
 2026-07-30T17:36:33,MSFT,0.9,Azure surge validates AI bet; stock soars 17% on earnings beat.
 2026-07-30T17:36:33,AMZN,0.3,Amazon AI enterprise momentum ahead of Q2 earnings report.
-2026-07-30T14:22:29,AAPL,0.2,Upcoming earnings report; chip sector rebounding amid mixed signals.
-2026-07-30T14:22:29,NVDA,-0.6,"AI trade unwinds, SK Hynix disappoints, semiconductor sector plummets."
-2026-07-30T14:22:29,TSLA,-0.7,Stock down 21% in six days; spending plans concern investors post-earnings.
-2026-07-30T14:22:29,MSFT,0.9,"Earnings beat, record cloud revenue, strong AI spending narrative."
-2026-07-30T14:22:29,AMZN,0.6,AWS fastest growth in 15 quarters; earnings beat expected Thursday.
