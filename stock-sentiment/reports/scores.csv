@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-07T00:51:08,AAPL,-0.3,"Services growth slowdown, rising costs, and chip demand weakness offset modest App Store gains."
+2026-08-07T00:51:08,NVDA,0.2,AMD acquires AI chip startup; AI CapEx concerns persist for sector.
+2026-08-07T00:51:08,TSLA,0.3,Terafab AI chip megafactory confirmed; FSD regulatory uncertainty offsets gains.
+2026-08-07T00:51:08,MSFT,0.7,Strong Azure and Copilot growth; record 15% rally adds $450B value.
+2026-08-07T00:51:08,AMZN,-0.3,AI capex spending concerns outweigh competitive positioning gains.
 2026-08-06T14:28:24,AAPL,-0.3,Trade secret lawsuit with OpenAI; AI pricing pressures offset by market positioning.
 2026-08-06T14:28:24,NVDA,0.6,SpaceX exclusive chip deal; strong AI demand partnerships signal growth.
 2026-08-06T14:28:24,TSLA,-0.3,FSD regulatory scrutiny and competitive EV pressure offset modest stock recovery.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-07-31T14:25:40,TSLA,-0.3,China business sale speculation amid SpaceX merger uncertainty.
 2026-07-31T14:25:40,MSFT,0.8,"Blowout earnings, record cloud revenue, strong AI monetization."
 2026-07-31T14:25:40,AMZN,0.9,Q2 earnings beat with AWS cloud business surging strongly.
-2026-07-30T21:02:26,AAPL,0.6,"Earnings beat on iPhone, Mac sales; stock fell despite strong results."
-2026-07-30T21:02:26,NVDA,0.3,Microsoft Azure growth acceleration supports AI infrastructure demand.
-2026-07-30T21:02:26,TSLA,0.2,10M EV milestone and robotaxi expansion offset margin concerns.
-2026-07-30T21:02:26,MSFT,0.9,"Strong earnings beat, Azure cloud surge, Copilot adoption driving 15% stock jump."
-2026-07-30T21:02:26,AMZN,0.8,"Q2 earnings beat, AWS grows 37%, strongest in 18 quarters."
