@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-07T20:35:03,AAPL,-0.6,Apple sued by OpenAI over AI trade secret misappropriation claims.
+2026-08-07T20:35:03,NVDA,0.1,Alpamayo robotaxi model launch offset by regulatory pressure concerns.
+2026-08-07T20:35:03,TSLA,0.6,Terafab chip factory breakthrough and robotaxi market dominance potential.
+2026-08-07T20:35:03,MSFT,0.6,"Strong earnings, AI chip efficiency gains, positive cloud momentum."
+2026-08-07T20:35:03,AMZN,-0.3,OpenAI developing competing AI speaker; Amazon e-commerce strength offsets threat.
 2026-08-07T16:55:26,AAPL,-0.6,Apple sues OpenAI for AI trade secret misappropriation; legal and competitive risks.
 2026-08-07T16:55:26,NVDA,0.3,Nvidia stock jumps as AMD's Taalas deal deemed insufficient competitive threat.
 2026-08-07T16:55:26,TSLA,0.6,Battery business growth and new Texas Megafactory capacity expansion.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-01T13:43:51,TSLA,0.3,China spinoff consideration and FSD subscription revenue growth offset competitive pressure.
 2026-08-01T13:43:51,MSFT,0.0,No MSFT-specific news; mixed Big Tech earnings sentiment.
 2026-08-01T13:43:51,AMZN,0.8,"AWS beats expectations with fastest growth in 18 quarters, AI spending accelerates."
-2026-07-31T20:59:15,AAPL,-0.75,Memory chip shortage threatens margins; weak forward guidance despite earnings beat.
-2026-07-31T20:59:15,NVDA,0.7,"Amazon raises capex to $220B, reaffirms NVIDIA's AI chip importance."
-2026-07-31T20:59:15,TSLA,-0.3,"China business separation speculation, weakened domestic sales, merger uncertainty."
-2026-07-31T20:59:15,MSFT,0.7,Azure guidance and $50B investment plan drive record rally.
-2026-07-31T20:59:15,AMZN,0.9,"Earnings beat, AWS 37% growth, trillion-dollar business potential."
