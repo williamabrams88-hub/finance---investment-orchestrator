@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-08T20:22:04,AAPL,0.3,"iPhone revenue surge 22%, AI services growth offset by legal dispute with OpenAI."
+2026-08-08T20:22:04,NVDA,-0.3,AMD acquisition threatens NVDA's AI inference dominance position.
+2026-08-08T20:22:04,TSLA,0.3,Terafab chip plant partnership offsets UK sales decline and robotaxi competition concerns.
+2026-08-08T20:22:04,MSFT,0.6,AI capital spending thesis validates MSFT's massive infrastructure investments.
+2026-08-08T20:22:04,AMZN,0.7,"Q2 earnings beat, AWS surges 36.7%, AI capex investment signals growth."
 2026-08-08T16:35:26,AAPL,0.3,"iPhone revenue surge 22%, India milestone offset by legal dispute with OpenAI."
 2026-08-08T16:35:26,NVDA,0.2,Firebird launches major AI Factory using Nvidia chipsets; modest positive signal.
 2026-08-08T16:35:26,TSLA,0.6,Terafab chip facility breakthrough; UK sales decline offset by strategic advantage.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-02T13:43:45,TSLA,0.3,Strong Q2 delivery growth offset by China separation concerns and stock decline.
 2026-08-02T13:43:45,MSFT,-0.3,Regulatory probes on Microsoft 365 and Copilot offset AI growth optimism.
 2026-08-02T13:43:45,AMZN,0.7,"Strong Q2 earnings, striking 2028 AI demand, AWS capacity expansion."
-2026-08-01T20:43:49,AAPL,-0.3,CEO transition and margin pressure from rising memory costs offset strong earnings.
-2026-08-01T20:43:49,NVDA,0.1,CEO highlights AI software constraints; mixed sentiment on chip demand.
-2026-08-01T20:43:49,TSLA,-0.3,Stock down 20-30% YTD; rival BYD gaining EV market share overseas.
-2026-08-01T20:43:49,MSFT,-0.6,Regulatory probes into Microsoft 365 and Copilot practices across key markets.
-2026-08-01T20:43:49,AMZN,0.7,"Strong earnings beat; AWS fastest growth in 18 quarters, AI spending surge."
