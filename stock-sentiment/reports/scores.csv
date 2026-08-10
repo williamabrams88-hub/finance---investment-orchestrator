@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-10T13:24:45,AAPL,-0.7,"Multiple analyst downgrades on iPhone 18 concerns, rising costs."
+2026-08-10T13:24:45,NVDA,0.2,TSMC AI demand surge supports ecosystem; financing risk concerns offset gains.
+2026-08-10T13:24:45,TSLA,0.2,FSD praise and stock recovery offset China competition and merger rumors.
+2026-08-10T13:24:45,MSFT,0.7,"Analyst upgrades, AI monetization validation, strong positioning in inference."
+2026-08-10T13:24:45,AMZN,0.2,Stock near all-time high; climate concerns offset earnings strength.
 2026-08-09T20:25:28,AAPL,-0.3,Testing Chinese memory chips amid geopolitical supply chain tensions.
 2026-08-09T20:25:28,NVDA,0.2,AI adoption accelerating across tech sector; mixed macro signals.
 2026-08-09T20:25:28,TSLA,-0.3,UK sales decline amid Chinese EV competition; SpaceX IPO speculation mixed.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-03T17:52:34,TSLA,-0.3,"Earnings miss, valuation pressure offset by modest recovery momentum."
 2026-08-03T17:52:34,MSFT,0.8,Azure AI growth validates massive AI investments; Goldman bullish on profits.
 2026-08-03T17:52:34,AMZN,0.7,"AWS fastest cloud growth in 18 quarters, Wall Street raises targets."
-2026-08-03T14:56:19,AAPL,-0.3,KeyBanc downgrade offset by India manufacturing boost and AI momentum.
-2026-08-03T14:56:19,NVDA,0.2,AI cloud strength and positive August outlook offset hardware margin concerns.
-2026-08-03T14:56:19,TSLA,-0.6,BYD surpasses Tesla in global EV sales; China competition intensifies.
-2026-08-03T14:56:19,MSFT,0.3,Strong balance sheet and AI positioning; competitive pressure from Amazon's momentum.
-2026-08-03T14:56:19,AMZN,0.8,"Blowout earnings, strong cloud growth, $3T valuation milestone reached."
