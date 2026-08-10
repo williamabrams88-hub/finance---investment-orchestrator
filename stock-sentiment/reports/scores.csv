@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-10T20:35:51,AAPL,-0.65,"Jefferies downgrade on iPhone yield concerns, pricing power pressure."
+2026-08-10T20:35:51,NVDA,0.6,"Memory chip shortage extends 2+ years, supporting NVDA demand outlook."
+2026-08-10T20:35:51,TSLA,0.1,Autopilot accident offset by Starlink integration and chip facility ambitions.
+2026-08-10T20:35:51,MSFT,0.6,JPMorgan backs AI payoff; disciplined datacenter spending supports cloud growth.
+2026-08-10T20:35:51,AMZN,0.6,AWS renewed growth and AI demand surge post-earnings breakout.
 2026-08-10T16:55:03,AAPL,-0.65,Jefferies downgrade on iPhone setbacks and rising memory costs.
 2026-08-10T16:55:03,NVDA,0.7,Wall Street partners on $500B AI infrastructure financing deal with Nvidia.
 2026-08-10T16:55:03,TSLA,-0.35,Autopilot accident spotlight offsets record deliveries and profitability concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-04T14:33:07,TSLA,-0.35,China sales lag rivals; negative free cash flow amid heavy capex spending.
 2026-08-04T14:33:07,MSFT,0.6,Strong earnings beat drives Big Tech rally; AI investments gaining traction.
 2026-08-04T14:33:07,AMZN,-0.6,Antitrust lawsuit filed; AWS underperforms Google Cloud.
-2026-08-03T20:58:10,AAPL,-0.6,"Supply shortages, below-consensus guidance, stock down 10% in four days."
-2026-08-03T20:58:10,NVDA,0.1,Mixed signals: chip strength offset by AI hardware cost concerns.
-2026-08-03T20:58:10,TSLA,0.2,Safety probe offset by stock recovery; robotaxi progress emerging.
-2026-08-03T20:58:10,MSFT,0.7,Azure beats expectations; stock breaks out post-earnings rally.
-2026-08-03T20:58:10,AMZN,0.7,"Strong Q2 earnings, AWS growth, $3 trillion milestone achieved."
