@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-10T16:55:03,AAPL,-0.65,Jefferies downgrade on iPhone setbacks and rising memory costs.
+2026-08-10T16:55:03,NVDA,0.7,Wall Street partners on $500B AI infrastructure financing deal with Nvidia.
+2026-08-10T16:55:03,TSLA,-0.35,Autopilot accident spotlight offsets record deliveries and profitability concerns.
+2026-08-10T16:55:03,MSFT,0.3,Sovereign AI and healthcare leadership offset valuation concerns.
+2026-08-10T16:55:03,AMZN,0.6,"Q2 earnings beat, cloud momentum, approaching $3 trillion valuation."
 2026-08-10T13:24:45,AAPL,-0.7,"Multiple analyst downgrades on iPhone 18 concerns, rising costs."
 2026-08-10T13:24:45,NVDA,0.2,TSMC AI demand surge supports ecosystem; financing risk concerns offset gains.
 2026-08-10T13:24:45,TSLA,0.2,FSD praise and stock recovery offset China competition and merger rumors.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-03T20:58:10,TSLA,0.2,Safety probe offset by stock recovery; robotaxi progress emerging.
 2026-08-03T20:58:10,MSFT,0.7,Azure beats expectations; stock breaks out post-earnings rally.
 2026-08-03T20:58:10,AMZN,0.7,"Strong Q2 earnings, AWS growth, $3 trillion milestone achieved."
-2026-08-03T17:52:34,AAPL,0.3,Rational valuations emerging; AI buildout potential supports bull case.
-2026-08-03T17:52:34,NVDA,0.2,AI spending monetization proven; broader tech valuation rationalization underway.
-2026-08-03T17:52:34,TSLA,-0.3,"Earnings miss, valuation pressure offset by modest recovery momentum."
-2026-08-03T17:52:34,MSFT,0.8,Azure AI growth validates massive AI investments; Goldman bullish on profits.
-2026-08-03T17:52:34,AMZN,0.7,"AWS fastest cloud growth in 18 quarters, Wall Street raises targets."
