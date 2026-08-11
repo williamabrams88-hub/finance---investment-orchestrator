@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-11T16:58:26,AAPL,-0.6,Jefferies downgrade on iPhone yields; price hike concerns amid memory cost squeeze.
+2026-08-11T16:58:26,NVDA,0.7,NVIDIA $500B AI infrastructure financing partnership with major institutions.
+2026-08-11T16:58:26,TSLA,-0.6,Autopilot safety scrutiny and China sales collapse offset AI optimism.
+2026-08-11T16:58:26,MSFT,0.3,AI infrastructure investment momentum; capex sustainability concerns offset gains.
+2026-08-11T16:58:26,AMZN,0.3,AWS growth acceleration and AI demand backlog support post-earnings momentum.
 2026-08-11T13:21:28,AAPL,-0.6,Jefferies downgrade on iPhone yields; canceled glass model concerns.
 2026-08-11T13:21:28,NVDA,0.6,Major AI infrastructure deals and open model release signal strong demand.
 2026-08-11T13:21:28,TSLA,-0.6,"Autopilot safety scrutiny, recall, and Robotaxi scaling concerns."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-04T21:06:10,TSLA,0.3,SpaceX earnings catalyst; Tesla-SpaceX synergy speculation supports upside.
 2026-08-04T21:06:10,MSFT,0.6,Earnings beat drives 21% rally; short covering amplifies gains.
 2026-08-04T21:06:10,AMZN,-0.3,Legal setback on Perplexity AI tools; wage suppression lawsuit filed.
-2026-08-04T17:50:02,AAPL,-0.6,"Disappointing guidance, multiple downgrades, AI spending uncertainty persist."
-2026-08-04T17:50:02,NVDA,0.6,Blackwell GPU deal unlocks recurring AI revenue; earnings report Aug 26.
-2026-08-04T17:50:02,TSLA,0.2,Tesla China sales growth offset by cash burn concerns on AI bets.
-2026-08-04T17:50:02,MSFT,0.7,"Strong earnings beat, Azure growth, Copilot adoption momentum."
-2026-08-04T17:50:02,AMZN,-0.6,New Jersey antitrust lawsuit and $1T AI lease burden concerns.
