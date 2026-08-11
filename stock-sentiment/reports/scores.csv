@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-11T13:21:28,AAPL,-0.6,Jefferies downgrade on iPhone yields; canceled glass model concerns.
+2026-08-11T13:21:28,NVDA,0.6,Major AI infrastructure deals and open model release signal strong demand.
+2026-08-11T13:21:28,TSLA,-0.6,"Autopilot safety scrutiny, recall, and Robotaxi scaling concerns."
+2026-08-11T13:21:28,MSFT,0.4,Analyst upgrade to $660 target; strong AI cloud positioning.
+2026-08-11T13:21:28,AMZN,0.6,Amazon ranked top cloud hyperscaler for AI infrastructure opportunities.
 2026-08-10T20:35:51,AAPL,-0.65,"Jefferies downgrade on iPhone yield concerns, pricing power pressure."
 2026-08-10T20:35:51,NVDA,0.6,"Memory chip shortage extends 2+ years, supporting NVDA demand outlook."
 2026-08-10T20:35:51,TSLA,0.1,Autopilot accident offset by Starlink integration and chip facility ambitions.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-04T17:50:02,TSLA,0.2,Tesla China sales growth offset by cash burn concerns on AI bets.
 2026-08-04T17:50:02,MSFT,0.7,"Strong earnings beat, Azure growth, Copilot adoption momentum."
 2026-08-04T17:50:02,AMZN,-0.6,New Jersey antitrust lawsuit and $1T AI lease burden concerns.
-2026-08-04T14:33:07,AAPL,-0.3,Apple stock peaked; Magnificent Seven trade fracturing amid valuation concerns.
-2026-08-04T14:33:07,NVDA,0.2,Chip scarcity debate reframed by CFO earnings call disclosure.
-2026-08-04T14:33:07,TSLA,-0.35,China sales lag rivals; negative free cash flow amid heavy capex spending.
-2026-08-04T14:33:07,MSFT,0.6,Strong earnings beat drives Big Tech rally; AI investments gaining traction.
-2026-08-04T14:33:07,AMZN,-0.6,Antitrust lawsuit filed; AWS underperforms Google Cloud.
