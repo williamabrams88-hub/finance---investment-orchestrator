@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-11T20:37:30,AAPL,-0.6,"Glass iPhone cancelled, exec departures, Jefferies downgrade amid margin concerns."
+2026-08-11T20:37:30,NVDA,0.3,"AI ecosystem strength; CoreWeave and Super Micro beat, validating NVDA chip demand."
+2026-08-11T20:37:30,TSLA,-0.35,Autopilot scrutiny and China sales collapse offset by Starlink opportunity.
+2026-08-11T20:37:30,MSFT,0.3,AI chip ambitions boost long-term positioning; analyst upgrade supports outlook.
+2026-08-11T20:37:30,AMZN,0.6,"Amazon earnings beat, cloud strength, AI positioning support rally."
 2026-08-11T16:58:26,AAPL,-0.6,Jefferies downgrade on iPhone yields; price hike concerns amid memory cost squeeze.
 2026-08-11T16:58:26,NVDA,0.7,NVIDIA $500B AI infrastructure financing partnership with major institutions.
 2026-08-11T16:58:26,TSLA,-0.6,Autopilot safety scrutiny and China sales collapse offset AI optimism.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-05T14:25:14,TSLA,-0.3,SpaceX earnings miss drags TSLA; market correlation concerns emerge.
 2026-08-05T14:25:14,MSFT,0.6,Earnings beat and four-day winning streak; AI demand validates strategy.
 2026-08-05T14:25:14,AMZN,0.6,AWS AI infrastructure demand strong through 2028; court overturns Perplexity injunction.
-2026-08-04T21:06:10,AAPL,-0.3,India sales milestone offset by analyst downgrades on cost pressures.
-2026-08-04T21:06:10,NVDA,0.1,AMD earnings beat; chipmaker demand outlook mixed amid tech rally.
-2026-08-04T21:06:10,TSLA,0.3,SpaceX earnings catalyst; Tesla-SpaceX synergy speculation supports upside.
-2026-08-04T21:06:10,MSFT,0.6,Earnings beat drives 21% rally; short covering amplifies gains.
-2026-08-04T21:06:10,AMZN,-0.3,Legal setback on Perplexity AI tools; wage suppression lawsuit filed.
