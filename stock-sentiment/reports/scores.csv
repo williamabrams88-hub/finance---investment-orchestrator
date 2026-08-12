@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-12T20:37:22,AAPL,-0.6,"Jefferies downgrade, supply chain risks, valuation concerns weigh on sentiment."
+2026-08-12T20:37:22,NVDA,0.3,Major Wall Street partnership funds AI build-out; competitive pressure from Cerebras.
+2026-08-12T20:37:22,TSLA,0.1,Mixed signals: China recovery and solar expansion offset profit concerns.
+2026-08-12T20:37:22,MSFT,-0.3,AI competition intensifies; valuation concerns offset cost efficiency gains.
+2026-08-12T20:37:22,AMZN,0.3,OpenAI cybersecurity models on AWS Bedrock; advertising competition intensifies.
 2026-08-12T16:57:40,AAPL,-0.2,CEO transition and stock decline offset by solid earnings and Norway fund holdings.
 2026-08-12T16:57:40,NVDA,0.6,Major Wall Street partnership funds AI expansion; AI infrastructure demand accelerating.
 2026-08-12T16:57:40,TSLA,0.1,Mixed signals: China recovery and energy growth offset profit concerns and valuation questions.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-06T14:28:24,TSLA,-0.3,FSD regulatory scrutiny and competitive EV pressure offset modest stock recovery.
 2026-08-06T14:28:24,MSFT,0.6,"Microsoft expands India data center hub, partners with Nvidia, AI monetization optimism."
 2026-08-06T14:28:24,AMZN,0.6,AI infrastructure demand surge; Amazon positioned as hyperscaler with strong capex momentum.
-2026-08-05T21:02:39,AAPL,0.2,Memory price increases benefit suppliers; cheaper memory sourcing efforts face headwinds.
-2026-08-05T21:02:39,NVDA,0.3,AMD competition intensifies; NVDA positioned as AI leader.
-2026-08-05T21:02:39,TSLA,-0.3,High capex spending and stock weakness offset AI product upside.
-2026-08-05T21:02:39,MSFT,0.6,"Microsoft deepens AI partnerships, leads $500B chip infrastructure buildout."
-2026-08-05T21:02:39,AMZN,0.6,AWS strength drives Amazon earnings beat; cloud dominance continues.
