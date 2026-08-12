@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-12T16:57:40,AAPL,-0.2,CEO transition and stock decline offset by solid earnings and Norway fund holdings.
+2026-08-12T16:57:40,NVDA,0.6,Major Wall Street partnership funds AI expansion; AI infrastructure demand accelerating.
+2026-08-12T16:57:40,TSLA,0.1,Mixed signals: China recovery and energy growth offset profit concerns and valuation questions.
+2026-08-12T16:57:40,MSFT,0.3,Major AI infrastructure investments and enterprise cloud partnerships expanding.
+2026-08-12T16:57:40,AMZN,0.7,AWS fastest growth in 18 quarters; $220B AI capex investment signals confidence.
 2026-08-12T13:25:14,AAPL,-0.3,Memory costs pressuring margins despite strong demand.
 2026-08-12T13:25:14,NVDA,0.6,"Nvidia central to AI boom; CoreWeave partner revenue doubles, backlog surges."
 2026-08-12T13:25:14,TSLA,-0.3,Model Y loses China lead; autonomy scaling doubts weigh sentiment.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-05T21:02:39,TSLA,-0.3,High capex spending and stock weakness offset AI product upside.
 2026-08-05T21:02:39,MSFT,0.6,"Microsoft deepens AI partnerships, leads $500B chip infrastructure buildout."
 2026-08-05T21:02:39,AMZN,0.6,AWS strength drives Amazon earnings beat; cloud dominance continues.
-2026-08-05T17:40:00,AAPL,0.6,iPhone production ramp and strong memory demand signal positive momentum.
-2026-08-05T17:40:00,NVDA,0.6,Major SpaceX AI deal win; AMD competition intensifies with memory supply concerns.
-2026-08-05T17:40:00,TSLA,0.3,Record deliveries and robotaxi expansion offset by high capex spending.
-2026-08-05T17:40:00,MSFT,0.2,Strong cloud adoption (90% non-lab demand) offset by AI CapEx valuation concerns.
-2026-08-05T17:40:00,AMZN,0.6,"Anthropic investment gains, Zoox robotaxi approval, strong AI adoption momentum."
