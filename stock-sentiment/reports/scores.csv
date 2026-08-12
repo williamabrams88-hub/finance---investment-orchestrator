@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-12T13:25:14,AAPL,-0.3,Memory costs pressuring margins despite strong demand.
+2026-08-12T13:25:14,NVDA,0.6,"Nvidia central to AI boom; CoreWeave partner revenue doubles, backlog surges."
+2026-08-12T13:25:14,TSLA,-0.3,Model Y loses China lead; autonomy scaling doubts weigh sentiment.
+2026-08-12T13:25:14,MSFT,-0.2,Modest premarket dip amid chip sector rally; AI debt concerns persist.
+2026-08-12T13:25:14,AMZN,0.1,AI infrastructure investment opportunity offset by rising operational costs.
 2026-08-11T20:37:30,AAPL,-0.6,"Glass iPhone cancelled, exec departures, Jefferies downgrade amid margin concerns."
 2026-08-11T20:37:30,NVDA,0.3,"AI ecosystem strength; CoreWeave and Super Micro beat, validating NVDA chip demand."
 2026-08-11T20:37:30,TSLA,-0.35,Autopilot scrutiny and China sales collapse offset by Starlink opportunity.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-05T17:40:00,TSLA,0.3,Record deliveries and robotaxi expansion offset by high capex spending.
 2026-08-05T17:40:00,MSFT,0.2,Strong cloud adoption (90% non-lab demand) offset by AI CapEx valuation concerns.
 2026-08-05T17:40:00,AMZN,0.6,"Anthropic investment gains, Zoox robotaxi approval, strong AI adoption momentum."
-2026-08-05T14:25:14,AAPL,0.3,iPhone production ramp signals strong demand; AI CapEx concerns offset gains.
-2026-08-05T14:25:14,NVDA,0.7,SpaceX exclusive Nvidia partnership; AMD competitive pressure weakens.
-2026-08-05T14:25:14,TSLA,-0.3,SpaceX earnings miss drags TSLA; market correlation concerns emerge.
-2026-08-05T14:25:14,MSFT,0.6,Earnings beat and four-day winning streak; AI demand validates strategy.
-2026-08-05T14:25:14,AMZN,0.6,AWS AI infrastructure demand strong through 2028; court overturns Perplexity injunction.
