@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-13T13:27:15,AAPL,0.3,Siri AI pushes for publisher content deals to enhance capabilities.
+2026-08-13T13:27:15,NVDA,0.6,Major $500B AI infrastructure partnership validates demand; China competition risk noted.
+2026-08-13T13:27:15,TSLA,0.2,Solar/nuclear expansion plans offset robotaxi execution concerns.
+2026-08-13T13:27:15,MSFT,0.3,Microsoft breaks out technically; analyst sees 76% upside ahead.
+2026-08-13T13:27:15,AMZN,0.2,Amazon framework agreement with AutoStore; regulatory pressure on delivery practices.
 2026-08-12T20:37:22,AAPL,-0.6,"Jefferies downgrade, supply chain risks, valuation concerns weigh on sentiment."
 2026-08-12T20:37:22,NVDA,0.3,Major Wall Street partnership funds AI build-out; competitive pressure from Cerebras.
 2026-08-12T20:37:22,TSLA,0.1,Mixed signals: China recovery and solar expansion offset profit concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-07T00:51:08,TSLA,0.3,Terafab AI chip megafactory confirmed; FSD regulatory uncertainty offsets gains.
 2026-08-07T00:51:08,MSFT,0.7,Strong Azure and Copilot growth; record 15% rally adds $450B value.
 2026-08-07T00:51:08,AMZN,-0.3,AI capex spending concerns outweigh competitive positioning gains.
-2026-08-06T14:28:24,AAPL,-0.3,Trade secret lawsuit with OpenAI; AI pricing pressures offset by market positioning.
-2026-08-06T14:28:24,NVDA,0.6,SpaceX exclusive chip deal; strong AI demand partnerships signal growth.
-2026-08-06T14:28:24,TSLA,-0.3,FSD regulatory scrutiny and competitive EV pressure offset modest stock recovery.
-2026-08-06T14:28:24,MSFT,0.6,"Microsoft expands India data center hub, partners with Nvidia, AI monetization optimism."
-2026-08-06T14:28:24,AMZN,0.6,AI infrastructure demand surge; Amazon positioned as hyperscaler with strong capex momentum.
