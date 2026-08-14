@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-14T20:25:35,AAPL,0.1,Services growth and AI initiatives offset pricing pressure concerns.
+2026-08-14T20:25:35,NVDA,0.3,Earnings preview and AI demand signals offset by hedge fund stake reduction.
+2026-08-14T20:25:35,TSLA,0.3,Roadster production signals mixed with settlement costs and YTD losses.
+2026-08-14T20:25:35,MSFT,0.6,Microsoft secures 50MW AI cloud capacity under multibillion-dollar contract.
+2026-08-14T20:25:35,AMZN,0.3,Billionaire investors accumulating AMZN; mixed hedge fund positioning signals.
 2026-08-14T16:55:23,AAPL,0.2,Services growth and AI expansion offset regulatory pressures and valuation concerns.
 2026-08-14T16:55:23,NVDA,0.3,Nvidia robotics partnership with LG; AI infrastructure bottlenecks offset gains.
 2026-08-14T16:55:23,TSLA,0.3,Flying Roadster demo and nuclear energy pivot offset settlement and valuation concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-08T16:35:26,TSLA,0.6,Terafab chip facility breakthrough; UK sales decline offset by strategic advantage.
 2026-08-08T16:35:26,MSFT,0.6,Azure revenue surged 43% on AI demand; massive AI capex thesis validated.
 2026-08-08T16:35:26,AMZN,0.6,"Strong Q2 earnings beat, AWS AI growth, but OpenAI competition emerging."
-2026-08-08T13:03:04,AAPL,-0.3,Legal battle with OpenAI over device trade secrets escalates.
-2026-08-08T13:03:04,NVDA,0.7,SpaceX exclusive Nvidia chip deal; tech stocks rally after rocky week.
-2026-08-08T13:03:04,TSLA,0.6,Terafab AI chip facility groundbreaking strengthens vertical integration strategy.
-2026-08-08T13:03:04,MSFT,0.7,Azure revenue surged 43% on AI demand; AI capital spending thesis validated.
-2026-08-08T13:03:04,AMZN,0.6,"Strong Q2 earnings beat, AWS AI growth, offset by OpenAI competition threat."
