@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-14T16:55:23,AAPL,0.2,Services growth and AI expansion offset regulatory pressures and valuation concerns.
+2026-08-14T16:55:23,NVDA,0.3,Nvidia robotics partnership with LG; AI infrastructure bottlenecks offset gains.
+2026-08-14T16:55:23,TSLA,0.3,Flying Roadster demo and nuclear energy pivot offset settlement and valuation concerns.
+2026-08-14T16:55:23,MSFT,0.6,Azure crosses $100B; Copilot adoption validates AI spending returns.
+2026-08-14T16:55:23,AMZN,0.3,Space Force contract win; Bezos sports investment neutral to business.
 2026-08-14T13:21:43,AAPL,0.3,AI manufacturing expansion and China market AI model development.
 2026-08-14T13:21:43,NVDA,0.3,NVIDIA's $2B Marvell investment signals AI partnership strength.
 2026-08-14T13:21:43,TSLA,0.3,Major Texas solar facility investment and satellite internet expansion plans.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-08T13:03:04,TSLA,0.6,Terafab AI chip facility groundbreaking strengthens vertical integration strategy.
 2026-08-08T13:03:04,MSFT,0.7,Azure revenue surged 43% on AI demand; AI capital spending thesis validated.
 2026-08-08T13:03:04,AMZN,0.6,"Strong Q2 earnings beat, AWS AI growth, offset by OpenAI competition threat."
-2026-08-07T20:35:03,AAPL,-0.6,Apple sued by OpenAI over AI trade secret misappropriation claims.
-2026-08-07T20:35:03,NVDA,0.1,Alpamayo robotaxi model launch offset by regulatory pressure concerns.
-2026-08-07T20:35:03,TSLA,0.6,Terafab chip factory breakthrough and robotaxi market dominance potential.
-2026-08-07T20:35:03,MSFT,0.6,"Strong earnings, AI chip efficiency gains, positive cloud momentum."
-2026-08-07T20:35:03,AMZN,-0.3,OpenAI developing competing AI speaker; Amazon e-commerce strength offsets threat.
