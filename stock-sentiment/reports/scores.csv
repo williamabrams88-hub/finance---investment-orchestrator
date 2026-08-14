@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-14T13:21:43,AAPL,0.3,AI manufacturing expansion and China market AI model development.
+2026-08-14T13:21:43,NVDA,0.3,NVIDIA's $2B Marvell investment signals AI partnership strength.
+2026-08-14T13:21:43,TSLA,0.3,Major Texas solar facility investment and satellite internet expansion plans.
+2026-08-14T13:21:43,MSFT,0.3,Analyst bullish on stock; AI monetization phase validates hyperscaler investments.
+2026-08-14T13:21:43,AMZN,0.0,Mixed signals: retail weakness offset by AI infrastructure spending.
 2026-08-13T20:36:34,AAPL,0.1,Norway fund increases AAPL position; Google AI competition intensifies.
 2026-08-13T20:36:34,NVDA,0.2,Market positioned for strong earnings; execution risk on guidance tone.
 2026-08-13T20:36:34,TSLA,-0.3,Stock down 26% in 2026; needs new products and marketing strategy.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-07T20:35:03,TSLA,0.6,Terafab chip factory breakthrough and robotaxi market dominance potential.
 2026-08-07T20:35:03,MSFT,0.6,"Strong earnings, AI chip efficiency gains, positive cloud momentum."
 2026-08-07T20:35:03,AMZN,-0.3,OpenAI developing competing AI speaker; Amazon e-commerce strength offsets threat.
-2026-08-07T16:55:26,AAPL,-0.6,Apple sues OpenAI for AI trade secret misappropriation; legal and competitive risks.
-2026-08-07T16:55:26,NVDA,0.3,Nvidia stock jumps as AMD's Taalas deal deemed insufficient competitive threat.
-2026-08-07T16:55:26,TSLA,0.6,Battery business growth and new Texas Megafactory capacity expansion.
-2026-08-07T16:55:26,MSFT,0.6,Microsoft AI chips deliver 40% efficiency gains; FCF positive amid AI race.
-2026-08-07T16:55:26,AMZN,-0.6,Trainium 2 chip replacement signals costly AI infrastructure depreciation risk.
