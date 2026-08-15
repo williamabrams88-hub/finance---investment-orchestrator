@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-15T16:26:32,AAPL,-0.3,US pressures Apple to avoid Chinese memory chips amid supply constraints.
+2026-08-15T16:26:32,NVDA,0.0,No NVDA-specific news; mixed market sentiment on tech peers.
+2026-08-15T16:26:32,TSLA,0.2,Analyst support and flying Roadster buzz offset structural concerns.
+2026-08-15T16:26:32,MSFT,0.1,Institutional investors cautiously trimming megacap tech positions including MSFT.
+2026-08-15T16:26:32,AMZN,0.2,Mixed signals: Bezos stock sale offset by Anthropic partnership upside.
 2026-08-15T12:51:23,AAPL,-0.3,Supply chain pressure and analyst downgrade offset tax court win.
 2026-08-15T12:51:23,NVDA,0.6,Jensen Huang's TAM expansion comments; Nvidia earnings doubling; chip demand strong.
 2026-08-15T12:51:23,TSLA,0.1,Analyst support and stock recovery offset structural concerns and competitive threats.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-09T13:05:55,TSLA,0.3,Terafab chip plant partnership offsets UK sales decline and competitive pressure.
 2026-08-09T13:05:55,MSFT,0.6,Strong AI and quantum computing positioning; market leadership in enterprise AI adoption.
 2026-08-09T13:05:55,AMZN,0.9,"Amazon earnings beat, stock surged 14%, added $25B market value."
-2026-08-08T20:22:04,AAPL,0.3,"iPhone revenue surge 22%, AI services growth offset by legal dispute with OpenAI."
-2026-08-08T20:22:04,NVDA,-0.3,AMD acquisition threatens NVDA's AI inference dominance position.
-2026-08-08T20:22:04,TSLA,0.3,Terafab chip plant partnership offsets UK sales decline and robotaxi competition concerns.
-2026-08-08T20:22:04,MSFT,0.6,AI capital spending thesis validates MSFT's massive infrastructure investments.
-2026-08-08T20:22:04,AMZN,0.7,"Q2 earnings beat, AWS surges 36.7%, AI capex investment signals growth."
