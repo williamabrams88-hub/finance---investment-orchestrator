@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-15T20:16:10,AAPL,-0.3,US pressure on Chinese chip sourcing amid supply constraints.
+2026-08-15T20:16:10,NVDA,0.7,"Nvidia $3B SB Energy investment, $100B OpenAI data center credit support."
+2026-08-15T20:16:10,TSLA,-0.3,Stock recovery masks structural problems; Waymo autonomous competition intensifies.
+2026-08-15T20:16:10,MSFT,0.1,Mixed signals: AI infrastructure opportunity offset by competitive and structural concerns.
+2026-08-15T20:16:10,AMZN,0.2,Anthropic partnership positive; offset by Bezos stock sales and AI concentration risks.
 2026-08-15T16:26:32,AAPL,-0.3,US pressures Apple to avoid Chinese memory chips amid supply constraints.
 2026-08-15T16:26:32,NVDA,0.0,No NVDA-specific news; mixed market sentiment on tech peers.
 2026-08-15T16:26:32,TSLA,0.2,Analyst support and flying Roadster buzz offset structural concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-09T16:37:24,TSLA,0.6,Tesla-SpaceX Terafab AI chip facility; UK sales decline offset by strategic manufacturing.
 2026-08-09T16:37:24,MSFT,0.3,Quantum computing exposure and AI leadership offset recent pullback.
 2026-08-09T16:37:24,AMZN,0.2,Amazon reaches $3T market cap; Bezos sells $4B in shares.
-2026-08-09T13:05:55,AAPL,0.3,AI services revenue growth and China market positioning initiatives.
-2026-08-09T13:05:55,NVDA,0.3,AI agents gaining power; market bulls in charge despite rare warning signals.
-2026-08-09T13:05:55,TSLA,0.3,Terafab chip plant partnership offsets UK sales decline and competitive pressure.
-2026-08-09T13:05:55,MSFT,0.6,Strong AI and quantum computing positioning; market leadership in enterprise AI adoption.
-2026-08-09T13:05:55,AMZN,0.9,"Amazon earnings beat, stock surged 14%, added $25B market value."
