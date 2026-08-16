@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-16T16:26:55,AAPL,-0.6,Jefferies downgrades to Underperform; cancels premium iPhone 20th anniversary model.
+2026-08-16T16:26:55,NVDA,0.2,Upcoming Q2 earnings report; low valuation ahead of results.
+2026-08-16T16:26:55,TSLA,-0.6,"Margin pressure, cash flow concerns, and autonomous tech skepticism weigh on outlook."
+2026-08-16T16:26:55,MSFT,0.6,Wall Street sees strong AI spending ROI driving cloud growth payoff.
+2026-08-16T16:26:55,AMZN,0.6,AWS AI demand lifts analyst price targets; strong cloud growth ROI.
 2026-08-16T12:52:26,AAPL,-0.65,Jefferies downgrades on cancelled premium iPhone; margin growth outlook cut.
 2026-08-16T12:52:26,NVDA,0.1,NVDA mentioned in broad market rally; no company-specific catalyst.
 2026-08-16T12:52:26,TSLA,-0.6,"Margins declining, cash flow negative, competition in autonomous tech."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-10T13:24:45,TSLA,0.2,FSD praise and stock recovery offset China competition and merger rumors.
 2026-08-10T13:24:45,MSFT,0.7,"Analyst upgrades, AI monetization validation, strong positioning in inference."
 2026-08-10T13:24:45,AMZN,0.2,Stock near all-time high; climate concerns offset earnings strength.
-2026-08-09T20:25:28,AAPL,-0.3,Testing Chinese memory chips amid geopolitical supply chain tensions.
-2026-08-09T20:25:28,NVDA,0.2,AI adoption accelerating across tech sector; mixed macro signals.
-2026-08-09T20:25:28,TSLA,-0.3,UK sales decline amid Chinese EV competition; SpaceX IPO speculation mixed.
-2026-08-09T20:25:28,MSFT,0.3,AI and quantum computing positioning; recent pullback from record gains.
-2026-08-09T20:25:28,AMZN,0.3,AI product launch and $3T market cap milestone offset by insider share sale.
