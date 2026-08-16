@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-16T12:52:26,AAPL,-0.65,Jefferies downgrades on cancelled premium iPhone; margin growth outlook cut.
+2026-08-16T12:52:26,NVDA,0.1,NVDA mentioned in broad market rally; no company-specific catalyst.
+2026-08-16T12:52:26,TSLA,-0.6,"Margins declining, cash flow negative, competition in autonomous tech."
+2026-08-16T12:52:26,MSFT,0.2,Microsoft benefits from AI arms race; hydrogen fuel cell collaboration explored.
+2026-08-16T12:52:26,AMZN,0.6,AWS AI demand lifts analyst price targets to $320-$365 range.
 2026-08-15T20:16:10,AAPL,-0.3,US pressure on Chinese chip sourcing amid supply constraints.
 2026-08-15T20:16:10,NVDA,0.7,"Nvidia $3B SB Energy investment, $100B OpenAI data center credit support."
 2026-08-15T20:16:10,TSLA,-0.3,Stock recovery masks structural problems; Waymo autonomous competition intensifies.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-09T20:25:28,TSLA,-0.3,UK sales decline amid Chinese EV competition; SpaceX IPO speculation mixed.
 2026-08-09T20:25:28,MSFT,0.3,AI and quantum computing positioning; recent pullback from record gains.
 2026-08-09T20:25:28,AMZN,0.3,AI product launch and $3T market cap milestone offset by insider share sale.
-2026-08-09T16:37:24,AAPL,0.3,Apple testing Chinese memory chips; supply chain diversification amid AI demand.
-2026-08-09T16:37:24,NVDA,0.1,Broad AI optimism offset by macro uncertainty and sector rotation.
-2026-08-09T16:37:24,TSLA,0.6,Tesla-SpaceX Terafab AI chip facility; UK sales decline offset by strategic manufacturing.
-2026-08-09T16:37:24,MSFT,0.3,Quantum computing exposure and AI leadership offset recent pullback.
-2026-08-09T16:37:24,AMZN,0.2,Amazon reaches $3T market cap; Bezos sells $4B in shares.
