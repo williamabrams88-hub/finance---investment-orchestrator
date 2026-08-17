@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-17T20:20:08,AAPL,0.2,AI strategy shift and analyst upgrade offset regulatory pressure on chip sourcing.
+2026-08-17T20:20:08,NVDA,0.8,"Nvidia backs $105B OpenAI data center, invests $1.5B in infrastructure."
+2026-08-17T20:20:08,TSLA,0.6,Cybercab launch this month; FSD outperforms Rivian in autonomous test.
+2026-08-17T20:20:08,MSFT,-0.3,Morgan Stanley credit concerns offset Xbox spinoff speculation and AI positioning.
+2026-08-17T20:20:08,AMZN,0.6,AWS chip business and strong AI investments drive upside potential.
 2026-08-17T16:29:33,AAPL,0.0,No AAPL-specific news; indirect mention in memory chip sourcing context.
 2026-08-17T16:29:33,NVDA,-0.6,Circular financing concerns and off-balance-sheet obligations balloon.
 2026-08-17T16:29:33,TSLA,0.3,Q1 earnings beat and record deliveries offset by negative free cash flow.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-11T16:58:26,TSLA,-0.6,Autopilot safety scrutiny and China sales collapse offset AI optimism.
 2026-08-11T16:58:26,MSFT,0.3,AI infrastructure investment momentum; capex sustainability concerns offset gains.
 2026-08-11T16:58:26,AMZN,0.3,AWS growth acceleration and AI demand backlog support post-earnings momentum.
-2026-08-11T13:21:28,AAPL,-0.6,Jefferies downgrade on iPhone yields; canceled glass model concerns.
-2026-08-11T13:21:28,NVDA,0.6,Major AI infrastructure deals and open model release signal strong demand.
-2026-08-11T13:21:28,TSLA,-0.6,"Autopilot safety scrutiny, recall, and Robotaxi scaling concerns."
-2026-08-11T13:21:28,MSFT,0.4,Analyst upgrade to $660 target; strong AI cloud positioning.
-2026-08-11T13:21:28,AMZN,0.6,Amazon ranked top cloud hyperscaler for AI infrastructure opportunities.
