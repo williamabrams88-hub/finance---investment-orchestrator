@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-17T12:56:59,AAPL,0.6,Analyst upgrade to Buy with $400 target; major iPhone redesign on track.
+2026-08-17T12:56:59,NVDA,0.2,Mixed signals: moderating OpenAI pledge offset by $1.5B SB Energy investment.
+2026-08-17T12:56:59,TSLA,0.2,EV market stabilization and AI/chip constraints offset profitability concerns.
+2026-08-17T12:56:59,MSFT,0.2,Heavy AI capex spending; Xbox spinoff speculation; mixed institutional positioning.
+2026-08-17T12:56:59,AMZN,-0.3,Consumer spending slowdown threatens retail; AI capex strains cash flow.
 2026-08-16T20:15:25,AAPL,-0.6,Jefferies downgrades on cancelled premium iPhone; multiple analyst downgrades.
 2026-08-16T20:15:25,NVDA,0.0,No NVDA-specific news; mixed tech sector sentiment across peers.
 2026-08-16T20:15:25,TSLA,-0.6,"Margin pressure, negative FCF, and governance concerns outweigh AI optimism."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-10T20:35:51,TSLA,0.1,Autopilot accident offset by Starlink integration and chip facility ambitions.
 2026-08-10T20:35:51,MSFT,0.6,JPMorgan backs AI payoff; disciplined datacenter spending supports cloud growth.
 2026-08-10T20:35:51,AMZN,0.6,AWS renewed growth and AI demand surge post-earnings breakout.
-2026-08-10T16:55:03,AAPL,-0.65,Jefferies downgrade on iPhone setbacks and rising memory costs.
-2026-08-10T16:55:03,NVDA,0.7,Wall Street partners on $500B AI infrastructure financing deal with Nvidia.
-2026-08-10T16:55:03,TSLA,-0.35,Autopilot accident spotlight offsets record deliveries and profitability concerns.
-2026-08-10T16:55:03,MSFT,0.3,Sovereign AI and healthcare leadership offset valuation concerns.
-2026-08-10T16:55:03,AMZN,0.6,"Q2 earnings beat, cloud momentum, approaching $3 trillion valuation."
