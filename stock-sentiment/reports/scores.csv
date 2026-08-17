@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-17T16:29:33,AAPL,0.0,No AAPL-specific news; indirect mention in memory chip sourcing context.
+2026-08-17T16:29:33,NVDA,-0.6,Circular financing concerns and off-balance-sheet obligations balloon.
+2026-08-17T16:29:33,TSLA,0.3,Q1 earnings beat and record deliveries offset by negative free cash flow.
+2026-08-17T16:29:33,MSFT,0.3,Azure revenue milestone and positive AI infrastructure positioning offset spinoff speculation.
+2026-08-17T16:29:33,AMZN,0.6,Morgan Stanley bullish on AWS path to $500B earnings potential.
 2026-08-17T12:56:59,AAPL,0.6,Analyst upgrade to Buy with $400 target; major iPhone redesign on track.
 2026-08-17T12:56:59,NVDA,0.2,Mixed signals: moderating OpenAI pledge offset by $1.5B SB Energy investment.
 2026-08-17T12:56:59,TSLA,0.2,EV market stabilization and AI/chip constraints offset profitability concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-11T13:21:28,TSLA,-0.6,"Autopilot safety scrutiny, recall, and Robotaxi scaling concerns."
 2026-08-11T13:21:28,MSFT,0.4,Analyst upgrade to $660 target; strong AI cloud positioning.
 2026-08-11T13:21:28,AMZN,0.6,Amazon ranked top cloud hyperscaler for AI infrastructure opportunities.
-2026-08-10T20:35:51,AAPL,-0.65,"Jefferies downgrade on iPhone yield concerns, pricing power pressure."
-2026-08-10T20:35:51,NVDA,0.6,"Memory chip shortage extends 2+ years, supporting NVDA demand outlook."
-2026-08-10T20:35:51,TSLA,0.1,Autopilot accident offset by Starlink integration and chip facility ambitions.
-2026-08-10T20:35:51,MSFT,0.6,JPMorgan backs AI payoff; disciplined datacenter spending supports cloud growth.
-2026-08-10T20:35:51,AMZN,0.6,AWS renewed growth and AI demand surge post-earnings breakout.
