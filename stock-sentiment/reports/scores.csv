@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-18T16:33:12,AAPL,-0.3,Trump admin pressure on China chip sourcing; EU fee compliance headwinds.
+2026-08-18T16:33:12,NVDA,-0.6,Chip sector selloff amid rising rates and AI valuation concerns.
+2026-08-18T16:33:12,TSLA,0.3,Cybercab launch and 500-truck Einride deal offset by competitive robotaxi pressure.
+2026-08-18T16:33:12,MSFT,0.6,Azure crosses $100B; AI infrastructure deals accelerate Microsoft growth trajectory.
+2026-08-18T16:33:12,AMZN,0.3,Alexa+ launch and AI spending momentum offset AWS competitive pressure.
 2026-08-18T12:59:03,AAPL,-0.35,"Supply chain constraints, valuation concerns, and short positioning pressure."
 2026-08-18T12:59:03,NVDA,0.0,No direct NVDA news; broader tech sentiment mixed on AI spending concerns.
 2026-08-18T12:59:03,TSLA,0.6,Major 500-truck Tesla Semi order from Einride; Cybercab testing underway.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-12T13:25:14,TSLA,-0.3,Model Y loses China lead; autonomy scaling doubts weigh sentiment.
 2026-08-12T13:25:14,MSFT,-0.2,Modest premarket dip amid chip sector rally; AI debt concerns persist.
 2026-08-12T13:25:14,AMZN,0.1,AI infrastructure investment opportunity offset by rising operational costs.
-2026-08-11T20:37:30,AAPL,-0.6,"Glass iPhone cancelled, exec departures, Jefferies downgrade amid margin concerns."
-2026-08-11T20:37:30,NVDA,0.3,"AI ecosystem strength; CoreWeave and Super Micro beat, validating NVDA chip demand."
-2026-08-11T20:37:30,TSLA,-0.35,Autopilot scrutiny and China sales collapse offset by Starlink opportunity.
-2026-08-11T20:37:30,MSFT,0.3,AI chip ambitions boost long-term positioning; analyst upgrade supports outlook.
-2026-08-11T20:37:30,AMZN,0.6,"Amazon earnings beat, cloud strength, AI positioning support rally."
