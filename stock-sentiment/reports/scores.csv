@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-18T20:16:53,AAPL,-0.3,Trump admin pressure on Chinese chip purchases; EU App Store fee concessions.
+2026-08-18T20:16:53,NVDA,0.3,Nvidia finances $105B OpenAI data center; chip sector weakness offsets.
+2026-08-18T20:16:53,TSLA,0.3,Cybercab launch and 500-truck Einride deal offset stock decline skepticism.
+2026-08-18T20:16:53,MSFT,0.6,Azure exceeds $100B revenue; 30M Copilot seats drive AI momentum.
+2026-08-18T20:16:53,AMZN,0.6,AI-powered Alexa+ launch and AWS trillion-dollar cloud opportunity.
 2026-08-18T16:33:12,AAPL,-0.3,Trump admin pressure on China chip sourcing; EU fee compliance headwinds.
 2026-08-18T16:33:12,NVDA,-0.6,Chip sector selloff amid rising rates and AI valuation concerns.
 2026-08-18T16:33:12,TSLA,0.3,Cybercab launch and 500-truck Einride deal offset by competitive robotaxi pressure.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-12T16:57:40,TSLA,0.1,Mixed signals: China recovery and energy growth offset profit concerns and valuation questions.
 2026-08-12T16:57:40,MSFT,0.3,Major AI infrastructure investments and enterprise cloud partnerships expanding.
 2026-08-12T16:57:40,AMZN,0.7,AWS fastest growth in 18 quarters; $220B AI capex investment signals confidence.
-2026-08-12T13:25:14,AAPL,-0.3,Memory costs pressuring margins despite strong demand.
-2026-08-12T13:25:14,NVDA,0.6,"Nvidia central to AI boom; CoreWeave partner revenue doubles, backlog surges."
-2026-08-12T13:25:14,TSLA,-0.3,Model Y loses China lead; autonomy scaling doubts weigh sentiment.
-2026-08-12T13:25:14,MSFT,-0.2,Modest premarket dip amid chip sector rally; AI debt concerns persist.
-2026-08-12T13:25:14,AMZN,0.1,AI infrastructure investment opportunity offset by rising operational costs.
