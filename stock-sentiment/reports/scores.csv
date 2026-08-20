@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-20T16:36:41,AAPL,0.6,Apple entering most important product cycle in years with new silicon and AI Siri.
+2026-08-20T16:36:41,NVDA,0.5,Blackwell Ultra and VR20 ramp boost H2 momentum outlook.
+2026-08-20T16:36:41,TSLA,0.3,Einride semi order and Texas solar factory signal growth diversification.
+2026-08-20T16:36:41,MSFT,0.6,Major Azure AI customer wins and strong AI infrastructure momentum.
+2026-08-20T16:36:41,AMZN,0.6,Prime Air expansion to 500 cities by 2026; AI e-commerce positioning strength.
 2026-08-20T13:01:56,AAPL,-0.3,EU regulatory pressure forces App Store fee and tracking policy changes.
 2026-08-20T13:01:56,NVDA,0.4,Wolfe Research names NVDA top pick; positive AI semiconductor outlook ahead of earnings.
 2026-08-20T13:01:56,TSLA,0.6,"Cybercab rollout nears with strong manufacturing confidence, FSD V15 advancement."
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-14T13:21:43,TSLA,0.3,Major Texas solar facility investment and satellite internet expansion plans.
 2026-08-14T13:21:43,MSFT,0.3,Analyst bullish on stock; AI monetization phase validates hyperscaler investments.
 2026-08-14T13:21:43,AMZN,0.0,Mixed signals: retail weakness offset by AI infrastructure spending.
-2026-08-13T20:36:34,AAPL,0.1,Norway fund increases AAPL position; Google AI competition intensifies.
-2026-08-13T20:36:34,NVDA,0.2,Market positioned for strong earnings; execution risk on guidance tone.
-2026-08-13T20:36:34,TSLA,-0.3,Stock down 26% in 2026; needs new products and marketing strategy.
-2026-08-13T20:36:34,MSFT,0.7,Ackman doubles down on Azure; J.P. Morgan raises 2027 price target.
-2026-08-13T20:36:34,AMZN,0.3,Ackman backs AWS growth acceleration; labor scrutiny offset gains.
