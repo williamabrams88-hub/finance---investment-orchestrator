@@ -1,4 +1,9 @@
 run_timestamp,ticker,score,summary
+2026-08-20T13:01:56,AAPL,-0.3,EU regulatory pressure forces App Store fee and tracking policy changes.
+2026-08-20T13:01:56,NVDA,0.4,Wolfe Research names NVDA top pick; positive AI semiconductor outlook ahead of earnings.
+2026-08-20T13:01:56,TSLA,0.6,"Cybercab rollout nears with strong manufacturing confidence, FSD V15 advancement."
+2026-08-20T13:01:56,MSFT,0.6,Meta becomes major Azure AI customer; software leadership in market rebound.
+2026-08-20T13:01:56,AMZN,0.6,Prime Air expansion to 500 cities by 2026; robotics facility investment.
 2026-08-19T20:20:23,AAPL,0.2,Strong iPhone sales offset AI spending concerns; stock recovery.
 2026-08-19T20:20:23,NVDA,0.4,BofA analyst sees 50% valuation discount; earnings report next week.
 2026-08-19T20:20:23,TSLA,0.6,Cybercab launch and robotaxi momentum offset valuation concerns.
@@ -94,8 +99,3 @@ run_timestamp,ticker,score,summary
 2026-08-13T20:36:34,TSLA,-0.3,Stock down 26% in 2026; needs new products and marketing strategy.
 2026-08-13T20:36:34,MSFT,0.7,Ackman doubles down on Azure; J.P. Morgan raises 2027 price target.
 2026-08-13T20:36:34,AMZN,0.3,Ackman backs AWS growth acceleration; labor scrutiny offset gains.
-2026-08-13T16:57:16,AAPL,0.6,"Record June quarter, AI publisher deals, strong earnings momentum."
-2026-08-13T16:57:16,NVDA,0.0,"Mixed sentiment: high expectations priced in, but sustainability questions remain."
-2026-08-13T16:57:16,TSLA,-0.3,Stock down 26% in 2026; needs new products and marketing strategy.
-2026-08-13T16:57:16,MSFT,0.6,Analyst bullish outlook; AI cloud infrastructure expansion accelerating.
-2026-08-13T16:57:16,AMZN,-0.3,Bezos $4B stock sale signals potential confidence concerns.
